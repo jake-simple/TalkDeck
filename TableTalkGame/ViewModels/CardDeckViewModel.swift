@@ -4,7 +4,7 @@ import Observation
 @Observable
 class CardDeckViewModel {
     var selectedPack: CardPack = .basic
-    var allCards: [Card] = CardData.allCards
+    var allCards: [Card] = CardData.cards(for: .basic)
     var currentDeck: [Card] = []
     var selectedCategory: CardCategory? = nil
     var currentIndex: Int = 0
@@ -31,26 +31,37 @@ class CardDeckViewModel {
     }
 
     init() {
-        shuffle()
+        buildGameDeck()
     }
 
     func selectPack(_ pack: CardPack) {
         selectedPack = pack
         allCards = CardData.cards(for: pack)
         selectedCategory = nil
-        shuffle()
+        buildGameDeck()
     }
 
     func selectCategory(_ category: CardCategory?) {
         selectedCategory = category
-        shuffle()
+        buildGameDeck()
     }
 
-    func shuffle() {
-        let filtered = selectedCategory.map { cat in
-            allCards.filter { $0.category == cat }
-        } ?? allCards
-        currentDeck = filtered.shuffled()
+    /// 240개 풀에서 카테고리별 배분에 맞춰 60장을 랜덤으로 뽑아 덱 구성
+    func buildGameDeck() {
+        if let category = selectedCategory {
+            // 특정 카테고리 선택 시 해당 카테고리 전체에서 셔플
+            let filtered = allCards.filter { $0.category == category }
+            currentDeck = filtered.shuffled()
+        } else {
+            // 전체: 카테고리별 배분에 맞춰 뽑기
+            var deck: [Card] = []
+            for category in CardCategory.allCases {
+                let pool = allCards.filter { $0.category == category }
+                let count = min(category.gameDrawCount, pool.count)
+                deck.append(contentsOf: pool.shuffled().prefix(count))
+            }
+            currentDeck = deck.shuffled()
+        }
         currentIndex = 0
     }
 

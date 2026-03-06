@@ -1,114 +1,241 @@
 import SwiftUI
 
 enum AppTheme: String, CaseIterable {
-    case classicWhite
-    case warmSunset
-    case deepOcean
-    case forestGreen
-    case lavenderDream
-    case midnightBlue
+    case minimal
+    case halloween
+    case christmas
+    case ocean
+    case space
+    case cherryBlossom
+    case retroGame
+    case autumn
+    case aurora
+    case circus
+    case desert
 
     var name: String {
         switch self {
-        case .classicWhite: "클래식 화이트"
-        case .warmSunset: "따뜻한 노을"
-        case .deepOcean: "깊은 바다"
-        case .forestGreen: "숲속 그린"
-        case .lavenderDream: "라벤더 드림"
-        case .midnightBlue: "미드나잇 블루"
+        case .minimal: "Minimal"
+        case .halloween: "Halloween"
+        case .christmas: "Christmas"
+        case .ocean: "Deep Ocean"
+        case .space: "Galaxy"
+        case .cherryBlossom: "Cherry Blossom"
+        case .retroGame: "Retro Arcade"
+        case .autumn: "Autumn Leaves"
+        case .aurora: "Aurora"
+        case .circus: "Carnival"
+        case .desert: "Desert Night"
         }
     }
 
-    var backgroundGradientColors: [Color] {
+    var themeEmoji: String {
         switch self {
-        case .classicWhite: [Color(red: 0.96, green: 0.95, blue: 0.93), Color(red: 0.92, green: 0.90, blue: 0.87)]
-        case .warmSunset: [Color(red: 0.98, green: 0.90, blue: 0.82), Color(red: 0.95, green: 0.80, blue: 0.70)]
-        case .deepOcean: [Color(red: 0.10, green: 0.15, blue: 0.30), Color(red: 0.05, green: 0.10, blue: 0.25)]
-        case .forestGreen: [Color(red: 0.85, green: 0.92, blue: 0.85), Color(red: 0.75, green: 0.88, blue: 0.78)]
-        case .lavenderDream: [Color(red: 0.92, green: 0.88, blue: 0.96), Color(red: 0.85, green: 0.80, blue: 0.93)]
-        case .midnightBlue: [Color(red: 0.08, green: 0.08, blue: 0.16), Color(red: 0.05, green: 0.05, blue: 0.12)]
-        }
-    }
-
-    var textColor: Color {
-        switch self {
-        case .classicWhite, .warmSunset, .forestGreen, .lavenderDream:
-            Color(red: 0.2, green: 0.2, blue: 0.2)
-        case .deepOcean, .midnightBlue:
-            Color(red: 0.9, green: 0.9, blue: 0.95)
-        }
-    }
-
-    var cardTextColor: Color {
-        switch self {
-        case .classicWhite, .warmSunset, .forestGreen, .lavenderDream:
-            Color(red: 0.2, green: 0.2, blue: 0.2)
-        case .deepOcean, .midnightBlue:
-            Color(red: 0.15, green: 0.15, blue: 0.2)
-        }
-    }
-
-    var accentColor: Color {
-        switch self {
-        case .classicWhite: Color(red: 0.4, green: 0.5, blue: 0.7)
-        case .warmSunset: Color(red: 0.85, green: 0.45, blue: 0.35)
-        case .deepOcean: Color(red: 0.3, green: 0.6, blue: 0.9)
-        case .forestGreen: Color(red: 0.2, green: 0.6, blue: 0.4)
-        case .lavenderDream: Color(red: 0.6, green: 0.4, blue: 0.8)
-        case .midnightBlue: Color(red: 0.5, green: 0.5, blue: 0.9)
-        }
-    }
-
-    var buttonColor: Color {
-        switch self {
-        case .classicWhite: Color(red: 0.94, green: 0.93, blue: 0.91)
-        case .warmSunset: Color(red: 0.96, green: 0.88, blue: 0.80)
-        case .deepOcean: Color(red: 0.15, green: 0.20, blue: 0.35)
-        case .forestGreen: Color(red: 0.82, green: 0.90, blue: 0.83)
-        case .lavenderDream: Color(red: 0.90, green: 0.86, blue: 0.94)
-        case .midnightBlue: Color(red: 0.12, green: 0.12, blue: 0.22)
-        }
-    }
-
-    var cardBackgroundColor: Color {
-        switch self {
-        case .classicWhite: .white
-        case .warmSunset: Color(red: 1.0, green: 0.97, blue: 0.94)
-        case .deepOcean: Color(red: 0.92, green: 0.94, blue: 0.98)
-        case .forestGreen: Color(red: 0.96, green: 0.98, blue: 0.96)
-        case .lavenderDream: Color(red: 0.98, green: 0.96, blue: 1.0)
-        case .midnightBlue: Color(red: 0.94, green: 0.94, blue: 0.98)
-        }
-    }
-
-    var cardShadowColor: Color {
-        switch self {
-        case .classicWhite, .warmSunset, .forestGreen, .lavenderDream:
-            Color.black.opacity(0.1)
-        case .deepOcean, .midnightBlue:
-            Color.black.opacity(0.3)
-        }
-    }
-
-    var fontDesign: Font.Design {
-        switch self {
-        case .classicWhite: .rounded
-        case .warmSunset: .rounded
-        case .deepOcean: .default
-        case .forestGreen: .rounded
-        case .lavenderDream: .serif
-        case .midnightBlue: .monospaced
+        case .minimal: "⬜"
+        case .halloween: "🎃"
+        case .christmas: "🎄"
+        case .ocean: "🌊"
+        case .space: "🚀"
+        case .cherryBlossom: "🌸"
+        case .retroGame: "🕹️"
+        case .autumn: "🍂"
+        case .aurora: "🌌"
+        case .circus: "🎪"
+        case .desert: "🏜️"
         }
     }
 
     var themeIconName: String {
         switch self {
-        case .classicWhite: "sun.max.fill"
-        case .warmSunset: "sunset.fill"
-        case .deepOcean: "water.waves"
-        case .forestGreen: "leaf.fill"
-        case .lavenderDream: "sparkles"
-        case .midnightBlue: "moon.stars.fill"
+        case .minimal: "square.on.square"
+        case .halloween: "moon.fill"
+        case .christmas: "gift.fill"
+        case .ocean: "water.waves"
+        case .space: "sparkles"
+        case .cherryBlossom: "leaf.fill"
+        case .retroGame: "gamecontroller.fill"
+        case .autumn: "wind"
+        case .aurora: "moonphase.waxing.gibbous"
+        case .circus: "star.circle.fill"
+        case .desert: "sun.max.fill"
+        }
+    }
+
+    // MARK: - Card
+
+    var cardCornerRadius: CGFloat {
+        switch self {
+        case .minimal: 16
+        case .halloween: 16
+        case .christmas: 14
+        case .ocean: 20
+        case .space: 12
+        case .cherryBlossom: 28
+        case .retroGame: 4
+        case .autumn: 18
+        case .aurora: 24
+        case .circus: 18
+        case .desert: 14
+        }
+    }
+
+    // MARK: - Colors
+
+    var backgroundGradientColors: [Color] {
+        switch self {
+        case .minimal:
+            [Color(red: 0.96, green: 0.96, blue: 0.97), Color(red: 0.92, green: 0.92, blue: 0.94)]
+        case .halloween:
+            [Color(red: 0.12, green: 0.05, blue: 0.18), Color(red: 0.08, green: 0.02, blue: 0.12)]
+        case .christmas:
+            [Color(red: 0.08, green: 0.18, blue: 0.10), Color(red: 0.05, green: 0.12, blue: 0.06)]
+        case .ocean:
+            [Color(red: 0.02, green: 0.12, blue: 0.28), Color(red: 0.01, green: 0.06, blue: 0.18)]
+        case .space:
+            [Color(red: 0.04, green: 0.02, blue: 0.12), Color(red: 0.02, green: 0.01, blue: 0.06)]
+        case .cherryBlossom:
+            [Color(red: 1.0, green: 0.94, blue: 0.96), Color(red: 0.98, green: 0.88, blue: 0.92)]
+        case .retroGame:
+            [Color(red: 0.06, green: 0.06, blue: 0.14), Color(red: 0.03, green: 0.03, blue: 0.08)]
+        case .autumn:
+            [Color(red: 0.95, green: 0.88, blue: 0.78), Color(red: 0.88, green: 0.78, blue: 0.65)]
+        case .aurora:
+            [Color(red: 0.04, green: 0.06, blue: 0.14), Color(red: 0.02, green: 0.03, blue: 0.08)]
+        case .circus:
+            [Color(red: 0.95, green: 0.92, blue: 0.88), Color(red: 0.90, green: 0.85, blue: 0.80)]
+        case .desert:
+            [Color(red: 0.14, green: 0.10, blue: 0.22), Color(red: 0.08, green: 0.06, blue: 0.14)]
+        }
+    }
+
+    var isDarkTheme: Bool {
+        switch self {
+        case .minimal, .cherryBlossom, .autumn, .circus: false
+        default: true
+        }
+    }
+
+    var textColor: Color {
+        isDarkTheme
+            ? Color(red: 0.92, green: 0.92, blue: 0.96)
+            : Color(red: 0.18, green: 0.18, blue: 0.22)
+    }
+
+    var cardTextColor: Color {
+        switch self {
+        case .minimal:
+            Color(red: 0.20, green: 0.20, blue: 0.25)
+        case .halloween:
+            Color(red: 0.95, green: 0.92, blue: 0.85)
+        case .christmas:
+            Color(red: 0.15, green: 0.22, blue: 0.15)
+        case .ocean:
+            Color(red: 0.12, green: 0.20, blue: 0.35)
+        case .space:
+            Color(red: 0.90, green: 0.88, blue: 0.98)
+        case .cherryBlossom:
+            Color(red: 0.35, green: 0.18, blue: 0.25)
+        case .retroGame:
+            Color(red: 0.10, green: 0.95, blue: 0.40)
+        case .autumn:
+            Color(red: 0.30, green: 0.18, blue: 0.08)
+        case .aurora:
+            Color(red: 0.88, green: 0.92, blue: 0.98)
+        case .circus:
+            Color(red: 0.20, green: 0.10, blue: 0.05)
+        case .desert:
+            Color(red: 0.92, green: 0.85, blue: 0.70)
+        }
+    }
+
+    var accentColor: Color {
+        switch self {
+        case .minimal: Color(red: 0.30, green: 0.30, blue: 0.35)
+        case .halloween: Color(red: 0.95, green: 0.55, blue: 0.10)
+        case .christmas: Color(red: 0.85, green: 0.15, blue: 0.15)
+        case .ocean: Color(red: 0.10, green: 0.80, blue: 0.85)
+        case .space: Color(red: 0.55, green: 0.35, blue: 0.95)
+        case .cherryBlossom: Color(red: 0.92, green: 0.45, blue: 0.60)
+        case .retroGame: Color(red: 0.10, green: 0.95, blue: 0.40)
+        case .autumn: Color(red: 0.85, green: 0.45, blue: 0.15)
+        case .aurora: Color(red: 0.20, green: 0.90, blue: 0.60)
+        case .circus: Color(red: 0.90, green: 0.20, blue: 0.30)
+        case .desert: Color(red: 0.90, green: 0.75, blue: 0.35)
+        }
+    }
+
+    var buttonColor: Color {
+        switch self {
+        case .minimal: Color(red: 0.92, green: 0.92, blue: 0.94)
+        case .halloween: Color(red: 0.20, green: 0.10, blue: 0.28)
+        case .christmas: Color(red: 0.12, green: 0.25, blue: 0.15)
+        case .ocean: Color(red: 0.06, green: 0.18, blue: 0.35)
+        case .space: Color(red: 0.10, green: 0.06, blue: 0.22)
+        case .cherryBlossom: Color(red: 1.0, green: 0.90, blue: 0.94)
+        case .retroGame: Color(red: 0.10, green: 0.10, blue: 0.20)
+        case .autumn: Color(red: 0.90, green: 0.82, blue: 0.70)
+        case .aurora: Color(red: 0.08, green: 0.12, blue: 0.22)
+        case .circus: Color(red: 0.95, green: 0.88, blue: 0.82)
+        case .desert: Color(red: 0.20, green: 0.15, blue: 0.30)
+        }
+    }
+
+    var cardBackgroundColor: Color {
+        switch self {
+        case .minimal:
+            Color.white
+        case .halloween:
+            Color(red: 0.15, green: 0.08, blue: 0.22)
+        case .christmas:
+            Color(red: 0.96, green: 0.94, blue: 0.90)
+        case .ocean:
+            Color(red: 0.90, green: 0.96, blue: 1.0)
+        case .space:
+            Color(red: 0.10, green: 0.06, blue: 0.20)
+        case .cherryBlossom:
+            Color(red: 1.0, green: 0.97, blue: 0.98)
+        case .retroGame:
+            Color(red: 0.05, green: 0.05, blue: 0.10)
+        case .autumn:
+            Color(red: 1.0, green: 0.97, blue: 0.92)
+        case .aurora:
+            Color(red: 0.08, green: 0.10, blue: 0.20)
+        case .circus:
+            Color(red: 1.0, green: 0.98, blue: 0.95)
+        case .desert:
+            Color(red: 0.12, green: 0.10, blue: 0.20)
+        }
+    }
+
+    var cardShadowColor: Color {
+        switch self {
+        case .minimal: Color.black.opacity(0.08)
+        case .halloween: Color(red: 0.95, green: 0.55, blue: 0.10).opacity(0.3)
+        case .christmas: Color.red.opacity(0.15)
+        case .ocean: Color(red: 0.0, green: 0.5, blue: 0.8).opacity(0.3)
+        case .space: Color(red: 0.4, green: 0.2, blue: 0.9).opacity(0.4)
+        case .cherryBlossom: Color(red: 1.0, green: 0.5, blue: 0.7).opacity(0.2)
+        case .retroGame: Color(red: 0.1, green: 0.95, blue: 0.4).opacity(0.4)
+        case .autumn: Color(red: 0.6, green: 0.3, blue: 0.1).opacity(0.15)
+        case .aurora: Color(red: 0.1, green: 0.8, blue: 0.5).opacity(0.35)
+        case .circus: Color.red.opacity(0.15)
+        case .desert: Color(red: 0.9, green: 0.7, blue: 0.3).opacity(0.3)
+        }
+    }
+
+    var fontDesign: Font.Design {
+        switch self {
+        case .minimal: .default
+        case .halloween: .serif
+        case .christmas: .rounded
+        case .ocean: .rounded
+        case .space: .monospaced
+        case .cherryBlossom: .serif
+        case .retroGame: .monospaced
+        case .autumn: .serif
+        case .aurora: .default
+        case .circus: .rounded
+        case .desert: .default
         }
     }
 }

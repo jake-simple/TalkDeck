@@ -2,7 +2,7 @@ import SwiftUI
 
 struct CardDeckView: View {
     @State private var viewModel = CardDeckViewModel()
-    @AppStorage("selectedTheme") private var themeRawValue: String = AppTheme.classicWhite.rawValue
+    @AppStorage("selectedTheme") private var themeRawValue: String = AppTheme.halloween.rawValue
     @State private var showThemePicker = false
     @State private var showPackPicker = false
     @State private var dragOffset: CGSize = .zero
@@ -14,7 +14,7 @@ struct CardDeckView: View {
     @State private var shuffleRotations: [Double] = []
 
     private var theme: AppTheme {
-        AppTheme(rawValue: themeRawValue) ?? .classicWhite
+        AppTheme(rawValue: themeRawValue) ?? .halloween
     }
 
     var body: some View {
@@ -28,9 +28,8 @@ struct CardDeckView: View {
             .ignoresSafeArea()
             .animation(.easeInOut(duration: 0.5), value: themeRawValue)
 
-            // Floating decorations
-            FloatingDecorationsView(theme: theme)
-                .ignoresSafeArea()
+            // Canvas animated background
+            AnimatedBackgroundView(theme: theme)
                 .animation(.easeInOut(duration: 0.5), value: themeRawValue)
 
             VStack(spacing: 0) {
@@ -161,30 +160,19 @@ struct CardDeckView: View {
 
             // Pack picker overlay
             if showPackPicker {
-                Color.black.opacity(0.3)
-                    .ignoresSafeArea()
-                    .onTapGesture {
-                        withAnimation(.spring(response: 0.3, dampingFraction: 0.8)) {
-                            showPackPicker = false
-                        }
+                PackPickerView(
+                    selectedPack: Binding(
+                        get: { viewModel.selectedPack },
+                        set: { _ in }
+                    ),
+                    isPresented: $showPackPicker,
+                    theme: theme
+                ) { pack in
+                    withAnimation(.spring(response: 0.4, dampingFraction: 0.7)) {
+                        viewModel.selectPack(pack)
                     }
-
-                VStack {
-                    Spacer()
-                    PackPickerView(
-                        selectedPack: Binding(
-                            get: { viewModel.selectedPack },
-                            set: { _ in }
-                        ),
-                        isPresented: $showPackPicker,
-                        theme: theme
-                    ) { pack in
-                        withAnimation(.spring(response: 0.4, dampingFraction: 0.7)) {
-                            viewModel.selectPack(pack)
-                        }
-                    }
-                    Spacer()
                 }
+                .transition(.opacity)
             }
 
             // Theme picker overlay
@@ -342,7 +330,7 @@ struct CardDeckView: View {
             } label: {
                 Text("다시 섞기")
                     .font(.system(.headline, design: theme.fontDesign))
-                    .foregroundStyle(theme == .classicWhite ? .white : theme.cardTextColor)
+                    .foregroundStyle(theme == .halloween ? .white : theme.cardTextColor)
                     .padding(.horizontal, 32)
                     .padding(.vertical, 14)
                     .background(
@@ -380,7 +368,7 @@ struct CardDeckView: View {
     private func performShuffle() {
         HapticManager.shuffle()
         withAnimation(.spring(response: 0.4, dampingFraction: 0.7)) {
-            viewModel.shuffle()
+            viewModel.buildGameDeck()
         }
     }
 }
