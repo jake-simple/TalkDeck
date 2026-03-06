@@ -12,6 +12,11 @@ enum CardData {
         case .drinking: drinkingCards
         case .travel: travelCards
         case .icebreaking: icebreakingCards
+        case .lateNight: lateNightCards
+        case .wouldYouRather: wouldYouRatherCards
+        case .newYear: newYearCards
+        case .hotTakes: hotTakesCards
+        case .neverHaveIEver: neverHaveIEverCards
         }
     }
 

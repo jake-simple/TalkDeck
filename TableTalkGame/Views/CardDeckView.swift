@@ -35,10 +35,6 @@ struct CardDeckView: View {
             VStack(spacing: 0) {
                 // Header
                 HStack {
-                    Text("TableTalkGame")
-                        .font(.system(.title2, design: theme.fontDesign, weight: .bold))
-                        .foregroundStyle(theme.textColor)
-
                     Spacer()
 
                     // Pack picker button
@@ -71,33 +67,6 @@ struct CardDeckView: View {
                     .padding(.leading, 12)
                 }
                 .padding(.horizontal, 20)
-                .padding(.top, 8)
-
-                // Category menu
-                Menu {
-                    Button {
-                        withAnimation { viewModel.selectCategory(nil) }
-                    } label: {
-                        Label("전체", systemImage: viewModel.selectedCategory == nil ? "checkmark" : "")
-                    }
-                    ForEach(CardCategory.allCases, id: \.self) { category in
-                        Button {
-                            withAnimation { viewModel.selectCategory(category) }
-                        } label: {
-                            Label(category.name,
-                                  systemImage: viewModel.selectedCategory == category ? "checkmark" : "")
-                        }
-                    }
-                } label: {
-                    HStack(spacing: 4) {
-                        Text(viewModel.selectedCategory?.name ?? "전체")
-                            .font(.subheadline)
-                            .fontWeight(.medium)
-                        Image(systemName: "chevron.down")
-                            .font(.caption)
-                    }
-                    .foregroundStyle(theme.textColor.opacity(0.6))
-                }
                 .padding(.top, 8)
 
                 Spacer()

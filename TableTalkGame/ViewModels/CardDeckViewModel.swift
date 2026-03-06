@@ -46,16 +46,15 @@ class CardDeckViewModel {
         buildGameDeck()
     }
 
-    /// 240개 풀에서 카테고리별 배분에 맞춰 60장을 랜덤으로 뽑아 덱 구성
     func buildGameDeck() {
         if let category = selectedCategory {
             // 특정 카테고리 선택 시 해당 카테고리 전체에서 셔플
             let filtered = allCards.filter { $0.category == category }
             currentDeck = filtered.shuffled()
         } else {
-            // 전체: 카테고리별 배분에 맞춰 뽑기
+            // 팩의 카테고리별 배분에 맞춰 뽑기
             var deck: [Card] = []
-            for category in CardCategory.allCases {
+            for category in selectedPack.categories {
                 let pool = allCards.filter { $0.category == category }
                 let count = min(category.gameDrawCount, pool.count)
                 deck.append(contentsOf: pool.shuffled().prefix(count))

@@ -12,6 +12,11 @@ enum CardPack: String, CaseIterable, Identifiable {
     case drinking
     case travel
     case icebreaking
+    case lateNight
+    case wouldYouRather
+    case newYear
+    case hotTakes
+    case neverHaveIEver
 
     var id: String { rawValue }
 
@@ -28,6 +33,11 @@ enum CardPack: String, CaseIterable, Identifiable {
         case .drinking: "술자리"
         case .travel: "여행 중"
         case .icebreaking: "아이스브레이킹"
+        case .lateNight: "심야 토크"
+        case .wouldYouRather: "밸런스 게임"
+        case .newYear: "연말연시"
+        case .hotTakes: "논쟁 토크"
+        case .neverHaveIEver: "나는 한 번도"
         }
     }
 
@@ -44,6 +54,11 @@ enum CardPack: String, CaseIterable, Identifiable {
         case .drinking: "wineglass.fill"
         case .travel: "airplane"
         case .icebreaking: "hand.wave.fill"
+        case .lateNight: "moon.stars.fill"
+        case .wouldYouRather: "arrow.left.arrow.right.circle.fill"
+        case .newYear: "fireworks"
+        case .hotTakes: "flame.fill"
+        case .neverHaveIEver: "hand.raised.fill"
         }
     }
 
@@ -60,6 +75,11 @@ enum CardPack: String, CaseIterable, Identifiable {
         case .drinking: "분위기 띄우는 재미있는 질문"
         case .travel: "여행길에 나누는 대화"
         case .icebreaking: "처음 만난 그룹을 위한 대화"
+        case .lateNight: "깊은 밤, 감성적인 대화"
+        case .wouldYouRather: "이거 vs 저거, 선택의 연속"
+        case .newYear: "한 해를 돌아보고 새해를 맞이하며"
+        case .hotTakes: "가벼운 논쟁으로 시작하는 대화"
+        case .neverHaveIEver: "나는 한 번도... 해본 적 없다!"
         }
     }
 
@@ -76,6 +96,49 @@ enum CardPack: String, CaseIterable, Identifiable {
         case .drinking: Color(red: 0.8, green: 0.2, blue: 0.5)
         case .travel: Color(red: 0.2, green: 0.7, blue: 0.7)
         case .icebreaking: Color(red: 0.9, green: 0.7, blue: 0.2)
+        case .lateNight: Color(red: 0.35, green: 0.35, blue: 0.75)
+        case .wouldYouRather: Color(red: 0.9, green: 0.5, blue: 0.2)
+        case .newYear: Color(red: 0.85, green: 0.65, blue: 0.15)
+        case .hotTakes: Color(red: 0.9, green: 0.3, blue: 0.2)
+        case .neverHaveIEver: Color(red: 0.4, green: 0.65, blue: 0.35)
+        }
+    }
+
+    /// 이 팩에서 사용하는 카테고리 목록 (덱 구성에 사용)
+    var categories: [CardCategory] {
+        switch self {
+        case .basic:
+            [.vibe, .whatIf, .story, .deep]
+        case .friends:
+            [.recentLife, .memories, .innerThoughts, .friendship]
+        case .couple:
+            [.excitement, .taste, .memories, .future]
+        case .blindDate:
+            [.firstImpression, .taste, .lifestyle, .values]
+        case .married:
+            [.dailyLife, .memories, .honestly, .ahead]
+        case .babyParents:
+            [.parenting, .coupleLife, .hardships, .gratitude]
+        case .family:
+            [.childhood, .recentLife, .familyStory, .generationGap]
+        case .coworkers:
+            [.workLife, .workStyle, .dreamsAndGoals, .afterWork]
+        case .drinking:
+            [.light, .drinkingGame, .drunkTalk, .life]
+        case .travel:
+            [.travelStyle, .memories, .thisNow, .bucketList]
+        case .icebreaking:
+            [.firstMeeting, .taste, .funQuestion, .unexpectedSide]
+        case .lateNight:
+            [.emotional, .philosophy, .confession, .dream]
+        case .wouldYouRather:
+            [.lightChoice, .hardChoice, .wildChoice, .seriousChoice]
+        case .newYear:
+            [.yearReview, .gratitude, .newYearResolution, .wish]
+        case .hotTakes:
+            [.dailyLife, .culture, .relationship, .life]
+        case .neverHaveIEver:
+            [.dailyLife, .adventure, .relationship, .secret]
         }
     }
 }
