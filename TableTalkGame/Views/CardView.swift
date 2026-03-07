@@ -4,6 +4,8 @@ struct CardView: View {
     let card: Card
     let theme: AppTheme
 
+    private let questionFontSize: CGFloat = 28
+
     var body: some View {
         ZStack {
             // Card background with pattern
@@ -13,7 +15,8 @@ struct CardView: View {
                     CardBackgroundPattern(theme: theme)
                         .clipShape(RoundedRectangle(cornerRadius: theme.cardCornerRadius))
                 )
-                .shadow(color: theme.cardShadowColor, radius: 14, y: 8)
+                .shadow(color: theme.cardShadowColor, radius: 12, x: 0, y: 0)
+                .shadow(color: theme.cardShadowColor.opacity(0.4), radius: 30, x: 0, y: 0)
 
             // Themed border
             ThemedCardBorder(theme: theme)
@@ -52,6 +55,10 @@ struct CardView: View {
             playingCardLayout
         case .desert:
             egyptianLayout
+        case .candy:
+            candyLayout
+        case .zenGarden:
+            zenGardenLayout
         }
     }
 
@@ -75,7 +82,7 @@ struct CardView: View {
             Spacer()
 
             Text(card.question)
-                .font(.system(.title3, design: .default, weight: .medium))
+                .font(.system(size: questionFontSize, weight: .semibold, design: .default))
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
@@ -118,7 +125,7 @@ struct CardView: View {
 
             // Question text
             Text(card.question)
-                .font(.system(.title3, design: theme.fontDesign, weight: .semibold))
+                .font(.system(size: questionFontSize, weight: .semibold, design: theme.fontDesign))
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
@@ -193,7 +200,7 @@ struct CardView: View {
             Spacer()
 
             Text(card.question)
-                .font(.system(.title3, design: .serif, weight: .semibold))
+                .font(.system(size: questionFontSize, weight: .semibold, design: .serif))
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
@@ -262,7 +269,7 @@ struct CardView: View {
             Spacer()
 
             Text(card.question)
-                .font(.system(.title3, design: .rounded, weight: .semibold))
+                .font(.system(size: questionFontSize, weight: .semibold, design: .rounded))
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
@@ -323,7 +330,7 @@ struct CardView: View {
             Spacer()
 
             Text(card.question)
-                .font(.system(.title3, design: .monospaced, weight: .medium))
+                .font(.system(size: questionFontSize, weight: .semibold, design: .monospaced))
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
@@ -368,7 +375,7 @@ struct CardView: View {
             Spacer()
 
             Text(card.question)
-                .font(.system(.title3, design: .serif, weight: .semibold))
+                .font(.system(size: questionFontSize, weight: .semibold, design: .serif))
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
@@ -432,7 +439,7 @@ struct CardView: View {
             // Question with "dialog box" feel
             VStack(spacing: 4) {
                 Text("▶ " + card.question)
-                    .font(.system(.body, design: .monospaced, weight: .medium))
+                    .font(.system(size: questionFontSize - 4, weight: .semibold, design: .monospaced))
                     .foregroundStyle(theme.cardTextColor)
                     .multilineTextAlignment(.leading)
                     .lineSpacing(4)
@@ -470,7 +477,7 @@ struct CardView: View {
 
             // Central question with mystical frame feel
             Text(card.question)
-                .font(.system(.title3, design: .serif, weight: .semibold))
+                .font(.system(size: questionFontSize, weight: .semibold, design: .serif))
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(8)
@@ -520,7 +527,7 @@ struct CardView: View {
             Spacer()
 
             Text(card.question)
-                .font(.system(.title3, design: .default, weight: .semibold))
+                .font(.system(size: questionFontSize, weight: .semibold, design: .default))
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
@@ -561,7 +568,7 @@ struct CardView: View {
             Spacer()
 
             Text(card.question)
-                .font(.system(.title3, design: .rounded, weight: .semibold))
+                .font(.system(size: questionFontSize, weight: .semibold, design: .rounded))
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
@@ -610,7 +617,7 @@ struct CardView: View {
             Spacer()
 
             Text(card.question)
-                .font(.system(.title3, design: .default, weight: .semibold))
+                .font(.system(size: questionFontSize, weight: .semibold, design: .default))
                 .foregroundStyle(theme.cardTextColor)
                 .multilineTextAlignment(.center)
                 .lineSpacing(6)
@@ -636,7 +643,111 @@ struct CardView: View {
         }
     }
 
+    // MARK: - Candy Style
+    private var candyLayout: some View {
+        VStack(spacing: 0) {
+            // Sprinkle dots row
+            HStack(spacing: 8) {
+                ForEach(0..<7, id: \.self) { i in
+                    Circle()
+                        .fill([
+                            Color(red: 0.95, green: 0.35, blue: 0.55),
+                            Color(red: 0.55, green: 0.85, blue: 0.75),
+                            Color(red: 0.98, green: 0.80, blue: 0.25),
+                            Color(red: 0.65, green: 0.50, blue: 0.90),
+                            Color(red: 0.95, green: 0.55, blue: 0.35),
+                            Color(red: 0.50, green: 0.80, blue: 0.95),
+                            Color(red: 0.95, green: 0.35, blue: 0.55),
+                        ][i].opacity(0.5))
+                        .frame(width: CGFloat(4 + (i % 3) * 2), height: CGFloat(4 + (i % 3) * 2))
+                }
+            }
+            .padding(.top, 20)
+
+            Spacer()
+
+            Text(card.question)
+                .font(.system(size: questionFontSize, weight: .semibold, design: .rounded))
+                .foregroundStyle(theme.cardTextColor)
+                .multilineTextAlignment(.center)
+                .lineSpacing(6)
+                .padding(.horizontal, 28)
+
+            Spacer()
+
+            // Bottom ribbon
+            HStack(spacing: 4) {
+                Image(systemName: "heart.fill")
+                    .font(.system(size: 8))
+                    .foregroundStyle(Color(red: 0.95, green: 0.35, blue: 0.55).opacity(0.4))
+                Rectangle()
+                    .fill(Color(red: 0.95, green: 0.35, blue: 0.55).opacity(0.15))
+                    .frame(height: 1)
+                Image(systemName: "heart.fill")
+                    .font(.system(size: 8))
+                    .foregroundStyle(Color(red: 0.95, green: 0.35, blue: 0.55).opacity(0.4))
+            }
+            .padding(.horizontal, 24)
+            .padding(.bottom, 20)
+        }
+    }
+
+    // MARK: - Zen Garden Style
+    private var zenGardenLayout: some View {
+        VStack(spacing: 0) {
+            // Enso circle (top)
+            Circle()
+                .stroke(Color(red: 0.35, green: 0.38, blue: 0.32).opacity(0.2), lineWidth: 1.5)
+                .frame(width: 24, height: 24)
+                .padding(.top, 24)
+
+            Spacer()
+
+            Text(card.question)
+                .font(.system(size: questionFontSize, weight: .semibold, design: .serif))
+                .foregroundStyle(theme.cardTextColor)
+                .multilineTextAlignment(.center)
+                .lineSpacing(8)
+                .padding(.horizontal, 30)
+
+            Spacer()
+
+            // Zen wave lines (bottom)
+            VStack(spacing: 4) {
+                ForEach(0..<3, id: \.self) { _ in
+                    ZenWaveLine()
+                        .stroke(Color(red: 0.55, green: 0.58, blue: 0.50).opacity(0.15), lineWidth: 0.8)
+                        .frame(height: 6)
+                }
+            }
+            .padding(.horizontal, 30)
+            .padding(.bottom, 22)
+        }
+    }
+
     // MARK: - Helpers
+
+    private struct ZenWaveLine: Shape {
+        func path(in rect: CGRect) -> Path {
+            var p = Path()
+            let waveCount = 6
+            let stepX = rect.width / CGFloat(waveCount)
+            p.move(to: CGPoint(x: 0, y: rect.midY))
+            for i in 0..<waveCount {
+                let x1 = stepX * CGFloat(i) + stepX * 0.5
+                let x2 = stepX * CGFloat(i + 1)
+                p.addQuadCurve(
+                    to: CGPoint(x: x1, y: rect.midY - rect.height * 0.4),
+                    control: CGPoint(x: stepX * CGFloat(i) + stepX * 0.25, y: rect.midY - rect.height * 0.4)
+                )
+                p.addQuadCurve(
+                    to: CGPoint(x: x2, y: rect.midY),
+                    control: CGPoint(x: x1 + stepX * 0.25, y: rect.midY + rect.height * 0.4)
+                )
+            }
+            return p
+        }
+    }
 
     private func romanNumeral(for n: Int) -> String {
         let values = [(10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")]

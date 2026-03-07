@@ -33,6 +33,10 @@ struct CardDecorationOverlay: View {
                 circusFrame(w: w, h: h)
             case .desert:
                 desertFrame(w: w, h: h)
+            case .candy:
+                candyFrame(w: w, h: h)
+            case .zenGarden:
+                zenGardenFrame(w: w, h: h)
             }
         }
         .allowsHitTesting(false)
@@ -702,6 +706,144 @@ struct CardDecorationOverlay: View {
                     legPath.addLine(to: CGPoint(x: lx + CGFloat(side) * 8, y: ly - 2))
                     ctx.stroke(legPath, with: .color(gold.opacity(0.15)), lineWidth: 0.5)
                 }
+            }
+        }
+        .frame(width: w, height: h)
+    }
+
+    // MARK: - Candy Frame
+
+    @ViewBuilder
+    private func candyFrame(w: CGFloat, h: CGFloat) -> some View {
+        Canvas { ctx, size in
+            let pink = Color(red: 0.95, green: 0.35, blue: 0.55)
+            let mint = Color(red: 0.55, green: 0.85, blue: 0.75)
+            let yellow = Color(red: 0.98, green: 0.80, blue: 0.25)
+
+            // Rounded outer frame
+            let outer: CGFloat = 10
+            ctx.stroke(Path(roundedRect: CGRect(x: outer, y: outer, width: size.width - outer * 2, height: size.height - outer * 2), cornerRadius: 24),
+                      with: .color(pink.opacity(0.35)), lineWidth: 3)
+
+            // Inner dotted frame
+            let inner: CGFloat = 18
+            let innerRect = CGRect(x: inner, y: inner, width: size.width - inner * 2, height: size.height - inner * 2)
+            ctx.stroke(Path(roundedRect: innerRect, cornerRadius: 20),
+                      with: .color(mint.opacity(0.3)), style: StrokeStyle(lineWidth: 1.5, dash: [4, 4]))
+
+            // Corner lollipop circles
+            let corners: [(CGFloat, CGFloat)] = [
+                (outer + 6, outer + 6),
+                (size.width - outer - 6, outer + 6),
+                (outer + 6, size.height - outer - 6),
+                (size.width - outer - 6, size.height - outer - 6),
+            ]
+            let colors = [pink, mint, yellow, pink]
+            for (i, (x, y)) in corners.enumerated() {
+                let circle = Path(ellipseIn: CGRect(x: x - 5, y: y - 5, width: 10, height: 10))
+                ctx.fill(circle, with: .color(colors[i].opacity(0.3)))
+                let innerCircle = Path(ellipseIn: CGRect(x: x - 2.5, y: y - 2.5, width: 5, height: 5))
+                ctx.fill(innerCircle, with: .color(colors[i].opacity(0.2)))
+            }
+
+            // Scattered sprinkles in border area
+            let sprinklePositions: [(CGFloat, CGFloat, CGFloat, Color)] = [
+                (size.width * 0.3, outer + 4, 30, mint),
+                (size.width * 0.6, outer + 5, -20, yellow),
+                (size.width * 0.8, outer + 3, 45, pink),
+                (outer + 4, size.height * 0.4, 70, yellow),
+                (outer + 5, size.height * 0.7, -15, mint),
+                (size.width - outer - 4, size.height * 0.35, -60, pink),
+                (size.width - outer - 5, size.height * 0.65, 25, yellow),
+                (size.width * 0.25, size.height - outer - 4, -35, pink),
+                (size.width * 0.55, size.height - outer - 5, 50, mint),
+                (size.width * 0.75, size.height - outer - 3, -10, yellow),
+            ]
+            for (x, y, rot, color) in sprinklePositions {
+                ctx.drawLayer { layerCtx in
+                    let transform = CGAffineTransform(translationX: x, y: y)
+                        .rotated(by: rot * .pi / 180)
+                    var sprinkle = Path()
+                    sprinkle.addRoundedRect(in: CGRect(x: -4, y: -1, width: 8, height: 2), cornerSize: CGSize(width: 1, height: 1))
+                    layerCtx.fill(sprinkle.applying(transform), with: .color(color.opacity(0.3)))
+                }
+            }
+        }
+        .frame(width: w, height: h)
+    }
+
+    // MARK: - Zen Garden Frame
+
+    @ViewBuilder
+    private func zenGardenFrame(w: CGFloat, h: CGFloat) -> some View {
+        Canvas { ctx, size in
+            let stone = Color(red: 0.40, green: 0.42, blue: 0.38)
+
+            // Simple thin frame
+            let outer: CGFloat = 12
+            ctx.stroke(Path(roundedRect: CGRect(x: outer, y: outer, width: size.width - outer * 2, height: size.height - outer * 2), cornerRadius: 16),
+                      with: .color(stone.opacity(0.2)), lineWidth: 1)
+
+            // Zen sand wave pattern (top area)
+            let waveY: CGFloat = outer + 12
+            for row in 0..<3 {
+                let y = waveY + CGFloat(row) * 8
+                var wave = Path()
+                wave.move(to: CGPoint(x: outer + 20, y: y))
+                let segments = 8
+                let segWidth = (size.width - outer * 2 - 40) / CGFloat(segments)
+                for s in 0..<segments {
+                    let sx = outer + 20 + CGFloat(s) * segWidth
+                    wave.addQuadCurve(
+                        to: CGPoint(x: sx + segWidth, y: y),
+                        control: CGPoint(x: sx + segWidth * 0.5, y: y + (s % 2 == 0 ? -3 : 3))
+                    )
+                }
+                ctx.stroke(wave, with: .color(stone.opacity(0.08 + Double(row) * 0.02)), lineWidth: 0.6)
+            }
+
+            // Bottom zen wave pattern
+            let botWaveY = size.height - outer - 30
+            for row in 0..<3 {
+                let y = botWaveY + CGFloat(row) * 8
+                var wave = Path()
+                wave.move(to: CGPoint(x: outer + 20, y: y))
+                let segments = 8
+                let segWidth = (size.width - outer * 2 - 40) / CGFloat(segments)
+                for s in 0..<segments {
+                    let sx = outer + 20 + CGFloat(s) * segWidth
+                    wave.addQuadCurve(
+                        to: CGPoint(x: sx + segWidth, y: y),
+                        control: CGPoint(x: sx + segWidth * 0.5, y: y + (s % 2 == 0 ? -3 : 3))
+                    )
+                }
+                ctx.stroke(wave, with: .color(stone.opacity(0.08 + Double(row) * 0.02)), lineWidth: 0.6)
+            }
+
+            // Corner stones (simple circles)
+            let stonePositions: [(CGFloat, CGFloat, CGFloat)] = [
+                (outer + 14, outer + 14, 6),
+                (size.width - outer - 14, size.height - outer - 14, 8),
+                (size.width - outer - 16, outer + 16, 5),
+            ]
+            for (x, y, r) in stonePositions {
+                let s = Path(ellipseIn: CGRect(x: x - r, y: y - r, width: r * 2, height: r * 2))
+                ctx.fill(s, with: .color(stone.opacity(0.1)))
+                ctx.stroke(s, with: .color(stone.opacity(0.15)), lineWidth: 0.5)
+            }
+
+            // Bamboo accent (left side)
+            var bamboo = Path()
+            bamboo.move(to: CGPoint(x: outer + 8, y: size.height * 0.35))
+            bamboo.addLine(to: CGPoint(x: outer + 8, y: size.height * 0.65))
+            ctx.stroke(bamboo, with: .color(Color(red: 0.45, green: 0.55, blue: 0.35).opacity(0.12)), lineWidth: 1.5)
+
+            // Bamboo nodes
+            for nodeY in stride(from: size.height * 0.4, to: size.height * 0.6, by: 20) {
+                var node = Path()
+                node.move(to: CGPoint(x: outer + 5, y: nodeY))
+                node.addLine(to: CGPoint(x: outer + 11, y: nodeY))
+                ctx.stroke(node, with: .color(Color(red: 0.45, green: 0.55, blue: 0.35).opacity(0.15)), lineWidth: 1)
             }
         }
         .frame(width: w, height: h)

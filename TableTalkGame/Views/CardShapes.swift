@@ -159,6 +159,28 @@ struct ThemedCardBorder: View {
                     ),
                     lineWidth: 1.5
                 )
+
+        case .candy:
+            // Multi-color candy border
+            RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                .stroke(
+                    AngularGradient(
+                        colors: [
+                            Color(red: 0.95, green: 0.35, blue: 0.55).opacity(0.6),
+                            Color(red: 0.55, green: 0.85, blue: 0.75).opacity(0.5),
+                            Color(red: 0.98, green: 0.80, blue: 0.25).opacity(0.6),
+                            Color(red: 0.65, green: 0.50, blue: 0.90).opacity(0.5),
+                            Color(red: 0.95, green: 0.35, blue: 0.55).opacity(0.6),
+                        ],
+                        center: .center
+                    ),
+                    lineWidth: 3
+                )
+
+        case .zenGarden:
+            // Minimal thin charcoal border
+            RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                .stroke(Color(red: 0.40, green: 0.42, blue: 0.38).opacity(0.25), lineWidth: 1)
         }
     }
 }
@@ -312,6 +334,33 @@ struct CardBackgroundPattern: View {
                         ],
                         startPoint: .bottom,
                         endPoint: .top
+                    )
+                }
+
+            case .candy:
+                // Soft pastel gradient
+                LinearGradient(
+                    colors: [
+                        Color(red: 1.0, green: 0.94, blue: 0.96),
+                        theme.cardBackgroundColor,
+                        Color(red: 0.94, green: 1.0, blue: 0.98),
+                    ],
+                    startPoint: .topLeading,
+                    endPoint: .bottomTrailing
+                )
+
+            case .zenGarden:
+                // Warm sand texture gradient
+                ZStack {
+                    theme.cardBackgroundColor
+                    RadialGradient(
+                        colors: [
+                            Color(red: 0.96, green: 0.95, blue: 0.91),
+                            theme.cardBackgroundColor,
+                        ],
+                        center: .center,
+                        startRadius: 30,
+                        endRadius: max(w, h) * 0.7
                     )
                 }
             }

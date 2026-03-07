@@ -146,25 +146,14 @@ struct CardDeckView: View {
 
             // Theme picker overlay
             if showThemePicker {
-                Color.black.opacity(0.3)
-                    .ignoresSafeArea()
-                    .onTapGesture {
-                        withAnimation(.spring(response: 0.3, dampingFraction: 0.8)) {
-                            showThemePicker = false
-                        }
-                    }
-
-                VStack {
-                    Spacer()
-                    ThemePickerView(
-                        selectedTheme: Binding(
-                            get: { theme },
-                            set: { themeRawValue = $0.rawValue }
-                        ),
-                        isPresented: $showThemePicker
-                    )
-                    Spacer()
-                }
+                ThemePickerView(
+                    selectedTheme: Binding(
+                        get: { theme },
+                        set: { themeRawValue = $0.rawValue }
+                    ),
+                    isPresented: $showThemePicker
+                )
+                .transition(.opacity)
             }
 
             // Random card overlay
@@ -190,7 +179,6 @@ struct CardDeckView: View {
                 CardView(card: card, theme: theme)
                     .frame(height: 400)
                     .padding(.horizontal, 24)
-                    .drawingGroup()
                     .scaleEffect(stackScale)
                     .offset(y: stackOffset)
                     .zIndex(Double(cards.count - index))

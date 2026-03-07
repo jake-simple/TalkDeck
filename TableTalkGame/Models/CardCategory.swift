@@ -46,10 +46,13 @@ enum CardCategory: String, CaseIterable {
     case dreamsAndGoals  // 꿈과 목표
     case afterWork       // 퇴근 후
 
-    // MARK: - 술자리 (Drinking)
-    case light           // 가볍게
-    case drinkingGame    // 게임
-    case drunkTalk       // 취중 진담
+    // MARK: - 싸웠을 때 (After Fight)
+    case coolDown        // 진정하기
+    case myFeelings      // 내 감정
+    case yourSide        // 네 입장
+    case makingUp        // 화해
+
+    // MARK: - 공통
     case life            // 인생 이야기
 
     // MARK: - 여행 중 (Travel)
@@ -119,9 +122,10 @@ enum CardCategory: String, CaseIterable {
         case .workStyle: "업무 스타일"
         case .dreamsAndGoals: "꿈과 목표"
         case .afterWork: "퇴근 후"
-        case .light: "가볍게"
-        case .drinkingGame: "게임"
-        case .drunkTalk: "취중 진담"
+        case .coolDown: "진정하기"
+        case .myFeelings: "내 감정"
+        case .yourSide: "네 입장"
+        case .makingUp: "화해"
         case .life: "인생 이야기"
         case .travelStyle: "여행 스타일"
         case .thisNow: "지금 이 순간"
@@ -177,9 +181,10 @@ enum CardCategory: String, CaseIterable {
         case .workStyle: "laptopcomputer"
         case .dreamsAndGoals: "flag.fill"
         case .afterWork: "sunset.fill"
-        case .light: "face.smiling.fill"
-        case .drinkingGame: "gamecontroller.fill"
-        case .drunkTalk: "wineglass.fill"
+        case .coolDown: "leaf.fill"
+        case .myFeelings: "heart.circle.fill"
+        case .yourSide: "person.fill.questionmark"
+        case .makingUp: "hands.clap.fill"
         case .life: "book.closed.fill"
         case .travelStyle: "airplane"
         case .thisNow: "camera.fill"
@@ -235,9 +240,10 @@ enum CardCategory: String, CaseIterable {
         case .workStyle: Color(red: 0.2, green: 0.6, blue: 0.7)
         case .dreamsAndGoals: Color(red: 0.85, green: 0.25, blue: 0.3)
         case .afterWork: Color(red: 0.9, green: 0.55, blue: 0.2)
-        case .light: Color(red: 0.9, green: 0.75, blue: 0.2)
-        case .drinkingGame: Color(red: 0.6, green: 0.3, blue: 0.8)
-        case .drunkTalk: Color(red: 0.8, green: 0.2, blue: 0.4)
+        case .coolDown: Color(red: 0.4, green: 0.7, blue: 0.6)
+        case .myFeelings: Color(red: 0.85, green: 0.35, blue: 0.5)
+        case .yourSide: Color(red: 0.4, green: 0.5, blue: 0.8)
+        case .makingUp: Color(red: 0.9, green: 0.65, blue: 0.2)
         case .life: Color(red: 0.5, green: 0.35, blue: 0.25)
         case .travelStyle: Color(red: 0.2, green: 0.6, blue: 0.85)
         case .thisNow: Color(red: 0.2, green: 0.7, blue: 0.65)

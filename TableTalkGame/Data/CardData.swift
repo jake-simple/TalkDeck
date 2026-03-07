@@ -9,7 +9,7 @@ enum CardData {
         case .babyParents: babyParentsCards
         case .family: familyCards
         case .coworkers: coworkersCards
-        case .drinking: drinkingCards
+        case .afterFight: afterFightCards
         case .travel: travelCards
         case .icebreaking: icebreakingCards
         case .lateNight: lateNightCards

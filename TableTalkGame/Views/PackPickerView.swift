@@ -209,9 +209,9 @@ struct PackPickerView: View {
                     .frame(width: 140, height: 220)
                     .scrollTransition(.interactive, axis: .horizontal) { content, phase in
                         content
-                            .scaleEffect(max(0.75, 1.0 - abs(phase.value) * 0.15))
+                            .scaleEffect(phase.isIdentity ? 1.15 : max(0.75, 1.0 - abs(phase.value) * 0.15))
                             .rotationEffect(.degrees(phase.value * 18))
-                            .offset(y: abs(phase.value) * 30)
+                            .offset(y: phase.isIdentity ? -10 : abs(phase.value) * 30)
                     }
                     .onTapGesture {
                         if scrollPosition == virtualIndex {

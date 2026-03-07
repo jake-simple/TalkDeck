@@ -9,7 +9,7 @@ enum CardPack: String, CaseIterable, Identifiable {
     case babyParents
     case family
     case coworkers
-    case drinking
+    case afterFight
     case travel
     case icebreaking
     case lateNight
@@ -30,7 +30,7 @@ enum CardPack: String, CaseIterable, Identifiable {
         case .babyParents: "아기 있는 부부"
         case .family: "가족"
         case .coworkers: "직장인"
-        case .drinking: "술자리"
+        case .afterFight: "마음 풀기"
         case .travel: "여행 중"
         case .icebreaking: "아이스브레이킹"
         case .lateNight: "심야 토크"
@@ -51,7 +51,7 @@ enum CardPack: String, CaseIterable, Identifiable {
         case .babyParents: "stroller.fill"
         case .family: "figure.2.and.child.holdinghands"
         case .coworkers: "briefcase.fill"
-        case .drinking: "wineglass.fill"
+        case .afterFight: "bolt.heart.fill"
         case .travel: "airplane"
         case .icebreaking: "hand.wave.fill"
         case .lateNight: "moon.stars.fill"
@@ -72,7 +72,7 @@ enum CardPack: String, CaseIterable, Identifiable {
         case .babyParents: "육아 속 우리 이야기"
         case .family: "세대를 넘는 가족 대화"
         case .coworkers: "동료와 편하게 나누는 이야기"
-        case .drinking: "분위기 띄우는 재미있는 질문"
+        case .afterFight: "서운한 마음을 풀고 다시 가까워지는 대화"
         case .travel: "여행길에 나누는 대화"
         case .icebreaking: "처음 만난 그룹을 위한 대화"
         case .lateNight: "깊은 밤, 감성적인 대화"
@@ -93,7 +93,7 @@ enum CardPack: String, CaseIterable, Identifiable {
         case .babyParents: Color(red: 0.95, green: 0.6, blue: 0.3)
         case .family: Color(red: 0.2, green: 0.6, blue: 0.8)
         case .coworkers: Color(red: 0.3, green: 0.3, blue: 0.6)
-        case .drinking: Color(red: 0.8, green: 0.2, blue: 0.5)
+        case .afterFight: Color(red: 0.55, green: 0.4, blue: 0.75)
         case .travel: Color(red: 0.2, green: 0.7, blue: 0.7)
         case .icebreaking: Color(red: 0.9, green: 0.7, blue: 0.2)
         case .lateNight: Color(red: 0.35, green: 0.35, blue: 0.75)
@@ -123,8 +123,8 @@ enum CardPack: String, CaseIterable, Identifiable {
             [.childhood, .recentLife, .familyStory, .generationGap]
         case .coworkers:
             [.workLife, .workStyle, .dreamsAndGoals, .afterWork]
-        case .drinking:
-            [.light, .drinkingGame, .drunkTalk, .life]
+        case .afterFight:
+            [.coolDown, .myFeelings, .yourSide, .makingUp]
         case .travel:
             [.travelStyle, .memories, .thisNow, .bucketList]
         case .icebreaking:

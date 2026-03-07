@@ -50,6 +50,9 @@ struct AnimatedBackgroundView: View {
 
         case .desert:
             drawDesertBG(ctx: ctx, size: size, time: time)
+
+        case .candy, .zenGarden:
+            break
         }
     }
 
