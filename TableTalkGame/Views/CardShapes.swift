@@ -181,6 +181,22 @@ struct ThemedCardBorder: View {
             // Minimal thin charcoal border
             RoundedRectangle(cornerRadius: theme.cardCornerRadius)
                 .stroke(Color(red: 0.40, green: 0.42, blue: 0.38).opacity(0.25), lineWidth: 1)
+
+        case .forsythia:
+            // Vivid yellow gradient border
+            RoundedRectangle(cornerRadius: theme.cardCornerRadius)
+                .stroke(
+                    LinearGradient(
+                        colors: [
+                            Color(red: 0.98, green: 0.85, blue: 0.08).opacity(0.6),
+                            Color(red: 0.90, green: 0.75, blue: 0.05).opacity(0.4),
+                            Color(red: 0.98, green: 0.85, blue: 0.08).opacity(0.6),
+                        ],
+                        startPoint: .topLeading,
+                        endPoint: .bottomTrailing
+                    ),
+                    lineWidth: 2.5
+                )
         }
     }
 }
@@ -363,6 +379,18 @@ struct CardBackgroundPattern: View {
                         endRadius: max(w, h) * 0.7
                     )
                 }
+
+            case .forsythia:
+                // Warm yellow gradient
+                LinearGradient(
+                    colors: [
+                        Color(red: 1.0, green: 0.96, blue: 0.82),
+                        theme.cardBackgroundColor,
+                        Color(red: 1.0, green: 0.94, blue: 0.78),
+                    ],
+                    startPoint: .topLeading,
+                    endPoint: .bottomTrailing
+                )
             }
         }
     }

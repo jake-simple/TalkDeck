@@ -14,6 +14,7 @@ enum AppTheme: String, CaseIterable {
     case desert
     case candy
     case zenGarden
+    case forsythia
 
     var name: String {
         switch self {
@@ -30,6 +31,7 @@ enum AppTheme: String, CaseIterable {
         case .desert: "사막의 밤"
         case .candy: "캔디팝"
         case .zenGarden: "선 가든"
+        case .forsythia: "개나리"
         }
     }
 
@@ -48,6 +50,7 @@ enum AppTheme: String, CaseIterable {
         case .desert: "🏜️"
         case .candy: "🍬"
         case .zenGarden: "🪨"
+        case .forsythia: "🌼"
         }
     }
 
@@ -66,6 +69,7 @@ enum AppTheme: String, CaseIterable {
         case .desert: "sun.max.fill"
         case .candy: "birthday.cake.fill"
         case .zenGarden: "leaf.fill"
+        case .forsythia: "camera.macro"
         }
     }
 
@@ -86,6 +90,7 @@ enum AppTheme: String, CaseIterable {
         case .desert: 14
         case .candy: 28
         case .zenGarden: 20
+        case .forsythia: 22
         }
     }
 
@@ -119,12 +124,14 @@ enum AppTheme: String, CaseIterable {
             [Color(red: 1.0, green: 0.88, blue: 0.92), Color(red: 0.88, green: 0.96, blue: 0.94)]
         case .zenGarden:
             [Color(red: 0.93, green: 0.90, blue: 0.84), Color(red: 0.88, green: 0.86, blue: 0.80)]
+        case .forsythia:
+            [Color(red: 1.0, green: 0.95, blue: 0.70), Color(red: 0.98, green: 0.88, blue: 0.58)]
         }
     }
 
     var isDarkTheme: Bool {
         switch self {
-        case .minimal, .cherryBlossom, .autumn, .circus, .candy, .zenGarden: false
+        case .minimal, .cherryBlossom, .autumn, .circus, .candy, .zenGarden, .forsythia: false
         default: true
         }
     }
@@ -163,6 +170,8 @@ enum AppTheme: String, CaseIterable {
             Color(red: 0.45, green: 0.20, blue: 0.35)
         case .zenGarden:
             Color(red: 0.30, green: 0.32, blue: 0.28)
+        case .forsythia:
+            Color(red: 0.40, green: 0.32, blue: 0.12)
         }
     }
 
@@ -181,6 +190,7 @@ enum AppTheme: String, CaseIterable {
         case .desert: Color(red: 0.90, green: 0.75, blue: 0.35)
         case .candy: Color(red: 0.95, green: 0.35, blue: 0.55)
         case .zenGarden: Color(red: 0.55, green: 0.65, blue: 0.50)
+        case .forsythia: Color(red: 0.95, green: 0.82, blue: 0.05)
         }
     }
 
@@ -199,6 +209,7 @@ enum AppTheme: String, CaseIterable {
         case .desert: Color(red: 0.20, green: 0.15, blue: 0.30)
         case .candy: Color(red: 1.0, green: 0.85, blue: 0.90)
         case .zenGarden: Color(red: 0.90, green: 0.88, blue: 0.82)
+        case .forsythia: Color(red: 1.0, green: 0.94, blue: 0.70)
         }
     }
 
@@ -230,6 +241,8 @@ enum AppTheme: String, CaseIterable {
             Color(red: 1.0, green: 0.96, blue: 0.97)
         case .zenGarden:
             Color(red: 0.96, green: 0.95, blue: 0.91)
+        case .forsythia:
+            Color(red: 1.0, green: 0.97, blue: 0.85)
         }
     }
 
@@ -248,6 +261,7 @@ enum AppTheme: String, CaseIterable {
         case .desert: Color(red: 0.9, green: 0.7, blue: 0.3).opacity(0.45)
         case .candy: Color(red: 0.95, green: 0.35, blue: 0.55).opacity(0.25)
         case .zenGarden: Color(red: 0.4, green: 0.5, blue: 0.3).opacity(0.18)
+        case .forsythia: Color(red: 0.95, green: 0.80, blue: 0.05).opacity(0.35)
         }
     }
 
@@ -266,6 +280,7 @@ enum AppTheme: String, CaseIterable {
         case .desert: .default
         case .candy: .rounded
         case .zenGarden: .serif
+        case .forsythia: .rounded
         }
     }
 }

@@ -51,6 +51,9 @@ struct AnimatedBackgroundView: View {
         case .desert:
             drawDesertBG(ctx: ctx, size: size, time: time)
 
+        case .forsythia:
+            drawForsythiaBG(ctx: ctx, size: size, time: time)
+
         case .candy, .zenGarden:
             break
         }
@@ -318,6 +321,68 @@ struct AnimatedBackgroundView: View {
                 let rect = Path(CGRect(x: -w / 2, y: -h / 2, width: w, height: h))
                 layerCtx.fill(rect.applying(transform), with: .color(color.opacity(0.1)))
             }
+        }
+    }
+
+    // MARK: - Forsythia (개나리)
+
+    private func drawForsythiaBG(ctx: GraphicsContext, size: CGSize, time: Double) {
+        let yellow = Color(red: 0.98, green: 0.85, blue: 0.08)
+        let darkYellow = Color(red: 0.85, green: 0.65, blue: 0.08)
+
+        // Falling forsythia petals
+        for i in 0..<16 {
+            let seed = Double(i) * 109.3
+            let baseX = fmod(seed * 33.7, size.width)
+            let fallSpeed = 16.0 + fmod(seed * 8.7, 20.0)
+            let y = fmod(time * fallSpeed + seed * 47.1, Double(size.height + 30)) - 15
+            let drift = sin(time * 0.35 + seed) * 25
+            let x = baseX + drift
+            let rotation = time * 0.4 + seed
+
+            ctx.drawLayer { layerCtx in
+                let transform = CGAffineTransform(translationX: x, y: y)
+                    .rotated(by: rotation)
+
+                var petal = Path()
+                petal.addEllipse(in: CGRect(x: -4, y: -2.5, width: 8, height: 5))
+                layerCtx.fill(petal.applying(transform), with: .color(yellow.opacity(0.16)))
+            }
+        }
+
+        // Floating daisy silhouettes
+        for i in 0..<4 {
+            let seed = Double(i) * 193.7
+            let x = fmod(seed * 29.3, size.width)
+            let floatSpeed = 8.0 + fmod(seed * 5.1, 10.0)
+            let y = size.height - fmod(time * floatSpeed + seed * 37.1, Double(size.height + 40)) + 20
+            let driftX = sin(time * 0.25 + seed) * 15
+
+            // Draw a simple daisy shape
+            let cx = x + driftX
+            let petalR: CGFloat = 5
+            for p in 0..<6 {
+                let angle = CGFloat(p) * .pi / 3 + CGFloat(time * 0.3 + seed)
+                let px = cx + cos(angle) * petalR
+                let py = y + sin(angle) * petalR
+                let petal = Path(ellipseIn: CGRect(x: px - 2.5, y: py - 1.5, width: 5, height: 3))
+                ctx.fill(petal, with: .color(yellow.opacity(0.10)))
+            }
+            let center = Path(ellipseIn: CGRect(x: cx - 2, y: y - 2, width: 4, height: 4))
+            ctx.fill(center, with: .color(darkYellow.opacity(0.10)))
+        }
+
+        // Gentle floating yellow light spots
+        for i in 0..<8 {
+            let seed = Double(i) * 157.3
+            let x = (sin(time * 0.2 + seed) * 0.5 + 0.5) * size.width
+            let baseY = CGFloat(i) / 8.0 * size.height
+            let y = baseY + sin(time * 0.4 + seed * 0.6) * 20
+            let radius: CGFloat = CGFloat(8 + (i % 3) * 5)
+            let opacity = 0.05 + sin(time * 0.6 + seed) * 0.03
+
+            let orb = Path(ellipseIn: CGRect(x: x - radius, y: y - radius, width: radius * 2, height: radius * 2))
+            ctx.fill(orb, with: .color(yellow.opacity(opacity)))
         }
     }
 

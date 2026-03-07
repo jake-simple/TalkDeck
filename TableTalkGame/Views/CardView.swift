@@ -59,6 +59,8 @@ struct CardView: View {
             candyLayout
         case .zenGarden:
             zenGardenLayout
+        case .forsythia:
+            forsythiaLayout
         }
     }
 
@@ -721,6 +723,68 @@ struct CardView: View {
                 }
             }
             .padding(.horizontal, 30)
+            .padding(.bottom, 22)
+        }
+    }
+
+    // MARK: - Forsythia Style (개나리)
+    private var forsythiaLayout: some View {
+        let yellow = Color(red: 0.98, green: 0.85, blue: 0.08)
+
+        return VStack(spacing: 0) {
+            // Divider with small flowers
+            HStack(spacing: 6) {
+                Rectangle()
+                    .fill(yellow.opacity(0.3))
+                    .frame(height: 1)
+                // Mini daisy
+                ZStack {
+                    ForEach(0..<6, id: \.self) { i in
+                        Ellipse()
+                            .fill(yellow.opacity(0.35))
+                            .frame(width: 4, height: 7)
+                            .offset(y: -5)
+                            .rotationEffect(.degrees(Double(i) * 60))
+                    }
+                    Circle()
+                        .fill(Color(red: 0.85, green: 0.65, blue: 0.08).opacity(0.5))
+                        .frame(width: 5, height: 5)
+                }
+                Rectangle()
+                    .fill(yellow.opacity(0.3))
+                    .frame(height: 1)
+            }
+            .padding(.horizontal, 28)
+            .padding(.top, 24)
+
+            Spacer()
+
+            Text(card.question)
+                .font(.system(size: questionFontSize, weight: .semibold, design: .rounded))
+                .foregroundStyle(theme.cardTextColor)
+                .multilineTextAlignment(.center)
+                .lineSpacing(7)
+                .padding(.horizontal, 28)
+
+            Spacer()
+
+            // Bottom: row of mini daisies
+            HStack(spacing: 14) {
+                ForEach(0..<3, id: \.self) { i in
+                    ZStack {
+                        ForEach(0..<6, id: \.self) { p in
+                            Ellipse()
+                                .fill(yellow.opacity(0.3 - Double(i) * 0.05))
+                                .frame(width: 3.5, height: 6)
+                                .offset(y: -4.5)
+                                .rotationEffect(.degrees(Double(p) * 60))
+                        }
+                        Circle()
+                            .fill(Color(red: 0.85, green: 0.65, blue: 0.08).opacity(0.4))
+                            .frame(width: 4, height: 4)
+                    }
+                }
+            }
             .padding(.bottom, 22)
         }
     }

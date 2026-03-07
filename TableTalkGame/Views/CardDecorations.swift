@@ -37,6 +37,8 @@ struct CardDecorationOverlay: View {
                 candyFrame(w: w, h: h)
             case .zenGarden:
                 zenGardenFrame(w: w, h: h)
+            case .forsythia:
+                forsythiaFrame(w: w, h: h)
             }
         }
         .allowsHitTesting(false)
@@ -766,6 +768,135 @@ struct CardDecorationOverlay: View {
                     var sprinkle = Path()
                     sprinkle.addRoundedRect(in: CGRect(x: -4, y: -1, width: 8, height: 2), cornerSize: CGSize(width: 1, height: 1))
                     layerCtx.fill(sprinkle.applying(transform), with: .color(color.opacity(0.3)))
+                }
+            }
+        }
+        .frame(width: w, height: h)
+    }
+
+    // MARK: - Forsythia Frame (개나리)
+
+    @ViewBuilder
+    private func forsythiaFrame(w: CGFloat, h: CGFloat) -> some View {
+        Canvas { ctx, size in
+            let yellow = Color(red: 0.98, green: 0.85, blue: 0.08)
+            let darkYellow = Color(red: 0.85, green: 0.65, blue: 0.08)
+            let brown = Color(red: 0.55, green: 0.42, blue: 0.20)
+            let green = Color(red: 0.45, green: 0.60, blue: 0.25)
+
+            // Simple frame
+            let outer: CGFloat = 12
+            ctx.stroke(Path(roundedRect: CGRect(x: outer, y: outer, width: size.width - outer * 2, height: size.height - outer * 2), cornerRadius: 18),
+                      with: .color(yellow.opacity(0.35)), lineWidth: 1.5)
+
+            // --- Helper: draw a daisy at (cx, cy) with given radius ---
+            func drawDaisy(cx: CGFloat, cy: CGFloat, petalCount: Int, petalW: CGFloat, petalH: CGFloat, opacity: Double) {
+                for p in 0..<petalCount {
+                    let angle = CGFloat(p) * (.pi * 2 / CGFloat(petalCount))
+                    let px = cx + cos(angle) * petalH * 0.55
+                    let py = cy + sin(angle) * petalH * 0.55
+                    let petal = Path(ellipseIn: CGRect(x: px - petalW / 2, y: py - petalH / 2, width: petalW, height: petalH))
+                    ctx.fill(petal, with: .color(yellow.opacity(opacity)))
+                }
+                let center = Path(ellipseIn: CGRect(x: cx - petalW * 0.4, y: cy - petalW * 0.4, width: petalW * 0.8, height: petalW * 0.8))
+                ctx.fill(center, with: .color(darkYellow.opacity(opacity * 0.8)))
+            }
+
+            // Top-left branch curving across top
+            var branch = Path()
+            branch.move(to: CGPoint(x: 0, y: size.height * 0.12))
+            branch.addCurve(to: CGPoint(x: size.width * 0.5, y: size.height * 0.06),
+                           control1: CGPoint(x: size.width * 0.12, y: size.height * 0.08),
+                           control2: CGPoint(x: size.width * 0.3, y: size.height * 0.03))
+            ctx.stroke(branch, with: .color(brown.opacity(0.20)), lineWidth: 1.5)
+
+            // Small twig
+            var twig = Path()
+            twig.move(to: CGPoint(x: size.width * 0.25, y: size.height * 0.07))
+            twig.addQuadCurve(to: CGPoint(x: size.width * 0.20, y: size.height * 0.02),
+                             control: CGPoint(x: size.width * 0.18, y: size.height * 0.04))
+            ctx.stroke(twig, with: .color(brown.opacity(0.16)), lineWidth: 1)
+
+            // Forsythia flowers along top branch (4-petal)
+            let flowerPositions: [(CGFloat, CGFloat, CGFloat)] = [
+                (size.width * 0.10, size.height * 0.10, 9),
+                (size.width * 0.22, size.height * 0.065, 11),
+                (size.width * 0.38, size.height * 0.05, 10),
+                (size.width * 0.18, size.height * 0.03, 7),
+            ]
+            for (x, y, r) in flowerPositions {
+                for p in 0..<4 {
+                    let angle = CGFloat(p) * .pi / 2 + .pi / 4
+                    let px = x + cos(angle) * r * 0.5
+                    let py = y + sin(angle) * r * 0.5
+                    let petal = Path(ellipseIn: CGRect(x: px - r * 0.35, y: py - r * 0.2, width: r * 0.7, height: r * 0.4))
+                    ctx.fill(petal, with: .color(yellow.opacity(0.22)))
+                }
+                let center = Path(ellipseIn: CGRect(x: x - 1.5, y: y - 1.5, width: 3, height: 3))
+                ctx.fill(center, with: .color(darkYellow.opacity(0.25)))
+            }
+
+            // Leaf buds
+            let leafPositions: [(CGFloat, CGFloat)] = [
+                (size.width * 0.15, size.height * 0.09),
+                (size.width * 0.32, size.height * 0.055),
+                (size.width * 0.45, size.height * 0.06),
+            ]
+            for (x, y) in leafPositions {
+                var leaf = Path()
+                leaf.move(to: CGPoint(x: x, y: y))
+                leaf.addQuadCurve(to: CGPoint(x: x + 6, y: y - 4), control: CGPoint(x: x + 4, y: y - 5))
+                ctx.stroke(leaf, with: .color(green.opacity(0.18)), lineWidth: 1)
+            }
+
+            // --- Daisy flowers in corners ---
+            // Top-right daisy
+            drawDaisy(cx: size.width - outer - 18, cy: outer + 18, petalCount: 8, petalW: 6, petalH: 11, opacity: 0.20)
+            // Bottom-left daisy
+            drawDaisy(cx: outer + 20, cy: size.height - outer - 20, petalCount: 8, petalW: 7, petalH: 12, opacity: 0.18)
+
+            // --- Smaller daisies scattered ---
+            drawDaisy(cx: size.width * 0.82, cy: size.height * 0.22, petalCount: 6, petalW: 4, petalH: 8, opacity: 0.12)
+            drawDaisy(cx: size.width * 0.15, cy: size.height * 0.78, petalCount: 6, petalW: 4, petalH: 8, opacity: 0.12)
+
+            // Bottom-right branch
+            var branch2 = Path()
+            branch2.move(to: CGPoint(x: size.width, y: size.height * 0.88))
+            branch2.addCurve(to: CGPoint(x: size.width * 0.55, y: size.height * 0.94),
+                            control1: CGPoint(x: size.width * 0.88, y: size.height * 0.92),
+                            control2: CGPoint(x: size.width * 0.70, y: size.height * 0.96))
+            ctx.stroke(branch2, with: .color(brown.opacity(0.16)), lineWidth: 1.5)
+
+            // Flowers on bottom branch
+            let botFlowers: [(CGFloat, CGFloat, CGFloat)] = [
+                (size.width * 0.88, size.height * 0.90, 8),
+                (size.width * 0.72, size.height * 0.94, 10),
+                (size.width * 0.60, size.height * 0.94, 7),
+            ]
+            for (x, y, r) in botFlowers {
+                for p in 0..<4 {
+                    let angle = CGFloat(p) * .pi / 2 + .pi / 4
+                    let px = x + cos(angle) * r * 0.5
+                    let py = y + sin(angle) * r * 0.5
+                    let petal = Path(ellipseIn: CGRect(x: px - r * 0.35, y: py - r * 0.2, width: r * 0.7, height: r * 0.4))
+                    ctx.fill(petal, with: .color(yellow.opacity(0.18)))
+                }
+            }
+
+            // Scattered falling petals
+            let fallingPetals: [(CGFloat, CGFloat, CGFloat)] = [
+                (size.width * 0.80, size.height * 0.35, 20),
+                (size.width * 0.25, size.height * 0.70, -30),
+                (size.width * 0.65, size.height * 0.50, 45),
+                (size.width * 0.45, size.height * 0.40, -15),
+            ]
+            for (x, y, rot) in fallingPetals {
+                ctx.drawLayer { layerCtx in
+                    let transform = CGAffineTransform(translationX: x, y: y)
+                        .rotated(by: rot * .pi / 180)
+                    var petal = Path()
+                    petal.addEllipse(in: CGRect(x: -3, y: -2, width: 6, height: 4))
+                    layerCtx.fill(petal.applying(transform), with: .color(yellow.opacity(0.14)))
                 }
             }
         }
