@@ -24,105 +24,107 @@ struct ThemePickerView: View {
 
     var body: some View {
         ZStack {
-            // Background
+            // Background — aurora effect
             ZStack {
-                Color(red: 0.08, green: 0.06, blue: 0.16)
+                Color(red: 0.10, green: 0.08, blue: 0.18)
 
                 TimelineView(.animation(minimumInterval: 1.0 / 30)) { timeline in
                     let time = timeline.date.timeIntervalSinceReferenceDate
                     let accent = currentTheme.accentColor
 
                     Canvas { context, size in
-                        // Central glow
-                        let glowCenter = CGPoint(x: size.width * 0.5, y: size.height * 0.55)
-                        let glowRadius: CGFloat = size.width * 0.8
-                        context.drawLayer { ctx in
-                            ctx.opacity = 0.25
-                            let gradient = Gradient(colors: [accent, accent.opacity(0.3), .clear])
-                            ctx.fill(
-                                Path(ellipseIn: CGRect(
-                                    x: glowCenter.x - glowRadius / 2,
-                                    y: glowCenter.y - glowRadius / 2.5,
-                                    width: glowRadius,
-                                    height: glowRadius / 1.3
-                                )),
-                                with: .radialGradient(
-                                    gradient,
-                                    center: glowCenter,
-                                    startRadius: 0,
-                                    endRadius: glowRadius / 2
-                                )
-                            )
-                        }
+                        let w = size.width
+                        let h = size.height
 
-                        // Top secondary glow
-                        context.drawLayer { ctx in
-                            ctx.opacity = 0.12
-                            let topCenter = CGPoint(x: size.width * 0.3, y: size.height * 0.15)
-                            let topGradient = Gradient(colors: [accent.opacity(0.6), .clear])
-                            ctx.fill(
-                                Path(ellipseIn: CGRect(
-                                    x: topCenter.x - 150,
-                                    y: topCenter.y - 100,
-                                    width: 300,
-                                    height: 200
-                                )),
-                                with: .radialGradient(topGradient, center: topCenter, startRadius: 0, endRadius: 150)
-                            )
-                        }
+                        // Draw aurora bands
+                        for band in 0..<5 {
+                            let seed = Double(band)
+                            let baseY = h * (0.15 + seed * 0.15)
+                            let speed = 0.25 + seed * 0.08
+                            let amplitude: CGFloat = 30 + CGFloat(band) * 12
 
-                        // Floating particles
-                        for i in 0..<18 {
-                            let seed = Double(i)
-                            let speed = 0.3 + seed * 0.08
-                            let phase = seed * 2.4
-                            let x = size.width * (0.1 + CGFloat(i % 5) * 0.2) + CGFloat(sin(time * speed + phase)) * 30
-                            let y = size.height * (0.1 + CGFloat(i / 5) * 0.25) + CGFloat(cos(time * speed * 0.7 + phase)) * 20
-                            let particleSize: CGFloat = CGFloat(3 + (i % 4) * 2)
-                            let opacity = 0.15 + sin(time * 0.8 + seed) * 0.1
+                            var path = Path()
+                            path.move(to: CGPoint(x: -20, y: baseY))
+
+                            // Wavy top edge
+                            let steps = 12
+                            for s in 0...steps {
+                                let t = CGFloat(s) / CGFloat(steps)
+                                let x = -20 + (w + 40) * t
+                                let wave1 = sin(time * speed + Double(t) * 6 + seed * 2.5) * Double(amplitude)
+                                let wave2 = cos(time * speed * 0.7 + Double(t) * 4 + seed * 1.8) * Double(amplitude * 0.5)
+                                let y = baseY + CGFloat(wave1 + wave2)
+                                if s == 0 {
+                                    path.move(to: CGPoint(x: x, y: y))
+                                } else {
+                                    path.addLine(to: CGPoint(x: x, y: y))
+                                }
+                            }
+
+                            // Wavy bottom edge (offset down)
+                            let bandHeight: CGFloat = 60 + CGFloat(band) * 20
+                            for s in stride(from: steps, through: 0, by: -1) {
+                                let t = CGFloat(s) / CGFloat(steps)
+                                let x = -20 + (w + 40) * t
+                                let wave1 = sin(time * speed + Double(t) * 6 + seed * 2.5 + 1.0) * Double(amplitude * 0.8)
+                                let wave2 = cos(time * speed * 0.7 + Double(t) * 4 + seed * 1.8 + 0.5) * Double(amplitude * 0.4)
+                                let y = baseY + bandHeight + CGFloat(wave1 + wave2)
+                                path.addLine(to: CGPoint(x: x, y: y))
+                            }
+                            path.closeSubpath()
+
+                            let bandOpacity = [0.40, 0.30, 0.35, 0.25, 0.20][band]
+                            let hueShift = Double(band) * 0.15
 
                             context.drawLayer { ctx in
-                                ctx.opacity = max(0.05, opacity)
-                                let particleGradient = Gradient(colors: [
-                                    .white.opacity(0.8),
-                                    accent.opacity(0.4),
-                                    .clear
-                                ])
-                                let rect = CGRect(
-                                    x: x - particleSize * 2,
-                                    y: y - particleSize * 2,
-                                    width: particleSize * 4,
-                                    height: particleSize * 4
-                                )
+                                ctx.opacity = bandOpacity
+                                ctx.addFilter(.blur(radius: 25 + CGFloat(band) * 8))
                                 ctx.fill(
-                                    Path(ellipseIn: rect),
-                                    with: .radialGradient(particleGradient, center: CGPoint(x: x, y: y), startRadius: 0, endRadius: particleSize * 2)
+                                    path,
+                                    with: .linearGradient(
+                                        Gradient(colors: [
+                                            accent.opacity(0.9),
+                                            accent.opacity(0.5),
+                                            Color(
+                                                hue: hueShift,
+                                                saturation: 0.6,
+                                                brightness: 0.8
+                                            ).opacity(0.4),
+                                            accent.opacity(0.2)
+                                        ]),
+                                        startPoint: CGPoint(x: 0, y: baseY),
+                                        endPoint: CGPoint(x: w, y: baseY + bandHeight)
+                                    )
                                 )
                             }
                         }
                     }
                 }
-                .animation(.easeInOut(duration: 0.5), value: scrollPosition)
-
-                // Vignetting
-                VStack {
-                    LinearGradient(colors: [.black.opacity(0.4), .clear], startPoint: .top, endPoint: .bottom)
-                        .frame(height: 120)
-                    Spacer()
-                    LinearGradient(colors: [.clear, .black.opacity(0.3)], startPoint: .top, endPoint: .bottom)
-                        .frame(height: 100)
-                }
+                .animation(.easeInOut(duration: 0.8), value: scrollPosition)
             }
             .opacity(appeared ? 1 : 0)
             .ignoresSafeArea()
             .onTapGesture { dismiss() }
 
             VStack(spacing: 0) {
+                // Close button
+                HStack {
+                    Spacer()
+                    Button { dismiss() } label: {
+                        Image(systemName: "xmark")
+                            .font(.system(size: 15, weight: .semibold))
+                            .foregroundStyle(.white.opacity(0.4))
+                            .frame(width: 32, height: 32)
+                    }
+                    .padding(.trailing, 20)
+                    .padding(.top, 16)
+                }
+                .opacity(appeared ? 1 : 0)
+
                 Text("테마 선택")
                     .font(.system(.title3, design: .rounded, weight: .bold))
                     .foregroundStyle(.white)
                     .opacity(appeared ? 1 : 0)
-                    .padding(.top, 60)
 
                 Spacer()
 

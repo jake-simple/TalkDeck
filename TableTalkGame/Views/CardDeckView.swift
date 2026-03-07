@@ -35,9 +35,7 @@ struct CardDeckView: View {
             VStack(spacing: 0) {
                 // Header
                 HStack {
-                    Spacer()
-
-                    // Pack picker button
+                    // Pack picker button (left)
                     Button {
                         withAnimation(.spring(response: 0.3, dampingFraction: 0.8)) {
                             showPackPicker.toggle()
@@ -53,7 +51,9 @@ struct CardDeckView: View {
                         .foregroundStyle(theme.accentColor)
                     }
 
-                    // Theme picker button
+                    Spacer()
+
+                    // Theme picker button (right)
                     Button {
                         withAnimation(.spring(response: 0.3, dampingFraction: 0.8)) {
                             showThemePicker.toggle()
@@ -64,7 +64,6 @@ struct CardDeckView: View {
                             .font(.title3)
                             .foregroundStyle(theme.accentColor)
                     }
-                    .padding(.leading, 12)
                 }
                 .padding(.horizontal, 20)
                 .padding(.top, 8)

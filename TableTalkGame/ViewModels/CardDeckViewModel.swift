@@ -71,9 +71,13 @@ class CardDeckViewModel {
     }
 
     func showRandom() {
-        let source = selectedCategory.map { cat in
-            allCards.filter { $0.category == cat }
-        } ?? allCards
+        let currentCategory = visibleCards.first?.category
+        let source: [Card]
+        if let category = currentCategory {
+            source = allCards.filter { $0.category == category }
+        } else {
+            source = allCards
+        }
         randomCard = source.randomElement()
         showRandomCard = true
         HapticManager.random()

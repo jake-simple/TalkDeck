@@ -190,7 +190,7 @@ enum AppTheme: String, CaseIterable {
         case .desert: Color(red: 0.90, green: 0.75, blue: 0.35)
         case .candy: Color(red: 0.95, green: 0.35, blue: 0.55)
         case .zenGarden: Color(red: 0.55, green: 0.65, blue: 0.50)
-        case .forsythia: Color(red: 0.95, green: 0.82, blue: 0.05)
+        case .forsythia: Color(red: 0.72, green: 0.58, blue: 0.02)
         }
     }
 

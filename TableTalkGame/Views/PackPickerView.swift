@@ -38,44 +38,6 @@ struct PackPickerView: View {
                     let accent = currentPack.accentColor
 
                     Canvas { context, size in
-                        // 큰 accentColor 글로우 (중앙 하단)
-                        let glowCenter = CGPoint(x: size.width * 0.5, y: size.height * 0.55)
-                        let glowRadius: CGFloat = size.width * 0.8
-                        context.drawLayer { ctx in
-                            ctx.opacity = 0.25
-                            let gradient = Gradient(colors: [accent, accent.opacity(0.3), .clear])
-                            ctx.fill(
-                                Path(ellipseIn: CGRect(
-                                    x: glowCenter.x - glowRadius / 2,
-                                    y: glowCenter.y - glowRadius / 2.5,
-                                    width: glowRadius,
-                                    height: glowRadius / 1.3
-                                )),
-                                with: .radialGradient(
-                                    gradient,
-                                    center: glowCenter,
-                                    startRadius: 0,
-                                    endRadius: glowRadius / 2
-                                )
-                            )
-                        }
-
-                        // 상단 보조 글로우
-                        context.drawLayer { ctx in
-                            ctx.opacity = 0.12
-                            let topCenter = CGPoint(x: size.width * 0.3, y: size.height * 0.15)
-                            let topGradient = Gradient(colors: [accent.opacity(0.6), .clear])
-                            ctx.fill(
-                                Path(ellipseIn: CGRect(
-                                    x: topCenter.x - 150,
-                                    y: topCenter.y - 100,
-                                    width: 300,
-                                    height: 200
-                                )),
-                                with: .radialGradient(topGradient, center: topCenter, startRadius: 0, endRadius: 150)
-                            )
-                        }
-
                         // 떠다니는 빛 입자들
                         for i in 0..<18 {
                             let seed = Double(i)
@@ -123,6 +85,20 @@ struct PackPickerView: View {
             .onTapGesture { dismiss() }
 
             VStack(spacing: 0) {
+                // Close button
+                HStack {
+                    Spacer()
+                    Button { dismiss() } label: {
+                        Image(systemName: "xmark")
+                            .font(.system(size: 15, weight: .semibold))
+                            .foregroundStyle(.white.opacity(0.4))
+                            .frame(width: 32, height: 32)
+                    }
+                    .padding(.trailing, 20)
+                    .padding(.top, 16)
+                }
+                .opacity(appeared ? 1 : 0)
+
                 // Title area
                 VStack(spacing: 12) {
                     Text("카드팩 선택")
@@ -142,7 +118,7 @@ struct PackPickerView: View {
                     }
                     .animation(.easeOut(duration: 0.2), value: scrollPosition)
                 }
-                .padding(.top, 80)
+                .padding(.top, 20)
                 .opacity(appeared ? 1 : 0)
 
                 Spacer()
