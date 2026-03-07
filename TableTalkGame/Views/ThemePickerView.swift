@@ -130,7 +130,7 @@ struct ThemePickerView: View {
 
                 // Large center preview card
                 ThemeLargePreview(theme: currentTheme)
-                    .frame(width: 260, height: 260)
+                    .frame(width: 220, height: 220)
                     .scaleEffect(openingTheme == currentTheme ? 1.15 : (appeared ? 1 : 0.8))
                     .opacity(appeared ? 1 : 0)
                     .offset(y: -28)
@@ -139,6 +139,36 @@ struct ThemePickerView: View {
                     .onTapGesture {
                         selectTheme(currentTheme)
                     }
+
+                Spacer()
+                    .frame(height: 24)
+
+                // Select button
+                Button {
+                    selectTheme(currentTheme)
+                } label: {
+                    HStack(spacing: 8) {
+                        if selectedTheme == currentTheme {
+                            Image(systemName: "checkmark.circle.fill")
+                            Text("선택됨")
+                        } else {
+                            Image(systemName: "paintbrush.fill")
+                            Text("이 테마 적용")
+                        }
+                    }
+                    .font(.system(.headline, design: .rounded, weight: .bold))
+                    .foregroundStyle(.white)
+                    .frame(maxWidth: .infinity)
+                    .padding(.vertical, 16)
+                    .background(
+                        Capsule()
+                            .fill(currentTheme.accentColor)
+                            .shadow(color: currentTheme.accentColor.opacity(0.5), radius: 12, y: 4)
+                    )
+                }
+                .padding(.horizontal, 40)
+                .opacity(appeared ? 1 : 0)
+                .animation(.easeOut(duration: 0.2), value: scrollPosition)
 
                 Spacer()
 
