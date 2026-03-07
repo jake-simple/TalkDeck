@@ -166,32 +166,40 @@ struct CardView: View {
     // MARK: - Victorian Style (Christmas)
     private var victorianLayout: some View {
         VStack(spacing: 0) {
-            // Ornate header
-            HStack {
+            // Ornate header — 눈송이 + 홀리
+            HStack(spacing: 6) {
                 Image(systemName: "leaf.fill")
-                    .font(.system(size: 8))
-                    .foregroundStyle(Color(red: 0.15, green: 0.45, blue: 0.20).opacity(0.5))
+                    .font(.system(size: 9))
+                    .foregroundStyle(Color(red: 0.15, green: 0.50, blue: 0.20).opacity(0.5))
                     .rotationEffect(.degrees(-45))
 
+                Image(systemName: "circle.fill")
+                    .font(.system(size: 4))
+                    .foregroundStyle(Color(red: 0.85, green: 0.15, blue: 0.15).opacity(0.5))
+
                 Image(systemName: "snowflake")
-                    .font(.system(size: 10))
-                    .foregroundStyle(Color(red: 0.55, green: 0.40, blue: 0.15).opacity(0.5))
+                    .font(.system(size: 14))
+                    .foregroundStyle(Color(red: 0.80, green: 0.65, blue: 0.20).opacity(0.6))
+
+                Image(systemName: "circle.fill")
+                    .font(.system(size: 4))
+                    .foregroundStyle(Color(red: 0.85, green: 0.15, blue: 0.15).opacity(0.5))
 
                 Image(systemName: "leaf.fill")
-                    .font(.system(size: 8))
-                    .foregroundStyle(Color(red: 0.15, green: 0.45, blue: 0.20).opacity(0.5))
+                    .font(.system(size: 9))
+                    .foregroundStyle(Color(red: 0.15, green: 0.50, blue: 0.20).opacity(0.5))
                     .rotationEffect(.degrees(45))
             }
             .padding(.top, 24)
 
-            // Divider with diamond
+            // Divider with star
             HStack(spacing: 6) {
                 Rectangle()
                     .fill(Color(red: 0.80, green: 0.65, blue: 0.20).opacity(0.3))
                     .frame(height: 1)
-                Image(systemName: "diamond.fill")
-                    .font(.system(size: 5))
-                    .foregroundStyle(Color(red: 0.80, green: 0.65, blue: 0.20).opacity(0.5))
+                Image(systemName: "star.fill")
+                    .font(.system(size: 6))
+                    .foregroundStyle(Color(red: 0.80, green: 0.65, blue: 0.20).opacity(0.6))
                 Rectangle()
                     .fill(Color(red: 0.80, green: 0.65, blue: 0.20).opacity(0.3))
                     .frame(height: 1)
@@ -211,14 +219,20 @@ struct CardView: View {
 
             Spacer()
 
-            // Bottom ornament
+            // Bottom ornament — 크리스마스 오너먼트
             HStack(spacing: 6) {
                 Rectangle()
                     .fill(Color(red: 0.80, green: 0.65, blue: 0.20).opacity(0.3))
                     .frame(height: 1)
-                Image(systemName: "diamond.fill")
-                    .font(.system(size: 5))
-                    .foregroundStyle(Color(red: 0.80, green: 0.65, blue: 0.20).opacity(0.5))
+                Image(systemName: "gift.fill")
+                    .font(.system(size: 7))
+                    .foregroundStyle(Color(red: 0.85, green: 0.15, blue: 0.15).opacity(0.45))
+                Image(systemName: "snowflake")
+                    .font(.system(size: 6))
+                    .foregroundStyle(Color(red: 0.80, green: 0.65, blue: 0.20).opacity(0.4))
+                Image(systemName: "gift.fill")
+                    .font(.system(size: 7))
+                    .foregroundStyle(Color(red: 0.85, green: 0.15, blue: 0.15).opacity(0.45))
                 Rectangle()
                     .fill(Color(red: 0.80, green: 0.65, blue: 0.20).opacity(0.3))
                     .frame(height: 1)

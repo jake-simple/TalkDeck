@@ -143,6 +143,8 @@ struct CardDecorationOverlay: View {
     private func christmasFrame(w: CGFloat, h: CGFloat) -> some View {
         Canvas { ctx, size in
             let gold = Color(red: 0.80, green: 0.65, blue: 0.20)
+            let red = Color(red: 0.85, green: 0.15, blue: 0.15)
+            let green = Color(red: 0.15, green: 0.50, blue: 0.20)
             let outer: CGFloat = 12
             let inner: CGFloat = 22
 
@@ -152,40 +154,129 @@ struct CardDecorationOverlay: View {
             ctx.stroke(Path(roundedRect: CGRect(x: inner, y: inner, width: size.width - inner * 2, height: size.height - inner * 2), cornerRadius: 6),
                       with: .color(gold.opacity(0.3)), lineWidth: 1)
 
-            // Corner flourishes (L shapes)
-            let fl: CGFloat = 25
-            let positions: [(CGFloat, CGFloat, Bool, Bool)] = [
+            // Corner holly decorations
+            let corners: [(CGFloat, CGFloat, Bool, Bool)] = [
                 (outer + 3, outer + 3, false, false),
                 (size.width - outer - 3, outer + 3, true, false),
                 (size.width - outer - 3, size.height - outer - 3, true, true),
                 (outer + 3, size.height - outer - 3, false, true),
             ]
-            for (x, y, flipX, flipY) in positions {
-                var p = Path()
+            for (x, y, flipX, flipY) in corners {
                 let dx: CGFloat = flipX ? -1 : 1
                 let dy: CGFloat = flipY ? -1 : 1
+
+                // L자 장식
+                let fl: CGFloat = 25
+                var p = Path()
                 p.move(to: CGPoint(x: x, y: y + dy * fl))
                 p.addLine(to: CGPoint(x: x, y: y))
                 p.addLine(to: CGPoint(x: x + dx * fl, y: y))
                 ctx.stroke(p, with: .color(gold.opacity(0.6)), lineWidth: 2)
 
-                // Small curl at the end
-                let curl = Path(ellipseIn: CGRect(x: x + dx * fl - 2, y: y - 2, width: 4, height: 4))
-                ctx.fill(curl, with: .color(gold.opacity(0.4)))
-                let curl2 = Path(ellipseIn: CGRect(x: x - 2, y: y + dy * fl - 2, width: 4, height: 4))
-                ctx.fill(curl2, with: .color(gold.opacity(0.4)))
+                // 홀리 잎 (두 잎)
+                let leafX = x + dx * 8
+                let leafY = y + dy * 8
+                let leaf1 = Path(ellipseIn: CGRect(x: leafX - 5, y: leafY - 2.5, width: 10, height: 5))
+                let leaf2 = Path(ellipseIn: CGRect(x: leafX - 2.5, y: leafY - 5, width: 5, height: 10))
+                ctx.fill(leaf1, with: .color(green.opacity(0.25)))
+                ctx.fill(leaf2, with: .color(green.opacity(0.25)))
+
+                // 홀리 열매
+                let berry = Path(ellipseIn: CGRect(x: leafX - 2, y: leafY - 2, width: 4, height: 4))
+                ctx.fill(berry, with: .color(red.opacity(0.5)))
             }
 
-            // Center ribbon cross
-            var vRibbon = Path()
-            vRibbon.addRect(CGRect(x: size.width / 2 - 1, y: outer + 2, width: 2, height: size.height - outer * 2 - 4))
-            ctx.fill(vRibbon, with: .color(gold.opacity(0.08)))
+            // 하단 중앙 크리스마스 트리
+            let treeX = size.width / 2
+            let treeBaseY = size.height - outer - 8
+            let treeTopY = size.height - outer - 50
 
-            // Ribbon bow at center top
-            let bowCenter = CGPoint(x: size.width / 2, y: outer + 6)
-            var bow = Path()
-            bow.addEllipse(in: CGRect(x: bowCenter.x - 8, y: bowCenter.y - 4, width: 16, height: 8))
-            ctx.fill(bow, with: .color(gold.opacity(0.15)))
+            // 트리 몸체 (3단 삼각형)
+            let layers: [(CGFloat, CGFloat, CGFloat)] = [
+                (treeTopY, 6, 14),         // 꼭대기
+                (treeTopY + 12, 10, 18),   // 중간
+                (treeTopY + 26, 14, 22),   // 아래
+            ]
+            for (topY, topW, botW) in layers {
+                var tri = Path()
+                tri.move(to: CGPoint(x: treeX, y: topY))
+                tri.addLine(to: CGPoint(x: treeX - botW / 2, y: topY + 14))
+                tri.addLine(to: CGPoint(x: treeX + botW / 2, y: topY + 14))
+                tri.closeSubpath()
+                ctx.fill(tri, with: .color(green.opacity(0.3)))
+                ctx.stroke(tri, with: .color(green.opacity(0.15)), lineWidth: 0.5)
+
+                // 트리 위 장식 (반짝이는 오너먼트)
+                let ornamentPositions: [(CGFloat, CGFloat)] = [
+                    (treeX - topW / 2.5, topY + 8),
+                    (treeX + topW / 2.5, topY + 10),
+                ]
+                for (ox, oy) in ornamentPositions {
+                    let ornament = Path(ellipseIn: CGRect(x: ox - 1.5, y: oy - 1.5, width: 3, height: 3))
+                    ctx.fill(ornament, with: .color(red.opacity(0.5)))
+                }
+            }
+
+            // 트리 줄기
+            var trunk = Path()
+            trunk.addRect(CGRect(x: treeX - 2.5, y: treeBaseY - 6, width: 5, height: 6))
+            ctx.fill(trunk, with: .color(Color(red: 0.45, green: 0.30, blue: 0.15).opacity(0.3)))
+
+            // 트리 꼭대기 별
+            let starCX = treeX
+            let starCY = treeTopY - 4
+            for arm in 0..<5 {
+                let angle = CGFloat(arm) * .pi * 2 / 5 - .pi / 2
+                let outerX = starCX + cos(angle) * 5
+                let outerY = starCY + sin(angle) * 5
+                var ray = Path()
+                ray.move(to: CGPoint(x: starCX, y: starCY))
+                ray.addLine(to: CGPoint(x: outerX, y: outerY))
+                ctx.stroke(ray, with: .color(gold.opacity(0.7)), lineWidth: 1)
+            }
+            let starDot = Path(ellipseIn: CGRect(x: starCX - 2, y: starCY - 2, width: 4, height: 4))
+            ctx.fill(starDot, with: .color(gold.opacity(0.8)))
+
+            // 상단 중앙 눈송이 장식
+            let snowCX = size.width / 2
+            let snowCY = outer + 16
+            for arm in 0..<6 {
+                let angle = CGFloat(arm) * .pi / 3
+                let endX = snowCX + cos(angle) * 8
+                let endY = snowCY + sin(angle) * 8
+                var armPath = Path()
+                armPath.move(to: CGPoint(x: snowCX, y: snowCY))
+                armPath.addLine(to: CGPoint(x: endX, y: endY))
+                ctx.stroke(armPath, with: .color(gold.opacity(0.4)), lineWidth: 0.8)
+
+                // 가지
+                let midX = snowCX + cos(angle) * 5
+                let midY = snowCY + sin(angle) * 5
+                for sign: CGFloat in [-1, 1] {
+                    let bAngle = angle + sign * .pi / 4
+                    var branch = Path()
+                    branch.move(to: CGPoint(x: midX, y: midY))
+                    branch.addLine(to: CGPoint(x: midX + cos(bAngle) * 3, y: midY + sin(bAngle) * 3))
+                    ctx.stroke(branch, with: .color(gold.opacity(0.3)), lineWidth: 0.6)
+                }
+            }
+
+            // 프레임 위 작은 눈송이들
+            let miniSnowflakes: [(CGFloat, CGFloat, CGFloat)] = [
+                (outer + 20, size.height * 0.3, 4),
+                (size.width - outer - 20, size.height * 0.25, 3.5),
+                (outer + 18, size.height * 0.7, 3),
+                (size.width - outer - 18, size.height * 0.75, 4),
+            ]
+            for (sx, sy, sr) in miniSnowflakes {
+                for arm in 0..<6 {
+                    let angle = CGFloat(arm) * .pi / 3
+                    var armPath = Path()
+                    armPath.move(to: CGPoint(x: sx, y: sy))
+                    armPath.addLine(to: CGPoint(x: sx + cos(angle) * sr, y: sy + sin(angle) * sr))
+                    ctx.stroke(armPath, with: .color(gold.opacity(0.2)), lineWidth: 0.5)
+                }
+            }
         }
         .frame(width: w, height: h)
     }
