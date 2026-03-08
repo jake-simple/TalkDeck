@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  TableTalkGame
+//  TalkDeck
 //
 //  Created by JMLee on 3/6/26.
 //

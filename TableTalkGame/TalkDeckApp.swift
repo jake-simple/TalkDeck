@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct TableTalkGameApp: App {
+struct TalkDeckApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

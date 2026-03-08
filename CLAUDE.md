@@ -4,9 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-TableTalkGame is a Korean-language iOS card game app for conversation starters. Users swipe through themed question cards across 16 card packs (e.g., friends, couple, family, icebreaking). The app features 13 visual themes with per-theme card layouts inspired by trading card games (Yu-Gi-Oh, Pokemon, MTG, Tarot, etc.).
+TalkDeck (이야기 카드) is a Korean-language iOS card game app for conversation starters. Users swipe through themed question cards across 16 card packs (e.g., friends, couple, family, icebreaking). The app features 13 visual themes with per-theme card layouts inspired by trading card games (Yu-Gi-Oh, Pokemon, MTG, Tarot, etc.).
 
-- **Bundle ID:** com.onessa.TableTalkGame
+- **Bundle ID:** com.onessa.TalkDeck
 - **Deployment Target:** iOS 26.2
 - **Swift Version:** 5.0
 - **UI Framework:** SwiftUI (no UIKit storyboards)
@@ -23,7 +23,7 @@ Single-screen app with overlay-based navigation (no NavigationStack/NavigationVi
 
 ### Data Flow
 ```
-TableTalkGameApp -> ContentView -> CardDeckView (main screen)
+TalkDeckApp -> ContentView -> CardDeckView (main screen)
                                     ├── CardView (question card display)
                                     ├── PackPickerView (overlay - card pack selector)
                                     ├── ThemePickerView (overlay - theme selector)
