@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Ich habe noch nie nach 3 Uhr nachts eine Lieferung bestellt.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie den Wecker mehr als 10 Mal ausgeschaltet.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie beim Essen einfach eingeschlafen.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie erst kurz vor dem Aufbruch für die Arbeit oder Schule aufgewacht.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie den Kühlschrank geöffnet und wieder zugemacht, ohne etwas rauszunehmen.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie Essen gegessen, das abgelaufen war.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie beim Einkaufen das Budget mehr als verdoppelt.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie Wäsche länger als eine Woche liegen lassen.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie länger als zwei Tage nicht geduscht.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie eine Nachricht mehr als einen Tag nicht beantwortet.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie einen Snack gegessen und danach sofort geschlafen.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie beim Anschauen eines Videos die ganze Nacht durchgemacht.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie Geschirr länger als einen Tag stehen lassen.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie die Schuhe schnüren zu faul gefunden und sie einfach reingeschlüpft.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie beim Staubsaugen mittendrin aufgehört, weil es mir zu nervig war.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie gegessen und danach nicht mehr gewusst, was ich aß.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie mit weniger als 1% Akku überlebt.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie im Supermarkt spontan mehr als 30 Euro ungeplantem ausgegeben.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie die Fingernägel zu lang werden lassen.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie beim Essen Soße auf das Hemd gekleckert.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie mehr als 30 Minuten einen Gegenstand gesucht, weil ich nicht wusste, wo ich ihn hingelegt hatte.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie mit der Karte bezahlt und nicht gewusst, wie viel noch drauf ist.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie zu faul zum Kochen auf eine Mahlzeit verzichtet.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie mehr als drei Kaffee an einem Tag getrunken.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie einem Fremden den Weg gezeigt.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie das falsche Datum für ein Paket angenommen und vergeblich gewartet.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie etwas anderes gekauft als das, was ich eigentlich kaufen wollte.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie längere Zeit mit nur einem Kopfhörer im Ohr rumgelaufen.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie im Bus oder in der Bahn verschlafen und meine Haltestelle verpasst.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie eine Lieferung kalt werden lassen, weil ich sie nicht rechtzeitig geholt habe.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie das Handy zuhause vergessen.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie mehr als zwei Stunden in YouTube-Algorithmen versunken.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie das Datum eines Treffens verwechselt und umsonst gewartet.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie ein Paket tagelang ungeöffnet liegen lassen.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie die Geldbörse vergessen und Probleme gehabt.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie das gleiche Video mehr als dreimal angeschaut.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie im Supermarkt zweimal die gleichen Kostproben probiert.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie einen ganzen Tag das Haus nicht verlassen.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie mich zum Schlafen hingelegt und dann noch zwei Stunden aufs Handy geschaut.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie eine Lieferbestellung storniert und danach nochmal bestellt.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ich habe noch nie Bungee Jumping gemacht.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie spontan ein Flugticket gekauft.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie alleine ins Ausland gereist.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie Skydiving oder Paragliding gemacht.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie ohne Plan eine Reise angetreten.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie in einem Zelt draußen übernachtet.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie Snowboard oder Ski gefahren.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie gesurft.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie auf einer einsamen Insel oder in der Wildnis übernachtet.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie länger als einen Monat in einem anderen Land gelebt.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie Höhenangst überwunden und bin trotzdem auf etwas Hohes geklettert.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie mich in einem neuen Stadtviertel verlaufen.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie eine lange Strecke mit dem Motorrad oder Fahrrad zurückgelegt.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie richtig schwimmen gelernt.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie bis in die frühen Morgenstunden in einem Club gefeiert.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie einen Punkt von meiner Bucket List abgehakt.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie in einem Heißluftballon oder Kleinflugzeug gesessen.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie um 4 Uhr früh einen Sonnenaufgang angeschaut.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie alleine eine Ausstellung oder ein Konzert besucht.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie mit Freunden spontan eine Spritztour gemacht.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie einen Fremden angesprochen und mich mit ihm angefreundet.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie ehrenamtlich geholfen.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie ein unbekanntes Essen einfach probiert, ohne zu wissen, was es ist.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie alleine einen Berg bestiegen.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie die Nacht am Meer oder an einem See verbracht.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie durch einen Wettbewerb zum ersten Mal den ersten Platz belegt.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie mit minimalem Gepäck als Backpacker gereist.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie mehr als einen Tag alleine in einer fremden Stadt verbracht.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie die ganze Nacht Games gespielt oder Serien geschaut.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie vor Publikum auf einer Bühne gestanden.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie in einem komplett neuen Bereich etwas gelernt.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie alleine eine längere Zugreise gemacht.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie mitten in der Nacht spontan einen Ausflug gemacht.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie auf einer Party Fremde kennengelernt und mich sofort gut verstanden.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie ernsthaft angefangen, eine neue Sprache zu lernen.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie einen besonderen Sonnenuntergang oder eine Skyline absichtlich aufgesucht.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie ein unbekanntes Restaurant gezielt besucht.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie alleine gelebt.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie ein richtiges Gruselhaus oder eine Geisterbahn erlebt.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie extreme Hitze oder Kälte im Freien ausgehalten.",
+    "category": "adventure"
+  },
+  {
+    "question": "Ich habe noch nie ein Blind Date abgebrochen.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie jemanden blockiert.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie einen Liebesantrag bekommen.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie als Erstes jemanden angesprochen.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie nach einer Trennung darauf verzichtet, die Person zu kontaktieren.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie erlebt, dass eine Freundschaft plötzlich abbricht.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie mehr als ein Jahr lang heimlich jemanden gemocht.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie in einer öffentlichen Beziehung gelebt.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie erlebt, dass Missverständnisse eine Beziehung abgekühlt haben.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie wegen eines Freundes geweint.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie einen großen Streit mit meinem Partner gehabt.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie einem Freund direkt gesagt, dass er mich verletzt hat.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie einen Trost gegeben, der nicht von Herzen kam.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie als Erstes eine Beziehung beendet.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie wegen meines Partners geweint.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie eine Beziehung aufrechterhalten, die ich eigentlich nicht wollte.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie so getan, als ob ich eine Person mag, die ich eigentlich nicht mag.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie mich bei jemandem, den ich gerade kennengelernt habe, schnell angefreundet.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie einem Freund Geld geliehen.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie einen Gruppenchat verlassen.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie mich mit einem Ex wieder getroffen.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie jemanden wiedergetroffen, mit dem ich lange keinen Kontakt hatte.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie einen großen Streit mit einem Familienmitglied gehabt.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie meinem Partner eine Überraschung bereitet.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie bei einem Treffen einfach kein Wort gesagt.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie jemanden lange missverstanden.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie ein komisches Gefühl mit den Freunden meines Partners gehabt.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie jemanden gemocht, aber dann aufgehört, es zu versuchen.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie eine Erinnerung, die sich von der eines alten Freundes unterscheidet, erlebt.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie als Erstes den Kontakt abgebrochen.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie vor jemandem, den ich mochte, kein Wort herausgebracht.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie das Geheimnis eines Freundes an jemand anderen erzählt.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie jemandem von Herzen gedankt.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie Schwierigkeiten gehabt, als Erstes sorry zu sagen.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie nach dem Ende einer Beziehung ein Gefühl der Erleichterung gespürt.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie jemanden, auf den ich hohe Erwartungen gesetzt hatte, enttäuschend gefunden.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie ein fremdes Kind angesprochen.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie wegen einer geliebten Person auf etwas verzichtet.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie eine Kontaktmöglichkeit verloren und deshalb jemanden nicht mehr erreichen können.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie einen aufrichtigen Brief geschrieben.",
+    "category": "relationship"
+  },
+  {
+    "question": "Ich habe noch nie heimlich lange jemandes Social-Media-Profil durchstöbert.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie einen Termin mit einer Ausrede abgesagt.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie eine Nachricht gelesen und so getan, als hätte ich sie nicht gesehen.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie heimlich alleine geweint.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie so enttäuscht von mir selbst war, dass ich für eine Weile antriebslos war.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie vorgegeben krank zu sein, obwohl ich es nicht war.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie ein Geschenk bekommen und insgeheim gedacht, es sei nichts Besonderes.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie bei einem Treffen früh gehen wollen, aber aus Rücksicht geblieben.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie gesagt, dass etwas lecker war, obwohl es das nicht war.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie auf jemanden neidisch war und es heimlich mit mir ausgemacht.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie ein Lob bekommen und dabei innerlich ein gemischtes Gefühl gehabt.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie so getan, als hätte ich ein Buch gelesen, das ich nicht gelesen hatte.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie so getan, als wäre ich an einem Thema interessiert, das mich nicht interessiert.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie so getan, als höre ich etwas zum ersten Mal, obwohl ich es schon kannte.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie ein schlechtes Gefühl einfach weggelächelt.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie gewusst, dass ich falsch lag, aber so getan, als wäre es mir nicht bewusst.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie vor anderen lächelnd getan, während ich auf dem Heimweg geweint habe.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie auf den Erfolg anderer neidisch war und das ehrlich zugegeben.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie einen Fehler mit einer Lüge verdeckt.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie übertrieben, weil ich Anerkennung wollte.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie alleine vor dem Spiegel komische Gesichter gezogen.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie „bis bald" gesagt, obwohl ich nicht vorhatte, es zu halten.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie einfach zugestimmt, obwohl ich wusste, dass jemand falsch lag.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie absichtlich so getan, als hätte ich eine Nachricht zu spät gesehen.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie so getan, als hätte ich Geld, obwohl ich keines hatte.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie heimlich jemandes Gespräch belauscht.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie ein schlechtes Ergebnis dem Pech zugeschoben.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie alleine Karaoke singen wollen.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie auf eine Nachricht von einer bestimmten Person gewartet und ständig aufs Handy geschaut.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie meine wahren Gefühle nicht ausgesprochen und es danach bereut.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie ein Foto gemacht, es nicht gemocht und heimlich gelöscht.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie versucht, vor anderen selbstbewusst zu wirken.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie ein Lob gehört und es innerlich nicht geglaubt.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie jemanden, den ich mochte, kalt behandelt.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie nach außen hin gelacht, aber innerlich war es mir alles andere als gut.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie eine dunkle Fantasie gehabt und mich selbst damit erschreckt.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie jemanden nie gesagt, was ich sagen wollte, und es für immer verpasst.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie etwas, das ich nicht tun wollte, trotzdem getan und dabei so getan, als wäre es okay.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie etwas, das falsch war, trotzdem gerechtfertigt.",
+    "category": "secret"
+  },
+  {
+    "question": "Ich habe noch nie nicht sagen wollen, wie alt ich wirklich bin.",
+    "category": "secret"
+  }
+]

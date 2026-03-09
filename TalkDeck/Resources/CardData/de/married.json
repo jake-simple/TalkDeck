@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Sag mir eins, wofür du mir in letzter Zeit besonders dankbar warst.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was kann ich zuhause besser als du – und was kannst du besser als ich?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wann ist es bei uns zuhause am friedlichsten?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Gibt es beim gemeinsamen Einkaufen etwas, worüber wir uns immer wieder uneinig sind?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was hast du zuletzt heimlich gegessen, ohne mir was zu sagen?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was liegt bei uns immer im Kühlschrank, das nur für dich ist?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was ist gerade dein häufigster Spruch im Alltag?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Kannst du beschreiben, was ich nach der Arbeit immer als Erstes tue?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was bestellen wir bei Lieferservice am häufigsten?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wann bist du am entspanntesten, wenn wir zusammen sind?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was tust du unbewusst, wenn du gestresst bist?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wie läuft bei uns der Temperaturkampf beim Heizen oder der Klimaanlage?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was ist das Erste, was du am Samstagmorgen tust?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Hast du beim Kochen eine bestimmte Eigenart, die dir selbst vielleicht gar nicht auffällt?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wer hat bei uns die Fernbedienung in der Hand?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wie teilen wir uns eigentlich das Putzen auf?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Welche App glaubst du nutze ich auf meinem Handy am meisten?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wer macht bei uns den Müll weg – ehrlich jetzt!",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was machst du unbewusst, wenn du guter Laune bist?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Gibt es eine Gewohnheit, die du vom anderen übernommen hast, seit wir zusammenleben?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wenn wir beide gleichzeitig aufs Handy schauen und lachen – was schauen wir dann meistens?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Hast du ein festes Ritual, kurz bevor du einschläfst?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wie ist die Platzaufteilung in unserem Bett eigentlich so?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Hast du ein bestimmtes Verhaltensmuster, wenn du wütend bist?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was haben wir seit unserer Hochzeit am meisten gekauft?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ändert sich bei uns je nach Situation, wie wir uns gegenseitig ansprechen?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Woran erkennst du schon beim Heimkommen, wie meine Stimmung ist?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Gibt es etwas von mir, das du heimlich entsorgen möchtest?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was stört nur mich zuhause, während du es überhaupt nicht wahrnimmst?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wie ist dein Wecker-Stil am Morgen? Anders als meiner?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was hat dich am meisten überrascht, als wir anfingen zusammenzuleben?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was ist eine Alltags-Vorliebe, die wir beide teilen?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was für eine Mimik oder Geste machst du, wenn du müde bist?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Hast du gerade ein neues Hobby, das dich beschäftigt?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "In welches Geschäft in der Nähe gehen wir am häufigsten zusammen?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Was ist das, worüber du mich am meisten nervst – oder ich dich?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wer von uns liebt es mehr, Pakete aufzumachen?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wie bist du, wenn du erkältet bist – eher still oder ein bisschen dramatisch?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "In welcher Reihenfolge machen wir uns morgens fertig?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Haben wir unsere eigene Geheimsprache oder Spitznamen füreinander?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Wie war dein erster Eindruck von mir, bevor wir geheiratet haben?",
+    "category": "memories"
+  },
+  {
+    "question": "Was war dein wirklicher innerer Moment, als du den Heiratsantrag gemacht hast oder bekommen hast?",
+    "category": "memories"
+  },
+  {
+    "question": "Was ist dein unvergesslichster Moment vom Hochzeitstag?",
+    "category": "memories"
+  },
+  {
+    "question": "Gab es einen Moment am Anfang unserer Ehe, der sich wirklich seltsam angefühlt hat?",
+    "category": "memories"
+  },
+  {
+    "question": "Erinnerst du dich an unseren ersten großen Streit? Was hast du daraus gelernt?",
+    "category": "memories"
+  },
+  {
+    "question": "Was war beim Planen der Hochzeit am schwierigsten?",
+    "category": "memories"
+  },
+  {
+    "question": "Gab es ein lustiges Erlebnis, als wir unsere Wohnung zum ersten Mal eingerichtet haben?",
+    "category": "memories"
+  },
+  {
+    "question": "Wie war es, als wir das erste Weihnachten oder die ersten Feiertage zusammen verbracht haben?",
+    "category": "memories"
+  },
+  {
+    "question": "Wann hast du mich am meisten zum Lachen gebracht?",
+    "category": "memories"
+  },
+  {
+    "question": "Haben wir schon mal zusammen geweint? Was war der Anlass?",
+    "category": "memories"
+  },
+  {
+    "question": "Was war das erste Möbelstück oder der erste Gegenstand, den wir nach der Hochzeit zusammen gekauft haben?",
+    "category": "memories"
+  },
+  {
+    "question": "Welcher Moment einer Reise, die wir zusammen gemacht haben, ist dir am meisten in Erinnerung geblieben?",
+    "category": "memories"
+  },
+  {
+    "question": "Gab es ein lustiges Erlebnis beim ersten Treffen mit meiner Familie?",
+    "category": "memories"
+  },
+  {
+    "question": "Was ist das witzigste Missverständnis oder der komischste Vorfall in unserem Eheleben?",
+    "category": "memories"
+  },
+  {
+    "question": "Welcher Jahrestag war für dich der ganz besondere?",
+    "category": "memories"
+  },
+  {
+    "question": "Gab es eine lustige Episode beim gemeinsamen Kochen?",
+    "category": "memories"
+  },
+  {
+    "question": "Haben wir einen besonderen Ort, der nur für uns Bedeutung hat?",
+    "category": "memories"
+  },
+  {
+    "question": "Gab es nach der Hochzeit eine Nacht, die du allein verbracht hast? Wie war das?",
+    "category": "memories"
+  },
+  {
+    "question": "Haben wir eine ganz eigene Art, uns nach einem Streit zu versöhnen?",
+    "category": "memories"
+  },
+  {
+    "question": "Hast du mir mal eine Überraschung gemacht – oder ich dir? Was war das?",
+    "category": "memories"
+  },
+  {
+    "question": "Was war das unerwartetste Talent, das du an mir entdeckt hast, seit wir zusammenleben?",
+    "category": "memories"
+  },
+  {
+    "question": "Wann hast du gedacht: Gut, dass ich dich geheiratet habe?",
+    "category": "memories"
+  },
+  {
+    "question": "Wie hat sich dein Blick auf mich verändert – vom Dating bis heute?",
+    "category": "memories"
+  },
+  {
+    "question": "Wann warst du in unserem Eheleben am nervösesten?",
+    "category": "memories"
+  },
+  {
+    "question": "Haben wir mal etwas zusammen ausprobiert und sind gescheitert? Was ist daraus geworden?",
+    "category": "memories"
+  },
+  {
+    "question": "Hat dich jemals jemand bei etwas erwischt, das du heimlich getan hast?",
+    "category": "memories"
+  },
+  {
+    "question": "Was hast du für mich getan, das mich am meisten gerührt hat?",
+    "category": "memories"
+  },
+  {
+    "question": "Was ist am meisten anders als das, was du dir vor der Ehe vorgestellt hast?",
+    "category": "memories"
+  },
+  {
+    "question": "Was habe ich für dich in einer schwierigen Zeit getan, das wirklich geholfen hat?",
+    "category": "memories"
+  },
+  {
+    "question": "Wie hast du dich gefühlt, als ich dich das erste Mal mit meinem Kosenamen angesprochen habe?",
+    "category": "memories"
+  },
+  {
+    "question": "Wie ist eine unserer gemeinsamen Traditionen oder Routinen entstanden?",
+    "category": "memories"
+  },
+  {
+    "question": "Hat sich nach der Hochzeit etwas in deinen Freundschaften verändert?",
+    "category": "memories"
+  },
+  {
+    "question": "Gibt es ein Hobby oder eine Aktivität, die ich wegen dir angefangen habe?",
+    "category": "memories"
+  },
+  {
+    "question": "Gibt es eine Eigenheit von mir, die dich anfangs gestört hat, die du jetzt aber süß findest?",
+    "category": "memories"
+  },
+  {
+    "question": "Was war der unerwartetste Moment in unserem Eheleben?",
+    "category": "memories"
+  },
+  {
+    "question": "Wann hast du das erste Mal wirklich das Gefühl gehabt, dass es 'unser Zuhause' ist?",
+    "category": "memories"
+  },
+  {
+    "question": "Was hat sich als Erstes in deinem Alltag verändert, nachdem wir geheiratet haben?",
+    "category": "memories"
+  },
+  {
+    "question": "Haben wir mal zusammen ein gemeinsames Projekt oder Ziel verwirklicht?",
+    "category": "memories"
+  },
+  {
+    "question": "Was haben wir gemeinsam erreicht, worauf du am stolzesten bist?",
+    "category": "memories"
+  },
+  {
+    "question": "Wann war es in unserer Ehe am friedlichsten?",
+    "category": "memories"
+  },
+  {
+    "question": "Gibt es etwas, wofür ich dir nie richtig gedankt habe?",
+    "category": "honestly"
+  },
+  {
+    "question": "In welchem Bereich bin ich als Partner noch nicht gut genug?",
+    "category": "honestly"
+  },
+  {
+    "question": "Tut mir leid – gibt es etwas, das ich dir noch nicht gesagt habe?",
+    "category": "honestly"
+  },
+  {
+    "question": "Worüber schlucke ich in unserem Eheleben am meisten hinweg?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was wünschst du dir, dass ich niemals verändere?",
+    "category": "honestly"
+  },
+  {
+    "question": "Über welches Thema fällt es dir am schwersten, mit mir zu reden?",
+    "category": "honestly"
+  },
+  {
+    "question": "Hast du das Gefühl, dass wir uns manchmal unterschiedlich zeigen, was Zuneigung ausdrücken angeht?",
+    "category": "honestly"
+  },
+  {
+    "question": "Gibt es etwas, das ich unwissentlich gesagt oder getan haben könnte, das dich verletzt hat?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was glaubst du, wünschst du dir von mir – und gebe ich dir das wirklich?",
+    "category": "honestly"
+  },
+  {
+    "question": "Gibt es etwas, das du mir wirklich sagen wolltest, aber den richtigen Moment verpasst hast?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was ist in unserer Ehe etwas, das du auf keinen Fall aufgeben willst?",
+    "category": "honestly"
+  },
+  {
+    "question": "Hast du das Gefühl, dass wir weniger miteinander reden als früher? Woran liegt das?",
+    "category": "honestly"
+  },
+  {
+    "question": "Gibt es etwas in unserem Eheleben, das du alleine trägst?",
+    "category": "honestly"
+  },
+  {
+    "question": "Welcher Moment war der wärmste, in dem ich dir meine Liebe gezeigt habe?",
+    "category": "honestly"
+  },
+  {
+    "question": "Glaubst du, dass wir uns genug Dankbarkeit zeigen?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was könnte ich tun, um dich besser zu verstehen?",
+    "category": "honestly"
+  },
+  {
+    "question": "Wann hast du in unserem Eheleben am stärksten gespürt, dass wir unterschiedliche Werte haben?",
+    "category": "honestly"
+  },
+  {
+    "question": "Hast du schon mal gedacht, du verlangst zu viel von mir?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was machen wir als Paar gerade gut?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was würdest du an unserer Art, Konflikte zu lösen, gerne verbessern?",
+    "category": "honestly"
+  },
+  {
+    "question": "Wie hat sich meine Persönlichkeit seit der Hochzeit verändert?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was glaubst du, womit du gerade zu kämpfen hast?",
+    "category": "honestly"
+  },
+  {
+    "question": "Haben wir unausgesprochene Regeln in unserer Ehe, die wir auch wirklich einhalten?",
+    "category": "honestly"
+  },
+  {
+    "question": "Hast du in unserem Eheleben schon mal Einsamkeit gefühlt?",
+    "category": "honestly"
+  },
+  {
+    "question": "Haben wir schon mal offen über körperliche Nähe und Zärtlichkeit geredet?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was war dein größtes Opfer in unserem Eheleben? Bereust du es?",
+    "category": "honestly"
+  },
+  {
+    "question": "In welchem Moment weißt du, dass du mich wirklich verstehst?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was brauchen wir, um als Paar noch glücklicher zu werden?",
+    "category": "honestly"
+  },
+  {
+    "question": "Unterstützt du meine Träume und Ziele genug?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was würdest du dem früheren Ich vor der Hochzeit raten?",
+    "category": "honestly"
+  },
+  {
+    "question": "Machst du dir manchmal Sorgen, wie ich mich selbst wahrnehme?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was können wir konkret tun, um mehr aufeinander zu achten?",
+    "category": "honestly"
+  },
+  {
+    "question": "Reden wir offen genug über Geld und Haushalt?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was würdest du sagen, wenn du mir erzählst, wie du dich durch mich verändert hast?",
+    "category": "honestly"
+  },
+  {
+    "question": "Wer gibt in unserem Eheleben öfter nach – du oder ich?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was an mir bewunderst du?",
+    "category": "honestly"
+  },
+  {
+    "question": "Wie denkst du über Zeit nur für dich in einer Ehe?",
+    "category": "honestly"
+  },
+  {
+    "question": "In welchem Bereich hast du dich durch unsere Ehe am meisten entwickelt?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was ist der Satz von mir, der dir am längsten in Erinnerung geblieben ist?",
+    "category": "honestly"
+  },
+  {
+    "question": "Was ist die größte Lektion, die mir unsere Ehe beigebracht hat?",
+    "category": "honestly"
+  },
+  {
+    "question": "Wie sollen wir in fünf Jahren als Paar aussehen?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was willst du unbedingt noch mit mir zusammen erleben?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es etwas, das du nach dem Renteneintritt unbedingt mit mir tun möchtest?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was ist ein Bucket-List-Ziel, das wir als Paar noch zusammen angehen wollen?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es ein Versprechen, das wir uns als Paar von nun an halten wollen?",
+    "category": "ahead"
+  },
+  {
+    "question": "Wo möchtest du im Alter leben? Was stellst du dir vor?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es etwas, das wir zusammen lernen möchten?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was ist unser gemeinsamer Maßstab für Glück?",
+    "category": "ahead"
+  },
+  {
+    "question": "Wenn wir jetzt ein gemeinsames Hobby anfangen würden – was wäre das?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es einen Traum, den du für mich hegst?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was können wir ab jetzt tun, um uns als Paar näherzukommen?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was an mir möchtest du in Zukunft gerne besser machen?",
+    "category": "ahead"
+  },
+  {
+    "question": "Welche Sprache würdest du lernen wollen, wenn wir es zusammen tun würden?",
+    "category": "ahead"
+  },
+  {
+    "question": "Wie sehen wir in zehn Jahren aus?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es ein Reiseziel, das wir öfter besuchen wollen?",
+    "category": "ahead"
+  },
+  {
+    "question": "Haben wir ein gemeinsames Ziel, auf das wir in unserem Eheleben hinarbeiten?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es einen Bereich, in dem du mir gegenüber in Zukunft aufmerksamer sein möchtest?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es eine Sache, die du zu unserem Hochzeitstag unbedingt mal machen möchtest?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es etwas, das du dir für unsere Wohnung noch wünschst?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was fühlst du, wenn du daran denkst, mit mir alt zu werden?",
+    "category": "ahead"
+  },
+  {
+    "question": "Mit welchem Wort möchtest du unsere Beziehung in Zukunft beschreiben?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was ist eine Sache, die du mir für immer geben möchtest?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es eine Gewohnheit in unserem gemeinsamen Gespräch, die du gerne ändern würdest?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was ist eine Routine, die du im Alter täglich mit mir teilen möchtest?",
+    "category": "ahead"
+  },
+  {
+    "question": "Welchen Traum von mir möchtest du in der Zukunft besonders unterstützen?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es einen nächsten Schritt in unserem Eheleben, den du gerne machen würdest?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es eine Tradition oder ein Ritual, das wir als Paar gemeinsam entwickeln wollen?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es eine Möglichkeit, wie wir gemeinsam etwas zur Gesellschaft beitragen könnten?",
+    "category": "ahead"
+  },
+  {
+    "question": "Wie möchtest du unsere Wohnung in Zukunft verändern?",
+    "category": "ahead"
+  },
+  {
+    "question": "Wie möchtest du verändern, wie du mir deine Liebe zeigst?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was ist ein kleines Ziel, das du nächstes Jahr in unserem Eheleben erreichen möchtest?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was glaubst du, können wir zusammen immer schaffen – egal was kommt?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was ist in unserer Beziehung das Wichtigste, das du für immer bewahren möchtest?",
+    "category": "ahead"
+  },
+  {
+    "question": "Wie sieht unsere Wochenend-Routine in zwanzig Jahren aus?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es eine Überraschung, die du mir in Zukunft unbedingt bereiten möchtest?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was möchtest du mir durch dieses heutige Gespräch besonders sagen?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es Inhalte – ein Buch, eine Serie – die wir in Zukunft zusammen lesen oder schauen möchten?",
+    "category": "ahead"
+  },
+  {
+    "question": "Möchtest du gemeinsam mit mir ehrenamtlich tätig sein oder etwas spenden?",
+    "category": "ahead"
+  },
+  {
+    "question": "Was können wir tun, um in Zukunft offener miteinander zu sein?",
+    "category": "ahead"
+  },
+  {
+    "question": "Gibt es eine gesunde Gewohnheit, die wir gemeinsam ab jetzt einführen wollen?",
+    "category": "ahead"
+  }
+]

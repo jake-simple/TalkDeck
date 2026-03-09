@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Wann war dein Kind in letzter Zeit am süßesten?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was war der stolzeste Moment, den du als Elternteil erlebt hast?",
+    "category": "parenting"
+  },
+  {
+    "question": "Wie hast du dich gefühlt, als dein Kind das erste Mal 'Mama' oder 'Papa' gesagt hat?",
+    "category": "parenting"
+  },
+  {
+    "question": "Beschreib den Moment, als dein Kind die ersten Schritte gemacht hat.",
+    "category": "parenting"
+  },
+  {
+    "question": "Was ist gerade das Lieblingsspiel deines Kindes?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was hat dein Kind zuletzt gesagt oder getan, das euch zum Lachen gebracht hat?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was hast du deinem Kind beigebracht, das es am schnellsten übernommen hat?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was hat dich an der Entwicklung deines Kindes zuletzt am meisten überrascht?",
+    "category": "parenting"
+  },
+  {
+    "question": "Welchen Gefühlsausdruck deines Kindes findest du am süßesten?",
+    "category": "parenting"
+  },
+  {
+    "question": "Hast du ein bestimmtes Einschlafritual mit deinem Kind?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was ist das Lieblingsspielzeug oder der Lieblingsgegenstand deines Kindes?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was hilft am besten, wenn dein Kind weint oder quengelt?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was machst du am liebsten, wenn du mit deinem Kind spielst?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was tut dein Kind gerade oft, das wirklich süß ist?",
+    "category": "parenting"
+  },
+  {
+    "question": "Erinnerst du dich, als dein Kind zum ersten Mal gelächelt hat? Wie hast du dich gefühlt?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was hast du gedacht, als du dein Kind zum ersten Mal im Arm gehalten hast?",
+    "category": "parenting"
+  },
+  {
+    "question": "Wann war es im Alltag mit deinem Kind am friedlichsten?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was war die schwerste Erfahrung, als dein Kind krank war?",
+    "category": "parenting"
+  },
+  {
+    "question": "Gibt es eine Geschichte hinter dem Namen deines Kindes?",
+    "category": "parenting"
+  },
+  {
+    "question": "Wie hat dein Kind reagiert, als es das erste Mal Essen probiert hat?",
+    "category": "parenting"
+  },
+  {
+    "question": "Wie war der erste Tag in der Kita oder im Kindergarten?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was hat dich dein Kind gelehrt, das du am wenigsten erwartet hättest?",
+    "category": "parenting"
+  },
+  {
+    "question": "Gab es einen Moment, in dem dich dein Kind in einer unerwarteten Situation gerührt hat?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was ist dein Lieblingsfoto von dir und deinem Kind?",
+    "category": "parenting"
+  },
+  {
+    "question": "Gab es einen Moment, in dem du das Gefühl hattest, dein Kind ist plötzlich gewachsen?",
+    "category": "parenting"
+  },
+  {
+    "question": "Wie war eure erste Reise mit dem Kind?",
+    "category": "parenting"
+  },
+  {
+    "question": "Wie hat dein Kind reagiert, als es das erste Mal ans Wasser oder ans Meer gekommen ist?",
+    "category": "parenting"
+  },
+  {
+    "question": "Wie habt ihr den ersten Geburtstag deines Kindes gefeiert?",
+    "category": "parenting"
+  },
+  {
+    "question": "Wie war es, als dein Kind das erste Mal mit anderen Kindern gespielt hat?",
+    "category": "parenting"
+  },
+  {
+    "question": "Bist du schon mal eingeschlafen, während du dein Kind ins Bett gebracht hast?",
+    "category": "parenting"
+  },
+  {
+    "question": "Hast du eine Lieblingspose für Selfies mit deinem Kind?",
+    "category": "parenting"
+  },
+  {
+    "question": "Gibt es ein Gericht, das du gerne für dein Kind kochen möchtest?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was ist euer Lieblingslied, das ihr zusammen singt?",
+    "category": "parenting"
+  },
+  {
+    "question": "Wie war es, als dein Kind das erste Mal selbst ein Buch aufgeschlagen hat?",
+    "category": "parenting"
+  },
+  {
+    "question": "Gibt es ein Weihnachts- oder Feiertagserlebnis mit deinem Kind, das dir in Erinnerung geblieben ist?",
+    "category": "parenting"
+  },
+  {
+    "question": "Gab es eine lustige Episode mit deinem Kind in öffentlichen Verkehrsmitteln?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was hat dich beim Großziehen deines Kindes am meisten überrascht?",
+    "category": "parenting"
+  },
+  {
+    "question": "Wie hast du dich gefühlt, als dein Kind das erste Mal 'Nein' gesagt hat?",
+    "category": "parenting"
+  },
+  {
+    "question": "Gab es einen Moment, in dem du dich bei deinem Kind schlecht gefühlt hast?",
+    "category": "parenting"
+  },
+  {
+    "question": "Was ist eine Sache, die du deinem Kind unbedingt beibringen möchtest, wenn es größer ist?",
+    "category": "parenting"
+  },
+  {
+    "question": "Hast du seit der Geburt eures Kindes neue Seiten an deinem Partner oder deiner Partnerin entdeckt?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gab es einen Moment, in dem dich dein Partner oder deine Partnerin beim Elternsein besonders gerührt hat?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was war euer größter Streit wegen der Kindererziehung?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Wie haben sich die Gesprächsthemen zwischen euch seit der Geburt verändert?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Habt ihr unterschiedliche Erziehungsstile? Wie habt ihr euch gefunden?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Habt ihr schon mal offen darüber geredet, wie ihr die Kinderbetreuung aufteilt?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Wie pflegt ihr eure Beziehung als Paar, seit ihr Eltern seid?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was hat dich am meisten beeindruckt, als du deinen Partner oder deine Partnerin mit dem Kind gesehen hast?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gab es einen Moment in der Elternzeit, in dem du deinen Partner oder deine Partnerin neu geliebt hast?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "In welchem Bereich harmoniert ihr als Eltern am besten?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Fühlt ihr euch als Paar näher als vor der Geburt?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Hattet ihr mal unterschiedliche Meinungen zur Erziehung? Wie habt ihr das gelöst?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gab es einen Moment in der Elternzeit, in dem du denkst, dein Partner oder deine Partnerin war verletzt, ohne es zu sagen?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was ist das Stolzeste, das ihr gemeinsam für euer Kind entschieden habt?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Habt ihr euch schon mal vor eurem Kind gestritten? Was habt ihr dabei gedacht?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gab es in der Elternzeit einen Moment, in dem du dich bei deinem Partner oder deiner Partnerin entschuldigen wolltest?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was an deinem Partner oder deiner Partnerin als Elternteil möchtest du dir selbst abschauen?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Habt ihr als Paar gemeinsame Grundsätze bei der Erziehung?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Wenn ihr eure Teamarbeit als Eltern bewerten würdet – wie viele Punkte von 10?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Wofür bist du deinem Partner oder deiner Partnerin seit der Geburt des Kindes besonders dankbar?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was war zuletzt eine Situation, über die ihr als Elternpaar gelacht habt?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Wie schafft ihr es, Zeit zu zweit zu haben, wenn das Kind da ist?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was tust du, wenn dein Partner oder deine Partnerin erschöpft ist?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gibt es Bereiche, in denen ihr durch die Elternschaft zusammen gewachsen seid?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was macht ihr meistens, wenn das Kind eingeschlafen ist?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Wie habt ihr euch geeinigt, wenn ihr unterschiedlicher Meinung über das Kind wart?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "In welchem Moment hast du am stärksten gespürt, wie gut es ist, deinen Partner oder deine Partnerin dabei zu haben?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gibt es eine neue Routine, die ihr als Paar entwickelt habt, seit ihr Eltern seid?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was war bisher der befriedigendste Moment, das Kind gemeinsam großzuziehen?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gibt es eine eigene Geheimsprache oder Ausdrücke, die ihr als Eltern entwickelt habt?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was ist die positivste Veränderung, die euer Kind in eure Beziehung gebracht hat?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Wann hast du gespürt, dass ihr als Eltern die gleichen Werte habt?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Habt ihr etwas Neues übereinander erfahren, seit ihr Eltern seid?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gibt es etwas, das in eurer Beziehung wichtiger geworden ist, seit ihr Eltern seid?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Hast du das Gefühl, dass euer Kind euch als Paar stärker zusammengeschweißt hat?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was bedeutet es für dich, gemeinsam ein Kind großzuziehen?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gibt es etwas, das du deinem Partner oder deiner Partnerin in der Elternzeit unbedingt sagen möchtest?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Wie hat sich dein Blick auf deinen Partner oder deine Partnerin seit der Geburt verändert?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was für ein Vorbild möchtet ihr als Paar für euer Kind sein?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Was hat dein Partner oder deine Partnerin in der Elternzeit für dich getan, wofür du noch immer dankbar bist?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gab es einen Moment, in dem du wirklich weglaufen wolltest, weil die Elternschaft so schwer war?",
+    "category": "hardships"
+  },
+  {
+    "question": "Wann hast du in der Elternschaft am meisten körperliche Erschöpfung gespürt?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was war die schlimmste Nacht, in der dein Kind nicht schlafen wollte?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hattest du jemals das Gefühl, keine Zeit mehr für dich selbst zu haben?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gab es einen Moment, in dem du deine Gefühle gegenüber deinem Kind nicht mehr im Griff hattest?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gab es einen Moment, in dem du als Elternteil deine eigene Identität verloren hast?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was ist am schwersten, wenn du Elternschaft und Arbeit unter einen Hut bringen musst?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hattest du ein Gefühl der Hilflosigkeit, als dein Kind krank war?",
+    "category": "hardships"
+  },
+  {
+    "question": "Wann hast du dich in der Elternschaft am einsamsten gefühlt?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gab es einen Moment, in dem du dir gewünscht hättest, einfach nur du selbst zu sein – nicht Mama oder Papa?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hast du in der Elternschaft Phasen von Niedergeschlagenheit oder Antriebslosigkeit erlebt? Wie bist du damit umgegangen?",
+    "category": "hardships"
+  },
+  {
+    "question": "Wie hast du dich gefühlt, als du deinem Kind gegenüber laut geworden bist?",
+    "category": "hardships"
+  },
+  {
+    "question": "Wann litt dein Schlaf am meisten unter der Elternschaft?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was vermisst du am meisten, das du wegen der Elternschaft aufgegeben hast?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hast du manchmal daran gezweifelt, ob du als Elternteil das Richtige tust?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hattest du Groll gegen deinen Partner oder deine Partnerin, den du nicht ausgesprochen hast?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gab es Konflikte mit Außenstehenden wegen der Kindererziehung?",
+    "category": "hardships"
+  },
+  {
+    "question": "Wie hast du die schwierigste Phase der Elternschaft durchgehalten?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hast du in der Elternzeit eigene Träume oder Ziele zurückgestellt?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was hast du gefühlt, als dein Kind nicht aufgehört hat zu weinen, egal was du getan hast?",
+    "category": "hardships"
+  },
+  {
+    "question": "Wie baust du den Stress der Elternschaft ab?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hattest du das Gefühl, dass deine Gesundheit seit der Geburt gelitten hat?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gab es einen Moment, in dem du als Elternteil an dir selbst enttäuscht warst?",
+    "category": "hardships"
+  },
+  {
+    "question": "War der Ratschlag oder die Einmischung anderer wegen der Erziehung manchmal zu viel?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gibt es Gefühle, die du in der Elternschaft für dich behalten hast, ohne sie zu teilen?",
+    "category": "hardships"
+  },
+  {
+    "question": "Wann hast du gemerkt, dass Elternsein viel schwerer ist als du dachtest?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was hat dich als frischgebackenes Elternteil am meisten überfordert?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was ist das Gefühl, das du in der Elternschaft am häufigsten unterdrückst?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was hat dich am meisten geängstigt, als du mit deinem kranken Kind zum Arzt musstest?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gab es Momente, in denen du wegen des Kindes auf deine eigene Gesundheit vergessen hast?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gab es eine Situation, in der du deinem Kind gegenüber keine andere Wahl hattest – und dir trotzdem leid tut?",
+    "category": "hardships"
+  },
+  {
+    "question": "Wann hast du die finanzielle Belastung durch das Kind am stärksten gespürt?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was macht dir als Elternteil am meisten Angst?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hast du dich durch die Elternschaft manchmal sozial isoliert gefühlt?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hast du das Gefühl, dass deine eigenen Schwächen als Elternteil deutlicher werden?",
+    "category": "hardships"
+  },
+  {
+    "question": "Wann konntest du in der Elternschaft deine Gefühle am wenigsten kontrollieren? Was hast du getan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gab es in der Elternschaft Momente, in denen du dir gewünscht hättest, du wärst nicht allein damit?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hast du mehr Sorgen, seit dein Kind größer wird – oder weniger?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was ist gerade das Schwerste an der Elternschaft – sag's ehrlich.",
+    "category": "hardships"
+  },
+  {
+    "question": "Was ist der Gedanke oder das Gefühl, das dich in der Elternschaft am meisten belastet?",
+    "category": "hardships"
+  },
+  {
+    "question": "Was bist du am dankbarsten für, seit dein Kind auf der Welt ist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Für welchen Moment in der Elternschaft bist du deinem Partner oder deiner Partnerin am dankbarsten?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es etwas Wertvolles, das du durch dein Kind neu kennengelernt hast?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Hat dir dein Kind eine Lebenslektion beigebracht?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es etwas, wofür du deinen eigenen Eltern seit der Geburt deines Kindes mehr dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was war zuletzt ein Moment, in dem du gedacht hast: Ich bin so froh, dieses Kind zu haben?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was hat dein Partner oder deine Partnerin für das Kind getan, wofür du am dankbarsten bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Hat sich dein Sinn für das Leben verändert, seit du Elternteil bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Wer aus deinem Umfeld hat euch bei der Elternschaft am meisten unterstützt?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Beschreib, was du innerlich fühlst, wenn dein Kind lacht.",
+    "category": "gratitude"
+  },
+  {
+    "question": "In welchem Bereich hast du durch die Elternschaft gewachsen?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es einen Satz deines Kindes, der deinen ganzen Tag verändert hat?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was schätzt du an deinem Partner oder deiner Partnerin als Elternteil noch mehr, seitdem ihr Eltern seid?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Arbeitest du jetzt fleißiger, weil du ein Kind hast?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Beschreib das Gefühl, wenn dein Kind sich an dich kuschelt.",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es in der Elternschaft Momente, in denen die Welt schöner aussah als je zuvor?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was hast du dank deines Kindes neu erlebt, wofür du dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Wann hast du in der Elternschaft das größte Geschenk gespürt?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es etwas, das du deinem Partner oder deiner Partnerin heute noch sagen möchtest – ein Dankeschön?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Wie hast du dich gefühlt, als dein Kind dich das erste Mal fest umarmt hat?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es etwas, das du wegen deines Kindes nicht aufgegeben hast?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Hast du manchmal das Gefühl, dass das langsamere Lebenstempo durch die Elternschaft eigentlich ein Geschenk ist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was fühlst du, wenn du dein schlafendes Kind ansiehst?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was ist das Schönste daran, die Elternschaft gemeinsam zu erleben?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Bist du durch dein Kind mutiger geworden?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was hat sich in dir selbst am meisten verändert, seitdem du Elternteil bist – und dafür bist du dankbar?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Wie hast du dich gefühlt, als dein Kind das erste Mal 'Ich liebe dich' gesagt hat?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es in der Elternschaft einen Moment, in dem du gedacht hast: Gut, dass ich nicht allein bin?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was ist der wertvollste Wert, den dir dein Kind beigebracht hat?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es eine Beziehung, die durch die Elternschaft tiefer geworden ist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was fühlst du, wenn dein Kind sich über Kleinigkeiten freut?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was ist das Größte, wofür du dankbar bist, seit du Elternteil bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Erzähl einen aktuellen Moment in der Elternschaft, der dich wirklich erfüllt hat.",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es etwas, das sich durch dein Kind in deiner Dankbarkeit gegenüber deinem Partner oder deiner Partnerin verändert hat?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Wann hast du das Gefühl gehabt, dass die bloße Existenz deines Kindes genug ist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es eine schwere Zeit in der Elternschaft, für die du im Nachhinein dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was bedeuten dein Kind, dein Partner oder deine Partnerin und diese Familie für dich?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Bist du dir bewusst, wie kostbar diese Zeit als Elternteil gerade ist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was ist das Schönste daran, dein Kind großzuziehen?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Wann hast du zuletzt 'Danke' zu deinem Partner oder deiner Partnerin gesagt?",
+    "category": "gratitude"
+  }
+]

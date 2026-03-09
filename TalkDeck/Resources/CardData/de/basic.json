@@ -1,0 +1,962 @@
+[
+  {
+    "question": "Hast du ein Guilty Pleasure, das du heimlich genießt, wenn niemand zuschaut?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was ist deine seltsamste Vorliebe beim Essen?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was magst du, das die meisten anderen ablehnen?",
+    "category": "vibe"
+  },
+  {
+    "question": "Ein Lied, von dem du nie genug kriegst?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hast du eine seltsame Routine, die nur du kennst?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was ist dein Lieblingsgeruch?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was bestellst du dir nachts um drei, wenn du allein bist?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hast du ein Hobby, über das die Leute staunen würden?",
+    "category": "vibe"
+  },
+  {
+    "question": "Wofür hast du dich am längsten begeistert?",
+    "category": "vibe"
+  },
+  {
+    "question": "Welche Jahreszeit magst du am liebsten und warum?",
+    "category": "vibe"
+  },
+  {
+    "question": "Wie baust du Stress ab — auf deine eigene Art?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was ist deine geheime Zutat, die du bei Nudeln immer hinzufügst?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was machst du unbedingt, bevor du einschläfst?",
+    "category": "vibe"
+  },
+  {
+    "question": "Welche Tageszeit magst du am liebsten und warum?",
+    "category": "vibe"
+  },
+  {
+    "question": "Welchen Song hörst du gerade am meisten?",
+    "category": "vibe"
+  },
+  {
+    "question": "Welche drei Apps nutzt du auf dem Handy am häufigsten?",
+    "category": "vibe"
+  },
+  {
+    "question": "Bestellst du im Café immer dasselbe?",
+    "category": "vibe"
+  },
+  {
+    "question": "Bist du ein Morgenmensch oder eine Nachteule?",
+    "category": "vibe"
+  },
+  {
+    "question": "Welche Art von YouTube-Videos zieht dich in den Sog?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was kaufst du immer im Supermarkt, egal was?",
+    "category": "vibe"
+  },
+  {
+    "question": "Worauf achtest du am meisten beim Kleidungskauf?",
+    "category": "vibe"
+  },
+  {
+    "question": "Welche Art von Inhalten schaust du dir auf Social Media meistens an?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hotel oder Airbnb auf Reisen — was ist dein Ding?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was möchtest du am liebsten tun, wenn es regnet?",
+    "category": "vibe"
+  },
+  {
+    "question": "Womit bist du gerade besonders beschäftigt?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was machst du am häufigsten, wenn du allein bist?",
+    "category": "vibe"
+  },
+  {
+    "question": "Wenn du nur einen Film aus deinem Leben behalten dürftest — welcher wäre es?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was würdest du jetzt am liebsten essen?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was hast du als Kind geliebt und magst heimlich immer noch?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was ist für dich das perfekte Wochenende?",
+    "category": "vibe"
+  },
+  {
+    "question": "Welchen Platz in deiner Wohnung magst du am liebsten?",
+    "category": "vibe"
+  },
+  {
+    "question": "Taxi oder öffentliche Verkehrsmittel — was bevorzugst du?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hast du einen Lieblingssnack für den Abend?",
+    "category": "vibe"
+  },
+  {
+    "question": "Nenn eine kleine Freude, die dich glücklich macht.",
+    "category": "vibe"
+  },
+  {
+    "question": "Was hast du zuletzt gegoogelt?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was kannst du in deinem Leben unmöglich aufgeben?",
+    "category": "vibe"
+  },
+  {
+    "question": "Welches Tier würdest du sein, wenn du dich vergleichen müsstest?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was hast du gerade in deiner Tasche?",
+    "category": "vibe"
+  },
+  {
+    "question": "Läuft bei dir beim Essen meistens ein Video?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hast du eine Lieblingsfarbe? Warum?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was packst du auf Reisen immer ein, egal wohin?",
+    "category": "vibe"
+  },
+  {
+    "question": "Worüber grübelst du gerade bei deinen Online-Bestellungen?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hast du ein Lieblingsrestaurant in deiner Nachbarschaft?",
+    "category": "vibe"
+  },
+  {
+    "question": "Machst du Sport? Was ist dein Lieblingsworkout?",
+    "category": "vibe"
+  },
+  {
+    "question": "Ein warmes Getränk im Winter oder ein kaltes im Sommer — was ist besser?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was war zuletzt das lustigste Video oder Meme, das du gesehen hast?",
+    "category": "vibe"
+  },
+  {
+    "question": "Wofür gibst du im Monat am meisten Geld aus?",
+    "category": "vibe"
+  },
+  {
+    "question": "Instagram-Feed oder Reels — was schaust du mehr?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kochst du gern? Hast du ein Gericht, das du gut beherrschst?",
+    "category": "vibe"
+  },
+  {
+    "question": "Gibt es ein Restaurant, das du am liebsten für dich behalten würdest?",
+    "category": "vibe"
+  },
+  {
+    "question": "Wie lange scrollst du vor dem Schlafen auf dem Handy?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hast du ein Lieblingsparfum oder einen Lieblingsduft?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hat dich ein Content zuletzt wirklich beeinflusst?",
+    "category": "vibe"
+  },
+  {
+    "question": "Gibt es ein überraschendes Genre in deiner Playlist?",
+    "category": "vibe"
+  },
+  {
+    "question": "Schläfst du am Wochenende lang oder stehst du früh auf?",
+    "category": "vibe"
+  },
+  {
+    "question": "Interessierst du dich für Inneneinrichtung? Welchen Stil magst du?",
+    "category": "vibe"
+  },
+  {
+    "question": "Schaust du dir Bewertungen genau an, bevor du online bestellst?",
+    "category": "vibe"
+  },
+  {
+    "question": "Wenn du dein Leben lang nur eine Sache essen dürftest — was wäre es?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hast du zuletzt ein neues Hobby angefangen?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kannst du ohne Kaffee kaum funktionieren?",
+    "category": "vibe"
+  },
+  {
+    "question": "Was würdest du tun, wenn du einen Tag lang unsichtbar wärst?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wohin würdest du dich sofort teleportieren, wenn du es könntest?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Welche Superkraft würdest du dir wünschen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "In welche Ära würdest du reisen, wenn du in die Vergangenheit könnte?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was würdest du auf eine einsame Insel mitnehmen — nur drei Dinge?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was wäre das Erste, was du tätest, wenn du im Lotto gewinnen würdest?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn morgen die Welt endet — was machst du heute?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du mit Tieren reden könntest — welches würdest du zuerst ansprechen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du einen anderen Beruf hätten dürftest — was wäre deine Wahl?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Als welche Filmfigur würdest du gerne leben?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du ein eigenes Geschäft eröffnen könntest — was wäre es?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was würdest du einem Außerirdischen als Erstes zeigen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was würdest du mit einem Jahr Sabbatical machen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was für ein Mensch warst du wohl in einem früheren Leben?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was möchtest du in 100 Jahren sehen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "In welchem Land würdest du gern ein Jahr leben?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wofür würdest du berühmt werden?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Für einen Tag jemand anderes sein — wer wärst du?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du die Zeit anhalten könntest — was würdest du in dieser Zeit machen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du sofort eine Sprache perfekt beherrschen dürftest — welche?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was würdest du deinem früheren Ich in einer Nachricht schreiben?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du deine Träume steuern könntest — was würdest du träumen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du eine eigene Insel hättest — wie würdest du sie gestalten?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Mit welcher historischen Person würdest du gerne zu Abend essen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du nur ein Hobby für immer behalten dürftest — welches?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was möchtest du unbedingt erleben, wenn du 100 wirst?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du ein eigenes Gesetz einführen dürftest — welches wäre es?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was würdest du anders machen, wenn du ins erste Semester zurückkehrst?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du plötzlich eine Million Euro hättest — würdest du weiterarbeiten?",
+    "category": "whatIf"
+  },
+  {
+    "question": "In welches Tier würdest du dich verwandeln?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du ein YouTube-Kanal wärst — welches Thema?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du eine Erinnerung für immer bewahren dürftest — welche?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wo auf der Welt würdest du dein Haus bauen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du ein Gericht unbegrenzt essen könntest — was wäre es?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du für einen Tag in die Vergangenheit zurückgehen könntest — wann?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du Regisseur wärst — welches Genre?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was würdest du machen, wenn du einen Monat freihättest?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Würdest du auf einem anderen Planeten leben wollen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du Gedanken lesen könntest — wäre das cool oder stressig?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Würdest du dein Leben zurücksetzen, wenn du könntest?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du fliegen könntest — wohin zuerst?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was glaubst du, was dein Paralleluniversum-Ich gerade macht?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wessen Autobiografie würdest du lesen wollen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn eine KI deinen perfekten Tag gestalten würde — würdest du folgen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du Gerüche als Farben sehen könntest — wie sähe die Welt aus?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du ein Buch schreiben würdest, das ein Bestseller wird — wovon handelt es?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du in deinem Leben nur einmal „zurückspulen" dürftest — wann?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn plötzlich niemand mehr lügen könnte — wie wäre die Welt?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Könntest du ein Jahr komplett ohne Social Media auskommen? Was würde sich ändern?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du durch Magie ein Talent bekommen könntest — welches?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was würde dein zukünftiges Ich dir in einem Brief schreiben?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn ein Roboter den Haushalt erledigen würde — was würdest du mit der Zeit anfangen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wie würdest du einen Tag verbringen, wenn du allein auf der Welt wärst?",
+    "category": "whatIf"
+  },
+  {
+    "question": "In welchen Manga oder Anime würdest du einsteigen wollen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was würdest du in eine Zeitkapsel legen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was würdest du einem berühmten Koch bestellen, der nur für dich kocht?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Welches Tier wäre in der Schule der Klassensprecher?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was würde dein Ich in zehn Jahren über dich von heute sagen?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du ein Problem in der Welt lösen könntest — welches?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Wenn du eine Jahreszeit abschaffen könntest — welche?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Was war der mutigste Moment in deinem Leben?",
+    "category": "story"
+  },
+  {
+    "question": "Was hast du aus deinem größten Misserfolg gelernt?",
+    "category": "story"
+  },
+  {
+    "question": "Gibt es eine Person, die dein Leben verändert hat?",
+    "category": "story"
+  },
+  {
+    "question": "Wie weit entfernt bist du von deinem Kindheitstraum?",
+    "category": "story"
+  },
+  {
+    "question": "Was war dein stolzester Moment in diesem Jahr?",
+    "category": "story"
+  },
+  {
+    "question": "Welche Erfahrung hat dich am meisten wachsen lassen?",
+    "category": "story"
+  },
+  {
+    "question": "Welches Kompliment ist dir am meisten in Erinnerung geblieben?",
+    "category": "story"
+  },
+  {
+    "question": "Was war der Wendepunkt in deinem Leben?",
+    "category": "story"
+  },
+  {
+    "question": "Welches Reiseerlebnis ist dir am meisten in Erinnerung geblieben?",
+    "category": "story"
+  },
+  {
+    "question": "Wann hast du zuletzt aus vollem Herzen gelacht?",
+    "category": "story"
+  },
+  {
+    "question": "Was war dein peinlichstes Erlebnis?",
+    "category": "story"
+  },
+  {
+    "question": "Wie war das Gefühl, das erste Mal Geld verdient zu haben?",
+    "category": "story"
+  },
+  {
+    "question": "Welchen Gegenstand besitzt du am längsten?",
+    "category": "story"
+  },
+  {
+    "question": "Welcher Lehrer ist dir aus der Schulzeit am meisten in Erinnerung?",
+    "category": "story"
+  },
+  {
+    "question": "Was war die lustigste Erinnerung mit einem Freund?",
+    "category": "story"
+  },
+  {
+    "question": "Wann warst du in deinem Leben am nervösesten?",
+    "category": "story"
+  },
+  {
+    "question": "Hast du zuletzt etwas Neues begonnen?",
+    "category": "story"
+  },
+  {
+    "question": "Welche Spiele hast du als Kind am liebsten gespielt?",
+    "category": "story"
+  },
+  {
+    "question": "Was war dein bewegendster Moment im Leben?",
+    "category": "story"
+  },
+  {
+    "question": "Was war deine kühnste Herausforderung?",
+    "category": "story"
+  },
+  {
+    "question": "Wann warst du zuletzt jemandem wirklich dankbar?",
+    "category": "story"
+  },
+  {
+    "question": "Welcher Ort aus deiner Kindheit ist dir am liebsten in Erinnerung?",
+    "category": "story"
+  },
+  {
+    "question": "Hast du schon mal alleine eine Reise gemacht?",
+    "category": "story"
+  },
+  {
+    "question": "Welcher Geburtstag ist dir am meisten in Erinnerung?",
+    "category": "story"
+  },
+  {
+    "question": "Wann bist du in deinem Leben am schnellsten gerannt?",
+    "category": "story"
+  },
+  {
+    "question": "Etwas, das du zufällig angefangen hast und das dein Leben beeinflusst hat?",
+    "category": "story"
+  },
+  {
+    "question": "Was war das leckerste Essen, das du je gegessen hast?",
+    "category": "story"
+  },
+  {
+    "question": "Welcher Film oder welche Serie hat dich zum ersten Mal wirklich berührt?",
+    "category": "story"
+  },
+  {
+    "question": "Was war deine schönste Erinnerung mit der Familie als Kind?",
+    "category": "story"
+  },
+  {
+    "question": "Eine unerwartete Freundlichkeit, die du von einem Fremden erhalten hast?",
+    "category": "story"
+  },
+  {
+    "question": "Wann hast du am längsten ohne Schlaf durchgehalten?",
+    "category": "story"
+  },
+  {
+    "question": "Was war das Beängstigendste, das du je erlebt hast?",
+    "category": "story"
+  },
+  {
+    "question": "Welches Konzert oder welche Aufführung ist dir am meisten im Gedächtnis?",
+    "category": "story"
+  },
+  {
+    "question": "Wie hast du zuletzt einen neuen Menschen kennengelernt?",
+    "category": "story"
+  },
+  {
+    "question": "Was war das unerwartetste Glück in deinem Leben?",
+    "category": "story"
+  },
+  {
+    "question": "Was wolltest du als Kind werden?",
+    "category": "story"
+  },
+  {
+    "question": "Hast du eine Erfahrung mit einer ernsteren Krankheit gemacht?",
+    "category": "story"
+  },
+  {
+    "question": "Was ist die Gewohnheit, die du am längsten beibehalten hast?",
+    "category": "story"
+  },
+  {
+    "question": "Wann hast du in deinem Leben den größten Entschluss gefasst?",
+    "category": "story"
+  },
+  {
+    "question": "Welches Feiertags- oder Familienerlebnis ist dir am meisten in Erinnerung?",
+    "category": "story"
+  },
+  {
+    "question": "Gab es einen Zufall, der sich wie Schicksal angefühlt hat?",
+    "category": "story"
+  },
+  {
+    "question": "Hast du eine Leistung erreicht, die andere nicht kennen?",
+    "category": "story"
+  },
+  {
+    "question": "Woran arbeitest du gerade mit vollem Einsatz?",
+    "category": "story"
+  },
+  {
+    "question": "Was war das schlimmste Wort, das du je gesagt hast und bereust?",
+    "category": "story"
+  },
+  {
+    "question": "Was hast du zuletzt über dich selbst herausgefunden?",
+    "category": "story"
+  },
+  {
+    "question": "Wie hast du deinen ältesten Freund kennengelernt?",
+    "category": "story"
+  },
+  {
+    "question": "Wann warst du in deinem Leben am geschäftigsten?",
+    "category": "story"
+  },
+  {
+    "question": "Hast du zuletzt ein neues Essen ausprobiert?",
+    "category": "story"
+  },
+  {
+    "question": "Welches Geschenk bewahrst du besonders wertvoll auf?",
+    "category": "story"
+  },
+  {
+    "question": "Welchen Ort hast du als Kind besonders oft besucht?",
+    "category": "story"
+  },
+  {
+    "question": "Was war das stolzeste Mal, dass du jemandem geholfen hast?",
+    "category": "story"
+  },
+  {
+    "question": "Wann hat dein Herz zuletzt Wärme gespürt?",
+    "category": "story"
+  },
+  {
+    "question": "Welche erste Begegnung ist dir am meisten in Erinnerung?",
+    "category": "story"
+  },
+  {
+    "question": "Hattest du mal einen perfekten Timing-Moment im Leben?",
+    "category": "story"
+  },
+  {
+    "question": "Gibt es ein Lied, das dich zum Weinen gebracht hat?",
+    "category": "story"
+  },
+  {
+    "question": "Ist mal etwas Ungeplantes super gut für dich ausgegangen?",
+    "category": "story"
+  },
+  {
+    "question": "Welcher Ratschlag hat dich am meisten geprägt?",
+    "category": "story"
+  },
+  {
+    "question": "Worauf hast du in deinem Leben am längsten gewartet?",
+    "category": "story"
+  },
+  {
+    "question": "Was war deine erste Arbeitsstelle oder dein erster Nebenjob?",
+    "category": "story"
+  },
+  {
+    "question": "Wann hast du mutig Nein gesagt?",
+    "category": "story"
+  },
+  {
+    "question": "Was würdest du deinem Ich von vor fünf Jahren sagen?",
+    "category": "deep"
+  },
+  {
+    "question": "Was bereust du am meisten, nicht getan zu haben?",
+    "category": "deep"
+  },
+  {
+    "question": "Was würdest du dein Ich in zehn Jahren fragen?",
+    "category": "deep"
+  },
+  {
+    "question": "Was sind drei Dinge, für die du im Leben am dankbarsten bist?",
+    "category": "deep"
+  },
+  {
+    "question": "Gibt es eine Zeit in deinem Leben, in die du gerne zurückkehren würdest?",
+    "category": "deep"
+  },
+  {
+    "question": "Beschreibe dich in einem Wort.",
+    "category": "deep"
+  },
+  {
+    "question": "Was ist deine größte Stärke?",
+    "category": "deep"
+  },
+  {
+    "question": "Wen bewunderst du am meisten und warum?",
+    "category": "deep"
+  },
+  {
+    "question": "Hat sich deine Vorstellung von Glück verändert?",
+    "category": "deep"
+  },
+  {
+    "question": "Welche Werte haben sich bei dir mit dem Alter am meisten verändert?",
+    "category": "deep"
+  },
+  {
+    "question": "Womit bist du in deinem Leben gerade am zufriedensten?",
+    "category": "deep"
+  },
+  {
+    "question": "Gibt es eine Seite von dir, die die meisten nicht kennen?",
+    "category": "deep"
+  },
+  {
+    "question": "Gibt es Momente, in denen du dich einsam fühlst?",
+    "category": "deep"
+  },
+  {
+    "question": "Was ist dir in menschlichen Beziehungen am wichtigsten?",
+    "category": "deep"
+  },
+  {
+    "question": "Was möchtest du unbedingt erleben, bevor du stirbst?",
+    "category": "deep"
+  },
+  {
+    "question": "Gibt es jemanden, bei dem du dich noch entschuldigen möchtest?",
+    "category": "deep"
+  },
+  {
+    "question": "Was bedeutet Erfolg für dich?",
+    "category": "deep"
+  },
+  {
+    "question": "Was macht dir gerade am meisten Angst?",
+    "category": "deep"
+  },
+  {
+    "question": "Was bedeutet Erwachsenwerden für dich?",
+    "category": "deep"
+  },
+  {
+    "question": "Was war die wichtigste Lektion in deinem Leben?",
+    "category": "deep"
+  },
+  {
+    "question": "Was beschäftigt dich gerade am meisten?",
+    "category": "deep"
+  },
+  {
+    "question": "Was ist für dich ein echter Freund?",
+    "category": "deep"
+  },
+  {
+    "question": "Was denkst du, welchen ersten Eindruck du bei anderen hinterlässt?",
+    "category": "deep"
+  },
+  {
+    "question": "Lebst du ohne Reue?",
+    "category": "deep"
+  },
+  {
+    "question": "Welche Emotion fällt dir am schwersten zu zeigen?",
+    "category": "deep"
+  },
+  {
+    "question": "Was war die prägendste Erfahrung, die dich zu dem gemacht hat, was du bist?",
+    "category": "deep"
+  },
+  {
+    "question": "Was kann man nicht kaufen, ist aber das Wertvollste?",
+    "category": "deep"
+  },
+  {
+    "question": "Hast du eine Lebensphilosophie?",
+    "category": "deep"
+  },
+  {
+    "question": "Glaubst du, dass Menschen sich wirklich ändern können?",
+    "category": "deep"
+  },
+  {
+    "question": "Warum brauchst du manchmal Zeit für dich allein?",
+    "category": "deep"
+  },
+  {
+    "question": "Wann bist du am verletzlichsten?",
+    "category": "deep"
+  },
+  {
+    "question": "Was würdest du in deinem Leben gerne ändern?",
+    "category": "deep"
+  },
+  {
+    "question": "Hast du jemanden schon mal enttäuscht?",
+    "category": "deep"
+  },
+  {
+    "question": "Wann fühlst du, dass du genug hast?",
+    "category": "deep"
+  },
+  {
+    "question": "Welches Gefühl empfindest du am häufigsten?",
+    "category": "deep"
+  },
+  {
+    "question": "Was glaubst du ist das Geheimnis guter Beziehungen?",
+    "category": "deep"
+  },
+  {
+    "question": "Wer kennt dich am besten?",
+    "category": "deep"
+  },
+  {
+    "question": "Hast du schon mal klar eine Grenze gesetzt?",
+    "category": "deep"
+  },
+  {
+    "question": "Was wird mit dem Alter immer wichtiger?",
+    "category": "deep"
+  },
+  {
+    "question": "Wann sinkt dein Selbstbewusstsein?",
+    "category": "deep"
+  },
+  {
+    "question": "Hast du für dein Glück etwas aufgeben müssen?",
+    "category": "deep"
+  },
+  {
+    "question": "Wie möchtest du in Erinnerung bleiben?",
+    "category": "deep"
+  },
+  {
+    "question": "Was ist der langgehegte Traum, den du mit dir trägst?",
+    "category": "deep"
+  },
+  {
+    "question": "Wie gehst du mit schwierigen Gefühlen um?",
+    "category": "deep"
+  },
+  {
+    "question": "Wie erholt man sich von Verletzungen in Beziehungen?",
+    "category": "deep"
+  },
+  {
+    "question": "Was bedeutet Freiheit für dich?",
+    "category": "deep"
+  },
+  {
+    "question": "Hattest du einen Moment, in dem du lügen musstest? Warum?",
+    "category": "deep"
+  },
+  {
+    "question": "Was bedeutet Familie für dich?",
+    "category": "deep"
+  },
+  {
+    "question": "Gibt es etwas, das du loslassen solltest, aber noch nicht loslassen konntest?",
+    "category": "deep"
+  },
+  {
+    "question": "Bist du eher ein Leader oder ein Teamplayer? Warum?",
+    "category": "deep"
+  },
+  {
+    "question": "Fühlst du manchmal, dass dein inneres und äußeres Ich unterschiedlich sind?",
+    "category": "deep"
+  },
+  {
+    "question": "Glaubst du an bedingungslose Liebe?",
+    "category": "deep"
+  },
+  {
+    "question": "Was möchtest du jemandem sagen, dem du gerade dankbar bist?",
+    "category": "deep"
+  },
+  {
+    "question": "In welcher Beziehung fühlst du dich am meisten du selbst?",
+    "category": "deep"
+  },
+  {
+    "question": "Was ist letztendlich das Wichtigste im Leben?",
+    "category": "deep"
+  },
+  {
+    "question": "Lässt du dich von den Meinungen anderer beeinflussen?",
+    "category": "deep"
+  },
+  {
+    "question": "Glaubst du, dass deine heutigen Sorgen in einem Jahr noch genauso groß sind?",
+    "category": "deep"
+  },
+  {
+    "question": "Was gibt dir Mut?",
+    "category": "deep"
+  },
+  {
+    "question": "Warum fällt es dir schwer, deine Schwächen zu zeigen?",
+    "category": "deep"
+  },
+  {
+    "question": "Wenn du deinem Leben Punkte geben müsstest — wie viele wären es und warum?",
+    "category": "deep"
+  }
+]

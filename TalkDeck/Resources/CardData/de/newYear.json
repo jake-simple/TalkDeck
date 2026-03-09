@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Was war dieses Jahr deine beste Entscheidung?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was hast du dieses Jahr zum ersten Mal gemacht und was hat dich am meisten beeindruckt?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Wann hast du dieses Jahr am meisten gelacht?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was hat dich dieses Jahr am meisten wachsen lassen?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Gibt es etwas aus diesem Jahr, das du bereust?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Erzähl mir von dem Moment in diesem Jahr, auf den du am stolzesten bist.",
+    "category": "yearReview"
+  },
+  {
+    "question": "Gibt es etwas, das du dieses Jahr aufgegeben hast, und es war letztendlich die richtige Entscheidung?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Wann war es dieses Jahr am schwierigsten für dich?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hast du dieses Jahr eine neue Seite an dir entdeckt?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Wofür hast du dich dieses Jahr am meisten angestrengt?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was hat sich dieses Jahr am meisten verändert?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Wer war die beeindruckendste Person, die du dieses Jahr kennengelernt hast?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Gibt es eine Reise oder einen Ausflug, der dir dieses Jahr besonders in Erinnerung geblieben ist?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Welches Lied oder welche Playlist hast du dieses Jahr am häufigsten gehört?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was hast du dieses Jahr von deinen Zielen erreicht und was nicht?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Wann war dieses Jahr dein mutigster Moment?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was hast du dieses Jahr am meisten gegessen?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Erzähl mir von dem Moment in diesem Jahr, der dich am meisten berührt hat.",
+    "category": "yearReview"
+  },
+  {
+    "question": "Wofür hast du dieses Jahr Geld am besten ausgegeben und wofür am unnötigsten?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hast du dieses Jahr ein neues Hobby oder Interesse entdeckt?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Womit hast du dich dieses Jahr am meisten herumgeplagt?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was war die beste Neuigkeit dieses Jahres für dich?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Mit wem hast du dieses Jahr am häufigsten Kontakt gehabt?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was war das beste Essen des Jahres?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Welches Buch oder welcher Film ist dir dieses Jahr am meisten hängen geblieben?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was hast du dieses Jahr über dich selbst herausgefunden?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Gab es dieses Jahr etwas, das völlig unerwartet passiert ist?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Worüber hast du dieses Jahr am meisten nachgedacht und es als falsch erkannt?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was war dein bestes Einkauf des Jahres?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was möchtest du dir selbst für dieses Jahr sagen?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Gibt es etwas, für das du dich dieses Jahr loben möchtest?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was war der unvergesslichste Moment in einer Beziehung dieses Jahres?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was hat dich dieses Jahr am meisten gestresst?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Welchen Tag dieses Jahres wirst du wohl am längsten in Erinnerung behalten?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was hat dich dieses Jahr am meisten belastet und was hat dich durchhalten lassen?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was war ein ganz gewöhnlicher, aber glücklicher Moment dieses Jahres?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Gibt es etwas, wofür du dir selbst gegenüber in diesem Jahr leid tust?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Was ist dieses Jahr neu in dein Leben getreten und war das Beste daran?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Beschreibe dieses Jahr in einem Wort.",
+    "category": "yearReview"
+  },
+  {
+    "question": "Wann hattest du dieses Jahr das Gefühl, wirklich durchgehalten zu haben?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Wer war dieses Jahr die Person, der du am dankbarsten bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es dieses Jahr etwas, das unerwartet passiert ist und wofür du dankbar warst?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was hat dich dieses Jahr aufrecht gehalten?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es dieses Jahr einen Moment, in dem du in einer Kleinigkeit Glück gefunden hast?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es jemanden, dem du dieses Jahr danke sagen wolltest, es aber nicht getan hast?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Wer war dieses Jahr für dich da, als es dir nicht gut ging?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es ein Wort oder einen Text, der dir dieses Jahr Mut gemacht hat?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Nenn eine Erfahrung, für die du dieses Jahr am dankbarsten bist.",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es etwas an deinem Körper oder deiner Gesundheit, wofür du dieses Jahr dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es dieses Jahr einen zufälligen Glücksmoment?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es ein Familienmitglied, dem du dieses Jahr besonders dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es etwas, das dieses Jahr schiefgelaufen ist, das du aber im Nachhinein als gut empfindest?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was in deinem Alltag hast du dieses Jahr als besonders wertvoll empfunden?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was hat dich dieses Jahr zum Lachen gebracht?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es dieses Jahr jemanden, dem du für seine Hilfe dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es ein Buch oder einen Inhalt, der dieses Jahr einen positiven Einfluss auf dich hatte?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es etwas in deiner Umgebung, wofür du dieses Jahr dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Erinnerst du dich an eine Freundlichkeit eines Fremden dieses Jahr?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es etwas, wofür du dir selbst dieses Jahr dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es dieses Jahr etwas, für das du auch in schwierigen Momenten dankbar warst?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es eine Mahlzeit oder ein Essen dieses Jahr, für das du besonders dankbar warst?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was war der Grund, warum es dir dieses Jahr gut gegangen ist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es einen Freund, für den du dieses Jahr dankbar bist, dass er da ist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es jemanden, mit dem du dieses Jahr wieder in Kontakt getreten bist und wofür du dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es bei der Arbeit oder im Studium dieses Jahr einen Moment, für den du dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es jemanden, der dir dieses Jahr vertraut hat?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es dieses Jahr einen Moment, in dem du froh warst, einfach mal durchatmen zu können?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Für was bist du dir selbst dankbar, das du dieses Jahr gut hinbekommen hast?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es eine Jahreszeit oder ein bestimmtes Wetter, für das du dieses Jahr dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es etwas, das du dieses Jahr gelernt hast und wofür du dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es etwas in deinem Leben dieses Jahr, das du einfach so übergangen hast, obwohl du eigentlich dankbar dafür sein solltest?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es eine Gewohnheit oder Routine, die dir dieses Jahr in schwierigen Zeiten geholfen hat?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es jemanden, der dir dieses Jahr ehrlich die Wahrheit gesagt hat?",
+    "category": "gratitude"
+  },
+  {
+    "question": "In welcher Situation hast du dieses Jahr am häufigsten Dank gehört?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es dieses Jahr einen Moment, in dem du jemandem wirklich geholfen hast?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Hast du dieses Jahr schon mal daran gedacht, wie schön gesunde Tage eigentlich sind?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gab es in deinem Hobby oder in der Freizeit dieses Jahr etwas, wofür du dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Gibt es etwas in deiner Wohnung oder deinem Zuhause, für das du dieses Jahr dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Magst du uns jetzt sagen, wem du hier an diesem Abend dankbar bist?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Wie viele dankbare Momente fallen dir ein, wenn du dieses Jahr zurückschaust?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Was möchtest du nächstes Jahr unbedingt ausprobieren?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es eine Gewohnheit, die du nächstes Jahr loswerden möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es eine neue Routine, die du dir nächstes Jahr aufbauen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was möchtest du nächstes Jahr lernen?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was möchtest du nächstes Jahr mehr tun?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was möchtest du nächstes Jahr weniger tun?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas Neues, das du nächstes Jahr ausprobieren möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas in deinen Beziehungen, das du nächstes Jahr anders machen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas, das du nächstes Jahr für deine Gesundheit ändern möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es einen Ort, den du nächstes Jahr unbedingt besuchen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "In welchem Bereich möchtest du nächstes Jahr mehr auf dich selbst achten?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es ein Buch, das du nächstes Jahr unbedingt lesen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Hast du nächstes Jahr ein finanzielles Ziel?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es jemanden, den du nächstes Jahr öfter sehen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas, das du nächstes Jahr nicht aufgeben und weiter machen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was ist das eine Ding, auf das du dich nächstes Jahr am meisten konzentrieren möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas, das du nächstes Jahr mutig angehen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es jemanden, mit dem du nächstes Jahr wieder Kontakt aufnehmen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas in deiner Lebensweise, das du nächstes Jahr verändern möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Wie möchtest du nächstes Jahr deine Zeit nur für dich nutzen?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was ist ein kleines Ziel, das du nächstes Jahr unbedingt erreichen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was möchtest du nächstes Jahr mehr genießen?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas in der Art, wie du kommunizierst, das du nächstes Jahr verändern möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas, das du nächstes Jahr aktiver angehen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was ist das Ziel, das du nächstes Jahr unbedingt in deinem Kalender festhalten möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was ist die Veränderung, die du nächstes Jahr am nötigsten brauchst?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Wie möchtest du deine Umgebung nächstes Jahr verändern?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Glaubst du, dass du nächstes Jahr wirklich aufhören kannst mit dem, was du schon immer aufhören wolltest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was ist dein aufregendster Plan für nächstes Jahr?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was möchtest du nächstes Jahr an dir verändern, damit du dich selbst mehr magst?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es ein Projekt oder ein Ziel, das du nächstes Jahr unbedingt abschließen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Was für eine Person möchtest du nächstes Jahr sein?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas, worüber du dir nächstes Jahr weniger Gedanken machen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas, das du nächstes Jahr mutiger sagen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Möchtest du nächstes Jahr die Gelegenheit schaffen, neue Menschen kennenzulernen?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es Vorsätze für nächstes Jahr, die sich mit denen des letzten Jahres überschneiden? Wie willst du es diesmal anders angehen?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es ein Erlebnis, das du dir nächstes Jahr selbst schenken möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Möchtest du nächstes Jahr öfter zur Ruhe kommen oder lieber viel erleben?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Gibt es etwas über dich, das du nächstes Jahr besser verstehen möchtest?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Wie möchtest du dich fühlen, wenn nächstes Jahr um diese Zeit ist?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Wie siehst du dich nächstes Jahr um diese Zeit?",
+    "category": "wish"
+  },
+  {
+    "question": "Was hast du dieses Jahr nicht geschafft, möchtest es aber nächstes Jahr unbedingt tun?",
+    "category": "wish"
+  },
+  {
+    "question": "Was wünschst du dir am meisten für nächstes Jahr?",
+    "category": "wish"
+  },
+  {
+    "question": "Was wünschst du dir für dich in fünf Jahren?",
+    "category": "wish"
+  },
+  {
+    "question": "Was wünschst du dir für deine Gesundheit nächstes Jahr?",
+    "category": "wish"
+  },
+  {
+    "question": "Was wünschst du dir für deine Beziehungen nächstes Jahr?",
+    "category": "wish"
+  },
+  {
+    "question": "Was wünschst du dir bei der Arbeit oder im Studium nächstes Jahr?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es einen Traum, den du nächstes Jahr verwirklichen möchtest?",
+    "category": "wish"
+  },
+  {
+    "question": "Stell dir die glücklichste Szene in deinem Leben nächstes Jahr vor.",
+    "category": "wish"
+  },
+  {
+    "question": "Was wünschst du dir für deine Familie oder deine liebsten Menschen nächstes Jahr?",
+    "category": "wish"
+  },
+  {
+    "question": "Was für ein Glück wünschst du dir nächstes Jahr?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es ein Problem, das du dir wünschst, nächstes Jahr zu lösen?",
+    "category": "wish"
+  },
+  {
+    "question": "Was wird dich nächstes Jahr glücklicher machen?",
+    "category": "wish"
+  },
+  {
+    "question": "Was soll das Ich in zehn Jahren dem heutigen Ich sagen?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es etwas, das du dir wünschst, nächstes Jahr neu anzufangen?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es etwas, das du dir für die Welt wünschst, das sich nächstes Jahr ein bisschen ändert?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es etwas, in dem du dich nächstes Jahr freier fühlen möchtest?",
+    "category": "wish"
+  },
+  {
+    "question": "Welches Gefühl möchtest du nächstes Jahr öfter erleben?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es ein Reiseziel, das du nächstes Jahr unbedingt besuchen möchtest?",
+    "category": "wish"
+  },
+  {
+    "question": "Worauf wirst du nächstes Jahr besonders stolz sein, denkst du?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es etwas, das du nächstes Jahr gemeinsam mit jemandem erreichen möchtest?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es etwas über dich, das du nächstes Jahr besser kennenlernen möchtest?",
+    "category": "wish"
+  },
+  {
+    "question": "Möchtest du nächstes Jahr entspannter leben oder lieber hart daran arbeiten?",
+    "category": "wish"
+  },
+  {
+    "question": "Wie möchtest du nächstes Jahr mit dir selbst umgehen?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es eine Erinnerung, die du nächstes Jahr unbedingt machen möchtest?",
+    "category": "wish"
+  },
+  {
+    "question": "Welchen Wert möchtest du nächstes Jahr am meisten hochhalten?",
+    "category": "wish"
+  },
+  {
+    "question": "Was würdest du als Erstes tun, wenn du nächstes Jahr den Mut hast?",
+    "category": "wish"
+  },
+  {
+    "question": "Erzähl mir von kleinen Dingen, die dich nächstes Jahr glücklich machen sollen.",
+    "category": "wish"
+  },
+  {
+    "question": "Wünschst du dir nächstes Jahr, neue gute Menschen zu treffen?",
+    "category": "wish"
+  },
+  {
+    "question": "Was für eine Veränderung wünschst du dir nächstes Jahr für dich?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es eine alte unerledigte Aufgabe, die du nächstes Jahr endlich angehen möchtest?",
+    "category": "wish"
+  },
+  {
+    "question": "Was möchtest du nächstes Jahr um diese Zeit hier erzählen?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es etwas, in dem du nächstes Jahr ehrlicher sein möchtest?",
+    "category": "wish"
+  },
+  {
+    "question": "Was wünschst du dir nächstes Jahr, das man nicht mit Geld kaufen kann?",
+    "category": "wish"
+  },
+  {
+    "question": "Wie soll sich das Ich in der Zukunft fühlen, wenn es auf dich heute zurückblickt?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es etwas, das du dir wünschst, nächstes Jahr neu in dein Leben zu bekommen?",
+    "category": "wish"
+  },
+  {
+    "question": "Was möchtest du nächstes Jahr auf keinen Fall loslassen?",
+    "category": "wish"
+  },
+  {
+    "question": "Gibt es etwas, das du dir selbst zum neuen Jahr sagen möchtest?",
+    "category": "wish"
+  },
+  {
+    "question": "In welchen Situationen möchtest du nächstes Jahr am meisten lachen?",
+    "category": "wish"
+  },
+  {
+    "question": "Was ist dein sehnlichster Wunsch in diesem Moment?",
+    "category": "wish"
+  }
+]

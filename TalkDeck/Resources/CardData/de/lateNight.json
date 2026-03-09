@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Welches Lied geht dir gerade durch den Kopf?",
+    "category": "emotional"
+  },
+  {
+    "question": "Was war der schönste Moment des heutigen Tages?",
+    "category": "emotional"
+  },
+  {
+    "question": "Hörst du gerade ein bestimmtes Lied besonders oft? Warum, glaubst du?",
+    "category": "emotional"
+  },
+  {
+    "question": "Welche Farbe passt am besten zu dieser Nacht?",
+    "category": "emotional"
+  },
+  {
+    "question": "Beschreibe dein ehrlichstes Gefühl von heute in einem Wort.",
+    "category": "emotional"
+  },
+  {
+    "question": "Welches Gefühl hast du in letzter Zeit am häufigsten?",
+    "category": "emotional"
+  },
+  {
+    "question": "Wann hast du zuletzt ein warmes Gefühl im Herzen gehabt?",
+    "category": "emotional"
+  },
+  {
+    "question": "Worüber denkst du abends nach, wenn du allein bist?",
+    "category": "emotional"
+  },
+  {
+    "question": "Wenn du diesen Moment als Foto festhalten könntest – wie würde die Szene aussehen?",
+    "category": "emotional"
+  },
+  {
+    "question": "Welches Gefühl fühlt sich für dich gerade am fremdesten an?",
+    "category": "emotional"
+  },
+  {
+    "question": "Gibt es Momente, in denen du plötzlich jemanden anschreiben möchtest? In welchen?",
+    "category": "emotional"
+  },
+  {
+    "question": "Wann hast du dich zuletzt auf etwas richtig gefreut?",
+    "category": "emotional"
+  },
+  {
+    "question": "Was machst du, wenn du traurig bist, um dich zu trösten?",
+    "category": "emotional"
+  },
+  {
+    "question": "Worüber denkst du in letzter Zeit am meisten nach, bevor du einschläfst?",
+    "category": "emotional"
+  },
+  {
+    "question": "Wann hast du das letzte Mal vor Rührung geweint?",
+    "category": "emotional"
+  },
+  {
+    "question": "Was vermisst du gerade in diesem Moment am meisten?",
+    "category": "emotional"
+  },
+  {
+    "question": "Wann möchtest du allein sein und wann wünschst du dir jemanden an deiner Seite?",
+    "category": "emotional"
+  },
+  {
+    "question": "Welches Gefühl unterdrückst du gerade, denkst du?",
+    "category": "emotional"
+  },
+  {
+    "question": "Wie sortierst du deine Gedanken, wenn du dich innerlich zerissen fühlst?",
+    "category": "emotional"
+  },
+  {
+    "question": "An welche Szene denkst du, wenn du deine glücklichste Erinnerung aufrufst?",
+    "category": "emotional"
+  },
+  {
+    "question": "Gibt es einen Ort oder einen Raum, an dem du dich gerade besonders wohl fühlst?",
+    "category": "emotional"
+  },
+  {
+    "question": "Bist du jemandem gerade von Herzen dankbar?",
+    "category": "emotional"
+  },
+  {
+    "question": "Gibt es etwas, das du unbewusst tust, wenn es dir nicht gut geht?",
+    "category": "emotional"
+  },
+  {
+    "question": "Welcher Geruch würde diese Nacht am besten beschreiben?",
+    "category": "emotional"
+  },
+  {
+    "question": "Wann hast du heute am meisten gelacht?",
+    "category": "emotional"
+  },
+  {
+    "question": "Fühlst du dich gerade emotional erschöpft? In welchem Bereich?",
+    "category": "emotional"
+  },
+  {
+    "question": "Was bringt dich zur Ruhe?",
+    "category": "emotional"
+  },
+  {
+    "question": "Kannst du mir ehrlich sagen, was du gerade in diesem Moment fühlst?",
+    "category": "emotional"
+  },
+  {
+    "question": "In welchen Momenten fühlst du dich in letzter Zeit einsam?",
+    "category": "emotional"
+  },
+  {
+    "question": "Gibt es noch etwas, das du tun möchtest, bevor diese Nacht endet?",
+    "category": "emotional"
+  },
+  {
+    "question": "Welche Farbe wäre der heutige Tag?",
+    "category": "emotional"
+  },
+  {
+    "question": "Gibt es einen Moment, in dem du dich besonders getröstet gefühlt hast?",
+    "category": "emotional"
+  },
+  {
+    "question": "Welche Worte möchtest du gerade am liebsten hören?",
+    "category": "emotional"
+  },
+  {
+    "question": "Gibt es Momente, in denen deine Stimmung ohne Grund sinkt?",
+    "category": "emotional"
+  },
+  {
+    "question": "Wann fühlst du dich am ruhigsten?",
+    "category": "emotional"
+  },
+  {
+    "question": "Gab es heute einen besonders schwierigen Moment?",
+    "category": "emotional"
+  },
+  {
+    "question": "Gibt es gerade jemanden, den du dir an deiner Seite wünscht?",
+    "category": "emotional"
+  },
+  {
+    "question": "Hattest du kürzlich einen Moment, in dem du ohne Grund einfach gut drauf warst?",
+    "category": "emotional"
+  },
+  {
+    "question": "Was lässt dich in letzter Zeit am meisten über dich nachdenken?",
+    "category": "emotional"
+  },
+  {
+    "question": "Mit welchem Gefühl möchtest du nach Hause gehen, wenn dieser Abend vorbei ist?",
+    "category": "emotional"
+  },
+  {
+    "question": "Was denkst du, was Glück im Kern bedeutet?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Warum, glaubst du, sehnen sich Menschen nach Verbindung?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Was bedeutet Älterwerden für dich?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Glaubst du, dass echte Freiheit existiert?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Glaubst du, dass Menschen im Kern gut oder böse sind?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Was ist für dich ein gutes Leben?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Wo liegt die Grenze zwischen Liebe und Freundschaft?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Wie muss man leben, damit man den Tod nicht fürchtet?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Glaubst du ans Schicksal?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ist Zeit die wertvollste Ressource?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ist man allein ehrlicher oder in Gesellschaft?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Warum fällt es schwer, im Moment zu sein?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Wer ist für dich ein guter Mensch?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ist es wichtig, im Leben einen Sinn zu finden?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Glaubst du, ohne Reue zu leben ist möglich?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Muss man Beziehungen aktiv pflegen oder lässt man sie einfach fließen?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Sind Erfolg und Glück das Gleiche?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ist es gut oder schlecht, wenn Menschen sich verändern?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Fühlst du dich als Hauptfigur deines eigenen Lebens?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Was ist der Unterschied zwischen Mut und Leichtsinn?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ist es immer richtig, die Wahrheit zu sagen?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Was bedeutet es für dich, sich selbst zu lieben?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ist Erinnerung Wahrheit oder doch nur eine Geschichte, die wir uns selbst erzählen?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Glaubst du, dass es eine perfekte Beziehung gibt?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Was wird dieser Moment in zehn Jahren für dich bedeuten?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ist es schwach oder stark, sich auf andere zu verlassen?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Gibt es Momente, in denen Scheitern wichtiger ist als Erfolg?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Glaubst du, es gibt Beziehungen, die ohne Worte funktionieren?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Tröstet dich der Gedanke, dass man allein geboren wird und allein stirbt – oder macht er dich traurig?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Warum fällt es schwer, dankbar zu bleiben?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Hast du das Gefühl, dass deine Entscheidungen dich formen?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Wird mit der Zeit das meiste unwichtig?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Wie gut kennst du dich selbst, denkst du?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Was ist für dich das bedeutsamste Gespräch?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Glaubst du, dass Verletzungen einen stärker machen?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Was ist das Wichtigste, das man nicht mit Geld kaufen kann?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Womit wird im Leben am sinnlosesten Zeit verschwendet?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Was ist die eine Sache, die du dir gerade sicher bist, und die eine, die dir am unsichersten erscheint?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Glaubst du, Glück wird größer, wenn man es teilt?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Was brauchst du gerade am meisten?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Möchtest du mir heute etwas ehrlich sagen?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas über mich, das du schon länger fragen wolltest, aber nicht getraut hast?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, das du gerade niemandem erzählt hast?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, womit du kämpfst, was man dir aber nicht ansieht?",
+    "category": "confession"
+  },
+  {
+    "question": "Wann hast du zuletzt Mut gezeigt?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, bei dem du so tust, als könntest du es gut, obwohl du es eigentlich nicht kannst?",
+    "category": "confession"
+  },
+  {
+    "question": "Wer oder was macht dir gerade am meisten zu schaffen?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es eine Sorge, die du noch nie laut ausgesprochen hast?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, das du heute Abend zum ersten Mal offen sagen möchtest?",
+    "category": "confession"
+  },
+  {
+    "question": "Wann hat dich zuletzt jemand verletzt?",
+    "category": "confession"
+  },
+  {
+    "question": "Was ist gerade das schwierigste Problem in deinem Leben?",
+    "category": "confession"
+  },
+  {
+    "question": "Hast du ein Geheimnis, das nur du kennst?",
+    "category": "confession"
+  },
+  {
+    "question": "Wann hast du zuletzt gelogen – in welcher Situation?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, das dich innerlich noch beschäftigt?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es einen Fehler von dir, den du ungern zugibst?",
+    "category": "confession"
+  },
+  {
+    "question": "Wirst du gerade von jemandem missverstanden?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es jemanden, auf den du heimlich neidisch bist?",
+    "category": "confession"
+  },
+  {
+    "question": "Redest du dir gerade etwas im Leben schön?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es jemanden, mit dem du unbedingt wieder in Kontakt treten möchtest?",
+    "category": "confession"
+  },
+  {
+    "question": "Hast du heute Abend das erste Mal wirklich gelacht?",
+    "category": "confession"
+  },
+  {
+    "question": "Hast du einen stillen Wunsch, den du noch niemandem erzählt hast?",
+    "category": "confession"
+  },
+  {
+    "question": "Weichst du gerade etwas in deinem Leben aus?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es ein Gefühl, das du am wenigsten zugeben möchtest?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es jemanden, dem du dich nie entschuldigt hast?",
+    "category": "confession"
+  },
+  {
+    "question": "Hast du das Gefühl, dir selbst gerade zu viel Druck zu machen?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, das dich ängstigt, das du aber trotzdem tun möchtest?",
+    "category": "confession"
+  },
+  {
+    "question": "Welche Worte würden dich gerade am meisten trösten?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, das du noch nicht ganz vergessen kannst?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, das dich eigentlich sehr beschäftigt, du aber so tust, als wäre es dir egal?",
+    "category": "confession"
+  },
+  {
+    "question": "Was sagst du dir selbst in letzter Zeit am häufigsten?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, das du dir wirklich traust anzugehen?",
+    "category": "confession"
+  },
+  {
+    "question": "Hast du das Gefühl, dass du zu hart zu dir selbst bist?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es eine Entscheidung in deinem Leben, die du bereust?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, das du gerade am liebsten loswerden würdest?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, über das du schon lange nachdenkst?",
+    "category": "confession"
+  },
+  {
+    "question": "In welcher Hinsicht bist du gerade stolz auf dich?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, das du jetzt sagen möchtest, bevor die Gelegenheit vergeht?",
+    "category": "confession"
+  },
+  {
+    "question": "Wie war deine Stimmung, kurz bevor du heute hergekommen bist?",
+    "category": "confession"
+  },
+  {
+    "question": "Gibt es etwas, das du von mir hören möchtest?",
+    "category": "confession"
+  },
+  {
+    "question": "Was war die beste Entscheidung deines Lebens?",
+    "category": "confession"
+  },
+  {
+    "question": "Träumst du in letzter Zeit oft? Von was?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es einen Traum, den du verfolgst, aber dich dabei ein bisschen schämst?",
+    "category": "dream"
+  },
+  {
+    "question": "Hast du noch einen Traum aus deiner Kindheit, der geblieben ist?",
+    "category": "dream"
+  },
+  {
+    "question": "Was würdest du sofort tun, wenn alles möglich wäre?",
+    "category": "dream"
+  },
+  {
+    "question": "Wo und was machst du in fünf Jahren, glaubst du?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es einen Traum, an den du dich besonders gut erinnerst?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es einen Ort, der in deinen Träumen immer wieder auftaucht?",
+    "category": "dream"
+  },
+  {
+    "question": "Hast du einen Traum aufgegeben? Beschäftigt er dich noch?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es etwas, das du unbedingt noch in diesem Jahr erreichen möchtest?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es etwas, das du unbedingt erlebt haben möchtest, bevor du stirbst?",
+    "category": "dream"
+  },
+  {
+    "question": "Mit welchem Gefühl wachst du meistens auf, nachdem du geträumt hast?",
+    "category": "dream"
+  },
+  {
+    "question": "Was würde das Ich in zehn Jahren dem heutigen Ich sagen?",
+    "category": "dream"
+  },
+  {
+    "question": "Wie realistisch ist dein Traum, glaubst du?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es jemanden, dem du in einem Traum begegnen möchtest?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es einen Traum, an dem du festhältst, auch wenn er vielleicht nicht erreichbar ist?",
+    "category": "dream"
+  },
+  {
+    "question": "Wie sieht dein ideales Leben aus?",
+    "category": "dream"
+  },
+  {
+    "question": "Warum gibst du deinen Traum zwischen Traum und Realität nicht auf?",
+    "category": "dream"
+  },
+  {
+    "question": "Welchen Mut brauchst du gerade am dringendsten?",
+    "category": "dream"
+  },
+  {
+    "question": "An welche Zukunft hast du zuletzt gedacht?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es eine Erinnerung, an die du im Traum gerne zurückgehen würdest?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es etwas, das du tun möchtest, auch wenn andere davon abraten?",
+    "category": "dream"
+  },
+  {
+    "question": "Hat dein aktueller Job etwas mit deinem Traum zu tun?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es einen Kindheitstraum, der inzwischen wahr geworden ist?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es eine Person, die in deinen Träumen oft vorkommt?",
+    "category": "dream"
+  },
+  {
+    "question": "Wie würde dein idealer Tag aussehen?",
+    "category": "dream"
+  },
+  {
+    "question": "Was wünschst du dir gerade am sehnlichsten?",
+    "category": "dream"
+  },
+  {
+    "question": "Was tust du gerade, um deinen Traum zu verwirklichen?",
+    "category": "dream"
+  },
+  {
+    "question": "Was war der absurdeste Traum, den du je hattest?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es etwas, das du wenigstens im Traum erleben möchtest, weil es in der Realität nicht möglich ist?",
+    "category": "dream"
+  },
+  {
+    "question": "Wie siehst du dich selbst in zehn Jahren?",
+    "category": "dream"
+  },
+  {
+    "question": "Warst du schon mal traurig, aus einem Traum aufzuwachen?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es einen Traum, den du noch nicht einmal begonnen hast?",
+    "category": "dream"
+  },
+  {
+    "question": "Wer kennt deinen Traum am besten?",
+    "category": "dream"
+  },
+  {
+    "question": "Was möchtest du als Erstes tun, wenn dein Traum wahr wird?",
+    "category": "dream"
+  },
+  {
+    "question": "Wenn du jetzt genau einen Traum erfüllen könntest – welchen würdest du wählen?",
+    "category": "dream"
+  },
+  {
+    "question": "Was ist dein realistischster und was dein verrücktester Traum?",
+    "category": "dream"
+  },
+  {
+    "question": "Hast du schon mal zwischen Traum und Sicherheit abgewogen?",
+    "category": "dream"
+  },
+  {
+    "question": "Gibt es jemanden, der dich so ermutigt hat, dass du wieder zu träumen begonnen hast?",
+    "category": "dream"
+  },
+  {
+    "question": "Was ist das größte Hindernis auf dem Weg zu deinem Traum?",
+    "category": "dream"
+  },
+  {
+    "question": "Worauf freust du dich morgen, wenn diese Nacht vorbei ist?",
+    "category": "dream"
+  }
+]
