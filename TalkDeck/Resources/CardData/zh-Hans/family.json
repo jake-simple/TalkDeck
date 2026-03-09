@@ -4,11 +4,11 @@
     "category": "childhood"
   },
   {
-    "question": "上学的时候最喜欢什么科目？",
+    "question": "上学时最喜欢的科目是什么？",
     "category": "childhood"
   },
   {
-    "question": "小时候关系最好的朋友叫什么名字，有什么一起的回忆？",
+    "question": "小时候最要好的朋友叫什么名字？有什么难忘的回忆？",
     "category": "childhood"
   },
   {
@@ -16,35 +16,35 @@
     "category": "childhood"
   },
   {
-    "question": "小学时你的梦想职业是什么？",
+    "question": "小学时，你的志愿是什么？",
     "category": "childhood"
   },
   {
-    "question": "被父母骂过的事里，印象最深的是什么？",
+    "question": "小时候被父母骂过的事情里，最让你记住的是哪件？",
     "category": "childhood"
   },
   {
-    "question": "放学回家，你第一件事是什么？",
+    "question": "放学回到家第一件事是做什么？",
     "category": "childhood"
   },
   {
-    "question": "小时候你痴迷过什么动漫或游戏？",
+    "question": "小时候有没有特别沉迷的动漫或游戏？",
     "category": "childhood"
   },
   {
-    "question": "童年住的地方，你最喜欢的地点是哪里？",
+    "question": "童年住的地方，最喜欢的是哪个角落？",
     "category": "childhood"
   },
   {
-    "question": "小时候和兄弟姐妹或朋友经常玩什么？",
+    "question": "小时候经常和兄弟姐妹或朋友玩什么游戏？",
     "category": "childhood"
   },
   {
-    "question": "学校食堂里你最爱吃的菜是什么？",
+    "question": "学校食堂里最喜欢的菜是什么？",
     "category": "childhood"
   },
   {
-    "question": "小时候你最怕什么？",
+    "question": "小时候最害怕什么？",
     "category": "childhood"
   },
   {
@@ -52,11 +52,11 @@
     "category": "childhood"
   },
   {
-    "question": "小时候有没有想象过长大后的自己？",
+    "question": "小时候幻想过长大后是什么样子吗？",
     "category": "childhood"
   },
   {
-    "question": "你还记得第一次独自坐公交或地铁吗？",
+    "question": "第一次独自坐公交或地铁，你还记得吗？",
     "category": "childhood"
   },
   {
@@ -64,11 +64,11 @@
     "category": "childhood"
   },
   {
-    "question": "小学时最难忘的一次春游或秋游是什么？",
+    "question": "小学最难忘的一次春游或旅行是哪次？",
     "category": "childhood"
   },
   {
-    "question": "小时候背着父母做的事里，现在可以说的有什么？",
+    "question": "有没有背着父母做过什么，现在可以说了吗？",
     "category": "childhood"
   },
   {
@@ -76,47 +76,47 @@
     "category": "childhood"
   },
   {
-    "question": "最讨厌哪个科目或课？",
+    "question": "上学期间最讨厌的科目或课程是什么？",
     "category": "childhood"
   },
   {
-    "question": "小时候每天必看的电视节目是什么？",
+    "question": "小时候有没有固定要看的电视节目？",
     "category": "childhood"
   },
   {
-    "question": "最难忘的一个生日礼物是什么？",
+    "question": "最难忘的生日礼物是什么？",
     "category": "childhood"
   },
   {
-    "question": "你还记得学骑自行车吗？",
+    "question": "学骑自行车的时候，你还记得吗？",
     "category": "childhood"
   },
   {
-    "question": "小时候家里养过宠物吗？",
+    "question": "小时候家里有养过宠物吗？",
     "category": "childhood"
   },
   {
-    "question": "小时候最爱吃什么零食或喝什么饮料？",
+    "question": "童年最喜欢的零食或饮料是什么？",
     "category": "childhood"
   },
   {
-    "question": "上学时，觉得自己最擅长的是什么？",
+    "question": "在学校，有没有觉得自己特别擅长的事？",
     "category": "childhood"
   },
   {
-    "question": "小时候大人们经常对你说的话是什么？",
+    "question": "小时候大人们常对你说的话是什么？",
     "category": "childhood"
   },
   {
-    "question": "你还记得第一次一个人在家吗？是什么感受？",
+    "question": "第一次独自待在家里，你还记得吗？当时什么感觉？",
     "category": "childhood"
   },
   {
-    "question": "小时候常去的附近商店是哪里？",
+    "question": "小时候最常去的街边小店是哪里？",
     "category": "childhood"
   },
   {
-    "question": "童年有没有特别难熬的时候？",
+    "question": "童年最难熬的时候是什么时候？",
     "category": "childhood"
   },
   {
@@ -124,47 +124,127 @@
     "category": "childhood"
   },
   {
-    "question": "第一次熬夜是什么时候？原因是什么？",
+    "question": "第一次熬通宵是什么时候？为什么？",
     "category": "childhood"
   },
   {
-    "question": "小时候最喜欢的书或漫画是什么？",
+    "question": "小时候最喜欢看什么书或漫画？",
     "category": "childhood"
   },
   {
-    "question": "童年记忆里，现在想起来还很清晰的一个画面是什么？",
+    "question": "童年的记忆里，有没有一个画面现在还历历在目？",
     "category": "childhood"
   },
   {
-    "question": "放学后经常去的小吃店或零食店有什么？",
+    "question": "放学后常去的小吃摊或零食店是哪里？",
     "category": "childhood"
   },
   {
-    "question": "小时候最想要的衣服或鞋子是什么？",
+    "question": "小时候有没有特别想要的一件衣服或鞋子？",
     "category": "childhood"
   },
   {
-    "question": "小时候梦想住什么样的房子？",
+    "question": "童年梦想中的家是什么样子的？",
     "category": "childhood"
   },
   {
-    "question": "你被夸得最多的是什么？",
+    "question": "小时候被夸得最多的是什么？",
     "category": "childhood"
   },
   {
-    "question": "放学回家，记得家里有什么特别的气味吗？",
+    "question": "小学放学回家，一进门能闻到什么味道？",
     "category": "childhood"
   },
   {
-    "question": "小时候吃饭时最常看的节目是什么？",
+    "question": "小时候吃饭时最爱看的电视节目是什么？",
     "category": "childhood"
   },
   {
-    "question": "最近最迷的事情是什么？",
+    "question": "小时候最怕遇到的人或事是什么？",
+    "category": "childhood"
+  },
+  {
+    "question": "有没有一件小时候的事，现在说起来大家还是会笑？",
+    "category": "childhood"
+  },
+  {
+    "question": "小时候最崇拜谁？",
+    "category": "childhood"
+  },
+  {
+    "question": "有没有一个小时候的地方，长大后再去一次会很感慨？",
+    "category": "childhood"
+  },
+  {
+    "question": "小时候有没有做过让自己特别后悔的事？",
+    "category": "childhood"
+  },
+  {
+    "question": "童年收到过最特别的礼物是什么？",
+    "category": "childhood"
+  },
+  {
+    "question": "小时候有没有特别喜欢的节日或纪念日？",
+    "category": "childhood"
+  },
+  {
+    "question": "你小时候是早睡型还是熬夜型的孩子？",
+    "category": "childhood"
+  },
+  {
+    "question": "有没有一件现在做不了但小时候做得特别好的事？",
+    "category": "childhood"
+  },
+  {
+    "question": "小时候家里吃饭时有什么固定的氛围或习惯？",
+    "category": "childhood"
+  },
+  {
+    "question": "有没有一个小时候的朋友，长大后一直没有再联系？",
+    "category": "childhood"
+  },
+  {
+    "question": "小时候去亲戚家，最期待的是什么？",
+    "category": "childhood"
+  },
+  {
+    "question": "童年印象里，家里最常出现的味道是什么？",
+    "category": "childhood"
+  },
+  {
+    "question": "有没有一件从小就被家人拿来当笑话讲的事？",
+    "category": "childhood"
+  },
+  {
+    "question": "第一次感受到「长大了」是什么时候？",
+    "category": "childhood"
+  },
+  {
+    "question": "有没有一个只有家人才知道的你的小时候的故事？",
+    "category": "childhood"
+  },
+  {
+    "question": "小时候最热衷的运动或体育游戏是什么？",
+    "category": "childhood"
+  },
+  {
+    "question": "有没有一件玩具，你一直用到它坏掉了才不舍得扔？",
+    "category": "childhood"
+  },
+  {
+    "question": "小时候有没有自己一个人发呆很久的地方？",
+    "category": "childhood"
+  },
+  {
+    "question": "最让你觉得童年很幸福的画面是什么？",
+    "category": "childhood"
+  },
+  {
+    "question": "最近最沉迷的事是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近有没有新开始的爱好或兴趣？",
+    "question": "最近有没有新开始的爱好或感兴趣的事？",
     "category": "recentLife"
   },
   {
@@ -172,107 +252,107 @@
     "category": "recentLife"
   },
   {
-    "question": "这个月最记得的事情是什么？",
+    "question": "这个月最难忘的一件事是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近怎么管理健康？",
+    "question": "最近怎么维持健康？",
     "category": "recentLife"
   },
   {
-    "question": "最近有没有吃到很好吃的东西？",
+    "question": "最近有没有吃到特别好吃的东西？",
     "category": "recentLife"
   },
   {
-    "question": "最近经常去的地方是哪里？",
+    "question": "最近常去的地方有吗？",
     "category": "recentLife"
   },
   {
-    "question": "说说这周最好笑的一件事",
+    "question": "这周发生过什么让你捧腹大笑的事？",
     "category": "recentLife"
   },
   {
-    "question": "最近在烦什么？",
+    "question": "最近有没有在烦恼什么事？",
     "category": "recentLife"
   },
   {
-    "question": "最近有没有新学到什么有趣的知识？",
+    "question": "最近有没有发现什么有意思的新知识？",
     "category": "recentLife"
   },
   {
-    "question": "最近联系最多的人是谁？",
+    "question": "最近常联系的人是谁？",
     "category": "recentLife"
   },
   {
-    "question": "最近去过或计划去的旅行地点是哪里？",
+    "question": "最近有没有去旅行，或者有计划想去的地方？",
     "category": "recentLife"
   },
   {
-    "question": "最近生活里最轻松的时刻是什么？",
+    "question": "最近生活里最舒服的时刻是什么时候？",
     "category": "recentLife"
   },
   {
-    "question": "这个月做得最好的一件事是什么？",
+    "question": "这个月最让你觉得自己做得不错的一件事是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近你的日常是怎么过的？",
+    "question": "你最近的日常是什么样的？",
     "category": "recentLife"
   },
   {
-    "question": "最近有没有在学什么或研究什么？",
+    "question": "最近有没有在学什么新技能或新知识？",
     "category": "recentLife"
   },
   {
-    "question": "最近最常用的app或服务是什么？",
+    "question": "最近最常用的 App 或服务是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近最感动或最开心的瞬间是什么？",
+    "question": "最近最感动或开心的瞬间是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近经常吃或喝的东西是什么？",
+    "question": "最近常吃或常喝的食物是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近认识新朋友了吗？什么机缘？",
+    "question": "最近有没有认识新朋友？是什么契机？",
     "category": "recentLife"
   },
   {
-    "question": "最近心情好的时候，最想做的是什么？",
+    "question": "最近心情好的时候，最想做什么？",
     "category": "recentLife"
   },
   {
-    "question": "这周吃得最好的一顿是什么？",
+    "question": "这周吃过最好吃的东西是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近有什么目标在追求？",
+    "question": "最近有什么目标在努力实现？",
     "category": "recentLife"
   },
   {
-    "question": "最近买的东西里，最值的是什么？",
+    "question": "最近买的东西里，最值得的是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近最常听的音乐或喜欢的歌是什么？",
+    "question": "最近最常听的音乐或最喜欢的歌是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近有没有因为身边的人而感到感谢？",
+    "question": "最近有没有对身边的人感到特别感谢？",
     "category": "recentLife"
   },
   {
-    "question": "最近在追什么剧或电影？",
+    "question": "最近在追什么剧或者最近看过什么好电影？",
     "category": "recentLife"
   },
   {
-    "question": "这个月最难熬的时候是什么？",
+    "question": "这个月最难熬的瞬间是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近有没有什么在追的梦想？",
+    "question": "最近有没有在为什么事情做梦或者期待着？",
     "category": "recentLife"
   },
   {
@@ -280,63 +360,143 @@
     "category": "recentLife"
   },
   {
-    "question": "最近有没有印象深刻的对话？",
+    "question": "最近有没有印象特别深的一段对话？",
     "category": "recentLife"
   },
   {
-    "question": "最近有没有第一次尝试的事？",
+    "question": "最近有没有第一次尝试某件事？",
     "category": "recentLife"
   },
   {
-    "question": "最近在读什么书或文章？",
+    "question": "最近有没有沉迷的书或文章？",
     "category": "recentLife"
   },
   {
-    "question": "这周最觉得自己做得好的一件事是什么？",
+    "question": "这周你觉得自己做得最好的一件事是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近有没有对什么产生新的兴趣？",
+    "question": "最近有没有新产生兴趣的领域？",
     "category": "recentLife"
   },
   {
-    "question": "最近有没有心里暖暖的瞬间？",
+    "question": "最近有没有什么瞬间让你心里暖暖的？",
     "category": "recentLife"
   },
   {
-    "question": "最近最让你快乐的是什么？",
+    "question": "最近让你最开心的事是什么？",
     "category": "recentLife"
   },
   {
-    "question": "最近有没有尝试或做出什么改变？",
+    "question": "最近有没有做出什么改变或挑战了什么新事物？",
     "category": "recentLife"
   },
   {
-    "question": "最近睡眠好吗？",
+    "question": "最近睡眠质量怎么样？",
     "category": "recentLife"
   },
   {
-    "question": "这个月最想实现的事情是什么？",
+    "question": "这个月有没有一定要完成的事？",
     "category": "recentLife"
   },
   {
-    "question": "家族旅行里，最好笑的一次经历是什么？",
+    "question": "最近最期待的事情是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有发现一个让你特别惊喜的地方？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有改变了某个以前一直保持的习惯？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这段时间你觉得自己状态最好的一天是哪天？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有想重新学或捡起的技能或爱好？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有感觉时间过得特别快或特别慢？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有让你觉得「生活好像变好了一点」的事？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有特别想见但还没见到的人？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有让你有点后悔的小决定？",
+    "category": "recentLife"
+  },
+  {
+    "question": "现在你生活里觉得最满足的部分是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有试着做一件一直想做但没勇气的事？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近的生活节奏让你觉得快还是慢？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有一件让你觉得很治愈的小事？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有发现什么让你印象深刻的人？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近如果要给自己打分，你会打几分？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有特别享受的一个傍晚或早晨？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近遇到让你特别困惑的问题是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有做了一件让自己很意外的决定？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近生活里让你最开心的小习惯是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近你最常说的一句话是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "家族旅行中最好笑的小插曲是什么？",
     "category": "familyStory"
   },
   {
-    "question": "过节的时候，你们家有没有一定会做的事？",
+    "question": "节假日我们家必做的事是什么？",
     "category": "familyStory"
   },
   {
-    "question": "父母做的菜里，最难忘的是什么？",
+    "question": "父母做过的食物里，最让你难忘的是什么？",
     "category": "familyStory"
   },
   {
-    "question": "和家人一起去过的地方里，最特别的是哪里？",
+    "question": "和家人一起去过最特别的地方是哪里？",
     "category": "familyStory"
   },
   {
-    "question": "和家人一起看过的演出或比赛里，有没有印象深的？",
+    "question": "家人一起看过的演出或比赛，有没有让你印象深刻的？",
     "category": "familyStory"
   },
   {
@@ -344,19 +504,19 @@
     "category": "familyStory"
   },
   {
-    "question": "关于爷爷奶奶或姥姥姥爷，你最难忘的画面是什么？",
+    "question": "关于爷爷奶奶，你记忆最清晰的画面是什么？",
     "category": "familyStory"
   },
   {
-    "question": "和家人一起做饭的回忆里，有什么让你想起来的？",
+    "question": "和家人一起做饭的记忆里，有什么让你想起来会笑的？",
     "category": "familyStory"
   },
   {
-    "question": "你们家有没有独特的传统或家族活动？",
+    "question": "我们家有没有独特的传统或特别的活动？",
     "category": "familyStory"
   },
   {
-    "question": "家人一起度过了什么困难时期？",
+    "question": "全家人一起度过困难时期的经历，你还记得吗？",
     "category": "familyStory"
   },
   {
@@ -364,279 +524,119 @@
     "category": "familyStory"
   },
   {
-    "question": "家人里有没有谁曾经让你感动？",
+    "question": "家人里有没有谁曾经让你很感动？",
     "category": "familyStory"
   },
   {
-    "question": "去爷爷奶奶家最美好的记忆是什么？",
+    "question": "在爷爷奶奶家最好的记忆是什么？",
     "category": "familyStory"
   },
   {
-    "question": "翻家庭相册时，有没有让你惊讶的照片？",
+    "question": "翻看家庭相册时，有没有让你大吃一惊的照片？",
     "category": "familyStory"
   },
   {
-    "question": "最近家人一起大笑的事情是什么？",
+    "question": "最近全家人一起哈哈大笑的事是什么？",
     "category": "familyStory"
   },
   {
-    "question": "家庭聚会里发生过什么好笑的意外？",
+    "question": "家庭聚会上发生过什么有趣的事？",
     "category": "familyStory"
   },
   {
-    "question": "你有没有听过父母的恋爱故事？",
+    "question": "有没有听父母讲过他们恋爱的故事？",
     "category": "familyStory"
   },
   {
-    "question": "家人一起过春节或中秋，最特别的一次是哪次？",
+    "question": "和家人一起过的春节或特别节日里，最难忘的是哪次？",
     "category": "familyStory"
   },
   {
-    "question": "和家人一起搬过家，有没有什么难忘的经历？",
+    "question": "家里搬过家吗？记得那段经历吗？",
     "category": "familyStory"
   },
   {
-    "question": "家人有没有发现过你藏的秘密？",
+    "question": "有没有被家人发现过秘密？",
     "category": "familyStory"
   },
   {
-    "question": "你还记得父母互相温柔相待的样子吗？",
+    "question": "父母对彼此温柔的样子，你还记得吗？",
     "category": "familyStory"
   },
   {
-    "question": "有没有人说你的某个习惯像家里的某个人？",
+    "question": "有没有人说你有哪个习惯像家里某个人？",
     "category": "familyStory"
   },
   {
-    "question": "和家人一起过的生日派对里，最难忘的是哪次？",
+    "question": "和家人一起庆生，印象最深的是哪一次？",
     "category": "familyStory"
   },
   {
-    "question": "和家人相关的物品，你现在还保留着的有什么？",
+    "question": "家人的哪样东西，你到现在还保留着？",
     "category": "familyStory"
   },
   {
-    "question": "有没有知道父母为了你牺牲了什么的瞬间？",
+    "question": "有没有发现父母为了自己默默牺牲过什么？",
     "category": "familyStory"
   },
   {
-    "question": "和家人一起运动或散步的回忆有什么？",
+    "question": "和家人一起运动或散步的回忆，有没有特别的？",
     "category": "familyStory"
   },
   {
-    "question": "和兄弟姐妹相处最融洽的时候是什么时候？",
+    "question": "和兄弟姐妹关系最好的时候是什么时候？",
     "category": "familyStory"
   },
   {
-    "question": "全家大扫除的记忆有什么？",
+    "question": "全家一起大扫除的记忆还在吗？",
     "category": "familyStory"
   },
   {
-    "question": "你是什么时候第一次理解父母的职业的？",
+    "question": "第一次真正理解父母工作辛苦是什么时候？",
     "category": "familyStory"
   },
   {
-    "question": "你还记得和家人第一次出去吃饭吗？",
+    "question": "和家人第一次一起外出吃饭，你还记得吗？",
     "category": "familyStory"
   },
   {
-    "question": "和家人一起被雨淋或遇到天气麻烦的经历有吗？",
+    "question": "有没有因为天气或意外，和家人一起狼狈过的经历？",
     "category": "familyStory"
   },
   {
-    "question": "和父母一起开车的记忆里，有没有印象深的？",
+    "question": "和父母一起开车兜风，有没有难忘的记忆？",
     "category": "familyStory"
   },
   {
-    "question": "因为家里某个人而产生了什么爱好？",
+    "question": "有没有因为家人的影响，养成了某个爱好？",
     "category": "familyStory"
   },
   {
-    "question": "你知道父母哪次为你感到骄傲吗？",
+    "question": "你知道哪件事让父母曾经觉得特别骄傲吗？",
     "category": "familyStory"
   },
   {
-    "question": "你有没有第一次自己给家人买礼物的记忆？",
+    "question": "第一次自己买礼物送给家人，你还记得吗？",
     "category": "familyStory"
   },
   {
-    "question": "小时候和家人一起过圣诞或年末的记忆是什么？",
+    "question": "小时候和家人一起过圣诞节或年底最难忘的是什么？",
     "category": "familyStory"
   },
   {
-    "question": "你还记得第一次顶撞父母是什么时候吗？",
+    "question": "第一次对父母顶嘴，你还记得吗？",
     "category": "familyStory"
   },
   {
-    "question": "家人里有没有谁让你发现了意想不到的才能？",
+    "question": "有没有发现家人某个出乎意料的才能？",
     "category": "familyStory"
   },
   {
-    "question": "有没有因为兄弟姐妹而感到感激的时刻？",
+    "question": "有没有某个让你很感激兄弟姐妹的瞬间？",
     "category": "familyStory"
   },
   {
-    "question": "家人之间最长的一次电话聊了什么？",
+    "question": "和家人打过最长的一次电话，聊了什么？",
     "category": "familyStory"
-  },
-  {
-    "question": "你有没有觉得现在的年轻人有什么不理解的地方？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你有没有觉得难以理解上一代的时候？",
-    "category": "generationGap"
-  },
-  {
-    "question": "从父母那一代学到的、现在还有用的东西是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "从孩子那一代学到的、最出乎意料的是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你最能感受到代沟的时候是什么时候？",
-    "category": "generationGap"
-  },
-  {
-    "question": "现在流行的东西里，有没有你看不懂的？",
-    "category": "generationGap"
-  },
-  {
-    "question": "小时候觉得理所当然的事，现在的孩子已经不知道的是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "和父母意见最不同的话题是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你有没有羡慕现在孩子的地方？是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "上一代认为理所当然、但你觉得难以理解的是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "因为代沟，家里发生过什么好笑的事？",
-    "category": "generationGap"
-  },
-  {
-    "question": "父母刚开始用智能手机的时候，有什么有趣的经历？",
-    "category": "generationGap"
-  },
-  {
-    "question": "现在的孩子不知道的儿时游戏文化是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "父母教给你的东西里，现在还认为是正确的是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "父母不理解你的流行或文化的时候，有没有？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你觉得父母那代和现在这代最大的不同是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你觉得代沟怎么化解比较好？",
-    "category": "generationGap"
-  },
-  {
-    "question": "小时候不想听父母的话，现在回想起来觉得怎么样？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你觉得父母那个时代有哪些方面比现在好？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你觉得现在这个时代有哪些方面比父母那时候好？",
-    "category": "generationGap"
-  },
-  {
-    "question": "父母的价值观里，你传承下来了什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "父母的价值观里，有没有你想改变的？",
-    "category": "generationGap"
-  },
-  {
-    "question": "代沟让家人之间的沟通变难过吗？",
-    "category": "generationGap"
-  },
-  {
-    "question": "父母说"现在的年轻人"的时候，你是什么感受？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你有没有说过"现在的年轻人"这句话？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你觉得父母那代有哪方面比我们更坚韧？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你觉得现在的年轻人有没有比父母那代做得更好的地方？",
-    "category": "generationGap"
-  },
-  {
-    "question": "父母有没有尝试过了解现代文化？",
-    "category": "generationGap"
-  },
-  {
-    "question": "为了和子女那代沟通，你做了什么努力？",
-    "category": "generationGap"
-  },
-  {
-    "question": "有没有跨越代沟、让你很有共鸣的对话？",
-    "category": "generationGap"
-  },
-  {
-    "question": "父母试着跟上流行的时候，你是什么感受？",
-    "category": "generationGap"
-  },
-  {
-    "question": "长大之后才理解了父母的哪个行为或话语？",
-    "category": "generationGap"
-  },
-  {
-    "question": "因为代沟，你在家里有没有扮演过中间人的角色？",
-    "category": "generationGap"
-  },
-  {
-    "question": "父母的唠叨里，现在觉得说的是对的有什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你们家代沟最明显的话题是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你对父母那代的婚姻观或家庭观怎么看？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你觉得上一代人对现在年轻人的职业观怎么看？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你有没有和父母聊过社交媒体或短视频？",
-    "category": "generationGap"
-  },
-  {
-    "question": "你希望传递给下一代的价值观是什么？",
-    "category": "generationGap"
-  },
-  {
-    "question": "跨越代沟，你们家人能一起做的事有什么？",
-    "category": "generationGap"
   }
 ]

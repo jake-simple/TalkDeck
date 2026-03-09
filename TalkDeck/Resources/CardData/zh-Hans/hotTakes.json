@@ -1,14 +1,14 @@
 [
   {
-    "question": "炸酱面 vs 麻辣烫，毫不犹豫能选出来吗？",
+    "question": "炸酱面 vs 炒码面，你能毫不犹豫地选出来吗？",
     "category": "dailyLife"
   },
   {
-    "question": "菠萝披萨，赞成还是反对？说说理由",
+    "question": "菠萝披萨，你支持还是反对？说说理由。",
     "category": "dailyLife"
   },
   {
-    "question": "炸鸡有骨头的好吃，还是无骨的好吃？",
+    "question": "炸鸡，带骨的还是去骨的，哪个更好吃？",
     "category": "dailyLife"
   },
   {
@@ -16,231 +16,311 @@
     "category": "dailyLife"
   },
   {
-    "question": "早饭一定要吃 vs 不吃也没关系，你是哪边？",
+    "question": "早饭一定要吃 vs 不吃也没关系，你站哪边？",
     "category": "dailyLife"
   },
   {
-    "question": "在咖啡馆开电脑工作的人，你觉得没问题还是有点没眼色？",
+    "question": "在咖啡馆用电脑工作的人，你觉得没问题还是有点不识好歹？",
     "category": "dailyLife"
   },
   {
-    "question": "外卖费多少钱你还愿意点？",
+    "question": "外卖运费多少以内你才愿意点？",
     "category": "dailyLife"
   },
   {
-    "question": "凉皮 vs 热干面，你选哪个？",
+    "question": "冷面，你喜欢汤冷面还是拌冷面？",
     "category": "dailyLife"
   },
   {
-    "question": "定多个闹钟的人 vs 只定一个的人，你更能理解哪个？",
+    "question": "定多个闹钟的人 vs 只定一个的人，你更理解哪种？",
     "category": "dailyLife"
   },
   {
-    "question": "买鞋你更重视舒适度还是颜值？",
+    "question": "买鞋时，舒适感重要还是颜值重要？",
     "category": "dailyLife"
   },
   {
-    "question": "联系很少的朋友 vs 联系很多但有点烦的朋友，哪个更累？",
+    "question": "联系少的朋友 vs 联系多但让你有压力的朋友，哪种更让你难受？",
     "category": "dailyLife"
   },
   {
-    "question": "在餐厅占座的人 vs 先去点单的人，你更讨厌哪个角色？",
+    "question": "去饭馆时，先占位的人 vs 先去点单的人，你更不喜欢哪种角色？",
     "category": "dailyLife"
   },
   {
-    "question": "买东西必须自带购物袋 vs 偶尔用塑料袋也OK？",
+    "question": "去超市必须带购物袋 vs 偶尔用塑料袋也可以，你怎么看？",
     "category": "dailyLife"
   },
   {
-    "question": "排队被插队了，你会开口说 vs 算了忍了？",
+    "question": "排队被插队时，你会说还是算了？",
     "category": "dailyLife"
   },
   {
-    "question": "咖啡冰的 vs 热的，不管季节你选哪个？",
+    "question": "咖啡，冰的还是热的，不管什么季节你都是哪种？",
     "category": "dailyLife"
   },
   {
-    "question": "打车费觉得贵就走路 vs 花钱方便，你是哪种人？",
+    "question": "嫌打车贵宁愿走路 vs 直接打车省事，你是哪种风格？",
     "category": "dailyLife"
   },
   {
-    "question": "聚餐先走的人，有问题吗？",
+    "question": "聚会上最早离开的人，有错吗？",
     "category": "dailyLife"
   },
   {
-    "question": "在餐厅打包剩菜是很正常的吗？",
+    "question": "在餐厅要求打包剩菜，你觉得自然还是有点不好意思？",
     "category": "dailyLife"
   },
   {
-    "question": "把群聊通知关掉，不礼貌吗？",
+    "question": "群聊把消息提醒关掉，算没礼貌吗？",
     "category": "dailyLife"
   },
   {
-    "question": "收礼物你更喜欢精心挑选的实物 vs 红包或代金券？",
+    "question": "礼物，你更喜欢对方亲自挑的 vs 直接给钱或礼品卡？",
     "category": "dailyLife"
   },
   {
-    "question": "公共场所打电话应该压低声音 vs 要求别人安静打电话太强人所难？",
+    "question": "公共场合打电话压低声音是应该的 vs 强求别人小声打电话太过分了？",
     "category": "dailyLife"
   },
   {
-    "question": "在电影院吃爆米花，理所当然吗？",
+    "question": "在电影院吃爆米花，你觉得是理所当然还是有点不对？",
     "category": "dailyLife"
   },
   {
-    "question": "在路上看到熟人假装没看见，能理解吗？",
+    "question": "在街上看到认识的人装没看见，你能理解吗？",
     "category": "dailyLife"
   },
   {
-    "question": "餐厅叫服务员，举手 vs 直接喊"服务员"，哪个更自然？",
+    "question": "在餐厅叫服务员，举手 vs 直接喊，哪种你更习惯？",
     "category": "dailyLife"
   },
   {
-    "question": "微信已读不回 vs 未读不回，哪个更差？",
+    "question": "消息已读不回 vs 未读，哪种更让人不舒服？",
     "category": "dailyLife"
   },
   {
-    "question": "点外卖 vs 去店里吃，哪个你觉得更重要的是味道？",
+    "question": "外卖 vs 出去吃，哪个更在意味道？",
     "category": "dailyLife"
   },
   {
-    "question": "电梯里和陌生人对视，你怎么做？",
+    "question": "在电梯里和陌生人对视，你怎么处理？",
     "category": "dailyLife"
   },
   {
-    "question": "剩菜是浪费，还是把菜吃光才是强迫症？",
+    "question": "剩菜剩饭是浪费 vs 强迫自己吃完才是执念，你觉得呢？",
     "category": "dailyLife"
   },
   {
-    "question": "在家穿拖鞋是必须的吗？",
+    "question": "在家必须穿拖鞋 vs 不穿也行，你怎么看？",
     "category": "dailyLife"
   },
   {
-    "question": "约好的时间准时到 vs 提前5分钟到，你更喜欢哪种人？",
+    "question": "约好时间刚好到 vs 提前五分钟到，你更喜欢哪种？",
     "category": "dailyLife"
   },
   {
-    "question": "运动鞋必须系鞋带 vs 直接踩进去也OK？",
+    "question": "运动鞋的鞋带一定要系好 vs 直接踩着穿也没关系？",
     "category": "dailyLife"
   },
   {
-    "question": "自习室 vs 咖啡馆，你觉得哪里学习效率更高？",
+    "question": "自习室 vs 咖啡馆，你觉得哪个更适合学习？",
     "category": "dailyLife"
   },
   {
-    "question": "大半夜点外卖扰民吗？",
+    "question": "深夜点外卖会打扰到别人吗？",
     "category": "dailyLife"
   },
   {
-    "question": "外出吃饭各自付 vs 一个人先付下次换，你更习惯哪种？",
+    "question": "出去吃饭 AA制 vs 轮流请客，哪种更舒服？",
     "category": "dailyLife"
   },
   {
-    "question": "便利店速食 vs 自己做饭，哪个你觉得更好？",
+    "question": "便利店三角饭团 vs 在家随便弄点吃，哪个更好？",
     "category": "dailyLife"
   },
   {
-    "question": "吃饭之前先拍照 vs 直接开吃，哪个更自然？",
+    "question": "吃东西前先拍照 vs 直接吃，哪种更好？",
     "category": "dailyLife"
   },
   {
-    "question": "和室友共用冰箱，方便还是不方便？",
+    "question": "和室友共用冰箱，你觉得方便还是不方便？",
     "category": "dailyLife"
   },
   {
-    "question": "吃饭时开着视频 vs 专心吃，你更喜欢哪种？",
+    "question": "吃饭时放电视或视频，好还是不好？",
     "category": "dailyLife"
   },
   {
-    "question": "洗衣服之前必须按颜色分类吗？",
+    "question": "洗衣服前按颜色分类是必须的吗？",
     "category": "dailyLife"
   },
   {
-    "question": "在咖啡馆用包包占位，可以吗？",
+    "question": "在咖啡馆用包包占座，没问题还是有点不妥？",
     "category": "dailyLife"
   },
   {
-    "question": "流媒体时代，还有去电影院的意义吗？",
+    "question": "你有没有明明不喜欢吃，但为了不麻烦别人而装作吃得下的食物？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "外出时忘带耳机，你会觉得一整天都不对劲吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你觉得在公共场合吃味道重的食物，算失礼吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "周末睡懒觉到几点算正常？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你买东西时，更在意实用性还是颜值？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "朋友迟到超过多少分钟你才会真的不高兴？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "外卖或商品差评，你写过吗？你觉得写差评有用吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你觉得拼车或顺风车是方便的选择，还是有点担心？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "在图书馆低声交谈，可以吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "看演唱会或电影时，旁边有人一直拍视频，你会感到烦吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你觉得路边摊比餐厅好吃的情况，有多常见？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "朋友借了东西没还，你会主动要回来吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "在公共场合充电，要跟旁边的人说吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你觉得「不回消息」和「回消息但态度敷衍」哪个更让人难受？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你逛超市时，有没有货比三家再决定的习惯？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你觉得有人在旁边发出声音吃东西，会影响你的心情吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你有没有一件事，觉得自己一个人时做起来比和别人一起更享受？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你认为「回消息快」是礼貌的表现，还是没有必要的压力？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你觉得在别人家做客脱不脱鞋，真的重要吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你会在路上边走边吃东西吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "流媒体时代，你觉得去电影院还有意义吗？",
     "category": "culture"
   },
   {
-    "question": "你觉得社交媒体让人际关系变好了，还是变差了？",
+    "question": "社交媒体让人际关系变好了还是变差了？",
     "category": "culture"
   },
   {
-    "question": "短视频正在破坏人的专注力，你同意吗？",
+    "question": "你觉得 YouTube 短视频或 Reels 在破坏注意力吗？",
     "category": "culture"
   },
   {
-    "question": "饭圈文化，你理解还是觉得有点过头？",
+    "question": "偶像粉丝文化，你能理解还是觉得有点过头？",
     "category": "culture"
   },
   {
-    "question": "看纸质书比电子书更有意义，你觉得呢？",
+    "question": "你觉得书还是要读纸质的才有意义吗？",
     "category": "culture"
   },
   {
-    "question": "翻拍电影或剧集，你觉得有比原版更好的可能性吗？",
+    "question": "你觉得有没有翻拍剧或翻拍电影比原作更好？",
     "category": "culture"
   },
   {
-    "question": "AI画的画也算艺术吗？",
+    "question": "AI 画的画，算不算艺术？",
     "category": "culture"
   },
   {
-    "question": "你觉得中国文化出海对国家形象有帮助吗？",
+    "question": "你觉得韩流真的提升了韩国的国际形象吗？",
     "category": "culture"
   },
   {
-    "question": "明星代言的产品，你会信任吗？",
+    "question": "名人代言的产品，你觉得可以信任吗？",
     "category": "culture"
   },
   {
-    "question": "明星的私生活被公开，到什么程度你觉得OK？",
+    "question": "艺人的私生活被曝光，你觉得到什么程度可以接受？",
     "category": "culture"
   },
   {
-    "question": "你有没有觉得小红书或B站比新闻更准确的时候？",
+    "question": "你有没有觉得社交媒体比新闻更准确的时候？",
     "category": "culture"
   },
   {
-    "question": "看电影你更喜欢有字幕还是没有字幕？",
+    "question": "看电影，你喜欢有字幕还是无字幕？",
     "category": "culture"
   },
   {
-    "question": "刷量数据的问题，是粉丝的错还是平台机制的问题？",
+    "question": "粉丝刷榜被批评，是粉丝的问题还是体制的问题？",
     "category": "culture"
   },
   {
-    "question": "用视频代替文字获取信息，你觉得是懒吗？",
+    "question": "看视频获取信息，比阅读文字懒吗？你怎么看？",
     "category": "culture"
   },
   {
-    "question": "去某个争议国家旅行，和历史问题是两回事，你觉得呢？",
+    "question": "去日本旅游，你觉得和历史问题是两回事吗？",
     "category": "culture"
   },
   {
-    "question": "关注名人的社交账号，对生活有帮助还是只让人更爱比较？",
+    "question": "关注名人社交媒体，对生活有帮助还是让你更爱比较？",
     "category": "culture"
   },
   {
-    "question": "你觉得MV的质量和音乐本身一样重要吗？",
+    "question": "你觉得 MV 的质量和音乐本身一样重要吗？",
     "category": "culture"
   },
   {
-    "question": "便利店即食文化越来越发达，你觉得是好事吗？",
+    "question": "便利店便当文化的发展，你觉得是好现象吗？",
     "category": "culture"
   },
   {
-    "question": "球鞋转卖文化，你觉得可以理解还是有点过了？",
+    "question": "球鞋限量转卖文化，你理解还是觉得过头了？",
     "category": "culture"
   },
   {
-    "question": "你觉得现在的剧比以前更好了吗？",
+    "question": "你觉得现在的剧比以前更好看了吗？",
     "category": "culture"
   },
   {
-    "question": "你觉得博主的影响力已经太大了吗？",
+    "question": "你觉得网红影响力太大了吗？",
     "category": "culture"
   },
   {
@@ -248,83 +328,163 @@
     "category": "culture"
   },
   {
-    "question": "有反派的剧比正面主角的剧更好看，你同意吗？",
+    "question": "有反派的剧，比正派主角的剧更好看吗？",
     "category": "culture"
   },
   {
-    "question": "网漫比纸质漫画更普及，你觉得是好事吗？",
+    "question": "网络漫画比纸质漫画更大众化，你觉得是好事吗？",
     "category": "culture"
   },
   {
-    "question": "出国旅行一定比国内旅行更特别吗？",
+    "question": "海外旅行总是比国内旅行更特别吗？",
     "category": "culture"
   },
   {
-    "question": "参加婚礼送多少份子钱合适？",
+    "question": "婚礼份子钱，多少算合适？",
     "category": "culture"
   },
   {
-    "question": "你觉得节假日文化应该改变吗？怎么改？",
+    "question": "传统节日文化应该改变吗？怎么变？",
     "category": "culture"
   },
   {
-    "question": "演出过程中用手机应该完全禁止吗？",
+    "question": "演出期间禁止用手机，你觉得有必要吗？",
     "category": "culture"
   },
   {
-    "question": "AI翻译进步了，你觉得学外语的必要性降低了吗？",
+    "question": "AI 翻译器越来越强，学外语的必要性减少了吗？",
     "category": "culture"
   },
   {
-    "question": "没有社交媒体，营销还可能做到吗？",
+    "question": "不靠社交媒体的营销，你觉得现在还可能做到吗？",
     "category": "culture"
   },
   {
-    "question": "你觉得现在的内容创作越来越走刺激路线了吗？",
+    "question": "你觉得现在的内容是不是越来越刺激化？",
     "category": "culture"
   },
   {
-    "question": "互联网大厂垄断太多东西了，你觉得呢？",
+    "question": "大型互联网公司垄断太多行业了，你怎么看？",
     "category": "culture"
   },
   {
-    "question": "养生健康风潮真的改变了生活，还是只是营销？",
+    "question": "健康饮食、养生趋势，是真的改变了生活，还是只是营销？",
     "category": "culture"
   },
   {
-    "question": "名人自己做美食视频，有趣还是只是消费自己的形象？",
+    "question": "名人自己开美食视频频道，你觉得有意思还是消耗形象？",
     "category": "culture"
   },
   {
-    "question": "你觉得看了剧透还能好好看剧吗？",
+    "question": "剧透了还能好好看，你觉得可能吗？",
     "category": "culture"
   },
   {
-    "question": "KTV文化慢慢消失，你觉得可惜吗？",
+    "question": "KTV 文化慢慢消失，你觉得可惜吗？",
     "category": "culture"
   },
   {
-    "question": "职场招人应该重能力而不是学历，你同意吗？",
+    "question": "你觉得求职文化里，人品应该比学历更重要吗？",
     "category": "culture"
   },
   {
-    "question": "买奢侈品是浪费还是有价值的消费？",
+    "question": "奢侈品是浪费钱还是有价值的消费？",
     "category": "culture"
   },
   {
-    "question": "你觉得UP主也应该和媒体人一样为影响力负责吗？",
+    "question": "YouTuber 也应该像电视台主持人一样对影响力负责吗？",
     "category": "culture"
   },
   {
-    "question": "短视频正在取代长视频内容，你觉得是这样吗？",
+    "question": "短视频内容正在取代长视频，你同意吗？",
     "category": "culture"
   },
   {
-    "question": "你觉得异性之间可以有纯友谊吗？",
+    "question": "你觉得「粉丝经济」对文化是利还是弊？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得现代人的阅读量在减少吗？这是问题吗？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得「独立创作者」比传统媒体更真实吗？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得「网红城市」的打卡文化，有没有改变了旅行的意义？",
+    "category": "culture"
+  },
+  {
+    "question": "线上学习和线下学习，效果有实质性的差别吗？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得「极简主义」的生活方式，是智慧还是一种新的执念？",
+    "category": "culture"
+  },
+  {
+    "question": "综艺节目还能做出真实感吗，还是全部都是剧本？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得明星「塌房」之后，他们的作品还值得去欣赏吗？",
+    "category": "culture"
+  },
+  {
+    "question": "你认为「舒适圈」是应该打破的，还是理所当然需要的？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得当代艺术，大多数人真的懂吗？",
+    "category": "culture"
+  },
+  {
+    "question": "虚拟偶像（如 Vtuber）的流行，你怎么看？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得「正能量内容」会不会让人对现实产生不切实际的期待？",
+    "category": "culture"
+  },
+  {
+    "question": "看综艺真人秀，你觉得在「消费」别人的生活吗？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得「文化输出」重要吗？哪个国家做得最好？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得流媒体的「推荐算法」在限制你的审美？",
+    "category": "culture"
+  },
+  {
+    "question": "「二次创作」（同人作品等）算侵权还是一种文化延伸？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得流行音乐越来越同质化了吗？",
+    "category": "culture"
+  },
+  {
+    "question": "你认为「剧情反转」是好的叙事手段，还是创作者偷懒？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得现代人对「爆款」的追求，有没有影响真正好作品的生存空间？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得「慢综艺」的流行说明了什么？",
+    "category": "culture"
+  },
+  {
+    "question": "你觉得男女之间存在纯友谊吗？",
     "category": "relationship"
   },
   {
-    "question": "恋人之间有秘密，OK吗？",
+    "question": "恋人之间可以有秘密吗？",
     "category": "relationship"
   },
   {
@@ -332,19 +492,19 @@
     "category": "relationship"
   },
   {
-    "question": "联系的频率代表感情的深浅吗？",
+    "question": "联系频率能代表感情的深浅吗？",
     "category": "relationship"
   },
   {
-    "question": "一见钟情可以成为真爱吗？",
+    "question": "你相信一见钟情可以成为真正的爱情吗？",
     "category": "relationship"
   },
   {
-    "question": "你觉得朋友关系里年龄差重要吗？",
+    "question": "你觉得朋友之间年龄差重要吗？",
     "category": "relationship"
   },
   {
-    "question": "恋人之间应该知道对方的社交账号吗？",
+    "question": "你觉得恋人之间应该互相关注对方的社交账号吗？",
     "category": "relationship"
   },
   {
@@ -352,11 +512,11 @@
     "category": "relationship"
   },
   {
-    "question": "人是可以改变的 vs 本性难移，你更倾向哪边？",
+    "question": "人是会变的 vs 本性难移，你更倾向于哪边？",
     "category": "relationship"
   },
   {
-    "question": "分手之后可以做朋友吗？",
+    "question": "分手后还能做朋友吗？",
     "category": "relationship"
   },
   {
@@ -364,31 +524,31 @@
     "category": "relationship"
   },
   {
-    "question": "暧昧是必要的阶段，还是浪费时间？",
+    "question": "暧昧是必要的过程，还是浪费时间？",
     "category": "relationship"
   },
   {
-    "question": "朋友之间不应该借钱，你同意吗？",
+    "question": "朋友之间金钱往来，你觉得不合适吗？",
     "category": "relationship"
   },
   {
-    "question": "恋人的过去谈过几段恋爱，你一定要知道吗？",
+    "question": "你觉得一定要了解对方过去的感情经历吗？",
     "category": "relationship"
   },
   {
-    "question": "出轨的人很难再信任，你觉得呢？",
+    "question": "出轨过的人很难再被信任，你同意吗？",
     "category": "relationship"
   },
   {
-    "question": "交朋友或谈恋爱，共同点重要还是互补重要？",
+    "question": "交朋友时，共同点重要还是差异重要？",
     "category": "relationship"
   },
   {
-    "question": "喜欢一个人但不表白，是没勇气还是一种纯粹？",
+    "question": "暗恋很久是缺乏勇气，还是一种纯粹的感情？",
     "category": "relationship"
   },
   {
-    "question": "你觉得恋人之间不一定要有共同爱好吗？",
+    "question": "你觉得恋人不一定要有共同兴趣爱好吗？",
     "category": "relationship"
   },
   {
@@ -396,247 +556,87 @@
     "category": "relationship"
   },
   {
-    "question": "帮朋友介绍对象，是负担还是很正常？",
+    "question": "帮人介绍对象是种负担吗？",
     "category": "relationship"
   },
   {
-    "question": "年龄差超过10岁的恋爱，你觉得没问题吗？",
+    "question": "年龄差超过十岁的恋爱，你觉得没问题吗？",
     "category": "relationship"
   },
   {
-    "question": "没有同居就结婚，是一种冒险吗？",
+    "question": "没同居就结婚，你觉得是在冒险吗？",
     "category": "relationship"
   },
   {
-    "question": "朋友的朋友，能成为自己的好朋友吗？",
+    "question": "朋友的朋友可以成为自己的朋友，还是会很尴尬？",
     "category": "relationship"
   },
   {
-    "question": "关系里先联系对方的人，更喜欢对方吗？",
+    "question": "关系里先联系的那个人，是感情更深的那个吗？",
     "category": "relationship"
   },
   {
-    "question": "恋人之间经济独立对关系更好吗？",
+    "question": "恋人之间保持经济独立，对感情更好吗？",
     "category": "relationship"
   },
   {
-    "question": "朋友谈了一段你觉得不好的恋爱，你会说吗？",
+    "question": "朋友谈了一段不好的恋爱，你会直说吗？",
     "category": "relationship"
   },
   {
-    "question": "喜欢一个人的感觉，可以靠努力培养出来吗？",
+    "question": "你觉得喜欢一个人的感情，努力可以培养出来吗？",
     "category": "relationship"
   },
   {
-    "question": "结婚只靠爱情够 vs 还需要现实条件匹配，你选哪边？",
+    "question": "结婚光靠爱情就够了 vs 现实条件也得考虑，你站哪边？",
     "category": "relationship"
   },
   {
-    "question": "和恋人吵架，当场解决 vs 各自冷静了再说，哪种更好？",
+    "question": "和恋人吵架，要当场解决还是各自冷静后再谈？",
     "category": "relationship"
   },
   {
-    "question": "喜欢一个人，先开口表白更好吗？",
+    "question": "喜欢一个人就应该先表白吗？",
     "category": "relationship"
   },
   {
-    "question": "关系疏远了的朋友，你会先联系吗？",
+    "question": "和疏远的朋友重新联系，应该主动先联系吗？",
     "category": "relationship"
   },
   {
-    "question": "你觉得应该和恋人的朋友们熟起来吗？",
+    "question": "你觉得需要和恋人的朋友们也搞好关系吗？",
     "category": "relationship"
   },
   {
-    "question": "父母反对你的恋人，你会怎么做？",
+    "question": "父母不同意你的伴侣，你会怎么做？",
     "category": "relationship"
   },
   {
-    "question": "你相信灵魂伴侣的存在吗？",
+    "question": "你相信灵魂伴侣存在吗？",
     "category": "relationship"
   },
   {
-    "question": "朋友做了让你生气的事，你会直说还是算了？",
+    "question": "和朋友生气了，你会直说还是当作没事？",
     "category": "relationship"
   },
   {
-    "question": "恋人之间可以互看手机 vs 个人空间应该保障，你选哪边？",
+    "question": "恋人之间可以互看手机 vs 个人空间应该被尊重，你站哪边？",
     "category": "relationship"
   },
   {
-    "question": "关系是要用心维护的，还是自然流淌的？",
+    "question": "关系需要用心经营，还是顺其自然就好？",
     "category": "relationship"
   },
   {
-    "question": "对方忙的时候联系少，可以理解吗？",
+    "question": "忙的时候联系少，你觉得可以理解吗？",
     "category": "relationship"
   },
   {
-    "question": "恋人之间的嫉妒，是爱的表现还是占有欲？",
+    "question": "恋人之间的嫉妒，是爱的表现还是控制欲？",
     "category": "relationship"
   },
   {
-    "question": "和好朋友的前任谈恋爱，OK吗？",
+    "question": "和好朋友的前任交往，可以吗？",
     "category": "relationship"
-  },
-  {
-    "question": "有钱就能买到大部分的幸福，你同意吗？",
-    "category": "life"
-  },
-  {
-    "question": "快乐地活着比拼命努力更重要，你觉得呢？",
-    "category": "life"
-  },
-  {
-    "question": "成功有一半以上是靠运气，你觉得呢？",
-    "category": "life"
-  },
-  {
-    "question": "活得幸福 vs 活得有意义，哪个叫活得好？",
-    "category": "life"
-  },
-  {
-    "question": "学历在社会上依然很重要，你觉得呢？",
-    "category": "life"
-  },
-  {
-    "question": "和别人比较，不一定是坏事，你同意吗？",
-    "category": "life"
-  },
-  {
-    "question": "先照顾好自己，是自私吗？",
-    "category": "life"
-  },
-  {
-    "question": "努力就没有做不到的事，你同意吗？",
-    "category": "life"
-  },
-  {
-    "question": "30岁 vs 20岁，你觉得哪个阶段更自由？",
-    "category": "life"
-  },
-  {
-    "question": "经历越多，人就越好，你觉得呢？",
-    "category": "life"
-  },
-  {
-    "question": "现在不想做的事也要为了未来忍着做 vs 当下快乐才是重点？",
-    "category": "life"
-  },
-  {
-    "question": "你觉得结婚是必须的吗？",
-    "category": "life"
-  },
-  {
-    "question": "人在独处时成长 vs 人在关系中成长，你选哪个？",
-    "category": "life"
-  },
-  {
-    "question": "诚实的人最终会过得更好，你相信吗？",
-    "category": "life"
-  },
-  {
-    "question": "职业应该做喜欢的 vs 做擅长的，你选哪个？",
-    "category": "life"
-  },
-  {
-    "question": "稳定的生活比充满变化的生活更幸福，你觉得呢？",
-    "category": "life"
-  },
-  {
-    "question": "年纪越大梦想变小，是正常的吗？",
-    "category": "life"
-  },
-  {
-    "question": "重要决策靠理性比靠感性结果更好，你同意吗？",
-    "category": "life"
-  },
-  {
-    "question": "现在想平凡地生活越来越难了，你觉得呢？",
-    "category": "life"
-  },
-  {
-    "question": "失败是成功之母，你真的同意吗？",
-    "category": "life"
-  },
-  {
-    "question": "生来就有钱，算一种能力吗？",
-    "category": "life"
-  },
-  {
-    "question": "四十岁之前应该把想做的都尝试一遍，你觉得呢？",
-    "category": "life"
-  },
-  {
-    "question": "善良地活着最终会有好事发生，你相信吗？",
-    "category": "life"
-  },
-  {
-    "question": "你觉得现在这一代比父母那一代更辛苦吗？",
-    "category": "life"
-  },
-  {
-    "question": "牺牲自我是真正的爱 vs 不能失去自我，你选哪边？",
-    "category": "life"
-  },
-  {
-    "question": "辞职后自己创业，你觉得值得尝试吗？",
-    "category": "life"
-  },
-  {
-    "question": "你有没有感到孝顺父母是一种义务？",
-    "category": "life"
-  },
-  {
-    "question": "受了委屈忍下来是明智的吗？",
-    "category": "life"
-  },
-  {
-    "question": "你觉得有"活出年龄该有的样子"这种说法吗？",
-    "category": "life"
-  },
-  {
-    "question": "爱担心是有准备，还是浪费精力？",
-    "category": "life"
-  },
-  {
-    "question": "减少人生的后悔，可以成为一个人生目标吗？",
-    "category": "life"
-  },
-  {
-    "question": "你有没有因为别人的眼光改变过决定？你觉得那是对的吗？",
-    "category": "life"
-  },
-  {
-    "question": "坏的经历最终也有帮助，你觉得呢？",
-    "category": "life"
-  },
-  {
-    "question": "没有热情，但认真踏实去做，那也是更好的生活方式吗？",
-    "category": "life"
-  },
-  {
-    "question": "一辈子只做一件事更好，还是多样化地生活更好？",
-    "category": "life"
-  },
-  {
-    "question": "你觉得自己临终前能感觉无悔地活过了吗？",
-    "category": "life"
-  },
-  {
-    "question": "好房子 vs 好旅行，只能选一个你选哪个？",
-    "category": "life"
-  },
-  {
-    "question": "人生里运气比努力更重要，你觉得呢？",
-    "category": "life"
-  },
-  {
-    "question": "喜欢一个人待着的人，在人际关系上吃亏吗？",
-    "category": "life"
-  },
-  {
-    "question": "你觉得现在是你人生中最好的时候吗？",
-    "category": "life"
   }
 ]

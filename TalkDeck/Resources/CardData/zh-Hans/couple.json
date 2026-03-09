@@ -1,10 +1,10 @@
 [
   {
-    "question": "第一次见到我的时候，你是什么感觉？",
+    "question": "第一次见到我的时候，你有什么感觉？",
     "category": "excitement"
   },
   {
-    "question": "你是什么时候开始对我有感觉的？",
+    "question": "你是从什么时候开始对我有感觉的？",
     "category": "excitement"
   },
   {
@@ -16,19 +16,19 @@
     "category": "excitement"
   },
   {
-    "question": "给我发消息之前，你有没有犹豫过？",
+    "question": "在联系我之前，你有过犹豫吗？",
     "category": "excitement"
   },
   {
-    "question": "第一次见我就喜欢上了，你知道吗？",
+    "question": "第一次见到我就喜欢上了，你当时知道吗？",
     "category": "excitement"
   },
   {
-    "question": "我们第一次单独见面时，你有没有紧张？",
+    "question": "我们第一次单独见面时，你紧张吗？",
     "category": "excitement"
   },
   {
-    "question": "我笑的时候和认真的时候，哪个最初更吸引你？",
+    "question": "我笑的时候和认真的时候，哪个样子最初更吸引你？",
     "category": "excitement"
   },
   {
@@ -36,43 +36,43 @@
     "category": "excitement"
   },
   {
-    "question": "你是什么时候第一次承认自己喜欢我的？",
+    "question": "你第一次承认自己喜欢我是什么时候？",
     "category": "excitement"
   },
   {
-    "question": "现在见到我还会有心跳加速的时候吗？",
+    "question": "现在看到我还会有心跳加速的瞬间吗？",
     "category": "excitement"
   },
   {
-    "question": "收到我消息时，什么时机让你最开心？",
+    "question": "我联系你的时候，什么时机最让你开心？",
     "category": "excitement"
   },
   {
-    "question": "交往之前，你最期待的事情是什么？",
+    "question": "在我们正式在一起之前，你最期待的是什么？",
     "category": "excitement"
   },
   {
-    "question": "你喜欢听我说话的声音吗？",
+    "question": "你喜欢听我的声音吗？",
     "category": "excitement"
   },
   {
-    "question": "想到我，脑海里第一个浮现的画面是什么？",
+    "question": "想到我，第一个浮现的画面是什么？",
     "category": "excitement"
   },
   {
-    "question": "还记得我们第一次一起吃饭吗？是什么感觉？",
+    "question": "我们第一次一起吃饭还记得吗？是什么感觉？",
     "category": "excitement"
   },
   {
-    "question": "还记得我们在一起那天吗？那天心情怎么样？",
+    "question": "我们在一起那天还记得吗？那天你是什么心情？",
     "category": "excitement"
   },
   {
-    "question": "看到我从远处走过来，你心里是什么感受？",
+    "question": "看到我从远处走来，你什么感受？",
     "category": "excitement"
   },
   {
-    "question": "有没有一刻让你确定自己喜欢上了我？",
+    "question": "有没有某个瞬间，你确定自己爱上我了？",
     "category": "excitement"
   },
   {
@@ -80,171 +80,251 @@
     "category": "excitement"
   },
   {
-    "question": "我出乎意料地为你做了什么，让你最心动？",
+    "question": "我哪次出乎意料的举动最让你心动？",
     "category": "excitement"
   },
   {
-    "question": "第一次和我有肢体接触时是什么感觉？",
+    "question": "我们第一次有肢体接触时，你是什么感觉？",
     "category": "excitement"
   },
   {
-    "question": "第一次感到"想见你"是什么时候？",
+    "question": "第一次想我，是在什么时候？",
     "category": "excitement"
   },
   {
-    "question": "有没有一个人心动、又自己平静下来的时候？",
+    "question": "有没有对我暗自心动，又自己平复下来的时候？",
     "category": "excitement"
   },
   {
-    "question": "有没有看到我之后心里突然一沉的瞬间？",
+    "question": "有没有哪个瞬间，看到我之后心里一沉？",
     "category": "excitement"
   },
   {
-    "question": "我们刚开始联系时，你会等我回复吗？",
+    "question": "我们刚开始联系时，你有等我回消息吗？",
     "category": "excitement"
   },
   {
-    "question": "我说了什么让你最心动？",
+    "question": "我说了什么话，最让你心动？",
     "category": "excitement"
   },
   {
-    "question": "和我在一起时现在还会有心跳加速的时候吗？",
+    "question": "现在和我在一起，还是会有心跳加速的时刻吗？",
     "category": "excitement"
   },
   {
-    "question": "第一次见面之后，你有没有经常想到我？",
+    "question": "第一次见面之后，你有没有很多时间想着我？",
     "category": "excitement"
   },
   {
-    "question": "你有没有努力不让我看出你对我有意思？",
+    "question": "你有没有努力隐藏过自己对我的喜欢？",
     "category": "excitement"
   },
   {
-    "question": "交往之前，你有没有偷偷搜索过我？",
+    "question": "在一起之前，有没有偷偷查过我的信息？",
     "category": "excitement"
   },
   {
-    "question": "我做了什么让你觉得"就是这个人了"？",
+    "question": "我做了什么，让你觉得「就是这个人」？",
     "category": "excitement"
   },
   {
-    "question": "第一次告诉别人你喜欢我是什么感觉？",
+    "question": "第一次把喜欢我的事告诉朋友，你什么感觉？",
     "category": "excitement"
   },
   {
-    "question": "第一次分开，走在回家路上你想了什么？",
+    "question": "我们第一次道别后，走在回家路上你在想什么？",
     "category": "excitement"
   },
   {
-    "question": "等我的时候，你有没有心跳加速？",
+    "question": "等我的时候，你有过心跳加速吗？",
     "category": "excitement"
   },
   {
-    "question": "有没有担心过我会离你而去？",
+    "question": "有没有担心过我会离开，感到不安？",
     "category": "excitement"
   },
   {
-    "question": "交往前你有没有特别想给我留好印象？",
+    "question": "在一起之前，有没有想在我面前表现好的地方？",
     "category": "excitement"
   },
   {
-    "question": "你有没有偷偷多看过我的照片？",
+    "question": "你有没有悄悄多次翻看我的照片？",
     "category": "excitement"
   },
   {
-    "question": "你还记得第一次见我时你穿的什么衣服吗？",
+    "question": "第一次见面那天，你还记得我穿了什么吗？",
     "category": "excitement"
   },
   {
-    "question": "就在这一刻，我还有没有什么地方让你心动？",
+    "question": "就算是现在，我还有哪些地方让你心动？",
     "category": "excitement"
   },
   {
-    "question": "你最喜欢我们约会的哪种方式？",
+    "question": "暗恋我的时候，有没有在社交媒体偷偷关注我？",
+    "category": "excitement"
+  },
+  {
+    "question": "第一次和我视频通话，你什么感觉？",
+    "category": "excitement"
+  },
+  {
+    "question": "你第一次看到我笑，内心是什么反应？",
+    "category": "excitement"
+  },
+  {
+    "question": "有没有因为期待见我而睡不着的晚上？",
+    "category": "excitement"
+  },
+  {
+    "question": "我第一次叫你名字的时候，你什么感受？",
+    "category": "excitement"
+  },
+  {
+    "question": "有没有对朋友说过喜欢我，又不敢让我知道？",
+    "category": "excitement"
+  },
+  {
+    "question": "我们暧昧期间，最让你紧张的一句话是什么？",
+    "category": "excitement"
+  },
+  {
+    "question": "第一次看到我睡着的照片或样子，你有什么感觉？",
+    "category": "excitement"
+  },
+  {
+    "question": "有没有因为我的一条消息，开心了一整天？",
+    "category": "excitement"
+  },
+  {
+    "question": "我们第一次手牵手，你那时候什么心情？",
+    "category": "excitement"
+  },
+  {
+    "question": "有没有哪次见面前，换了很多套衣服？",
+    "category": "excitement"
+  },
+  {
+    "question": "你喜欢我的哪个细节，却从来没告诉我？",
+    "category": "excitement"
+  },
+  {
+    "question": "初期暗恋我时，最担心的是什么？",
+    "category": "excitement"
+  },
+  {
+    "question": "我在你心里的形象是从什么时候改变的？",
+    "category": "excitement"
+  },
+  {
+    "question": "有没有因为我一个眼神，就心情大好？",
+    "category": "excitement"
+  },
+  {
+    "question": "第一次收到我送的东西，你当时什么感觉？",
+    "category": "excitement"
+  },
+  {
+    "question": "和我在一起之后，有没有觉得「好险当初没放弃」的时刻？",
+    "category": "excitement"
+  },
+  {
+    "question": "你最喜欢我们刚在一起时的哪段时光？",
+    "category": "excitement"
+  },
+  {
+    "question": "喜欢我期间，有没有做过和我有关的梦？",
+    "category": "excitement"
+  },
+  {
+    "question": "看到我在做认真的事情时，你有什么感觉？",
+    "category": "excitement"
+  },
+  {
+    "question": "你最喜欢我们约会的哪种形式？",
     "category": "taste"
   },
   {
-    "question": "最近想和我一起吃什么？",
+    "question": "和我在一起时，你会想吃什么食物？",
     "category": "taste"
   },
   {
-    "question": "有没有想和我一起去的旅行目的地？",
+    "question": "有没有想和我一起去的旅行地？",
     "category": "taste"
   },
   {
-    "question": "我们一起看过的内容里，哪个类型最有意思？",
+    "question": "我们一起看的时候，哪种类型最有意思？",
     "category": "taste"
   },
   {
-    "question": "你有没有特别想介绍给我吃的食物？",
+    "question": "有没有特别想让我尝试的食物？",
     "category": "taste"
   },
   {
-    "question": "最近发现我们共同喜欢的东西有什么？",
+    "question": "最近有没有发现我们都喜欢的东西？",
     "category": "taste"
   },
   {
-    "question": "有没有觉得和我一起做会更有趣的爱好？",
+    "question": "有没有感觉和我一起做会更有趣的爱好？",
     "category": "taste"
   },
   {
-    "question": "你会推荐我们一起听的歌是什么？",
+    "question": "如果推荐一首适合我们一起听的歌，你会选什么？",
     "category": "taste"
   },
   {
-    "question": "你觉得我们口味最合的地方是什么？",
+    "question": "你觉得我们最合拍的地方是什么？",
     "category": "taste"
   },
   {
-    "question": "因为我而对什么产生了新的兴趣？",
+    "question": "有没有因为我而开始感兴趣的事情？",
     "category": "taste"
   },
   {
-    "question": "和我在一起时，有没有觉得特别搭的瞬间？",
+    "question": "有没有哪个时刻，感觉我们的氛围特别默契？",
     "category": "taste"
   },
   {
-    "question": "我们口味最不同的地方是哪里？",
+    "question": "你有没有什么和我完全相反的口味？",
     "category": "taste"
   },
   {
-    "question": "发现我们喜欢同一件东西时，你有没有特别开心？",
+    "question": "发现我们喜欢同一件事时，你有没有很惊喜？",
     "category": "taste"
   },
   {
-    "question": "有什么想和我一起尝试的新体验？",
+    "question": "有没有想和我一起尝试的新体验？",
     "category": "taste"
   },
   {
-    "question": "你推荐给我的、结果我比你想象的更喜欢的东西是什么？",
+    "question": "有没有推荐给我、结果我出乎意料很喜欢的东西？",
     "category": "taste"
   },
   {
-    "question": "约会时你更喜欢户外还是室内？",
+    "question": "约会时，你喜欢户外还是室内？",
     "category": "taste"
   },
   {
-    "question": "如果我们一起做一个歌单，第一首歌是什么？",
+    "question": "如果我们要做一个共同的歌单，第一首歌是什么？",
     "category": "taste"
   },
   {
-    "question": "你觉得如果和我一起住，装修风格会合得来吗？",
+    "question": "你觉得我们如果住在一起，装修风格会合拍吗？",
     "category": "taste"
   },
   {
-    "question": "你有没有特别想让我看的电影或剧？",
+    "question": "有没有特别想让我看的电影或剧？",
     "category": "taste"
   },
   {
-    "question": "我们两个能像孩子一样开心地玩的是什么？",
+    "question": "我们两个可以像孩子一样开心玩的是什么？",
     "category": "taste"
   },
   {
-    "question": "我的口味里，有没有什么让你觉得意外的？",
+    "question": "我的爱好里，有没有让你觉得意外或有趣的？",
     "category": "taste"
   },
   {
-    "question": "如果一起做饭，你想做什么？",
+    "question": "一起做饭的话，你想做什么？",
     "category": "taste"
   },
   {
@@ -252,63 +332,63 @@
     "category": "taste"
   },
   {
-    "question": "我们哪个领域的口味最相似？",
+    "question": "我们爱好最相近的领域是什么？",
     "category": "taste"
   },
   {
-    "question": "因为我你认识了什么新的食物或菜？",
+    "question": "有没有因为我而认识的新食物或菜品？",
     "category": "taste"
   },
   {
-    "question": "你最希望我们一起去什么氛围的咖啡厅？",
+    "question": "你喜欢什么样的咖啡馆氛围？想和我一起去那种地方吗？",
     "category": "taste"
   },
   {
-    "question": "如果一起运动，什么项目最合适？",
+    "question": "一起运动的话，做什么最合适？",
     "category": "taste"
   },
   {
-    "question": "你觉得我们读书的口味相似吗？",
+    "question": "你觉得我们读书品味相似吗？",
     "category": "taste"
   },
   {
-    "question": "我们约会里有什么是少了就会觉得遗憾的？",
+    "question": "约会时少了什么会觉得遗憾？",
     "category": "taste"
   },
   {
-    "question": "你最喜欢我的穿衣风格哪一面？",
+    "question": "你最喜欢我的哪种穿衣风格？",
     "category": "taste"
   },
   {
-    "question": "你最想和我一起待到很晚的地方是哪里？",
+    "question": "有没有想和我一起待到很晚的地方？",
     "category": "taste"
   },
   {
-    "question": "因为彼此口味不同，我们发现了什么好东西？",
+    "question": "因为我们口味不同，反而发现了什么好东西？",
     "category": "taste"
   },
   {
-    "question": "你特别想让我尝尝的一种食物是什么？",
+    "question": "有没有特别想让我尝的食物？",
     "category": "taste"
   },
   {
-    "question": "我们一起逛哪里会最开心？",
+    "question": "哪个地方最适合我们一起逛？",
     "category": "taste"
   },
   {
-    "question": "你想一起体验我喜欢的什么东西？",
+    "question": "我喜欢的事情里，有没有你也想一起体验的？",
     "category": "taste"
   },
   {
-    "question": "我们饮食口味里重叠最多的是什么？",
+    "question": "我们饮食口味里，重叠最多的是什么？",
     "category": "taste"
   },
   {
-    "question": "你想在什么季节和我去旅行？",
+    "question": "你想和我在哪个季节去旅行？",
     "category": "taste"
   },
   {
-    "question": "有没有一起看会更有趣的体育或游戏？",
+    "question": "有没有一起看会更有意思的体育或游戏？",
     "category": "taste"
   },
   {
@@ -316,51 +396,131 @@
     "category": "taste"
   },
   {
-    "question": "有没有口味完全不同、却一起玩得很开心的事？",
+    "question": "我们口味完全不同，但还是一起开心过的事有吗？",
     "category": "taste"
   },
   {
-    "question": "我们在一起以来，笑得最开心的瞬间是什么时候？",
+    "question": "你觉得我们出行更喜欢计划好还是随性一点？",
+    "category": "taste"
+  },
+  {
+    "question": "有没有一个地方，你一直想带我去但还没去成？",
+    "category": "taste"
+  },
+  {
+    "question": "我们在家里最喜欢做什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你觉得我们看剧时，谁更容易先睡着？",
+    "category": "taste"
+  },
+  {
+    "question": "有没有一起做手工或创意活动的想法？",
+    "category": "taste"
+  },
+  {
+    "question": "吃东西时，你会想和我分享的是什么？",
+    "category": "taste"
+  },
+  {
+    "question": "我们各自的「最爱食物」是什么？能接受对方的吗？",
+    "category": "taste"
+  },
+  {
+    "question": "有没有只要和我一起，做什么都觉得好玩的感觉？",
+    "category": "taste"
+  },
+  {
+    "question": "你最想和我一起看的演唱会或音乐节是什么？",
+    "category": "taste"
+  },
+  {
+    "question": "有没有想一起挑战的极限运动或新奇体验？",
+    "category": "taste"
+  },
+  {
+    "question": "你觉得我们更喜欢热闹的地方还是安静的地方？",
+    "category": "taste"
+  },
+  {
+    "question": "有没有你很迷但我还没接触过的爱好，想分享给我？",
+    "category": "taste"
+  },
+  {
+    "question": "我们一起逛超市，谁更容易乱买东西？",
+    "category": "taste"
+  },
+  {
+    "question": "你觉得我们的幽默感是同类型的吗？",
+    "category": "taste"
+  },
+  {
+    "question": "有没有一种食物，你一直想和我一起在特别的地方吃？",
+    "category": "taste"
+  },
+  {
+    "question": "我们最享受的是哪种天气下的约会？",
+    "category": "taste"
+  },
+  {
+    "question": "如果可以一起学一门手艺，你想学什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你觉得我们夜晚的节奏合拍吗？",
+    "category": "taste"
+  },
+  {
+    "question": "有没有一张照片，你觉得特别能代表我们的风格？",
+    "category": "taste"
+  },
+  {
+    "question": "一起旅行时，你更喜欢发现小众地方还是打卡热门景点？",
+    "category": "taste"
+  },
+  {
+    "question": "我们在一起以来，笑得最开心的一次是什么时候？",
     "category": "memories"
   },
   {
-    "question": "第一次约会里，你最记得哪个画面？",
+    "question": "第一次约会有什么让你印象深刻的场景？",
     "category": "memories"
   },
   {
-    "question": "因为我而心情最好的瞬间是什么？",
+    "question": "有没有哪个瞬间，因为我而心情特别好？",
     "category": "memories"
   },
   {
-    "question": "我们吵架后和好，最记得的一句话是什么？",
+    "question": "我们吵架又和好时，最让你记住的话是什么？",
     "category": "memories"
   },
   {
-    "question": "我们一起做过的事里，现在还偶尔会想起来的是什么？",
+    "question": "我们一起做过的事里，还是会时不时想起来的是什么？",
     "category": "memories"
   },
   {
-    "question": "我让你感动的那一刻，你想到的是什么？",
+    "question": "想想我让你感动过的瞬间，你会想到什么？",
     "category": "memories"
   },
   {
-    "question": "我们旅行里最难忘的一件事是什么？",
+    "question": "我们一起旅行时最难忘的小故事是什么？",
     "category": "memories"
   },
   {
-    "question": "第一次真心感谢我是什么时候？",
+    "question": "第一次真心感激我是在什么时候？",
     "category": "memories"
   },
   {
-    "question": "我们一起吃过的东西里，现在还会想起来的是什么？",
+    "question": "我们一起吃过的食物里，还会想起来的是哪个？",
     "category": "memories"
   },
   {
-    "question": "我们最普通却最幸福的一天是哪一天？",
+    "question": "我们最平凡却最幸福的一天是哪天？",
     "category": "memories"
   },
   {
-    "question": "和我在一起后，一个人回家心情最好的一天是哪天？",
+    "question": "和我在一起之后独自回家，哪天心情最好？",
     "category": "memories"
   },
   {
@@ -368,275 +528,115 @@
     "category": "memories"
   },
   {
-    "question": "我们在一起以来，最惊喜的瞬间是什么？",
+    "question": "我们在一起以来，最意外惊喜的瞬间是什么？",
     "category": "memories"
   },
   {
-    "question": "我生病或难过的时候你还记得吗？当时是什么心情？",
+    "question": "我生病或者难过的时候，你还记得吗？当时什么心情？",
     "category": "memories"
   },
   {
-    "question": "我们有没有一起迷路或计划泡汤的经历？",
+    "question": "有没有一起迷路或计划泡汤的经历？还记得吗？",
     "category": "memories"
   },
   {
-    "question": "第一次真心对我说谢谢是什么时候？",
+    "question": "第一次真心跟我说谢谢是在什么时候？",
     "category": "memories"
   },
   {
-    "question": "刚在一起没多久，最让你心动的一件事是什么？",
+    "question": "刚在一起那段时间，最让你心跳的小故事是什么？",
     "category": "memories"
   },
   {
-    "question": "我们有没有一起熬夜做某件事？是什么感觉？",
+    "question": "有没有一起熬夜做什么事？是什么记忆？",
     "category": "memories"
   },
   {
-    "question": "我让你觉得最好笑的瞬间里，印象最深的是什么？",
+    "question": "我最搞笑的瞬间里，最让你记住的是什么？",
     "category": "memories"
   },
   {
-    "question": "我们第一次感觉更深了解彼此的瞬间是什么时候？",
+    "question": "有没有某个时刻，感觉我们彼此更深入了解了？",
     "category": "memories"
   },
   {
-    "question": "还记得我们第一次吵架那天吗？",
+    "question": "我们第一次吵架那天，你还记得吗？",
     "category": "memories"
   },
   {
-    "question": "我们一起看过的东西里，现在还记得的电影或演出是什么？",
+    "question": "我们一起看过的，现在还留在记忆里的电影或演出是什么？",
     "category": "memories"
   },
   {
-    "question": "我出乎意料地做了什么，最让你印象深刻？",
+    "question": "我做了意想不到的事，最让你印象深刻的是什么？",
     "category": "memories"
   },
   {
-    "question": "我们在一起以来，最哭笑不得的事是什么？",
+    "question": "我们在一起以来，最哭笑不得的小插曲是什么？",
     "category": "memories"
   },
   {
-    "question": "我难过的时候，你陪着我的记忆有没有？",
+    "question": "我难过的时候，你陪在身边的记忆有吗？",
     "category": "memories"
   },
   {
-    "question": "我们最坦诚的一次对话是什么时候？",
+    "question": "和我最坦诚的一次对话是什么时候？",
     "category": "memories"
   },
   {
-    "question": "我们有没有下雨或天气不好、却反而很愉快的一天？",
+    "question": "有没有下雨或天气不好，反而很美好的一天？",
     "category": "memories"
   },
   {
-    "question": "还记得我们第一次聊正经事是什么吗？",
+    "question": "我们第一次聊到很深的话题，你还记得吗？",
     "category": "memories"
   },
   {
-    "question": "我为你做的事情里，你最记得哪一件？",
+    "question": "我为你做的事里，最让你记住的是什么？",
     "category": "memories"
   },
   {
-    "question": "我们第一次长途出行是什么时候？感觉怎么样？",
+    "question": "我们第一次一起长途移动是什么时候？感觉怎么样？",
     "category": "memories"
   },
   {
-    "question": "和我在一起，有没有特别感觉时间过得飞快的一天？",
+    "question": "和我在一起，时间过得最快的一天是哪天？",
     "category": "memories"
   },
   {
-    "question": "我们一起做过的事里，起初不感兴趣后来却很喜欢的是什么？",
+    "question": "一起做的事里，开始觉得无聊后来却喜欢上的有吗？",
     "category": "memories"
   },
   {
-    "question": "我的生日或纪念日里，你最记得哪一次？",
+    "question": "我的生日或纪念日里，最让你记住的是哪次？",
     "category": "memories"
   },
   {
-    "question": "我们待过的地方里，你最会想起哪个？",
+    "question": "我们在一起过的地方里，最让你想念的是哪里？",
     "category": "memories"
   },
   {
-    "question": "你有没有看到我睡着的样子？当时是什么感觉？",
+    "question": "见过我睡着的样子吗？是什么感觉？",
     "category": "memories"
   },
   {
-    "question": "第一次分开之后，什么时候开始想见我？",
+    "question": "第一次分开后，什么时候开始想我了？",
     "category": "memories"
   },
   {
-    "question": "你觉得我们在一起最浪漫的是哪一天？",
+    "question": "我们在一起以来，最浪漫的一天是哪天？",
     "category": "memories"
   },
   {
-    "question": "我自己解决了什么事，让你觉得很骄傲？",
+    "question": "我独自解决了什么事，让你觉得很暖心？",
     "category": "memories"
   },
   {
-    "question": "我们一起吃过的饭里，最特别的一顿是哪次？",
+    "question": "我们一起吃的饭里，最特别的一次是什么？",
     "category": "memories"
   },
   {
-    "question": "你觉得我们关系最近的一刻是什么时候？",
+    "question": "你觉得我们最亲近的瞬间是什么时候？",
     "category": "memories"
-  },
-  {
-    "question": "有没有一件一定要和我一起做的事？",
-    "category": "future"
-  },
-  {
-    "question": "5年后，你希望我们是什么样的？",
-    "category": "future"
-  },
-  {
-    "question": "你想和我去哪里旅行？",
-    "category": "future"
-  },
-  {
-    "question": "如果有一天我们住在一起，你最想先做什么？",
-    "category": "future"
-  },
-  {
-    "question": "年纪大了你还想和我一起做什么？",
-    "category": "future"
-  },
-  {
-    "question": "你有没有希望我们一起实现的目标？",
-    "category": "future"
-  },
-  {
-    "question": "老了之后你想和我过怎样的日常？",
-    "category": "future"
-  },
-  {
-    "question": "我们下一次旅行最想去哪个国家？",
-    "category": "future"
-  },
-  {
-    "question": "在我最难的时候，你想成为我什么样的人？",
-    "category": "future"
-  },
-  {
-    "question": "如果一起布置家，你最想用心设计哪个空间？",
-    "category": "future"
-  },
-  {
-    "question": "你希望未来的我是什么样子？",
-    "category": "future"
-  },
-  {
-    "question": "在我们的关系里，你有没有想做得更好的地方？",
-    "category": "future"
-  },
-  {
-    "question": "我们一起的愿望清单第一名是什么？",
-    "category": "future"
-  },
-  {
-    "question": "有没有希望我们一直坚守的事？",
-    "category": "future"
-  },
-  {
-    "question": "你想怎么支持我追求梦想？",
-    "category": "future"
-  },
-  {
-    "question": "如果一起生活，你想住在什么样的地方？",
-    "category": "future"
-  },
-  {
-    "question": "10年后，你希望我们笑着聊什么话题？",
-    "category": "future"
-  },
-  {
-    "question": "你还有没有想为我做、但还没做的事？",
-    "category": "future"
-  },
-  {
-    "question": "我们一起慢慢变老的过程里，有没有想守住的传统？",
-    "category": "future"
-  },
-  {
-    "question": "你希望我实现什么梦想？",
-    "category": "future"
-  },
-  {
-    "question": "在我们的关系里，有没有你想更坦诚的地方？",
-    "category": "future"
-  },
-  {
-    "question": "有没有你想和我一起学的东西？",
-    "category": "future"
-  },
-  {
-    "question": "以后你想和我一起打造什么样的空间？",
-    "category": "future"
-  },
-  {
-    "question": "你希望我在什么时候陪在你身边？",
-    "category": "future"
-  },
-  {
-    "question": "以后想更常约会的类型是什么？",
-    "category": "future"
-  },
-  {
-    "question": "如果一起做公益，你想做什么？",
-    "category": "future"
-  },
-  {
-    "question": "你对婚姻有什么样的想象？",
-    "category": "future"
-  },
-  {
-    "question": "我迷失方向的时候，你想怎么帮助我？",
-    "category": "future"
-  },
-  {
-    "question": "以后最想和我创造的新回忆是什么？",
-    "category": "future"
-  },
-  {
-    "question": "有没有不管多大了，都希望我们不改变的样子？",
-    "category": "future"
-  },
-  {
-    "question": "如果成为夫妻，你想建立一个什么样的家？",
-    "category": "future"
-  },
-  {
-    "question": "以后你可以怎么支持我的成长？",
-    "category": "future"
-  },
-  {
-    "question": "有没有一定要和我一起挑战的事？",
-    "category": "future"
-  },
-  {
-    "question": "我们要怎样才能成为彼此更好的人？",
-    "category": "future"
-  },
-  {
-    "question": "以后有没有一件事你想坦诚地告诉我？",
-    "category": "future"
-  },
-  {
-    "question": "我们之间有没有想改掉的相处模式？",
-    "category": "future"
-  },
-  {
-    "question": "你觉得一起健康地变老的方式是什么？",
-    "category": "future"
-  },
-  {
-    "question": "30年后，你觉得我们会在一起做什么？",
-    "category": "future"
-  },
-  {
-    "question": "你希望我在哪方面继续成长？",
-    "category": "future"
-  },
-  {
-    "question": "我们的相处时光要怎么变得更丰富？",
-    "category": "future"
   }
 ]
