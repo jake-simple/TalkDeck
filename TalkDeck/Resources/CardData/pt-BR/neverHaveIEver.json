@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Eu nunca pedi delivery depois das 3 da manhã",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca desativei o alarme mais de 10 vezes seguidas",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca cochilei enquanto estava comendo",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca acordei faltando minutos pra sair pro trabalho ou faculdade",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca abri a geladeira, fiquei olhando e fechei sem pegar nada",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca comi algo fora da validade",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca gastei mais que o dobro do que planejava no mercado",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca deixei a roupa suja parada por mais de uma semana",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca fiquei mais de dois dias sem tomar banho",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca deixei uma mensagem do WhatsApp sem resposta por mais de um dia",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca comi lanche tarde da noite e fui direto dormir",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca virei a noite assistindo vídeo ou série",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca deixei louça acumulada por mais de um dia",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca calci o tênis sem amarrar o cadarço porque foi preguiça",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca parei de passar o aspirador no meio porque cansou",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca comi e não lembrava depois o que tinha comido",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca aguentei o celular com menos de 1% de bateria por muito tempo",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca gastei mais de R$50 sem planejamento numa conveniência",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca deixei as unhas crescerem demais antes de cortar",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca borrei molho na roupa enquanto comia",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca passei mais de 30 minutos procurando onde coloquei alguma coisa",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca passei o cartão sem saber quanto tinha na conta",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca deixei de comer porque estava com preguiça de preparar comida",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca tomei mais de três cafés no mesmo dia",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca dei indicação de caminho pra um estranho na rua",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca errei o dia de receber um pacote e fiquei esperando à toa",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca saí pra comprar uma coisa e voltei com outra completamente diferente",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca fiquei andando por aí com só um fone de ouvido durante muito tempo",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca cochilei no ônibus ou metrô e perdi minha parada",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca deixei o delivery esfriar completamente antes de comer",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca saí de casa sem o celular",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca entrei no YouTube e fiquei mais de duas horas sem perceber",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca me confundi com a data de um compromisso e fui no dia errado",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca deixei um pacote parado sem abrir por dias",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca saí sem carteira e me arrependi",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca assisti o mesmo vídeo três vezes ou mais",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca provei a mesma amostra grátis no supermercado mais de uma vez",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca fiquei o dia inteiro em casa sem sair",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca fui deitar e acabei ficando duas horas no celular",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca cancelei um pedido de delivery e fiz o mesmo pedido de novo",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Eu nunca fiz bungee jump",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca comprei passagem de avião por impulso",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca viajei sozinho para o exterior",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca fiz salto de paraquedas ou paraglider",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca saí numa viagem sem plano nenhum",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca acampei e dormi ao ar livre na barraca",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca esquiei ou fiz snowboard",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca surfei",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca passei uma noite em lugar remoto ou ilha deserta",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca morei em outro país por mais de um mês",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca subi num lugar alto mesmo tendo medo de altura",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca me perdi num bairro desconhecido",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca fiz uma longa viagem de moto ou bike",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca aprendi a nadar de verdade",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca fui a uma balada e fiquei até o fechamento",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca chequei nenhum item da minha lista de bucket list",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca andei de balão ou avião ultraleve",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca saí de madrugada pra ver o nascer do sol",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca fui sozinho a uma exposição ou show",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca saí pra um road trip de improviso com os amigos",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca me aproximei de um estranho por iniciativa e ficamos amigos",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca fiz trabalho voluntário",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca experimentei uma comida desconhecida sem saber o que era",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca subi uma montanha ou trilha sozinho",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca fiquei a noite toda na praia ou num rio",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca me esforcei pra ganhar algo e cheguei em primeiro lugar",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca fiz mochilão com o mínimo de bagagem",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca passei mais de um dia sozinho em uma cidade desconhecida",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca virei a noite jogando videogame ou lendo mangá",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca me apresentei em público num palco",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca aprendi algo em uma área completamente nova",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca fiz uma viagem de trem sozinho",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca saí de madrugada por impulso pra ir à praia ou parque",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca me entrosei completamente com um grupo de pessoas que não conhecia numa festa",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca comecei sério a aprender um novo idioma",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca me deslocado de propósito só pra ver um pôr do sol ou vista noturna bonita",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca fui atrás de um restaurante desconhecido pra experimentar",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca morei sozinho",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca fiz uma experiência de terror ou casa assombrada",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca aguentei frio ou calor extremo ao ar livre por muito tempo",
+    "category": "adventure"
+  },
+  {
+    "question": "Eu nunca escapei de um encontro às cegas",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca bloqueei o número de alguém",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca recebi uma declaração de amor",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca fui o primeiro a me declarar",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca me segurei pra não mandar mensagem depois de um término",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca vivi uma amizade que acabou de repente sem explicação",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca fiquei apaixonado por alguém por mais de um ano sem contar",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca assumi um relacionamento publicamente",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca me afastei de alguém por causa de mal-entendidos acumulados",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca chorei muito por causa de um amigo",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca tive uma briga grande com o parceiro",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca falei diretamente pra um amigo que estava magoado com ele",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca consolei alguém sem acreditar de verdade no que estava dizendo",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca fui o primeiro a terminar um relacionamento",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca chorei por causa de alguém que amava",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca mantive uma relação só por obrigação",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca precisei me forçar a ser legal com alguém que não gostava",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca ficei íntimo de alguém muito rápido logo no primeiro contato",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca emprestei dinheiro pra amigo",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca saí de um grupo do WhatsApp",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca voltei pra um ex",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca reencontrei alguém com quem havia perdido o contato por muito tempo",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca tive uma briga séria com a família",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca preparei uma surpresa especial pra um parceiro",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca fiquei quieto num encontro sem falar nada",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca fiquei tempo com uma visão errada de alguém e só depois descobri a verdade",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca me senti estranho com os amigos do parceiro",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca desisti de alguém que queria tentar",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca me surprendi com uma memória diferente da minha num papo com amigo antigo",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca fui o primeiro a cortar o contato",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca travar na hora de falar com alguém que gostava",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca contei um segredo de amigo pra outra pessoa",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca agradeci alguém de coração de verdade",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca tive dificuldade de ser o primeiro a pedir desculpas",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca senti alívio depois que um relacionamento acabou",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca me decepcionei com alguém em quem havia depositado expectativa",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca falei com uma criança desconhecida por iniciativa",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca abri mão de algo meu por causa de alguém que amava",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca perdi o contato de alguém e nunca mais consegui falar",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca escrevi uma carta de coração pra alguém",
+    "category": "relationship"
+  },
+  {
+    "question": "Eu nunca fui stalkar o perfil de alguém por muito tempo sem ele saber",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca inventei uma desculpa pra cancelar um compromisso",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca vi uma mensagem e fingi que não tinha visto",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca chorei sozinho sem ninguém saber",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca me decepcionei comigo mesmo e fiquei sem energia por um tempo",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fingi estar doente quando estava bem",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca recebi um presente e achei uma droga por dentro",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fiquei num encontro com vontade de ir embora mas com vergonha de sair",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca disse que uma comida estava boa quando achei ruim",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca senti inveja de alguém e sofri sozinho por isso",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca recebi um elogio e me senti confuso por dentro",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fingi que tinha lido um livro que não tinha lido",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fingi interesse num assunto que estava entediando",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fingi que era novidade uma coisa que já sabia",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fingi que estava ok quando estava me sentindo mal",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fiz de conta que não sabia de um erro que sabia que tinha cometido",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca aguentei firme na frente de todo mundo e chorei sozinho no caminho de volta",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca senti inveja de verdade quando vi alguém indo bem",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca menti pra esconder um erro meu",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca exagerei numa história pra me sentir mais reconhecido",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fiz caras e bocas estranhas na frente do espelho quando estava sozinho",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca combinei de se ver sem intenção de cumprir",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca concordei com alguém sendo que sabia que estava errado",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fingi demorar a ver uma mensagem de propósito",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fingi ter mais dinheiro do que tinha",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca ouvi por acidente uma conversa alheia sem querer",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca culpei o azar quando o resultado foi ruim",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca quis ir ao karaokê sozinho",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fiquei olhando o celular esperando uma mensagem de uma pessoa específica",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca me arrependi de não ter dito o que sentia de verdade",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca apaguei uma foto porque não gostei depois de tirar",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca me esforcei pra parecer confiante na frente dos outros",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca recebi um elogio e no fundo não acreditei",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fui frio com alguém que gostava",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca sorri pra todo mundo enquanto estava passando mal por dentro",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca tive um pensamento perturbador e me assustei comigo mesmo",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca tive algo que queria dizer a alguém e nunca consegui falar",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca fingi que estava tudo bem fazendo algo que odiava",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca sabia que estava errado mas me convenci de que não era",
+    "category": "secret"
+  },
+  {
+    "question": "Eu nunca tive vergonha de dizer minha idade de verdade",
+    "category": "secret"
+  }
+]

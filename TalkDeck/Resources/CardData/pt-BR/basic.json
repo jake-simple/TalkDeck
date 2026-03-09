@@ -1,0 +1,962 @@
+[
+  {
+    "question": "Você tem algum guilty pleasure que curte quando ninguém tá olhando?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual é o seu gosto mais inusitado quando o assunto é comida?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tem alguma coisa que todo mundo odeia mas você ama?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual é aquela música que você nunca enjoa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você tem algum ritual esquisito que faz sozinho?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual é o seu cheiro favorito?",
+    "category": "vibe"
+  },
+  {
+    "question": "O que você pede no delivery de madrugada quando tá sozinho?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tem algum hobbie seu que as pessoas ficariam surpresas em saber?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual foi o fandom que você mais mergulhou de cabeça?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual é sua estação favorita do ano e por quê?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual é o seu jeito preferido de desestressar?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tem algum ingrediente secreto que você sempre coloca no miojo?",
+    "category": "vibe"
+  },
+  {
+    "question": "O que você faz toda noite antes de dormir?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual é o seu horário preferido do dia e por quê?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual música você mais tá ouvindo ultimamente?",
+    "category": "vibe"
+  },
+  {
+    "question": "Quais são os 3 apps que você mais usa no celular?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você tem aquele pedido certo quando vai a um café?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você é mais matutino ou vespertino?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual tipo de vídeo no YouTube te prende por horas?",
+    "category": "vibe"
+  },
+  {
+    "question": "O que você nunca sai do mercado sem comprar?",
+    "category": "vibe"
+  },
+  {
+    "question": "O que você mais olha quando vai comprar roupa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Que tipo de conteúdo você mais consome nas redes sociais?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você prefere hotel ou Airbnb quando viaja?",
+    "category": "vibe"
+  },
+  {
+    "question": "O que você mais quer fazer num dia de chuva?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tem alguma coisa que você tá viciado ultimamente?",
+    "category": "vibe"
+  },
+  {
+    "question": "O que você mais faz quando tá sozinho?",
+    "category": "vibe"
+  },
+  {
+    "question": "Se tiver que escolher um único filme da sua vida, qual seria?",
+    "category": "vibe"
+  },
+  {
+    "question": "O que você tá com vontade de comer agora?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tem alguma coisa que você amava na infância e ainda gosta em segredo?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual é o seu jeito favorito de passar um final de semana?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual é o seu lugar preferido em casa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você prefere pegar táxi/Uber ou transporte público?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você tem aquele lanche favorito de madrugada?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual seria sua pequena felicidade do dia a dia?",
+    "category": "vibe"
+  },
+  {
+    "question": "O que você pesquisou mais recentemente?",
+    "category": "vibe"
+  },
+  {
+    "question": "Qual é a coisa que você jamais abriria mão na vida?",
+    "category": "vibe"
+  },
+  {
+    "question": "Se você fosse um animal, qual seria?",
+    "category": "vibe"
+  },
+  {
+    "question": "O que tem na sua bolsa agora?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você costuma colocar vídeo pra assistir enquanto come?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você tem uma cor favorita? Por quê?",
+    "category": "vibe"
+  },
+  {
+    "question": "O que você nunca esquece de levar quando viaja?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tem alguma coisa no carrinho de compras que você tá em dúvida se compra?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tem um restaurante preferido aqui perto que você frequenta sempre?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você gosta de se exercitar? Qual exercício você mais gosta?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você prefere uma bebida quente no frio ou uma bebida gelada no calor?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tem algum vídeo ou meme recente que te fez rir muito?",
+    "category": "vibe"
+  },
+  {
+    "question": "Onde você gasta mais dinheiro por mês?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você curte mais o feed ou os Reels do Instagram?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você gosta de cozinhar? Tem algum prato que você manda bem?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tem algum restaurante que você guarda só pra você e não quer que todo mundo descubra?",
+    "category": "vibe"
+  },
+  {
+    "question": "Quanto tempo você fica no celular na cama antes de dormir?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você tem um perfume ou cheiro favorito?",
+    "category": "vibe"
+  },
+  {
+    "question": "Teve algum conteúdo recente que te influenciou de alguma forma?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tem algum gênero musical inesperado na sua playlist?",
+    "category": "vibe"
+  },
+  {
+    "question": "No fim de semana você prefere dormir até tarde ou acordar cedo?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você curte decoração? Qual estilo você gosta?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você pesquisa as avaliações com cuidado antes de pedir delivery?",
+    "category": "vibe"
+  },
+  {
+    "question": "Se você tivesse que comer uma única comida pro resto da vida, qual seria?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você começou algum hobbie novo recentemente?",
+    "category": "vibe"
+  },
+  {
+    "question": "Você é do tipo que não sobrevive sem café?",
+    "category": "vibe"
+  },
+  {
+    "question": "Se você fosse invisível por um dia, o que faria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse se teletransportar pra qualquer lugar do mundo agora, pra onde iria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse ter um superpoder, qual seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse voltar a qualquer época da história, qual escolheria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você só pudesse levar 3 coisas pra uma ilha deserta, quais seriam?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você ganhasse na loteria, qual seria a primeira coisa que faria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se amanhã fosse o fim do mundo, o que você faria hoje?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse falar com qualquer animal, qual seria o primeiro?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse ter outra profissão, qual seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse ser um personagem de filme, quem você escolheria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você abrisse um negócio próprio, qual seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você encontrasse um ET, qual seria a primeira coisa que mostraria pra ele?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você tivesse um ano sabático, o que faria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Na sua opinião, o que você foi na vida passada?",
+    "category": "whatIf"
+  },
+  {
+    "question": "O que você mais gostaria de ver se pudesse ir 100 anos ao futuro?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse morar em outro país por 1 ano, qual escolheria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você ficasse famoso, em qual área acha que seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse ser outra pessoa por um dia, quem seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse pausar o tempo, o que faria nesse intervalo?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse aprender um novo idioma do zero imediatamente, qual escolheria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse mandar uma mensagem pra você mesmo no passado, o que escreveria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse controlar seus sonhos, que sonho você escolheria ter?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você tivesse uma ilha só sua, como você a organizaria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse jantar com qualquer pessoa da história, quem seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você só pudesse ter um hobbie pra sempre, qual escolheria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você fosse viver até os 100 anos, o que você definitivamente quer fazer?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse criar uma lei, qual seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você voltasse ao primeiro ano da faculdade, o que faria diferente?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você ganhasse R$10 milhões de repente, continuaria no emprego atual?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse virar qualquer animal, qual seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você fosse criar um canal no YouTube, o que faria nele?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse guardar uma única memória pra sempre, qual seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse construir uma casa em qualquer lugar do mundo, onde seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse comer uma comida infinitamente, qual escolheria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse voltar 10 anos no tempo por um dia, o que faria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você fosse diretor de cinema, que tipo de filme faria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você não precisasse trabalhar por um mês, o que faria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse morar em outro planeta, toparia?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você de repente conseguisse ler mentes, você acha que seria bom ou horrível?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse reiniciar sua vida como num jogo, faria isso?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse voar, qual seria o primeiro lugar que visitaria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se existisse uma versão sua num universo paralelo, que vida ela estaria vivendo?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse ler a autobiografia de alguém, de quem seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se uma IA desenhasse seu dia perfeito, você seguiria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse ver cheiros como cores, como você acha que o mundo seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você escrevesse um livro best-seller, sobre o que seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você tivesse um único 'desfazer' na vida, quando usaria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se todo mundo parasse de mentir de repente, como você acha que o mundo ficaria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Você conseguiria ficar 1 ano sem redes sociais? O que mudaria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse ganhar um talento magicamente, qual seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "O que você acha que seu eu do futuro te escreveria numa carta?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se um robô fizesse todo o serviço doméstico, o que você faria com o tempo livre?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você fosse a única pessoa no mundo, como passaria o dia?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse entrar num anime ou desenho favorito, qual escolheria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "O que você colocaria numa cápsula do tempo agora?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se um chef famoso cozinhasse só pra você, o que pediria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se os animais fossem pra escola, qual seria o representante de turma?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se o você de daqui 10 anos te visse hoje, o que acha que diria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse resolver um único problema do mundo, qual seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Se você pudesse eliminar uma estação do ano, qual seria?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Qual foi o momento mais corajoso da sua vida?",
+    "category": "story"
+  },
+  {
+    "question": "O que você aprendeu com seu maior fracasso?",
+    "category": "story"
+  },
+  {
+    "question": "Tem uma pessoa que mudou sua vida de verdade?",
+    "category": "story"
+  },
+  {
+    "question": "O que você sonhava ser na infância e como isso se compara com quem você é hoje?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o momento mais orgulhoso do seu ano?",
+    "category": "story"
+  },
+  {
+    "question": "Qual experiência mais te fez crescer como pessoa?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o elogio mais marcante que você já recebeu?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o evento que mais virou um ponto de virada na sua vida?",
+    "category": "story"
+  },
+  {
+    "question": "Tem algum episódio de viagem que você nunca esquece?",
+    "category": "story"
+  },
+  {
+    "question": "Quando foi a última vez que você riu de verdade?",
+    "category": "story"
+  },
+  {
+    "question": "Tem algum episódio constrangedor que você viveu?",
+    "category": "story"
+  },
+  {
+    "question": "Como foi a sensação quando você ganhou dinheiro pela primeira vez?",
+    "category": "story"
+  },
+  {
+    "question": "Tem algum objeto que você guarda há muito tempo com carinho?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o professor mais marcante da sua vida escolar?",
+    "category": "story"
+  },
+  {
+    "question": "Qual é a memória mais divertida que você tem com um amigo?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o momento mais nervoso da sua vida?",
+    "category": "story"
+  },
+  {
+    "question": "Você começou alguma coisa nova recentemente?",
+    "category": "story"
+  },
+  {
+    "question": "Que brincadeiras você curtia quando era criança?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o momento mais emocionante que você já viveu?",
+    "category": "story"
+  },
+  {
+    "question": "Você já fez algum desafio sem pensar muito? Como foi?",
+    "category": "story"
+  },
+  {
+    "question": "Tem alguém a quem você foi muito grato recentemente?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o bairro mais marcante em que você morou?",
+    "category": "story"
+  },
+  {
+    "question": "Você já viajou sozinho? Como foi a experiência?",
+    "category": "story"
+  },
+  {
+    "question": "Tem um aniversário que ficou marcado na sua memória?",
+    "category": "story"
+  },
+  {
+    "question": "Quando foi a última vez que você teve que correr muito rápido?",
+    "category": "story"
+  },
+  {
+    "question": "Tem algo que você começou por acaso que acabou impactando muito sua vida?",
+    "category": "story"
+  },
+  {
+    "question": "Qual é a memória de uma comida incrível que você viveu?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o primeiro filme ou série que te fez chorar?",
+    "category": "story"
+  },
+  {
+    "question": "Qual é a sua lembrança favorita de família quando criança?",
+    "category": "story"
+  },
+  {
+    "question": "Alguém desconhecido já fez algo muito gentil por você?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o maior tempo que você ficou acordado sem dormir?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi a experiência mais assustadora que você viveu?",
+    "category": "story"
+  },
+  {
+    "question": "Tem algum show ou evento que ficou gravado na sua memória?",
+    "category": "story"
+  },
+  {
+    "question": "Como você conheceu a pessoa mais recente que entrou na sua vida?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi a maior sorte da sua vida?",
+    "category": "story"
+  },
+  {
+    "question": "O que você escrevia como sonho de profissão quando era criança?",
+    "category": "story"
+  },
+  {
+    "question": "Você já ficou muito doente? Como foi?",
+    "category": "story"
+  },
+  {
+    "question": "Tem algum hábito que você mantém há muitos anos?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o momento em que você tomou uma grande decisão na vida?",
+    "category": "story"
+  },
+  {
+    "question": "Tem algum episódio de feriado em família que ficou na memória?",
+    "category": "story"
+  },
+  {
+    "question": "Você já viveu alguma coincidência que pareceu destino?",
+    "category": "story"
+  },
+  {
+    "question": "Tem alguma conquista sua que ninguém sabe?",
+    "category": "story"
+  },
+  {
+    "question": "O que você tá se dedicando mais ultimamente?",
+    "category": "story"
+  },
+  {
+    "question": "Tem alguma coisa que você disse e se arrependeu?",
+    "category": "story"
+  },
+  {
+    "question": "O que você descobriu sobre si mesmo recentemente?",
+    "category": "story"
+  },
+  {
+    "question": "Como você conheceu a amizade mais antiga que você tem?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi a fase mais corrida da sua vida?",
+    "category": "story"
+  },
+  {
+    "question": "Você experimentou alguma comida nova recentemente?",
+    "category": "story"
+  },
+  {
+    "question": "Qual é o presente mais especial que você guarda até hoje?",
+    "category": "story"
+  },
+  {
+    "question": "Tem algum lugar que você frequentava bastante quando criança?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi a vez que você mais ajudou alguém e se sentiu bem com isso?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o momento mais recente que te deixou com o coração quentinho?",
+    "category": "story"
+  },
+  {
+    "question": "Tem um primeiro encontro ou primeira vez que você nunca esquece?",
+    "category": "story"
+  },
+  {
+    "question": "Você já viveu uma situação em que o timing foi perfeito?",
+    "category": "story"
+  },
+  {
+    "question": "Tem alguma música que já te fez chorar?",
+    "category": "story"
+  },
+  {
+    "question": "Já aconteceu de algo inesperado virar uma coisa boa pra você?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi o melhor conselho que você já recebeu?",
+    "category": "story"
+  },
+  {
+    "question": "Qual foi a coisa mais longa que você já esperou?",
+    "category": "story"
+  },
+  {
+    "question": "Qual é a sua lembrança do primeiro emprego ou trabalho?",
+    "category": "story"
+  },
+  {
+    "question": "Já teve uma vez que você recusou algo com muita coragem?",
+    "category": "story"
+  },
+  {
+    "question": "O que você diria pra você mesmo de 5 anos atrás?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual é a coisa que você não fez e mais se arrepende?",
+    "category": "deep"
+  },
+  {
+    "question": "O que você gostaria de perguntar pra você mesmo daqui a 10 anos?",
+    "category": "deep"
+  },
+  {
+    "question": "Quais são as 3 coisas pelas quais você é mais grato na vida?",
+    "category": "deep"
+  },
+  {
+    "question": "Tem alguma fase da vida que você gostaria de reviver?",
+    "category": "deep"
+  },
+  {
+    "question": "Se fosse definir você com uma só palavra, qual seria?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual é a sua maior habilidade?",
+    "category": "deep"
+  },
+  {
+    "question": "Quem você mais admira e por quê?",
+    "category": "deep"
+  },
+  {
+    "question": "Sua ideia de felicidade mudou com o tempo?",
+    "category": "deep"
+  },
+  {
+    "question": "Tem algum valor que mudou bastante conforme você foi crescendo?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual é a parte da sua vida com que você está mais satisfeito agora?",
+    "category": "deep"
+  },
+  {
+    "question": "Tem algum lado seu que as pessoas geralmente não enxergam?",
+    "category": "deep"
+  },
+  {
+    "question": "Você sente solidão às vezes?",
+    "category": "deep"
+  },
+  {
+    "question": "O que você considera mais importante num relacionamento?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual é uma coisa que você quer muito fazer antes de morrer?",
+    "category": "deep"
+  },
+  {
+    "question": "Tem algo pelo qual você gostaria de pedir perdão a alguém?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual é a sua definição de sucesso?",
+    "category": "deep"
+  },
+  {
+    "question": "O que você mais teme atualmente?",
+    "category": "deep"
+  },
+  {
+    "question": "O que significa ser adulto pra você?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual foi o maior ensinamento que uma situação te deu?",
+    "category": "deep"
+  },
+  {
+    "question": "O que mais te faz pensar ultimamente?",
+    "category": "deep"
+  },
+  {
+    "question": "Como você definiria um amigo de verdade?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual primeira impressão você acha que passa pras pessoas?",
+    "category": "deep"
+  },
+  {
+    "question": "Você sente que está vivendo sem arrependimentos?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual é o sentimento mais difícil de você admitir?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual experiência foi a que mais te moldou?",
+    "category": "deep"
+  },
+  {
+    "question": "O que tem mais valor pra você que o dinheiro não pode comprar?",
+    "category": "deep"
+  },
+  {
+    "question": "Você tem alguma filosofia de vida?",
+    "category": "deep"
+  },
+  {
+    "question": "Você acredita que as pessoas podem mudar de verdade?",
+    "category": "deep"
+  },
+  {
+    "question": "Por que você acha que precisa de tempo sozinho às vezes?",
+    "category": "deep"
+  },
+  {
+    "question": "Quando você se sente mais vulnerável?",
+    "category": "deep"
+  },
+  {
+    "question": "Se pudesse mudar uma coisa na sua vida agora, qual seria?",
+    "category": "deep"
+  },
+  {
+    "question": "Já teve uma vez que você sente que decepcionou alguém?",
+    "category": "deep"
+  },
+  {
+    "question": "Você tem um critério pra se sentir satisfeito com o suficiente?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual é o sentimento que você mais experimenta?",
+    "category": "deep"
+  },
+  {
+    "question": "O que você acha que é o segredo pra manter um bom relacionamento?",
+    "category": "deep"
+  },
+  {
+    "question": "Quem te conhece melhor do que você mesmo?",
+    "category": "deep"
+  },
+  {
+    "question": "Já teve um momento em que você precisou colocar um limite e disse não?",
+    "category": "deep"
+  },
+  {
+    "question": "O que você acha que vai ficando mais importante com o tempo?",
+    "category": "deep"
+  },
+  {
+    "question": "Quando você se sente com menos autoestima?",
+    "category": "deep"
+  },
+  {
+    "question": "Você já abriu mão de algo pra ser mais feliz?",
+    "category": "deep"
+  },
+  {
+    "question": "Como você gostaria de ser lembrado depois que partir?",
+    "category": "deep"
+  },
+  {
+    "question": "Qual é o sonho que você carrega há mais tempo?",
+    "category": "deep"
+  },
+  {
+    "question": "Como você lida com os sentimentos que te pesam?",
+    "category": "deep"
+  },
+  {
+    "question": "Como você se recupera quando um relacionamento te machuca?",
+    "category": "deep"
+  },
+  {
+    "question": "O que significa liberdade pra você?",
+    "category": "deep"
+  },
+  {
+    "question": "Já teve uma vez que você teve que mentir? Por quê?",
+    "category": "deep"
+  },
+  {
+    "question": "O que a família significa pra você?",
+    "category": "deep"
+  },
+  {
+    "question": "Tem algo que você sabe que precisa largar mas ainda não conseguiu?",
+    "category": "deep"
+  },
+  {
+    "question": "Você se acha mais líder ou seguidor? Por quê?",
+    "category": "deep"
+  },
+  {
+    "question": "Você já sentiu que o lado de dentro e o de fora não batiam?",
+    "category": "deep"
+  },
+  {
+    "question": "Você acredita que existe amor incondicional?",
+    "category": "deep"
+  },
+  {
+    "question": "O que você diria pra quem você mais é grato agora?",
+    "category": "deep"
+  },
+  {
+    "question": "Em qual tipo de relação você se sente mais à vontade?",
+    "category": "deep"
+  },
+  {
+    "question": "No final das contas, o que você acha que é o mais importante na vida?",
+    "category": "deep"
+  },
+  {
+    "question": "Você se preocupa muito com o que os outros pensam de você?",
+    "category": "deep"
+  },
+  {
+    "question": "Você acha que a preocupação que você tem hoje ainda vai existir daqui a 1 ano?",
+    "category": "deep"
+  },
+  {
+    "question": "O que te dá coragem pra continuar?",
+    "category": "deep"
+  },
+  {
+    "question": "Por que você acha difícil mostrar sua vulnerabilidade?",
+    "category": "deep"
+  },
+  {
+    "question": "Se fosse dar uma nota pra sua vida agora, qual seria? Por quê?",
+    "category": "deep"
+  }
+]

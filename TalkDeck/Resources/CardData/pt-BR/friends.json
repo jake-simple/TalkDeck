@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Quem é a pessoa com quem você mais fala ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "O que foi mais legal pra você esse mês?",
+    "category": "recentLife"
+  },
+  {
+    "question": "O que tá te preocupando mais agora?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você criou alguma rotina nova recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual app você mais tá usando ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "O que você comeu de mais gostoso essa semana?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Onde você tá passando a maior parte do seu tempo?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você se viciou em algum conteúdo novo recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Como tão seus horários de sono ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi a melhor decisão que você tomou esse mês?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual é a coisa mais recente que despertou seu interesse?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi o gasto mais satisfatório que você fez recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "O tempo ou a estação tá influenciando seu humor atualmente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi a coisa mais absurda que aconteceu com você essa semana?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem algum lugar que você foi recentemente e quer voltar?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Como tá sua energia? Você tá cuidando de si mesmo?",
+    "category": "recentLife"
+  },
+  {
+    "question": "O que você tá mais animado pra esse mês?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tá mantendo contato com os amigos com frequência?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem algo que você fez sozinho recentemente e foi melhor do que esperava?",
+    "category": "recentLife"
+  },
+  {
+    "question": "O que você fica pensando antes de dormir ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você ficou estressado esse mês? Como desestressou?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tá saindo pra comer com frequência? Onde geralmente vai?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tentou algo novo recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual é o horário favorito do seu dia ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Quando foi que você mais riu essa semana?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tá aprendendo ou praticando alguma coisa nova?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem algo que você leu ou assistiu recentemente que vale a pena recomendar?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tá passando mais tempo em casa ou fora?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Quem foi a pessoa mais importante pra você esse mês?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual emoção você tá sentindo com mais frequência ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Aconteceu alguma coisa inesperada recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem algo que você quer organizar? Pode ser coisa ou relacionamento.",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi o compromisso mais esperado da semana pra você?",
+    "category": "recentLife"
+  },
+  {
+    "question": "O que você costuma fazer quando tá sozinho ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você desistiu de algo ou parou de fazer alguma coisa recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem alguma coisa que você compra sempre quando vai ao mercado?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tem algum plano pra esse mês?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual hábito ou rotina você tá mais focado ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você entrou em contato com alguém depois de um tempão recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tá dormindo bem? Lembra de algum sonho?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você lembra como a gente se aproximou?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem alguma coisa que aconteceu entre a gente que você ainda pensa às vezes?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual é a cena mais marcante da sua época de escola?",
+    "category": "memories"
+  },
+  {
+    "question": "Tinha alguma comida que você prometia que nunca ia comer quando criança?",
+    "category": "memories"
+  },
+  {
+    "question": "Como você conheceu seu amigo mais antigo?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem alguma memória de criança que você ainda pensa às vezes?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o episódio mais absurdo que você viveu com algum amigo?",
+    "category": "memories"
+  },
+  {
+    "question": "Quais brincadeiras ou jogos você mais curtia quando criança?",
+    "category": "memories"
+  },
+  {
+    "question": "Você tem alguma memória de ter conseguido fazer algo sozinho pela primeira vez?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o acontecimento mais marcante da sua época de escola?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual é o destino mais marcante de todas as viagens que você já fez?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual era o seu lugar favorito quando você era criança?",
+    "category": "memories"
+  },
+  {
+    "question": "O que você queria ser quando crescesse?",
+    "category": "memories"
+  },
+  {
+    "question": "Você tem memória de ter contado um segredo pra um amigo pela primeira vez?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem alguma festa de aniversário ou data especial que ficou marcada na sua memória?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o motivo mais engraçado pelo qual seus pais te chamaram atenção?",
+    "category": "memories"
+  },
+  {
+    "question": "O que você fez quando ganhou dinheiro pela primeira vez?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual era sua matéria favorita e a que você mais odiava na escola?",
+    "category": "memories"
+  },
+  {
+    "question": "A sua comida favorita de criança ainda é a mesma?",
+    "category": "memories"
+  },
+  {
+    "question": "Você lembra da primeira vez que viajou pra fora?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem alguma moda ou tendência da época que hoje parece estranha?",
+    "category": "memories"
+  },
+  {
+    "question": "Você lembra qual música você mais curtia no colégio?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual programa de TV você nunca perdia quando era criança?",
+    "category": "memories"
+  },
+  {
+    "question": "Quando foi a primeira vez que você viajou sozinho pra longe?",
+    "category": "memories"
+  },
+  {
+    "question": "Você tem alguma lembrança de ter sido elogiado pelo professor na escola?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem algum amigo antigo que você ainda sente saudade?",
+    "category": "memories"
+  },
+  {
+    "question": "Você tinha um lugar secreto ou esconderijo quando era criança?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi a primeira impressão que você teve do seu amigo mais antigo?",
+    "category": "memories"
+  },
+  {
+    "question": "Você tem algum objeto antigo que guarda até hoje?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual era o hobbie ou personagem que você era obcecado quando criança?",
+    "category": "memories"
+  },
+  {
+    "question": "Você tem alguma memória que parece muito inocente e pura quando olha de longe?",
+    "category": "memories"
+  },
+  {
+    "question": "Você lembra da primeira vez que bebeu álcool?",
+    "category": "memories"
+  },
+  {
+    "question": "Que tipo de pessoa você era na turma da escola?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual é a lembrança mais feliz que você tem da família?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem alguém do passado que influenciou muito quem você é?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi a experiência mais assustadora que você viveu quando era criança?",
+    "category": "memories"
+  },
+  {
+    "question": "Se você pudesse voltar pro ensino médio por um dia, qual dia escolheria?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem algum professor que você ainda se lembra com carinho?",
+    "category": "memories"
+  },
+  {
+    "question": "Você se lembra de alguma peça que pregou em alguém e foi pego?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem algum episódio de formatura ou cerimônia que ficou na memória?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem algo que você nunca me disse e que agora poderia contar?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Já teve um momento em que foi difícil ser honesto com um amigo?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Já aparentou estar bem por fora mas tava passando por algo difícil por dentro?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "As pessoas te entendem mal em algum aspecto?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem algum sentimento que você raramente demonstra?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem alguém a quem você deve um pedido de desculpa mas ainda não fez?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem algo que você acha que te apavora mais do que deveria?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Você já passou por uma fase que parecia bem pra fora mas era difícil por dentro?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem algo que todo mundo acha fácil mas que pra você é difícil?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem alguém que você foi muito grato mas nunca conseguiu expressar?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Qual é a coisa mais difícil de admitir pra si mesmo?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Você já se sentiu sobrecarregado com as expectativas que os outros têm de você?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Você tem algum sentimento que só aparece quando tá sozinho?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem algum lado seu que as pessoas raramente veem?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Já fingiu entender algo que na verdade não entendia?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem algo que você inveja em um amigo? Pode ser honesto.",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Qual é a parte de você que fica mais vulnerável?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Qual é a preocupação que você tem com mais frequência atualmente?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Você já disse algo de que se arrependeu?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Em qual situação você sente que não está sendo você mesmo?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Já quis que alguém entendesse o que você estava sentindo mas a pessoa não percebeu?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "O que você mais precisa agora?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Você já tentou parecer perfeito? Como foi?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Você já sentiu que esconder emoções virou um hábito?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Você já sentiu solidão mesmo estando com amigos?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Qual é a parte de você com que você tem menos confiança?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Você já perdeu uma amizade por não conseguir ser honesto?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Em que situação você mais se culpa?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem algo meio constrangedor que você ainda curte?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Já teve uma vez que seu rosto mostrava uma coisa mas você sentia outra?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem algo que você tá ruminando sozinho ultimamente?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem alguma situação ou sentimento que você tá evitando sem perceber?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem algo que você quer muito fazer mas sempre hesita?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Por que você não contou pra ninguém quando tava passando pelo pior momento?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Você tende a esconder o que sente ou expressa tudo?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Você já sentiu que as expectativas em cima de você eram demais?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Como você tá se sentindo de verdade agora?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Já ficou sorrindo com as pessoas mas sentindo outra coisa por dentro?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Quando foi a última vez que você quis chorar de verdade?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Tem algo que você quer me dizer agora? Pode falar qualquer coisa.",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Teve algum momento que te fez sentir que somos amigos de verdade?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você já passou por algo que quase acabou com uma amizade mas no fim a fortaleceu?",
+    "category": "friendship"
+  },
+  {
+    "question": "Tem alguma coisa que um amigo disse que ficou na sua memória até hoje?",
+    "category": "friendship"
+  },
+  {
+    "question": "Como a relação com seus amigos antigos mudou conforme você foi crescendo?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você já fez um grande sacrifício por um amigo?",
+    "category": "friendship"
+  },
+  {
+    "question": "O que você acha que é mais importante pra manter uma amizade?",
+    "category": "friendship"
+  },
+  {
+    "question": "As diferenças entre vocês ajudaram a amizade a ficar mais forte?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você já disse algo difícil pra um amigo de um jeito honesto?",
+    "category": "friendship"
+  },
+  {
+    "question": "Quando você tá passando mal, quem é a primeira pessoa que você quer ligar?",
+    "category": "friendship"
+  },
+  {
+    "question": "Qual é o momento mais precioso da nossa amizade pra você?",
+    "category": "friendship"
+  },
+  {
+    "question": "Sua visão de amizade mudou com o tempo?",
+    "category": "friendship"
+  },
+  {
+    "question": "Qual é a coisa que você acha que nunca deve acontecer numa amizade?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você acha que fazer amizades novas ficou mais difícil com o tempo?",
+    "category": "friendship"
+  },
+  {
+    "question": "O que um amigo significa pra você?",
+    "category": "friendship"
+  },
+  {
+    "question": "Qual é o segredo pra você manter a amizade mais antiga?",
+    "category": "friendship"
+  },
+  {
+    "question": "O que um amigo fez por você que te emocionou?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você acha que a amizade ou o amor dura mais?",
+    "category": "friendship"
+  },
+  {
+    "question": "Como você se sentiu quando se afastou de algum amigo?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você já se apoiou num amigo? Em que situação?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você acha que nossa amizade ainda vai estar aqui daqui a 10 anos?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você já ficou magoado com um amigo? Como resolveram?",
+    "category": "friendship"
+  },
+  {
+    "question": "Quando você acha que uma amizade fica mais profunda?",
+    "category": "friendship"
+  },
+  {
+    "question": "Tem algo que a gente se entende sem precisar falar?",
+    "category": "friendship"
+  },
+  {
+    "question": "O que você mais olha quando vai fazer amizade com alguém?",
+    "category": "friendship"
+  },
+  {
+    "question": "Tem algo entre a gente que permaneceu igual com o tempo?",
+    "category": "friendship"
+  },
+  {
+    "question": "Com qual tipo de amigo você sente que é mais você mesmo?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você já perdeu um amigo? Como você lidou com isso?",
+    "category": "friendship"
+  },
+  {
+    "question": "Qual é a parte mais difícil de manter uma amizade?",
+    "category": "friendship"
+  },
+  {
+    "question": "Quando foi a última vez que você agradeceu um amigo de verdade?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você e eu mudamos desde que nos conhecemos?",
+    "category": "friendship"
+  },
+  {
+    "question": "Qual é a memória de amizade mais especial que você tem?",
+    "category": "friendship"
+  },
+  {
+    "question": "O que você aprendeu de mais importante com algum amigo?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você acha que amizade e lealdade são a mesma coisa ou coisas diferentes?",
+    "category": "friendship"
+  },
+  {
+    "question": "Tem algum amigo com quem você perdeu contato mas quer voltar a falar?",
+    "category": "friendship"
+  },
+  {
+    "question": "Qual atitude te faz sentir que alguém é um amigo de verdade?",
+    "category": "friendship"
+  },
+  {
+    "question": "Já teve uma briga grande com um amigo que mudou o relacionamento?",
+    "category": "friendship"
+  },
+  {
+    "question": "Tem algum amigo que percebeu que você tava mal mesmo sem você falar nada?",
+    "category": "friendship"
+  },
+  {
+    "question": "Você sente que manter amizades fica mais difícil quando a gente vai crescendo?",
+    "category": "friendship"
+  },
+  {
+    "question": "Tem algo que você quer melhorar nas suas amizades?",
+    "category": "friendship"
+  },
+  {
+    "question": "Tem alguém aqui que você quer agradecer agora?",
+    "category": "friendship"
+  }
+]

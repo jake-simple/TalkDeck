@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Como você estava se sentindo antes de vir pra esse encontro hoje?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Qual foi sua primeira impressão quando me viu? Pode ser honesto.",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que você mais ficou pensando antes de vir pra esse encontro?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você imaginava como eu seria antes de me conhecer?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que foi a primeira coisa que chamou sua atenção quando a gente se cumprimentou?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você costuma ficar nervoso em encontros assim?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que te fez decidir vir hoje?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que você mais quer saber sobre mim agora?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você se lembra de alguma primeira impressão marcante de um encontro anterior?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que uma pessoa pode fazer num primeiro encontro que te deixa mais à vontade?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Qual foi a parte em que você mais se preocupou antes de sair de casa hoje?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que você considera mais importante num primeiro encontro?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que te contaram sobre mim quando te apresentaram?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que você ficou pensando no caminho até aqui?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você tá se sentindo confortável agora ou ainda tá esquisito?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Se você tivesse que me comparar a um animal, qual seria?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que você mais quer descobrir sobre a outra pessoa logo de cara?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Qual tipo de energia numa pessoa te atrai num encontro às cegas?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você costuma ir bem em encontros assim?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você tem memória de algum encontro às cegas marcante?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Qual profissão você imaginou que eu teria quando me viu?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você prefere a pessoa que ri muito ou a que fica mais na dela num primeiro encontro?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que você tá achando do lugar? Tá gostando?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "A primeira impressão costuma se confirmar pra você depois?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você pode me fazer uma pergunta agora?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "A conversa tá fluindo naturalmente pra você?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que mais te incomoda num encontro às cegas?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Qual assunto você consegue falar com mais à vontade pra alguém que acabou de conhecer?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você avisou algum amigo que ia vir antes de sair de casa?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que você tá achando dessa vibe aqui?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você costuma se aproximar rápido de pessoas novas?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você tem algum sinal interno de que um encontro tá indo bem?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Tem algum momento da conversa até agora que ficou na sua memória?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Como você me descreveria com duas palavras?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Algo te surpreendeu até agora na conversa?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "O que a outra pessoa pode dizer que te deixa mais à vontade num primeiro encontro?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você faz algo pra se desestressar antes de um encontro?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você pode me dizer honestamente qual é a impressão que eu estou passando?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Você tá feliz por ter vindo hoje?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Como você percebe quando a conversa tá fluindo de verdade?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Qual gênero musical você mais ouve ultimamente?",
+    "category": "taste"
+  },
+  {
+    "question": "Que tipo de comida você mais curte? Brasileira, japonesa, italiana?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual gênero de filme você mais assiste?",
+    "category": "taste"
+  },
+  {
+    "question": "Você gosta de café? Qual tipo de ambiente prefere?",
+    "category": "taste"
+  },
+  {
+    "question": "Quando você viaja, prefere um roteiro cheio ou mais tranquilo?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem alguma série ou filme que você curtiu muito recentemente?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem alguma comida que você definitivamente não come?",
+    "category": "taste"
+  },
+  {
+    "question": "O que você costuma fazer num fim de semana quando tá livre?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual é a sua estação favorita? Por quê?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem alguma comida ou bebida que você tá viciado agora?",
+    "category": "taste"
+  },
+  {
+    "question": "Você tem algum hobbie? O que você mais curte fazer?",
+    "category": "taste"
+  },
+  {
+    "question": "Que tipo de livro ou conteúdo você gosta?",
+    "category": "taste"
+  },
+  {
+    "question": "Você gosta de se exercitar? Tem algum exercício favorito?",
+    "category": "taste"
+  },
+  {
+    "question": "Você curte uma cerveja ou drinks? Tem algum preferido?",
+    "category": "taste"
+  },
+  {
+    "question": "Quando você ouve música, presta mais atenção na letra ou na melodia?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algum lugar onde você viajou e quer voltar?",
+    "category": "taste"
+  },
+  {
+    "question": "O que você costuma fazer quando tá relaxando em casa?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual é a melhor comida que você já provou?",
+    "category": "taste"
+  },
+  {
+    "question": "Que tipo de conteúdo você mais consome nas redes sociais?",
+    "category": "taste"
+  },
+  {
+    "question": "Você gosta de cozinhar? Tem algum prato que você manda bem?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual seção você fica mais tempo quando vai às compras?",
+    "category": "taste"
+  },
+  {
+    "question": "Você prefere atividades ao ar livre ou em lugares fechados?",
+    "category": "taste"
+  },
+  {
+    "question": "Nas férias de verão, você é mais de praia ou de campo?",
+    "category": "taste"
+  },
+  {
+    "question": "Você tem algum tema de playlist favorito?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem alguma coisa que você tá viciado ultimamente? Hobbie ou o que for.",
+    "category": "taste"
+  },
+  {
+    "question": "Qual é o seu lanche preferido?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algum canal no Instagram ou YouTube que você sempre acompanha?",
+    "category": "taste"
+  },
+  {
+    "question": "Você usa perfume? Que tipo de cheiro você prefere?",
+    "category": "taste"
+  },
+  {
+    "question": "Você toma café? Qual pedido é o seu?",
+    "category": "taste"
+  },
+  {
+    "question": "Você costuma colocar música pra trabalhar?",
+    "category": "taste"
+  },
+  {
+    "question": "Você curte comida apimentada?",
+    "category": "taste"
+  },
+  {
+    "question": "O que você costuma pedir quando quer comer tarde da noite?",
+    "category": "taste"
+  },
+  {
+    "question": "Numa viagem, o que você prioriza mais: hospedagem, comida ou passeios?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algum tema ou área que você ficou interessado recentemente?",
+    "category": "taste"
+  },
+  {
+    "question": "Você curte algum esporte ou tem time favorito?",
+    "category": "taste"
+  },
+  {
+    "question": "Seu gosto mudou muito com o tempo?",
+    "category": "taste"
+  },
+  {
+    "question": "Você tem alguma flor ou planta favorita?",
+    "category": "taste"
+  },
+  {
+    "question": "Você prefere vídeos curtos ou longos?",
+    "category": "taste"
+  },
+  {
+    "question": "Você curte sobremesas? Qual é a sua favorita?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algum hobbie que você nunca tentou mas quer tentar?",
+    "category": "taste"
+  },
+  {
+    "question": "Você é mais matutino ou noturno?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Como é o seu dia a dia numa semana típica?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Como seria o seu final de semana ideal?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você prefere ficar em casa ou sair?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você mora sozinho ou com a família? Quais são as vantagens e desvantagens?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você pratica algum exercício com regularidade?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você costuma comer sozinho com frequência?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tem alguma coisa que você faz todo dia antes de dormir?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você cuida da sua saúde de alguma forma específica?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você é mais planejado ou age por impulso?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "O que você faz quando de repente tem o dia livre?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você poupa ou gasta mais?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você limpa sua casa com frequência? É organizado?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você costuma cozinhar em casa?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você é de responder mensagens rápido?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você tem o costume de tirar soneca?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você equilibra bem trabalho e descanso?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tem algum bairro ou lugar que você frequenta bastante?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "O que você faz depois do trabalho pra descansar?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você costuma fazer compras por impulso?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você sai pra comer fora com frequência?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Quanto tempo sozinho você precisa por dia?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você costuma viajar com frequência?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você posta bastante nas redes ou prefere só olhar?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Como é o ambiente da sua casa?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você tem o hábito de estudar ou ler com frequência?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Com que frequência você se encontra com os amigos?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você dorme bem?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "O que você faz pra lidar com o estresse?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você tem ou quer ter um pet?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você curte caminhar ou dar uma volta?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você tem muitos compromissos sociais?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você vai com frequência em encontros de família?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Em qual gasto você nunca acha que tá jogando dinheiro fora?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você costuma dormir cedo ou tarde?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você gasta muita energia em relacionamentos?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você é do tipo que pega o ritmo das rotinas fácil?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Você costuma tentar coisas novas?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Tem algo na sua rotina atual que você quer mudar?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Quando você se sente mais você mesmo?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "O que você considera mais importante na vida?",
+    "category": "values"
+  },
+  {
+    "question": "Como você descreveria um relacionamento saudável em uma frase?",
+    "category": "values"
+  },
+  {
+    "question": "Tem algo no relacionamento que você nunca abre mão?",
+    "category": "values"
+  },
+  {
+    "question": "Que tipo de pessoa você quer ser num relacionamento?",
+    "category": "values"
+  },
+  {
+    "question": "Você acha que duas pessoas muito diferentes conseguem se dar bem?",
+    "category": "values"
+  },
+  {
+    "question": "Qual é sua opinião sobre frequência de mensagens num relacionamento?",
+    "category": "values"
+  },
+  {
+    "question": "Confiança é a coisa mais importante prum relacionamento, você concorda?",
+    "category": "values"
+  },
+  {
+    "question": "Você precisa de tempo sozinho com frequência?",
+    "category": "values"
+  },
+  {
+    "question": "O que você considera uma boa conversa?",
+    "category": "values"
+  },
+  {
+    "question": "Como você lida com dinheiro?",
+    "category": "values"
+  },
+  {
+    "question": "O que a família significa pra você?",
+    "category": "values"
+  },
+  {
+    "question": "Liberdade ou segurança — o que pesa mais pra você?",
+    "category": "values"
+  },
+  {
+    "question": "Tem algo na sua vida pelo qual você é muito grato?",
+    "category": "values"
+  },
+  {
+    "question": "Você acha importante se expressar com frequência num relacionamento?",
+    "category": "values"
+  },
+  {
+    "question": "Como você acha que deve ser o equilíbrio entre trabalho e relacionamento?",
+    "category": "values"
+  },
+  {
+    "question": "Você acha que deve dedicar mais tempo pra amigos ou pro parceiro?",
+    "category": "values"
+  },
+  {
+    "question": "Como você prefere resolver um conflito?",
+    "category": "values"
+  },
+  {
+    "question": "Você acredita que as pessoas podem mudar?",
+    "category": "values"
+  },
+  {
+    "question": "Tem algum valor que mudou pra você ao longo do tempo?",
+    "category": "values"
+  },
+  {
+    "question": "O que você pensa sobre casamento?",
+    "category": "values"
+  },
+  {
+    "question": "Você prefere alguém parecido ou diferente de você?",
+    "category": "values"
+  },
+  {
+    "question": "Você acha que é necessário conhecer o passado do parceiro?",
+    "category": "values"
+  },
+  {
+    "question": "Você é do tipo que se concentra em uma pessoa só?",
+    "category": "values"
+  },
+  {
+    "question": "Você acha que honestidade é fundamental num relacionamento?",
+    "category": "values"
+  },
+  {
+    "question": "Qual é o seu critério de felicidade?",
+    "category": "values"
+  },
+  {
+    "question": "O que te faz sentir cuidado por alguém?",
+    "category": "values"
+  },
+  {
+    "question": "Você acredita que quem se ama consegue amar melhor o outro?",
+    "category": "values"
+  },
+  {
+    "question": "Você prefere alguém com quem se conecta bem ou alguém que é seu tipo ideal?",
+    "category": "values"
+  },
+  {
+    "question": "Você acha que cada um precisa ter seu espaço mesmo num relacionamento?",
+    "category": "values"
+  },
+  {
+    "question": "Qual foi a experiência que mais te fez crescer?",
+    "category": "values"
+  },
+  {
+    "question": "Você prefere ambientes cheios de gente ou encontros mais íntimos?",
+    "category": "values"
+  },
+  {
+    "question": "Com qual tipo de pessoa você se sente mais à vontade?",
+    "category": "values"
+  },
+  {
+    "question": "Você se preocupa com o que os outros pensam de você?",
+    "category": "values"
+  },
+  {
+    "question": "Você tem algum sonho ou objetivo que quer realizar?",
+    "category": "values"
+  },
+  {
+    "question": "O que você acha que é o segredo pra um relacionamento duradouro?",
+    "category": "values"
+  },
+  {
+    "question": "Que tipo de pessoa fica marcada na sua memória?",
+    "category": "values"
+  },
+  {
+    "question": "Se fosse se descrever em uma frase, o que seria?",
+    "category": "values"
+  },
+  {
+    "question": "Você se abre facilmente com os sentimentos?",
+    "category": "values"
+  },
+  {
+    "question": "Tem algo que você definitivamente quer fazer na vida?",
+    "category": "values"
+  },
+  {
+    "question": "O que você espera que esse encontro seja pra você?",
+    "category": "values"
+  }
+]

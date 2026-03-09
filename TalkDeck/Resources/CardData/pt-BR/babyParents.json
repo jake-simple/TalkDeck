@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Qual foi o momento mais fofo do bebê recentemente?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual foi o momento em que você mais se sentiu orgulhoso cuidando do bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Como foi quando o bebê chamou 'mamãe' ou 'papai' pela primeira vez?",
+    "category": "parenting"
+  },
+  {
+    "question": "Descreve o momento em que o bebê deu os primeiros passos.",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual é a brincadeira favorita do bebê ultimamente?",
+    "category": "parenting"
+  },
+  {
+    "question": "O que o bebê fez ou disse recentemente que deixou a gente na risada?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual foi a coisa que você ensinou ao bebê que ele aprendeu mais rápido?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual foi o desenvolvimento mais surpreendente do bebê recentemente?",
+    "category": "parenting"
+  },
+  {
+    "question": "Quando o bebê demonstra qual emoção você acha mais fofo?",
+    "category": "parenting"
+  },
+  {
+    "question": "Você tem alguma rotina especial pra colocar o bebê pra dormir?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual é o brinquedo ou objeto preferido do bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual é o jeito que mais funciona pra acalmar o bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual brincadeira você mais curte fazer com o bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual é o comportamento fofo que o bebê tá fazendo com frequência?",
+    "category": "parenting"
+  },
+  {
+    "question": "Você lembra quando o bebê sorriu pela primeira vez? Como foi?",
+    "category": "parenting"
+  },
+  {
+    "question": "O que passou pela sua cabeça quando pegou o bebê no colo pela primeira vez?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual foi o momento mais tranquilo do dia a dia com o bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual foi o momento mais difícil quando o bebê ficou doente?",
+    "category": "parenting"
+  },
+  {
+    "question": "Tem uma história por trás do nome do bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual foi a reação do bebê quando comeu pela primeira vez?",
+    "category": "parenting"
+  },
+  {
+    "question": "Como foi o primeiro dia do bebê na escolinha?",
+    "category": "parenting"
+  },
+  {
+    "question": "O que mais te surpreendeu que aprendeu com o bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "O bebê já te emocionou de forma inesperada?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual é a sua foto favorita com o bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Você já ficou surpreso percebendo que o bebê cresceu de repente?",
+    "category": "parenting"
+  },
+  {
+    "question": "Como foi a primeira viagem com o bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Como o bebê reagiu quando foi à praia pela primeira vez?",
+    "category": "parenting"
+  },
+  {
+    "question": "Como foi o primeiro aniversário do bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Como foi quando o bebê interagiu com outras crianças pela primeira vez?",
+    "category": "parenting"
+  },
+  {
+    "question": "Você já dormiu antes de conseguir colocar o bebê pra dormir?",
+    "category": "parenting"
+  },
+  {
+    "question": "Você tem alguma pose favorita pra foto com o bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Tem alguma receita que você quer fazer especialmente pro bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Qual é a música favorita de vocês pra cantar juntos?",
+    "category": "parenting"
+  },
+  {
+    "question": "Como foi quando o bebê abriu um livro sozinho pela primeira vez?",
+    "category": "parenting"
+  },
+  {
+    "question": "Tem algum episódio especial do primeiro Natal ou feriado do bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Tem algum episódio engraçado do bebê no transporte público?",
+    "category": "parenting"
+  },
+  {
+    "question": "O que mais te surpreendeu que aprendeu sobre bebês?",
+    "category": "parenting"
+  },
+  {
+    "question": "Como você se sentiu quando o bebê disse 'não' pela primeira vez?",
+    "category": "parenting"
+  },
+  {
+    "question": "Você já sentiu que devia pedir desculpa pro bebê?",
+    "category": "parenting"
+  },
+  {
+    "question": "Tem uma coisa que você definitivamente quer ensinar pro bebê quando ele crescer?",
+    "category": "parenting"
+  },
+  {
+    "question": "Depois que o bebê nasceu, você descobriu alguma qualidade nova no cônjuge?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Você já se emocionou vendo o cônjuge cuidar do bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Qual foi a maior briga do casal por causa da criação do bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Como o assunto das conversas do casal mudou depois que o bebê chegou?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Já teve diferença no estilo de cuidar do bebê entre vocês? Como alinharam?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Vocês já conversaram honestamente sobre a divisão das tarefas com o bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Como vocês mantêm os programas a dois depois que o bebê chegou?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Qual cena do cônjuge cuidando do bebê ficou mais marcada pra você?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Cuidando do bebê, você já voltou a se apaixonar pelo cônjuge?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Qual é a parte em que o casal mais se entende na criação do bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Com o bebê, o casal ficou mais próximo do que era antes?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Já tiveram opiniões diferentes sobre como educar o bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Tem algum momento em que acha que o cônjuge ficou chateado durante a criação do bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Qual foi a decisão mais importante que vocês tomaram juntos pra o bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "O casal já brigou na frente do bebê? O que pensou naquele momento?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Tem algum momento em que você se sentiu mal com o cônjuge durante a criação?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Cuidando do bebê, qual é a qualidade do cônjuge que você quer copiar?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Vocês têm algum princípio de criação próprio? Qual é?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Qual nota você daria pro trabalho em equipe do casal na criação do bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "O que você mais agradece ao cônjuge desde que o bebê chegou?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Qual foi o episódio mais recente que vocês riram juntos por causa do bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Como vocês resolvem quando o tempo do casal fica menos por causa do bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "O que você faz quando percebe que o cônjuge tá esgotado?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Tem alguma parte em que o casal cresceu junto cuidando do bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "O que vocês geralmente fazem depois que o bebê dorme?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Como vocês chegaram num acordo quando discordaram sobre o bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Quando foi que você se sentiu mais seguro por ter o cônjuge do lado durante a criação?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Depois do bebê, criaram alguma rotina nova como casal?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Qual foi o momento mais recompensador de criar o bebê juntos?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Criando o bebê, surgiram expressões ou gírias só de vocês?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Qual foi a mudança mais positiva que o bebê trouxe pro relacionamento?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Teve algum momento em que sentiu que vocês têm valores parecidos na criação?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Depois do bebê, descobriram algo novo um sobre o outro?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "O que ficou mais importante no relacionamento depois do bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Você sente que o bebê deixou o casal mais forte?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Você já refletiu sobre o que significa criar o bebê juntos?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Tem algo que você quer dizer ao cônjuge sobre a criação do bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Como seu jeito de ver o cônjuge mudou depois que o bebê chegou?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Tem algum exemplo que o casal quer dar para o bebê?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "O que o cônjuge fez durante a criação que você ainda agradece?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Você já quis desistir de tudo porque criação de filhos era demais?",
+    "category": "hardships"
+  },
+  {
+    "question": "Qual foi o momento em que você ficou mais esgotado fisicamente?",
+    "category": "hardships"
+  },
+  {
+    "question": "Qual foi o pior dia em que o bebê ficou acordando a noite toda?",
+    "category": "hardships"
+  },
+  {
+    "question": "Você já se sentiu sem tempo pra si mesmo por causa da criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "Você já perdeu o controle emocional com o bebê?",
+    "category": "hardships"
+  },
+  {
+    "question": "Depois de ser pai/mãe, sua identidade pessoal já ficou abalada?",
+    "category": "hardships"
+  },
+  {
+    "question": "Qual é a parte mais difícil de equilibrar criação e trabalho?",
+    "category": "hardships"
+  },
+  {
+    "question": "Você já se sentiu impotente por não poder fazer nada quando o bebê ficou doente?",
+    "category": "hardships"
+  },
+  {
+    "question": "Quando foi que você se sentiu mais sozinho na criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "Você já quis ser você mesmo sem ser pai ou mãe por um momento?",
+    "category": "hardships"
+  },
+  {
+    "question": "Você já ficou deprimido ou sem energia durante a criação? Como superou?",
+    "category": "hardships"
+  },
+  {
+    "question": "Como foi quando você levantou a voz ou ficou bravo com o bebê?",
+    "category": "hardships"
+  },
+  {
+    "question": "Qual foi o período mais difícil com a falta de sono?",
+    "category": "hardships"
+  },
+  {
+    "question": "O que você mais sentiu que perdeu por causa da criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "Você já ficou ansioso sobre se estava sendo um bom pai ou mãe?",
+    "category": "hardships"
+  },
+  {
+    "question": "Tem algo que ficou magoado com o cônjuge durante a criação mas não falou?",
+    "category": "hardships"
+  },
+  {
+    "question": "Já teve algum conflito com alguém próximo por causa do bebê?",
+    "category": "hardships"
+  },
+  {
+    "question": "Como você aguentou o período mais difícil da criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "Você já colocou seus sonhos e objetivos de lado por causa da criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "O que você sentiu quando o bebê chorava sem parar mesmo depois de tentar tudo?",
+    "category": "hardships"
+  },
+  {
+    "question": "Como você alivia o estresse da criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "Você já sentiu que sua saúde piorou depois que o bebê chegou?",
+    "category": "hardships"
+  },
+  {
+    "question": "Já houve um momento em que se decepcionou como pai ou mãe?",
+    "category": "hardships"
+  },
+  {
+    "question": "Os conselhos e interferências de pessoas próximas sobre a criação já foram demais?",
+    "category": "hardships"
+  },
+  {
+    "question": "Tem algum sentimento que você guardou sozinho sem falar pro cônjuge?",
+    "category": "hardships"
+  },
+  {
+    "question": "Quando foi que você percebeu que criar um filho era muito mais difícil do que imaginava?",
+    "category": "hardships"
+  },
+  {
+    "question": "Qual foi o momento mais desconcertante de ser pai ou mãe de primeira viagem?",
+    "category": "hardships"
+  },
+  {
+    "question": "Qual é o sentimento que você mais segura durante a criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "Qual foi o maior medo que sentiu quando levou o bebê ao médico?",
+    "category": "hardships"
+  },
+  {
+    "question": "Já deixou sua própria saúde de lado por causa da criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "Tem alguma situação em que você se sentiu mal com o bebê mas não tinha como evitar?",
+    "category": "hardships"
+  },
+  {
+    "question": "Quando foi que a pressão financeira por causa do bebê pesou mais?",
+    "category": "hardships"
+  },
+  {
+    "question": "Qual situação te assusta mais como pai ou mãe?",
+    "category": "hardships"
+  },
+  {
+    "question": "Você já se sentiu isolado socialmente por causa da criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "Você já sentiu que seus defeitos ficaram mais evidentes ao criar o bebê?",
+    "category": "hardships"
+  },
+  {
+    "question": "Quando foi que mais perdeu o controle emocional? O que você fez?",
+    "category": "hardships"
+  },
+  {
+    "question": "Já quis não estar sozinho em algum momento da criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "Com o crescimento do bebê, a preocupação aumentou ou diminuiu?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pode falar honestamente qual é a parte mais difícil da criação agora?",
+    "category": "hardships"
+  },
+  {
+    "question": "Qual é o pensamento ou sentimento que mais te pesa na criação?",
+    "category": "hardships"
+  },
+  {
+    "question": "O que você é mais grato depois que o bebê nasceu?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Qual foi o momento em que mais agradeceu ao cônjuge durante a criação?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O bebê te fez descobrir algo precioso que você não sabia que existia?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Qual foi a lição de vida que o bebê te ensinou?",
+    "category": "gratitude"
+  },
+  {
+    "question": "A criação te fez ser mais grato aos seus pais de alguma forma?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Qual foi o momento mais recente em que se sentiu feliz por ter o bebê?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O que o cônjuge fez pelo bebê que mais te encheu de gratidão?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O significado da vida mudou depois que você começou a criar o bebê?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Quem mais te ajudou na criação pelo qual você é mais grato?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Tente descrever o que sente quando o bebê sorri.",
+    "category": "gratitude"
+  },
+  {
+    "question": "Em que aspecto você sente que cresceu como pessoa por causa da criação?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O bebê já mudou seu dia com uma só frase?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Qual qualidade do cônjuge você passou a valorizar mais durante a criação?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O bebê te faz se esforçar mais na vida?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Tente descrever o que você sente quando o bebê vem pra seus braços.",
+    "category": "gratitude"
+  },
+  {
+    "question": "Já teve um momento em que o mundo pareceu mais bonito por causa do bebê?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Qual experiência nova o bebê te proporcionou pela qual você é grato?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Quando foi que você mais sentiu que o bebê era o maior presente?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Tem algo que você quer agradecer ao cônjuge agora mesmo?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Como foi quando o bebê te abraçou pela primeira vez?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Tem alguma coisa que você não teria desistido se não fosse pelo bebê?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Você já ficou grato por o ritmo da vida ter mudado por causa da criação?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O que você sente quando vê o rosto do bebê dormindo?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O que é melhor na criação por ter o cônjuge do lado?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Tem alguma parte em que o bebê te fez ser mais corajoso?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Qual foi a mudança em você pela qual você é mais grato depois que o bebê nasceu?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Como foi quando o bebê disse 'te amo' pela primeira vez?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Quando foi que você pensou 'que bom que temos esse cônjuge' durante a criação?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Qual é o valor mais precioso que o bebê te ensinou?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Existe algum relacionamento que ficou mais profundo por causa da criação?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O que você sente quando o bebê fica feliz com uma coisa pequena?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O que você é mais grato depois de se tornar pai ou mãe?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Qual foi o momento mais recente e recompensador na criação do bebê?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Tem alguma gratidão que surgiu em relação ao cônjuge por causa do bebê?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Quando foi que você sentiu que o simples fato do bebê existir já era suficiente?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Tem algum momento difícil da criação que depois se tornou motivo de gratidão?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O que essa família — o bebê, o cônjuge e você — significa pra você?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Você tá percebendo o quanto esse tempo como pai ou mãe é precioso?",
+    "category": "gratitude"
+  },
+  {
+    "question": "O que você mais agradece na criação do bebê?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Quando foi a última vez que você disse obrigado ao cônjuge?",
+    "category": "gratitude"
+  }
+]

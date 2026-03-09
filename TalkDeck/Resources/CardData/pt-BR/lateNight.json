@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Qual música está passando na sua cabeça agora?",
+    "category": "emotional"
+  },
+  {
+    "question": "Qual foi o melhor momento do seu dia hoje?",
+    "category": "emotional"
+  },
+  {
+    "question": "Tem alguma música que você está ouvindo muito? Por que acha que é essa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Se você fosse escolher uma cor pra essa noite, qual seria?",
+    "category": "emotional"
+  },
+  {
+    "question": "Se você fosse resumir seu sentimento mais honesto de hoje em uma palavra, qual seria?",
+    "category": "emotional"
+  },
+  {
+    "question": "Qual emoção você está sentindo com mais frequência ultimamente?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quando foi a última vez que você sentiu o coração quentinho por causa de algo?",
+    "category": "emotional"
+  },
+  {
+    "question": "O que você pensa quando está sozinho à noite?",
+    "category": "emotional"
+  },
+  {
+    "question": "Se esse momento virasse uma foto, qual seria a cena?",
+    "category": "emotional"
+  },
+  {
+    "question": "Qual emoção você está estranhando mais ultimamente?",
+    "category": "emotional"
+  },
+  {
+    "question": "Tem momento em que você sente vontade de mandar mensagem pra alguém do nada? Quando é isso?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quando foi a última vez que você ficou com o coração acelerado por algo?",
+    "category": "emotional"
+  },
+  {
+    "question": "O que você faz quando está triste para se animar?",
+    "category": "emotional"
+  },
+  {
+    "question": "Em que você mais pensa antes de dormir ultimamente?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quando foi a última vez que você chorou de emoção?",
+    "category": "emotional"
+  },
+  {
+    "question": "Tem algo ou alguém que você está sentindo falta agora?",
+    "category": "emotional"
+  },
+  {
+    "question": "Como você percebe a diferença entre querer ficar sozinho e querer companhia?",
+    "category": "emotional"
+  },
+  {
+    "question": "Tem algum sentimento que você está guardando pra você ultimamente?",
+    "category": "emotional"
+  },
+  {
+    "question": "O que você faz quando sua cabeça está a mil?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quando você pensa na sua memória mais feliz, qual cena aparece?",
+    "category": "emotional"
+  },
+  {
+    "question": "Tem algum lugar que você curte muito ir ultimamente?",
+    "category": "emotional"
+  },
+  {
+    "question": "Tem alguém que você quer agradecer agora?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quando você está de mau humor, tem algum comportamento automático que você não percebe?",
+    "category": "emotional"
+  },
+  {
+    "question": "Se essa noite tivesse um cheiro, qual seria?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quando foi o momento mais gostoso de rir hoje?",
+    "category": "emotional"
+  },
+  {
+    "question": "Você está emocionalmente cansado ultimamente? Em qual parte?",
+    "category": "emotional"
+  },
+  {
+    "question": "O que te deixa mais calmo quando precisa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Você consegue ser honesto sobre o que está sentindo agora?",
+    "category": "emotional"
+  },
+  {
+    "question": "Em que momento você sente solidão ultimamente?",
+    "category": "emotional"
+  },
+  {
+    "question": "Tem algo que você quer fazer antes dessa noite acabar?",
+    "category": "emotional"
+  },
+  {
+    "question": "Se hoje fosse uma cor, qual seria?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quando foi a última vez que você se sentiu realmente acolhido?",
+    "category": "emotional"
+  },
+  {
+    "question": "Qual é a frase que você mais quer ouvir agora?",
+    "category": "emotional"
+  },
+  {
+    "question": "Você costuma ficar pra baixo sem motivo ultimamente?",
+    "category": "emotional"
+  },
+  {
+    "question": "Quando você se sente mais tranquilo?",
+    "category": "emotional"
+  },
+  {
+    "question": "Teve algum momento difícil hoje?",
+    "category": "emotional"
+  },
+  {
+    "question": "Tem alguém que você gostaria de ter do seu lado agora?",
+    "category": "emotional"
+  },
+  {
+    "question": "Teve algum momento sem motivo que você ficou de bom humor recentemente?",
+    "category": "emotional"
+  },
+  {
+    "question": "O que mais está te fazendo pensar ultimamente?",
+    "category": "emotional"
+  },
+  {
+    "question": "Com qual sentimento você quer voltar pra casa depois desse encontro?",
+    "category": "emotional"
+  },
+  {
+    "question": "O que você acha que é felicidade de verdade?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Por que você acha que as pessoas precisam tanto de conexão com outras?",
+    "category": "philosophy"
+  },
+  {
+    "question": "O que envelhecer significa pra você?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acredita que existe liberdade de verdade?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acha que as pessoas são, no fundo, boas ou más?",
+    "category": "philosophy"
+  },
+  {
+    "question": "O que é uma vida bem vivida pra você?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Onde você acha que termina a amizade e começa o amor?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Como você acha que precisa viver pra não ter medo da morte?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acredita em destino?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acha que o tempo é o bem mais precioso que existe?",
+    "category": "philosophy"
+  },
+  {
+    "question": "A pessoa é mais verdadeira quando está sozinha ou quando está com alguém?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Por que você acha que é tão difícil estar presente no momento?",
+    "category": "philosophy"
+  },
+  {
+    "question": "O que faz uma pessoa ser boa pra você?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acha importante encontrar um significado na vida?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acha que é possível viver sem arrependimentos?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Os relacionamentos precisam ser cultivados ou vão se resolvendo naturalmente?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acha que sucesso e felicidade são a mesma coisa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Mudar é uma coisa boa ou ruim?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você se sente o protagonista da sua própria vida?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Qual é a diferença entre coragem e imprudência pra você?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acha que falar a verdade é sempre a coisa certa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "O que é se amar pra você?",
+    "category": "philosophy"
+  },
+  {
+    "question": "A memória é real ou é uma história que a gente constrói?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acha que existe um relacionamento perfeito?",
+    "category": "philosophy"
+  },
+  {
+    "question": "O que esse momento vai significar pra você daqui a 10 anos?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Depender das pessoas é fraqueza ou força?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Pode existir um momento em que o fracasso é mais importante que o sucesso?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acredita que existe uma conexão com alguém que vai além das palavras?",
+    "category": "philosophy"
+  },
+  {
+    "question": "A ideia de que a gente nasce e morre sozinho te consola ou te entristece?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Por que é tão difícil manter a gratidão por muito tempo?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você sente que as escolhas que está fazendo agora estão te moldando?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Com o tempo, a maioria das coisas deixa de ser importante?",
+    "category": "philosophy"
+  },
+  {
+    "question": "O quanto você se conhece de verdade?",
+    "category": "philosophy"
+  },
+  {
+    "question": "O que é uma conversa realmente significativa pra você?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acha que a dor fortalece as pessoas?",
+    "category": "philosophy"
+  },
+  {
+    "question": "O que você não consegue comprar com dinheiro e considera mais valioso?",
+    "category": "philosophy"
+  },
+  {
+    "question": "O que você acha que as pessoas mais desperdiçam na vida?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Se você tivesse que apontar uma certeza e uma incerteza agora, quais seriam?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Você acha que a felicidade aumenta quando é compartilhada?",
+    "category": "philosophy"
+  },
+  {
+    "question": "O que você mais precisa agora?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Tem algo que você quer me falar com sinceridade hoje?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem alguma coisa que você ficou curioso sobre mim mas não perguntou?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que você não contou pra ninguém ultimamente?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem alguma parte da sua vida que está difícil mas você não demonstra?",
+    "category": "confession"
+  },
+  {
+    "question": "Quando foi a última vez que você tomou coragem pra fazer algo?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que você finge que faz bem mas na verdade não faz?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem alguma pessoa ou situação que está ocupando muito a sua cabeça ultimamente?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem alguma preocupação que você nunca falou em voz alta?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que você quer falar com honestidade pela primeira vez aqui?",
+    "category": "confession"
+  },
+  {
+    "question": "Alguém te machucou recentemente?",
+    "category": "confession"
+  },
+  {
+    "question": "Qual é o problema mais difícil que você está enfrentando na sua vida agora?",
+    "category": "confession"
+  },
+  {
+    "question": "Você tem algum segredo que só você sabe?",
+    "category": "confession"
+  },
+  {
+    "question": "Quando foi a última vez que você mentiu? Em que situação?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que ainda está te pesando na consciência?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algum defeito seu que você não quer admitir?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem alguém que está te entendendo errado?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem alguém que você admira muito sem assumir?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem alguma desculpa que você está se dando na sua vida agora?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem alguém que você quer muito retomar contato?",
+    "category": "confession"
+  },
+  {
+    "question": "Você sorriu de verdade pela primeira vez aqui hoje?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algum desejo seu que você ainda não contou pra ninguém?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que você está evitando enfrentar na sua vida?",
+    "category": "confession"
+  },
+  {
+    "question": "Qual é a emoção mais difícil de você admitir?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algum pedido de desculpas que você nunca conseguiu fazer?",
+    "category": "confession"
+  },
+  {
+    "question": "Você sente que está sendo duro demais consigo mesmo ultimamente?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que te assusta mas você quer muito fazer?",
+    "category": "confession"
+  },
+  {
+    "question": "Qual é o tipo de consolo que você mais precisa ouvir agora?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que você ainda não conseguiu esquecer completamente?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que te incomoda muito mas você finge que não liga?",
+    "category": "confession"
+  },
+  {
+    "question": "Qual é a frase que você mais se diz pra você mesmo ultimamente?",
+    "category": "confession"
+  },
+  {
+    "question": "O que você quer ter coragem de fazer agora?",
+    "category": "confession"
+  },
+  {
+    "question": "Você já sentiu que está sendo injusto demais consigo mesmo?",
+    "category": "confession"
+  },
+  {
+    "question": "Qual é a escolha que você mais se arrepende na vida?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que você quer desabafar agora com honestidade?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que você está pensando há muito tempo mas nunca falou?",
+    "category": "confession"
+  },
+  {
+    "question": "Em que parte da sua vida você está mais orgulhoso de si mesmo ultimamente?",
+    "category": "confession"
+  },
+  {
+    "question": "Tem algo que se você não falar agora, acha que nunca vai falar?",
+    "category": "confession"
+  },
+  {
+    "question": "Como estava o seu humor logo antes de vir aqui hoje?",
+    "category": "confession"
+  },
+  {
+    "question": "Qual é a frase que você mais quer ouvir de mim?",
+    "category": "confession"
+  },
+  {
+    "question": "Qual foi a melhor escolha que você fez na vida até agora?",
+    "category": "confession"
+  },
+  {
+    "question": "Você tem sonhado muito ultimamente?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem algum sonho que você quer realizar mas tem vergonha de contar?",
+    "category": "dream"
+  },
+  {
+    "question": "Você ainda guarda algum sonho da infância?",
+    "category": "dream"
+  },
+  {
+    "question": "Se tudo fosse possível agora, o que você mais quer fazer?",
+    "category": "dream"
+  },
+  {
+    "question": "Daqui a 5 anos, onde você se imagina e o que está fazendo?",
+    "category": "dream"
+  },
+  {
+    "question": "Qual é o sonho mais marcante que você já teve? Como foi?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem algum lugar que aparece com frequência nos seus sonhos?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem algum sonho que você desistiu mas ainda carrega no coração?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem algo que você quer muito realizar ainda este ano?",
+    "category": "dream"
+  },
+  {
+    "question": "O que você acha que precisa fazer antes de morrer?",
+    "category": "dream"
+  },
+  {
+    "question": "Com qual sentimento você costuma acordar depois de sonhar?",
+    "category": "dream"
+  },
+  {
+    "question": "O que você acha que o eu do futuro diria pra você agora?",
+    "category": "dream"
+  },
+  {
+    "question": "O quanto você acha que o seu sonho é realizável?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem alguém que você quer encontrar nos seus sonhos?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem algum sonho que você não vai desistir, mesmo podendo não se realizar?",
+    "category": "dream"
+  },
+  {
+    "question": "Como é a vida dos seus sonhos?",
+    "category": "dream"
+  },
+  {
+    "question": "Por que você ainda não desiste do seu sonho, mesmo com a realidade pesando?",
+    "category": "dream"
+  },
+  {
+    "question": "Qual é a coragem que você mais precisa ter agora?",
+    "category": "dream"
+  },
+  {
+    "question": "Qual foi o futuro que você se imaginou mais recentemente?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem alguma memória que você gostaria de reviver num sonho?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem algo que você quer fazer mesmo que todo mundo te desencoraje?",
+    "category": "dream"
+  },
+  {
+    "question": "O que você está fazendo hoje tem alguma ligação com o que você sonha?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem algum sonho da infância que já se realizou?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem alguma pessoa que aparece com frequência nos seus sonhos?",
+    "category": "dream"
+  },
+  {
+    "question": "Como seria o seu dia ideal dos sonhos?",
+    "category": "dream"
+  },
+  {
+    "question": "O que você está desejando com mais força agora?",
+    "category": "dream"
+  },
+  {
+    "question": "Você está fazendo alguma coisa para realizar seu sonho?",
+    "category": "dream"
+  },
+  {
+    "question": "Qual foi o sonho mais absurdo que você já teve?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem algo que você quer realizar num sonho porque na vida real não foi possível?",
+    "category": "dream"
+  },
+  {
+    "question": "Como você se imagina daqui a 10 anos?",
+    "category": "dream"
+  },
+  {
+    "question": "Você já acordou no meio de um sonho bom e ficou com raiva?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem algum sonho que você ainda nem começou a perseguir?",
+    "category": "dream"
+  },
+  {
+    "question": "Quem é a pessoa que mais sabe sobre os seus sonhos?",
+    "category": "dream"
+  },
+  {
+    "question": "Quando seu sonho se realizar, qual é a primeira coisa que você quer fazer?",
+    "category": "dream"
+  },
+  {
+    "question": "Se só um sonho pudesse se realizar agora, qual você escolheria?",
+    "category": "dream"
+  },
+  {
+    "question": "Qual é o seu sonho mais realista e o mais improvável?",
+    "category": "dream"
+  },
+  {
+    "question": "Você já ficou dividido entre seguir seu sonho ou buscar estabilidade?",
+    "category": "dream"
+  },
+  {
+    "question": "Alguém já te incentivou de um jeito que te deu forças pra continuar sonhando?",
+    "category": "dream"
+  },
+  {
+    "question": "O que você acha que é o maior obstáculo para realizar o seu sonho?",
+    "category": "dream"
+  },
+  {
+    "question": "Tem algo que você está esperando do dia de amanhã?",
+    "category": "dream"
+  }
+]

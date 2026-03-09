@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Qual era sua comida favorita quando criança?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual era sua matéria favorita na escola?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tem alguma memória do seu melhor amigo da infância?",
+    "category": "childhood"
+  },
+  {
+    "question": "O que você mais queria ganhar quando era criança?",
+    "category": "childhood"
+  },
+  {
+    "question": "O que você queria ser quando crescesse, quando estava no primário?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual foi a reprimenda mais marcante que você levou dos seus pais?",
+    "category": "childhood"
+  },
+  {
+    "question": "O que você fazia assim que chegava da escola?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tinha algum desenho ou jogo que você era obcecado quando criança?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual era o seu lugar favorito no bairro onde cresceu?",
+    "category": "childhood"
+  },
+  {
+    "question": "Quais brincadeiras você mais fazia com irmãos ou amigos?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual era o almoço favorito do refeitório da escola?",
+    "category": "childhood"
+  },
+  {
+    "question": "O que você mais tinha medo quando era criança?",
+    "category": "childhood"
+  },
+  {
+    "question": "O que você mais fazia nas férias de verão?",
+    "category": "childhood"
+  },
+  {
+    "question": "Você tinha alguma visão de como seria ser adulto?",
+    "category": "childhood"
+  },
+  {
+    "question": "Você lembra da primeira vez que andou de ônibus ou metrô sozinho?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual era o professor que você mais gostava? O que tinha de especial nele?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual foi o passeio ou excursão da escola mais marcante?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tem algo que você fez escondido dos pais que pode contar agora?",
+    "category": "childhood"
+  },
+  {
+    "question": "O que você comprou com a primeira mesada que recebeu?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual era a matéria ou aula que você mais odiava?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tinha algum programa de TV que você nunca perdia?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual foi o presente de aniversário mais marcante da infância?",
+    "category": "childhood"
+  },
+  {
+    "question": "Você lembra de quando aprendeu a andar de bicicleta?",
+    "category": "childhood"
+  },
+  {
+    "question": "Você tinha algum animal de estimação quando criança?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual era o salgadinho ou bebida favorito da infância?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tinha algo que você se sentia particularmente bom na escola?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual é a frase que os adultos mais repetiam pra você quando criança?",
+    "category": "childhood"
+  },
+  {
+    "question": "Você lembra da primeira vez que ficou em casa sozinho? Como foi?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual era o estabelecimento do bairro que você mais frequentava?",
+    "category": "childhood"
+  },
+  {
+    "question": "Teve algum período difícil na sua infância?",
+    "category": "childhood"
+  },
+  {
+    "question": "Que tipo de criança você era na turma?",
+    "category": "childhood"
+  },
+  {
+    "question": "Quando foi a primeira vez que ficou acordado a noite toda? Por quê?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual era o seu livro ou história em quadrinhos favorito?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tem alguma cena da infância que ainda aparece vívida na sua memória?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tinha alguma lanchonete ou cantina que você frequentava depois da escola?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tinha alguma roupa ou tênis que você sonhava ter?",
+    "category": "childhood"
+  },
+  {
+    "question": "Você sonhava com algum tipo de casa quando era criança?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual era a coisa que as pessoas mais te elogiavam?",
+    "category": "childhood"
+  },
+  {
+    "question": "Você lembra do cheiro de casa quando chegava da escola?",
+    "category": "childhood"
+  },
+  {
+    "question": "Qual programa de TV você assistia enquanto comia?",
+    "category": "childhood"
+  },
+  {
+    "question": "O que você tá mais curtindo ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você começou algum hobbie ou interesse novo recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual é o conteúdo que você mais tá consumindo?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi o acontecimento mais marcante desse mês?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Como você tá cuidando da sua saúde ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você comeu algo gostoso recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem algum lugar que você frequenta bastante ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Conta uma coisa que te fez rir essa semana.",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem algo que tá te preocupando ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você descobriu alguma informação interessante recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Com quem você tá falando mais ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você fez uma viagem recentemente ou tem alguma planejada?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Quando você tá mais à vontade na vida ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi a sua melhor decisão desse mês?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Como tá sendo sua rotina diária ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tá aprendendo ou estudando algo recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual app ou serviço você mais usa ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi o momento mais emocionante ou gratificante recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem alguma comida ou bebida que você tá curtindo muito agora?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você conheceu alguém novo recentemente? Como foi?",
+    "category": "recentLife"
+  },
+  {
+    "question": "O que você mais quer fazer quando tá de bom humor?",
+    "category": "recentLife"
+  },
+  {
+    "question": "O que você comeu de melhor essa semana?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tem algum objetivo em mente ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi a compra mais valiosa que você fez recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual é a música ou artista que você mais tá ouvindo?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem alguém perto de você que você agradeceu recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem alguma série ou filme que você tá viciado?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi o momento mais difícil desse mês?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tem algum sonho que tá nutrindo ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Seus hábitos de exercício ou saúde mudaram recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você teve alguma conversa recente que ficou na memória?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tentou algo pela primeira vez recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem algum livro ou texto que você tá lendo?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi a coisa que você mais se orgulhou essa semana?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você ficou interessado em alguma área nova?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Teve algum momento recente que te deixou com o coração quentinho?",
+    "category": "recentLife"
+  },
+  {
+    "question": "O que mais tá te fazendo feliz ultimamente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tentou alguma mudança ou desafio recentemente?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Você tá dormindo bem?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tem alguma meta que você quer alcançar esse mês?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Qual foi o episódio mais engraçado em alguma viagem da família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tem alguma coisa que a família sempre faz nos feriados?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Qual é a comida que os pais faziam que você mais lembra?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Qual foi o lugar mais especial que vocês visitaram em família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você lembra de algum show ou jogo que assistiu com a família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tem alguma frase dos pais que você ainda carrega?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Qual é a lembrança mais vívida que você tem dos avós?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você tem alguma lembrança de cozinhar junto com a família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "A família tem alguma tradição ou evento especial?",
+    "category": "familyStory"
+  },
+  {
+    "question": "A família já passou por algum momento difícil juntos? Como superaram?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Qual foi o motivo mais engraçado de briga com irmão ou primo?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Algum familiar já te emocionou de alguma forma?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Qual é a lembrança favorita que você tem da casa dos avós?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você já ficou surpreso com alguma foto no álbum da família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tem alguma coisa que fez toda a família rir recentemente?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Teve algum episódio engraçado em alguma reunião de família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você já ouviu a história de namoro dos seus pais?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Qual foi o Natal ou Festa Junina mais especial em família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você tem alguma memória de quando a família se mudou?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Algum familiar já descobriu um segredo seu?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você lembra de algum momento em que seus pais foram carinhosos um com o outro?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Já te falaram que você tem algum hábito parecido com algum familiar?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Qual foi a festa de aniversário da família mais marcante?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você tem algum objeto relacionado à família que guarda até hoje?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Quando você descobriu algo que seus pais abriram mão por você?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você tem alguma lembrança de se exercitar ou caminhar com a família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Quando foi que você e seus irmãos se deram melhor?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você lembra de algum faxão geral que fizeram em família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Quando foi que você entendeu pela primeira vez o que seus pais fazem no trabalho?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você lembra da primeira vez que saiu pra comer fora com a família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você já se molhou na chuva com a família ou passou aperto por causa do tempo?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tem alguma viagem de carro com os pais que ficou na memória?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você começou algum hobbie por causa de algum familiar?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você sabe de algum momento em que seus pais ficaram orgulhosos de você?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você lembra da primeira vez que comprou um presente pra um familiar?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Qual é a lembrança de Natal ou réveillon em família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você lembra da primeira vez que desobedeceu aos pais?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você já descobriu um talento inesperado em algum familiar?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Você já foi muito grato por algo que um irmão fez por você?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Qual foi a conversa mais longa que você teve por telefone com a família?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Tem alguma coisa na geração mais nova que você não entende?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Já teve algum momento em que foi difícil entender a geração mais velha?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Qual ensinamento da geração dos seus pais ainda te ajuda hoje?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Você aprendeu algo inesperado com a geração mais nova?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Quando você mais sente a diferença de geração?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tem alguma tendência atual que você não consegue entender?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tem alguma coisa que era normal na sua época que a geração atual desconhece?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Qual é o tema em que você mais discorda dos seus pais?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Você já teve inveja de alguma coisa que os jovens de hoje têm?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tem alguma coisa que a geração mais velha considera normal mas você não entende?",
+    "category": "generationGap"
+  },
+  {
+    "question": "A diferença de geração já criou alguma situação engraçada na família?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Você lembra de algum episódio quando seus pais começaram a usar smartphone?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tem alguma brincadeira da sua infância que os jovens de hoje não conhecem?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Qual ensinamento dos pais você ainda acha certo até hoje?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Seus pais já não conseguiram entender alguma coisa da sua geração?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Qual você acha que é a maior diferença entre a geração dos seus pais e a sua?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Como você acha que a gente pode superar a diferença de gerações?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Quando criança, você já achou difícil seguir os conselhos dos pais? E hoje?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tem algo da geração dos seus pais que você acha melhor?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tem algo da geração atual que você acha melhor do que antes?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Qual valor dos seus pais você herdou?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Qual valor dos seus pais você gostaria de mudar?",
+    "category": "generationGap"
+  },
+  {
+    "question": "A diferença de geração já dificultou a conversa em família?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Como você se sentiu quando seus pais disseram 'os jovens de hoje...'?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Você já falou algo do tipo 'os jovens de hoje...'?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Você acha que a geração dos seus pais era mais resistente em algum sentido?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tem alguma coisa que a geração mais nova faz melhor do que a mais velha?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Seus pais já tentaram aprender alguma coisa da cultura atual?",
+    "category": "generationGap"
+  },
+  {
+    "question": "O que você faz pra se comunicar melhor com a geração mais nova?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Você já teve uma conversa que superou a barreira geracional?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Como você se sentiu quando seus pais tentaram seguir alguma tendência atual?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Já entendeu algo que seus pais faziam ou diziam só depois de adulto?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Você já foi o intermediário entre gerações diferentes na família?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tem alguma 'bronca' dos seus pais que hoje você entende que estava certo?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Qual é o tema que mais evidencia a diferença de geração na sua família?",
+    "category": "generationGap"
+  },
+  {
+    "question": "O que você acha da visão de casamento e família da geração dos seus pais?",
+    "category": "generationGap"
+  },
+  {
+    "question": "O que a geração mais velha pensa sobre a visão de carreira dos jovens de hoje?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Você já conversou com seus pais sobre redes sociais ou YouTube?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Qual valor você quer passar pra próxima geração?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Tem alguma coisa que toda a família pode fazer juntos independente da geração?",
+    "category": "generationGap"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Qual foi sua primeira impressão quando me viu?",
+    "category": "excitement"
+  },
+  {
+    "question": "Qual foi o momento em que você começou a sentir algo por mim?",
+    "category": "excitement"
+  },
+  {
+    "question": "Qual foi o momento mais emocionante quando a gente ainda estava se conhecendo?",
+    "category": "excitement"
+  },
+  {
+    "question": "Qual foi o meu jeito que primeiro fez seu coração disparar?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você já hesitou antes de me mandar uma mensagem?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você sabia que estava gostando de mim desde a primeira vez que me viu?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você ficou nervoso quando a gente se encontrou sozinho pela primeira vez?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você achou mais charmoso meu sorriso ou meu lado sério no começo?",
+    "category": "excitement"
+  },
+  {
+    "question": "Como você estava se sentindo na véspera de me contar o que sentia?",
+    "category": "excitement"
+  },
+  {
+    "question": "Quando foi que você admitiu pra si mesmo que gostava de mim?",
+    "category": "excitement"
+  },
+  {
+    "question": "Ainda tem momentos em que você fica com borboletas na barriga quando me vê?",
+    "category": "excitement"
+  },
+  {
+    "question": "Qual é o melhor horário do dia pra receber uma mensagem minha?",
+    "category": "excitement"
+  },
+  {
+    "question": "O que você mais esperava antes da gente ficar junto?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você gosta de ouvir minha voz?",
+    "category": "excitement"
+  },
+  {
+    "question": "O que vem primeiro na sua cabeça quando pensa em mim?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você lembra da primeira vez que comemos juntos? O que sentiu?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você lembra do dia que a gente assumiu? Como foi?",
+    "category": "excitement"
+  },
+  {
+    "question": "O que você sente quando me vê chegando de longe?",
+    "category": "excitement"
+  },
+  {
+    "question": "Teve um momento em que você teve certeza de que estava apaixonado por mim?",
+    "category": "excitement"
+  },
+  {
+    "question": "Ainda fica com o coração acelerado quando tá indo me encontrar?",
+    "category": "excitement"
+  },
+  {
+    "question": "Qual foi a coisa inesperada que mais te animou quando eu fiz?",
+    "category": "excitement"
+  },
+  {
+    "question": "Como foi a primeira vez que você teve contato físico comigo?",
+    "category": "excitement"
+  },
+  {
+    "question": "Quando foi a primeira vez que você sentiu saudade de mim?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você já ficou todo animado por minha causa e depois tentou se acalmar sozinho?",
+    "category": "excitement"
+  },
+  {
+    "question": "Teve um momento em que você ficou com o coração na boca por minha causa?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você ficou esperando minha resposta quando a gente começou a trocar mensagem?",
+    "category": "excitement"
+  },
+  {
+    "question": "Qual foi a frase minha que mais te fez sentir borboletas?",
+    "category": "excitement"
+  },
+  {
+    "question": "Ainda fica com o coração acelerado quando tá perto de mim?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você pensou muito em mim depois do nosso primeiro encontro?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você tentou esconder que estava interessado em mim?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você pesquisou alguma coisa sobre mim antes da gente ficar?",
+    "category": "excitement"
+  },
+  {
+    "question": "Qual atitude minha te fez pensar 'é essa pessoa'?",
+    "category": "excitement"
+  },
+  {
+    "question": "Como foi quando você falou pela primeira vez que gostava de mim pra alguém?",
+    "category": "excitement"
+  },
+  {
+    "question": "O que você pensou quando foi embora depois do nosso primeiro encontro?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você já ficou ansioso me esperando?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você já teve medo de me perder?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você tentou causar uma boa impressão em mim antes da gente ficar?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você já ficou olhando as minhas fotos várias vezes?",
+    "category": "excitement"
+  },
+  {
+    "question": "Você lembra do que eu estava usando no dia em que me apresentaram pra você?",
+    "category": "excitement"
+  },
+  {
+    "question": "Ainda tem alguma coisa em mim que te deixa com borboletas agora?",
+    "category": "excitement"
+  },
+  {
+    "question": "Qual é o seu tipo favorito de programa pra a gente fazer junto?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual comida você sente vontade de comer comigo?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algum destino que você quer visitar comigo?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual gênero vocês mais curtiram assistir juntos?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem alguma comida que você quer me apresentar?",
+    "category": "taste"
+  },
+  {
+    "question": "Vocês descobriram recentemente algo que os dois curtem?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algum hobbie que seria mais divertido fazer junto comigo?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual música você recomendaria pra gente ouvir junto?",
+    "category": "taste"
+  },
+  {
+    "question": "Em qual área vocês têm mais estilo parecido?",
+    "category": "taste"
+  },
+  {
+    "question": "Teve algo que você passou a curtir por minha influência?",
+    "category": "taste"
+  },
+  {
+    "question": "Teve algum momento em que vocês sentiram que estavam totalmente na mesma sintonia?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algo que você gosta e que é bem diferente do meu gosto?",
+    "category": "taste"
+  },
+  {
+    "question": "Você ficou animado quando descobriu que a gente curte a mesma coisa?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem alguma experiência nova que você quer ter comigo?",
+    "category": "taste"
+  },
+  {
+    "question": "Você me recomendou algo que eu acabei gostando mais do que esperava?",
+    "category": "taste"
+  },
+  {
+    "question": "Você prefere programas ao ar livre ou em lugares fechados?",
+    "category": "taste"
+  },
+  {
+    "question": "Se a gente fizesse uma playlist juntos, qual seria a primeira música?",
+    "category": "taste"
+  },
+  {
+    "question": "Você acha que nossos gostos de decoração combinariam se morássemos juntos?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algum filme ou série que você quer me mostrar?",
+    "category": "taste"
+  },
+  {
+    "question": "O que vocês dois poderiam curtir como se fossem crianças?",
+    "category": "taste"
+  },
+  {
+    "question": "Teve algum gosto meu que te surpreendeu ou achou inesperado?",
+    "category": "taste"
+  },
+  {
+    "question": "Se vocês fossem cozinhar juntos, o que fariam?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem alguma exposição ou show que você quer ver comigo?",
+    "category": "taste"
+  },
+  {
+    "question": "Em qual área vocês têm gostos mais parecidos?",
+    "category": "taste"
+  },
+  {
+    "question": "Teve alguma comida ou prato que você descobriu por minha causa?",
+    "category": "taste"
+  },
+  {
+    "question": "Que tipo de café você gostaria de visitar comigo?",
+    "category": "taste"
+  },
+  {
+    "question": "Se vocês fizessem exercício juntos, o que combinaria mais?",
+    "category": "taste"
+  },
+  {
+    "question": "Você acha que nossos gostos de leitura são parecidos?",
+    "category": "taste"
+  },
+  {
+    "question": "O que não pode faltar num programa nosso?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual é o estilo que você mais curte em mim?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algum lugar onde você quer ficar até tarde comigo?",
+    "category": "taste"
+  },
+  {
+    "question": "Você descobriu algo bom por causa das nossas diferenças de gosto?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem alguma comida que você quer me fazer experimentar?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual é o lugar que você acha que mais curtiriamos explorar juntos?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algo que você curte e que quer que eu experimente também?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual é a comida que vocês mais têm em comum?",
+    "category": "taste"
+  },
+  {
+    "question": "Em qual estação você quer viajar comigo?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algum esporte ou jogo que seria mais divertido se assistíssemos juntos?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algo que eu não curto mas que você ainda quer fazer comigo?",
+    "category": "taste"
+  },
+  {
+    "question": "Tem algo que vocês têm gostos bem diferentes mas ainda assim curtem juntos?",
+    "category": "taste"
+  },
+  {
+    "question": "Qual foi o momento em que a gente mais riu junto?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem alguma cena do nosso primeiro encontro que ficou marcada na sua memória?",
+    "category": "memories"
+  },
+  {
+    "question": "Quando foi que você ficou mais feliz por minha causa?",
+    "category": "memories"
+  },
+  {
+    "question": "Depois de uma briga e reconciliação, qual é a frase que você mais lembra?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem algo que a gente fez junto que ainda vem na sua cabeça às vezes?",
+    "category": "memories"
+  },
+  {
+    "question": "Pensa num momento em que fui te emocionou. O que vem na mente?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual é o episódio mais marcante de uma viagem que fizemos juntos?",
+    "category": "memories"
+  },
+  {
+    "question": "Quando foi que você me agradeceu muito pela primeira vez?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem alguma comida que a gente comeu juntos que você ainda pensa?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o dia mais simples mas mais feliz que tivemos juntos?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o dia em que você foi mais feliz voltando pra casa depois de estar comigo?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi a primeira vez que ficou bravo comigo? Hoje dá pra rir?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o momento mais surpreendente do nosso relacionamento?",
+    "category": "memories"
+  },
+  {
+    "question": "Você lembra de quando eu fiquei doente ou passei por algo difícil? O que sentiu?",
+    "category": "memories"
+  },
+  {
+    "question": "A gente já ficou perdido ou com os planos estragados? Você lembra?",
+    "category": "memories"
+  },
+  {
+    "question": "Quando foi que você me agradeceu de verdade pela primeira vez?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o episódio mais emocionante quando a gente tinha acabado de ficar junto?",
+    "category": "memories"
+  },
+  {
+    "question": "Já ficaram acordados a noite toda fazendo algo juntos? Como foi?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o momento mais engraçado em que me fiz rir?",
+    "category": "memories"
+  },
+  {
+    "question": "Teve um momento em que você sentiu que a gente estava se conhecendo mais fundo?",
+    "category": "memories"
+  },
+  {
+    "question": "Você lembra da primeira briga que tivemos?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem algum filme ou show que vocês foram juntos e ainda lembram?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual atitude minha e inesperada que te marcou mais?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o causo mais sem noção do nosso relacionamento?",
+    "category": "memories"
+  },
+  {
+    "question": "Você lembra de ter estado do meu lado quando eu passei por algo difícil?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi a conversa mais honesta que tivemos?",
+    "category": "memories"
+  },
+  {
+    "question": "Teve algum dia com chuva ou tempo ruim que foi bom por outro motivo?",
+    "category": "memories"
+  },
+  {
+    "question": "Você lembra quando foi a primeira vez que tivemos uma conversa séria juntos?",
+    "category": "memories"
+  },
+  {
+    "question": "O que você mais lembra que eu fiz por você?",
+    "category": "memories"
+  },
+  {
+    "question": "Quando foi a primeira vez que viajamos juntos por um tempo longo? Como foi?",
+    "category": "memories"
+  },
+  {
+    "question": "Teve algum dia em que o tempo passou muito rápido por estar comigo?",
+    "category": "memories"
+  },
+  {
+    "question": "Teve algo que vocês fizeram que no começo não curtiu mas depois adorou?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o aniversário ou data especial mais marcante pra você?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual é o lugar em que ficamos juntos que você mais se lembra?",
+    "category": "memories"
+  },
+  {
+    "question": "Você já me viu dormindo? O que sentiu?",
+    "category": "memories"
+  },
+  {
+    "question": "Quando foi que você sentiu saudade de mim pela primeira vez depois que a gente se separou?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o dia mais romântico do nosso relacionamento?",
+    "category": "memories"
+  },
+  {
+    "question": "Você lembra de ter ficado orgulhoso quando resolvi algo sozinho?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi a refeição mais especial que tivemos juntos?",
+    "category": "memories"
+  },
+  {
+    "question": "Quando foi o momento em que você se sentiu mais próximo de mim?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem alguma coisa que você quer muito fazer comigo?",
+    "category": "future"
+  },
+  {
+    "question": "Como você gostaria que a gente estivesse daqui a 5 anos?",
+    "category": "future"
+  },
+  {
+    "question": "Qual destino você quer visitar comigo?",
+    "category": "future"
+  },
+  {
+    "question": "Se morássemos juntos, qual seria a primeira coisa que você faria?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algo que você quer continuar fazendo comigo quando envelhecer?",
+    "category": "future"
+  },
+  {
+    "question": "Tem alguma meta que você quer alcançar junto comigo?",
+    "category": "future"
+  },
+  {
+    "question": "Como você quer que seja o nosso dia a dia quando estivermos velhos?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algum país que você definitivamente quer visitar comigo?",
+    "category": "future"
+  },
+  {
+    "question": "Que tipo de pessoa você quer ser pra mim quando eu tiver passando por algo difícil?",
+    "category": "future"
+  },
+  {
+    "question": "Se decorássemos nossa casa, qual espaço você mais quer cuidar?",
+    "category": "future"
+  },
+  {
+    "question": "Como você gostaria que eu fosse no futuro?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algo que você quer melhorar no nosso relacionamento?",
+    "category": "future"
+  },
+  {
+    "question": "Qual é o número 1 da nossa lista de desejos juntos?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algo que você quer que a gente mantenha pra sempre?",
+    "category": "future"
+  },
+  {
+    "question": "Como você quer torcer pelos meus sonhos?",
+    "category": "future"
+  },
+  {
+    "question": "Se morássemos juntos, em que bairro ou cidade você gostaria?",
+    "category": "future"
+  },
+  {
+    "question": "Daqui a 10 anos, qual assunto você quer estar rindo e lembrando com a gente?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algo que você ainda não fez comigo mas quer fazer?",
+    "category": "future"
+  },
+  {
+    "question": "Tem alguma tradição que você quer criar pra gente manter ao longo dos anos?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algum sonho meu que você quer que eu realize?",
+    "category": "future"
+  },
+  {
+    "question": "Tem alguma parte do nosso relacionamento em que você quer ser mais honesto?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algo que você quer aprender junto comigo?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algum espaço que você quer criar juntos no futuro?",
+    "category": "future"
+  },
+  {
+    "question": "Em que situação você quer que eu esteja do seu lado?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algum tipo de programa que você quer que a gente faça com mais frequência?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algum trabalho voluntário ou coisa boa que você gostaria de fazer comigo?",
+    "category": "future"
+  },
+  {
+    "question": "Como é o casamento dos seus sonhos?",
+    "category": "future"
+  },
+  {
+    "question": "Como você quer me ajudar quando eu estiver perdido?",
+    "category": "future"
+  },
+  {
+    "question": "Qual nova memória você mais quer criar comigo?",
+    "category": "future"
+  },
+  {
+    "question": "O que você quer que permaneça igual entre nós quando estivermos velhos?",
+    "category": "future"
+  },
+  {
+    "question": "Se você fosse meu cônjuge, que tipo de família você quer construir?",
+    "category": "future"
+  },
+  {
+    "question": "Como você quer me apoiar enquanto eu for crescendo?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algo que você definitivamente quer tentar comigo?",
+    "category": "future"
+  },
+  {
+    "question": "O que precisamos fazer pra sermos melhores um pro outro?",
+    "category": "future"
+  },
+  {
+    "question": "Tem algo que você quer que eu faça por você? Pode ser honesto.",
+    "category": "future"
+  },
+  {
+    "question": "Tem algum padrão no nosso relacionamento que você gostaria de mudar?",
+    "category": "future"
+  },
+  {
+    "question": "Como você acha que podemos envelhecer bem juntos?",
+    "category": "future"
+  },
+  {
+    "question": "O que você acha que a gente vai estar fazendo juntos daqui a 30 anos?",
+    "category": "future"
+  },
+  {
+    "question": "Em qual área você gostaria de me ver crescer?",
+    "category": "future"
+  },
+  {
+    "question": "O que você acha que precisa acontecer pra nosso tempo junto ser mais rico?",
+    "category": "future"
+  }
+]

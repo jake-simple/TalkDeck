@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Pizza vs frango frito — se tivesse que comer só uma coisa pelo resto da vida?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Verão eterno vs inverno eterno — qual você escolhe?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Ser sempre pessoa da manhã vs ser sempre coruja da noite, sem escolha?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Café vs chá — só um pelo resto da vida?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "WhatsApp vs ligação — se só um meio de comunicação existisse?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Frango frito temperado vs frango frito simples — um pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Cinema vs streaming em casa — só um pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Miojo vs macarrão ao molho — um só pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Escada vs escada rolante — só uma pra usar pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Ônibus vs metrô — um único transporte público pra vida?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Carne de porco vs carne de boi — só uma pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Delivery vs comer fora — um jeito só de resolver as refeições?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Música vs podcast — só um pra ouvir enquanto se locomove?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Instagram vs YouTube — um só pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Soneca vs lanche da madrugada — só um pra curtir pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Pão vs arroz — um único carboidrato pra vida?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Comer sempre dentro de casa vs comer sempre do lado de fora?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Gato vs cachorro — só um bichinho pra criar?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Academia vs caminhada — um único exercício pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Viajar só pelo Brasil vs só para o exterior — um pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Lanche doce vs lanche salgado — um único sabor de petisco pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Fone de ouvido vs caixinha de som — ouvir música só por um?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Banho de chuveiro vs banho de banheira — só um pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Livro vs YouTube — só uma forma de aprender?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Sorvete vs bolo — só uma sobremesa pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Cafeteria vs trabalhar/estudar em casa — só um lugar fixo?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Texto vs mensagem de voz — só um jeito de mandar mensagem?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Filme vs série — só um tipo de conteúdo audiovisual?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Cozinhar vs pedir delivery — só um jeito de resolver as refeições?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Tênis vs sapato social — só um tipo de calçado pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Mercadinho vs supermercado — só um lugar pra fazer compras?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Macarrão vs talharim — só um tipo de massa pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Café silencioso vs café agitado — só um ambiente pra frequentar?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Viagem planejada vs viagem improvisada — só um estilo pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Calor e sol vs frescor e nublado — um clima fixo pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Comida doce e salgada vs comida leve e sem tempero — um sabor fixo pra sempre?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Dormir cedo e acordar cedo vs dormir tarde e acordar tarde — um ritmo fixo?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "No fim de semana, sair vs ficar em casa — só um jeito de descansar?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Sempre experimentar algo novo vs ficar no seu prato favorito?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Smartphone vs notebook — só um dispositivo pra usar?",
+    "category": "lightChoice"
+  },
+  {
+    "question": "Vida rica mas solitária vs vida humilde mas cheia de amor?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Lembrar de tudo vs esquecer todas as memórias ruins?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Fazer o que ama mas ser pobre vs fazer o que odeia mas ser rico?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ter sucesso cedo mas morrer jovem vs viver uma vida longa e comum?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ser o único que fala a verdade num mundo de mentiras vs mentir pra se adaptar num mundo honesto?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Todo mundo te gostar mas superficialmente vs uma única pessoa te amar de verdade?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Realizar seu sonho mas perder a família vs abrir mão do sonho e ficar com a família?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Saber tudo sobre o passado mas não saber nada do futuro vs conhecer o futuro mas esquecer o passado?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ser famoso mas ninguém te conhecer de verdade vs ser anônimo mas amado de verdade?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "10 momentos curtos de felicidade vs 1 único momento de felicidade perfeita?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Saúde perfeita mas sem dinheiro vs muito dinheiro mas sempre doente?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ser bom em tudo mas sem talento especial vs ser extraordinário em apenas uma coisa?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "A pessoa amada não te lembrar vs você não lembrar da pessoa amada?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Perder amigos próximos e ter sucesso vs perder o sucesso e manter os amigos?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Amar só uma pessoa a vida inteira profundamente vs amar várias pessoas mas sempre superficialmente?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ler a mente de todos mas ter sua mente exposta vs não saber nada mas guardar seus segredos?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Se destacar só no que você gosta vs ser bom em tudo, mesmo no que odeia?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ser lembrado mas infeliz vs ser esquecido mas feliz?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Vida longa e saudável vs vida curta realizando todos os seus sonhos?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ser amado mas não respeitado vs ser respeitado mas não amado?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Perder o que tem por uma chance de ganhar mais vs guardar o que tem sem crescer?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Nunca ter tempo só seu mas nunca se sentir só vs estar sempre sozinho mas com liberdade total?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Admitir que errou vs acreditar que sempre está certo?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ter tentado e falhado vs ter sucesso sem esforço?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Arriscar e se arrepender vs não tentar e se arrepender?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Viver pra agradar os outros vs viver pelos seus próprios critérios?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Saber toda a verdade e se machucar vs viver numa bela mentira e ser feliz?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Amar uma coisa com tudo vs amar várias coisas um pouco?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Conseguir tudo que quer mas com muito sofrimento no caminho vs processo fácil mas sem resultado?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Nunca conseguir perdoar alguém vs nunca ser completamente perdoado?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Sofrer no lugar de quem você ama vs ver quem você ama sofrer no seu lugar?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Curtir o presente mas se preocupar com o futuro vs sacrificar o presente pelo futuro?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Tomar todas as decisões sozinho vs ter alguém sempre decidindo por você?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ser gênio mas preguiçoso vs ser comum mas se esforçar sempre?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Guardar memórias ruins e crescer com elas vs apagar as ruins e viver mais leve?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Vida onde todos te conhecem vs vida onde ninguém te conhece?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ser feliz agora mas se arrepender depois vs sofrer agora mas se orgulhar depois?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Perder o amor e ganhar liberdade vs perder a liberdade e ganhar o amor?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Ter o maior sucesso sem reconhecimento vs ser comum mas reconhecido por todos?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Um grande erro vs dezenas de erros pequenos — qual é mais fácil de aceitar?",
+    "category": "hardChoice"
+  },
+  {
+    "question": "Fazer barulho de buzina a cada passo vs soltar um barulho de pum toda vez que ri?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Pé cheirando a chocolate vs boca cheirando a alho — um pra sempre?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Cabelo feito de espaguete vs unhas feitas de hashi — qual você prefere?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ter que cantar tudo que falar vs ter que rimar tudo como rap?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Tirar uma selfie toda vez que pisca vs soltar fogos de artifício toda vez que espirra?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Corpo invisível mas roupa aparece vs roupa invisível mas corpo aparece?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Voz de criancinha pra sempre vs voz de vovô pra sempre?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ter 10 mãos vs ter 10 pés?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Falar dormindo sempre numa língua diferente vs acordar sempre sem lembrar seu nome?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Fazer barulho de galo quando está com fome vs cantar como passarinho quando está satisfeito?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ter balão de pensamentos visível na cabeça vs ter humor aparecendo como clima no rosto?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ter trilha sonora tocando enquanto anda vs ter iluminação mudando de cor conforme o humor?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ter que fazer uma expressão sonora pra cada sabor de comida vs aparecer legenda em tudo que fala?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Crescer 1cm por dia vs mudar 1kg por dia?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Nariz de elefante vs orelhas de coelho?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Tocar fanfarra toda vez que vai ao banheiro vs arrotar com buzina de carro?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Enxergar cheiros como cores vs sentir sons como sabores?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Usar chinelo pra sempre vs usar terno pra sempre?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Nome mudando todo mês vs rosto mudando um pouquinho todo mês?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Reagir sempre com um segundo de atraso vs rir antes do que vai acontecer?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Só conseguir andar pra trás vs só conseguir sentar de lado?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Alguém mastigando por você enquanto come vs ouvir os pensamentos com a voz do vizinho?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ter que fechar os olhos em toda foto vs ter que mostrar a língua em toda foto?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ouvir a história de tudo que toca vs ouvir a última preocupação de quem você toca?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Falar sempre em 2x a velocidade vs se mover sempre em 0,5x?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ter o sonho transmitido ao vivo enquanto dorme vs acordar falando em voz alta tudo que sonhou?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Mundo todo feito de Lego vs mundo todo feito de adesivos?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Voar toda vez que ri vs ficar colado no chão toda vez que chora?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Cor do cabelo mudando conforme o que você comeu vs cor dos olhos mudando conforme a música que ouviu?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Encolher quando está com sono vs dobrar de tamanho quando está animado?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Sua voz soar como miado de gato ao telefone vs dar oi com voz de robô?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Pés magnéticos vs mãos de velcro?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Perder 1 ano de memória a cada aniversário vs ficar um ano mais novo a cada aniversário?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Ter que dançar uma vez por dia vs ter que cantar uma vez por dia?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Olhos de luneta vs ouvidos de radar?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Só conseguir dormir dentro da geladeira vs só conseguir tomar banho dentro da máquina de lavar?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Toda comida com o mesmo sabor vs o mesmo prato com sabor diferente cada vez?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Acordar com memórias do dia anterior embaralhadas vs sonhar sempre com a vida de uma pessoa aleatória?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Chorar quando está feliz e rir quando está triste vs espirrar quando está alegre e soluçar quando está bravo?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Sombra que não te obedece vs reflexo no espelho que faz o oposto?",
+    "category": "wildChoice"
+  },
+  {
+    "question": "Sempre dizer a verdade vs mentir à vontade?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Perder a memória vs perder as emoções?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ser amado mas não compreendido vs ser compreendido mas não amado?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Vida longa mas entediante vs vida curta mas intensa?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Fazer tudo sozinho vs precisar sempre de ajuda?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Realizar seu sonho mas ficar sozinho vs abrir mão do sonho mas ter companhia?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Poder mudar o passado mas perder o presente vs saber o futuro mas esquecer o passado?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Amar alguém que você sabe que é ruim vs não amar alguém que você sabe que é bom?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Vida inteira aprendendo vs vida inteira ensinando?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Viver pra si mesmo vs viver pra os outros?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ser amado pelos outros vs se sentir completo por dentro?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Arriscar com coragem e falhar vs ficar seguro e não tentar?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Felicidade perfeita por pouco tempo vs felicidade comum por muito tempo?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Vida livre mas solitária vs vida com limites mas acolhedora?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Se calar mesmo estando certo vs falar mesmo podendo errar?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Mundo onde ninguém te julga vs mundo onde todos te avaliam com honestidade?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Saber que vai morrer e continuar vivendo vs acreditar que é imortal?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ser lembrado como forte vs ser lembrado como amoroso?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ter sempre liberdade de escolha vs ter sempre responsabilidade pelas suas escolhas?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Nunca conseguir transmitir seu sentimento verdadeiro vs ser sempre compreendido sem precisar falar?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ser traído por alguém de confiança vs trair alguém?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Vida estável sem mudanças vs vida instável mas com crescimento?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Manter distância pra não machucar vs ficar perto mesmo podendo machucar?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Todos conhecerem seus pontos fracos vs ninguém conhecer seus pontos fortes?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ser feliz sem saber de nada vs ser ansioso sabendo de tudo?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ser sempre o primeiro a amar vs ser sempre o primeiro a terminar?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Sentir a dor dos outros vs ser indiferente ao sofrimento alheio?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Errar e aprender sempre vs nunca errar mas nunca aprender nada?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Nunca poder expressar o que quer vs falar mas nunca conseguir o que quer?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Tratar todo mundo igual vs se dedicar só a quem importa?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Se perder pra manter um relacionamento vs perder um relacionamento pra se manter?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Perdoar facilmente vs dificilmente esquecer?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ser fácil de se abrir vs ser difícil de abalar?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Aceitar o que não pode mudar vs resistir mesmo sem conseguir?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Tomar todas as decisões sozinho a vida inteira vs sempre dividir as decisões com alguém?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ter a chance de viver de novo e aceitar vs recusar?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Ser lembrado como alguém respeitado vs ser lembrado como alguém amado?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Crescer através dos arrependimentos vs viver sem arrependimentos de forma tranquila?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Largar tudo e recomeçar do zero vs segurar o que tem e continuar?",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "Já ter odiado alguém de verdade vs nunca ter odiado ninguém de verdade?",
+    "category": "seriousChoice"
+  }
+]

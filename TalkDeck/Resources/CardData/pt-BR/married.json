@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Me conta uma coisa pela qual você me agradeceu recentemente.",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é o que você faz melhor em casa vs o que eu faço melhor?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é o momento mais tranquilo da nossa casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Sempre que a gente vai ao supermercado junto, em alguma coisa a gente discorda?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual foi a última coisa que você comeu escondido do cônjuge?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Tem algum item na nossa geladeira que é exclusivamente do cônjuge?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é o bordão favorito do cônjuge ultimamente?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Você consegue descrever a rotina do cônjuge depois que chega do trabalho?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é o delivery que a gente mais pede?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é o momento em que você se sente mais à vontade quando tamos juntos?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Quando o cônjuge tá estressado, qual é o comportamento automático que ele tem?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Como é a guerra de temperatura do ar-condicionado ou aquecedor aqui em casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "O que o cônjuge faz assim que acorda no fim de semana?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "O cônjuge tem algum hábito estranho quando cozinha?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Quem manda no controle remoto aqui em casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Como vocês dividem as tarefas da casa quando vão limpar juntos?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual app você acha que o cônjuge usa mais no celular?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Quem faz a separação do lixo aqui em casa? Seja honesto!",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é o comportamento do cônjuge quando tá de bom humor sem perceber?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Tem algum hábito do cônjuge que você pegou por morar junto?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Quando a gente tá vendo o celular e rindo ao mesmo tempo, o que geralmente estão vendo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é a rotina do cônjuge antes de dormir?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Como é a divisão de espaço da cama entre a gente?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é o padrão de comportamento do cônjuge quando fica bravo?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual foi o eletrodoméstico ou objeto que a gente mais comprou depois de casar?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Como a gente se chama muda dependendo da situação?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Você consegue perceber como o cônjuge tá de humor quando chega em casa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Tem algum objeto do cônjuge que você queria jogar fora?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Tem algo em casa que só você se incomoda e o cônjuge ignora completamente?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Como é o estilo de alarme do cônjuge pela manhã? É diferente do seu?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual foi o hábito de vida do cônjuge que mais te surpreendeu ao morar junto?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é o gosto do dia a dia que vocês têm mais em comum?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é a expressão ou comportamento específico do cônjuge quando tá cansado?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "O cônjuge tá com algum hobbie novo ultimamente?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é o estabelecimento do bairro que vocês frequentam mais?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual é a fala que o cônjuge mais repete pra você?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Quem de vocês dois gosta mais de abrir o pacote quando chega o pedido?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Quando o cônjuge fica doente, ele fica quietinho ou drama?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Como é a ordem da rotina de manhã entre vocês?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Morando juntos, criaram algum apelido ou gíria própria de vocês?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Qual foi a primeira impressão que você teve do cônjuge antes de casar?",
+    "category": "memories"
+  },
+  {
+    "question": "O que você sentiu de verdade quando fez ou recebeu o pedido de casamento?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual é a cena mais marcante do dia do casamento?",
+    "category": "memories"
+  },
+  {
+    "question": "Teve algum momento estranho logo no começo da vida a dois?",
+    "category": "memories"
+  },
+  {
+    "question": "Você lembra da primeira grande briga com o cônjuge? O que aprendeu com ela?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi a parte mais difícil da preparação do casamento?",
+    "category": "memories"
+  },
+  {
+    "question": "Teve algum episódio quando decoraram a casa pela primeira vez?",
+    "category": "memories"
+  },
+  {
+    "question": "Como foi o primeiro feriado em família depois de casar?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o momento em que o cônjuge mais te fez rir?",
+    "category": "memories"
+  },
+  {
+    "question": "Já choraram juntos? O que aconteceu?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o primeiro móvel ou objeto que compraram juntos depois de casar?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o momento mais marcante de uma viagem que fizeram juntos?",
+    "category": "memories"
+  },
+  {
+    "question": "Teve algum episódio marcante quando conheceu a família do cônjuge?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o mal-entendido mais engraçado que aconteceu na vida de casados?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o aniversário mais especial da vida de vocês?",
+    "category": "memories"
+  },
+  {
+    "question": "Teve algum episódio divertido quando cozinharam juntos?",
+    "category": "memories"
+  },
+  {
+    "question": "Vocês têm algum lugar com significado especial pra vocês dois? Qual é?",
+    "category": "memories"
+  },
+  {
+    "question": "Depois de casar, teve uma noite que você ficou sozinho? Como foi?",
+    "category": "memories"
+  },
+  {
+    "question": "Vocês têm alguma forma especial de se reconciliar depois de uma briga?",
+    "category": "memories"
+  },
+  {
+    "question": "Você já fez ou recebeu uma surpresa do cônjuge?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o talento do cônjuge que você mais se surpreendeu ao morar junto?",
+    "category": "memories"
+  },
+  {
+    "question": "Quando foi que você pensou 'que bom que me casei com essa pessoa'?",
+    "category": "memories"
+  },
+  {
+    "question": "Como seu jeito de ver o cônjuge mudou do namoro até agora?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o momento mais tenso do casamento?",
+    "category": "memories"
+  },
+  {
+    "question": "Já tentaram algo juntos e falharam? Como foi?",
+    "category": "memories"
+  },
+  {
+    "question": "Você já fez algo escondido do cônjuge e foi pego?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi a coisa mais emocionante que o cônjuge fez por você?",
+    "category": "memories"
+  },
+  {
+    "question": "O que é mais diferente da vida de casados que você imaginava?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi a coisa que funcionou quando você tentou ajudar o cônjuge em um momento difícil?",
+    "category": "memories"
+  },
+  {
+    "question": "Como foi quando o cônjuge te chamou pelo apelido de casal pela primeira vez?",
+    "category": "memories"
+  },
+  {
+    "question": "Como surgiu uma tradição ou rotina que só vocês dois têm?",
+    "category": "memories"
+  },
+  {
+    "question": "Depois de casar, as amizades mudaram de alguma forma?",
+    "category": "memories"
+  },
+  {
+    "question": "Você começou algum hobbie ou atividade por causa do cônjuge?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem algum hábito do cônjuge que você achou ruim no começo mas hoje acha fofo?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o momento mais inesperado na vida de casados?",
+    "category": "memories"
+  },
+  {
+    "question": "Quando foi que você sentiu pela primeira vez que aquele era 'o nosso lar'?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o primeiro hábito que mudou depois de casar?",
+    "category": "memories"
+  },
+  {
+    "question": "Vocês já completaram algum projeto ou objetivo juntos?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual é a conquista que mais te enche de orgulho que fizeram juntos?",
+    "category": "memories"
+  },
+  {
+    "question": "Qual foi o momento mais tranquilo e feliz da vida de casados?",
+    "category": "memories"
+  },
+  {
+    "question": "Tem alguma coisa pela qual você nunca agradeceu de verdade ao cônjuge?",
+    "category": "honestly"
+  },
+  {
+    "question": "Qual é a parte em que você sente que ainda precisa melhorar no relacionamento?",
+    "category": "honestly"
+  },
+  {
+    "question": "Tem algo pelo qual você quer pedir desculpa ao cônjuge mas ainda não disse?",
+    "category": "honestly"
+  },
+  {
+    "question": "O que você mais tá segurando dentro de si no casamento?",
+    "category": "honestly"
+  },
+  {
+    "question": "Tem algo no cônjuge que você quer que nunca mude?",
+    "category": "honestly"
+  },
+  {
+    "question": "Qual é o assunto mais difícil de falar honestamente com o cônjuge?",
+    "category": "honestly"
+  },
+  {
+    "question": "Você já sentiu que a forma de demonstrar amor de vocês é diferente?",
+    "category": "honestly"
+  },
+  {
+    "question": "Tem alguma fala ou atitude sua que pode ter magoado o cônjuge sem você perceber?",
+    "category": "honestly"
+  },
+  {
+    "question": "O que você acha que o cônjuge quer de você? Você tá dando isso?",
+    "category": "honestly"
+  },
+  {
+    "question": "Tem algo que você queria dizer ao cônjuge mas perdeu o momento?",
+    "category": "honestly"
+  },
+  {
+    "question": "Qual é a coisa que você sente que não pode abrir mão no casamento?",
+    "category": "honestly"
+  },
+  {
+    "question": "Você já sentiu que as conversas com o cônjuge diminuíram? Por que acha que foi?",
+    "category": "honestly"
+  },
+  {
+    "question": "Tem algo no casamento que você sente que tá carregando sozinho?",
+    "category": "honestly"
+  },
+  {
+    "question": "Qual foi o momento de amor do cônjuge que mais te aqueceu o coração?",
+    "category": "honestly"
+  },
+  {
+    "question": "Você acha que vocês estão expressando gratidão suficiente um ao outro?",
+    "category": "honestly"
+  },
+  {
+    "question": "O que você pode fazer pra entender melhor o cônjuge?",
+    "category": "honestly"
+  },
+  {
+    "question": "Quando foi que você sentiu a maior diferença de valores no casamento?",
+    "category": "honestly"
+  },
+  {
+    "question": "Você já se preocupou se tava esperando demais do cônjuge?",
+    "category": "honestly"
+  },
+  {
+    "question": "Em que aspecto você acha que estão indo bem como casal?",
+    "category": "honestly"
+  },
+  {
+    "question": "Tem algo na forma de resolver conflitos que você quer melhorar?",
+    "category": "honestly"
+  },
+  {
+    "question": "Como você sente que mudou como pessoa depois de casar?",
+    "category": "honestly"
+  },
+  {
+    "question": "O que você acha que o cônjuge tá passando de difícil agora?",
+    "category": "honestly"
+  },
+  {
+    "question": "Vocês têm regras implícitas entre si? Tão sendo cumpridas?",
+    "category": "honestly"
+  },
+  {
+    "question": "Você já sentiu solidão dentro do casamento?",
+    "category": "honestly"
+  },
+  {
+    "question": "Vocês já conversaram honestamente sobre carinho e demonstrações de afeto?",
+    "category": "honestly"
+  },
+  {
+    "question": "Qual foi o maior sacrifício que você fez no casamento? Tem algum arrependimento?",
+    "category": "honestly"
+  },
+  {
+    "question": "Quando é que você sente que o cônjuge te entende de verdade?",
+    "category": "honestly"
+  },
+  {
+    "question": "O que a gente precisa pra ser mais feliz como casal?",
+    "category": "honestly"
+  },
+  {
+    "question": "Você acha que apoia os sonhos e objetivos do cônjuge o suficiente?",
+    "category": "honestly"
+  },
+  {
+    "question": "Qual conselho você daria pra você mesmo antes de casar?",
+    "category": "honestly"
+  },
+  {
+    "question": "Como você acha que o cônjuge pensa sobre si mesmo? Tem algo que te preocupa?",
+    "category": "honestly"
+  },
+  {
+    "question": "O que concretamente você pode fazer pra prestar mais atenção um no outro?",
+    "category": "honestly"
+  },
+  {
+    "question": "Vocês conseguem conversar honestamente sobre dinheiro e a gestão da casa?",
+    "category": "honestly"
+  },
+  {
+    "question": "O que você diria ao cônjuge se fosse falar 'por sua causa me tornei assim'?",
+    "category": "honestly"
+  },
+  {
+    "question": "No casamento, geralmente você cede primeiro ou o cônjuge cede?",
+    "category": "honestly"
+  },
+  {
+    "question": "O que no cônjuge te deixa com admiração?",
+    "category": "honestly"
+  },
+  {
+    "question": "Como você pensa sobre ter tempo individual mesmo sendo casado?",
+    "category": "honestly"
+  },
+  {
+    "question": "Em qual aspecto você sente que mais cresceu no casamento?",
+    "category": "honestly"
+  },
+  {
+    "question": "Qual é a frase do cônjuge que você vai carregar pra sempre?",
+    "category": "honestly"
+  },
+  {
+    "question": "Qual foi a maior lição que o casamento te ensinou?",
+    "category": "honestly"
+  },
+  {
+    "question": "Como você gostaria que a gente estivesse daqui a 5 anos?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algo que você definitivamente quer fazer com o cônjuge no futuro?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem alguma coisa que vocês querem fazer juntos depois de se aposentar?",
+    "category": "ahead"
+  },
+  {
+    "question": "Qual é o item número 1 da lista de desejos do casal?",
+    "category": "ahead"
+  },
+  {
+    "question": "Qual é uma promessa que vocês querem manter como casal?",
+    "category": "ahead"
+  },
+  {
+    "question": "Onde vocês querem morar quando ficarem velhos?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algo que você quer aprender junto com o cônjuge?",
+    "category": "ahead"
+  },
+  {
+    "question": "Qual é o critério de felicidade do casal?",
+    "category": "ahead"
+  },
+  {
+    "question": "Se começassem um hobbie juntos agora, qual seria?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algum sonho que você quer que o cônjuge realize?",
+    "category": "ahead"
+  },
+  {
+    "question": "O que vocês podem fazer a partir de agora pra ficarem mais próximos?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algo em você que quer mudar no casamento daqui pra frente?",
+    "category": "ahead"
+  },
+  {
+    "question": "Se aprendessem um idioma juntos, qual escolheriam?",
+    "category": "ahead"
+  },
+  {
+    "question": "Como você imagina o casal daqui a 10 anos?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algum destino que vocês querem visitar com frequência?",
+    "category": "ahead"
+  },
+  {
+    "question": "Qual é a meta que vocês querem alcançar juntos?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem alguma coisa que você quer melhorar com o cônjuge?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algum evento especial que você quer fazer num aniversário de casamento?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algo que você quer trazer pra dentro de casa no futuro?",
+    "category": "ahead"
+  },
+  {
+    "question": "Como você se sente em relação a envelhecer junto com o cônjuge?",
+    "category": "ahead"
+  },
+  {
+    "question": "Com qual palavra você quer descrever o relacionamento de vocês no futuro?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem uma coisa que você quer fazer pelo cônjuge pela vida toda?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algum hábito na conversa de vocês que você quer melhorar?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem alguma rotina que você quer ter com o cônjuge quando ficarem velhos?",
+    "category": "ahead"
+  },
+  {
+    "question": "Qual sonho do cônjuge você quer apoiar daqui pra frente?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algum próximo passo que você quer dar no casamento?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem alguma tradição ou ritual que querem criar juntos?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem alguma forma de contribuir com a sociedade que vocês querem fazer juntos?",
+    "category": "ahead"
+  },
+  {
+    "question": "Como você quer transformar a nossa casa no futuro?",
+    "category": "ahead"
+  },
+  {
+    "question": "Como você quer mudar a forma de demonstrar amor ao cônjuge?",
+    "category": "ahead"
+  },
+  {
+    "question": "Qual é uma pequena meta que você quer alcançar no próximo ano no casamento?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algo que juntos vocês conseguiriam fazer por toda a vida?",
+    "category": "ahead"
+  },
+  {
+    "question": "O que é mais importante pra você preservar no relacionamento daqui pra frente?",
+    "category": "ahead"
+  },
+  {
+    "question": "Como você imagina a rotina de fim de semana do casal daqui a 20 anos?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem alguma surpresa que você quer preparar pro cônjuge?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algo que você quer transmitir pro cônjuge depois dessa conversa?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algum conteúdo que vocês querem ler ou assistir juntos?",
+    "category": "ahead"
+  },
+  {
+    "question": "Você já pensou em fazer algum trabalho voluntário com o cônjuge?",
+    "category": "ahead"
+  },
+  {
+    "question": "O que vocês podem fazer pra serem mais honestos um com o outro daqui pra frente?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tem algum hábito saudável que vocês poderiam começar juntos agora?",
+    "category": "ahead"
+  }
+]
