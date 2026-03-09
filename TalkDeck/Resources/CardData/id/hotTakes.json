@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Nasi goreng vs mie goreng, bisa langsung pilih tanpa mikir?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pizza nanas OK vs NO? Kasih alasannya juga dong",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ayam goreng bertulang vs fillet, mana yang lebih enak?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Bus vs angkot/ojek online, mana yang menurutmu lebih baik?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Sarapan itu wajib vs nggak perlu-perlu amat, kamu pihak mana?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Orang yang bawa laptop kerja di kafe, wajar aja atau nggak peka?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ongkos kirim berapa yang masih mau kamu bayar buat pesan makanan online?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Bakso kuah vs bakso goreng, kamu tim mana?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Orang yang set alarm berkali-kali vs yang cukup sekali, mana yang lebih kamu mengerti?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Waktu beli sepatu, kenyamanan lebih penting atau desain?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Teman yang jarang ngabarin vs teman yang sering tapi bikin capek, mana yang lebih susah?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Di warung makan, lebih nggak suka cari tempat duduk atau yang nulis pesanan?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Belanja harus bawa tas sendiri vs sesekali pakai kantong plastik masih oke?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Waktu antri dan ada yang nyerobot, kamu negur atau dibiasin aja?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Kopi dingin vs hangat, lepas dari musim, kamu pilih yang mana?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Sayang uang jalan kaki jauh vs bayar ojek online biar nyaman, kamu tipe yang mana?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Orang yang duluan cabut dari nongkrong itu salah nggak?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Minta bungkus sisa makanan di restoran itu hal yang wajar nggak?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Matiin notifikasi grup chat itu nggak sopan atau wajar?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Hadiah yang dipilih sendiri vs uang/voucher, mana yang lebih kamu suka?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ngobrol pelan di tempat umum itu keharusan vs memaksa orang diam di tempat umum itu berlebihan?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Makan popcorn di bioskop itu hal yang biasa atau ganggu?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Waktu lihat kenalan di jalan, pura-pura nggak liat itu bisa dimengerti?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Panggil pelayan di restoran dengan lambaian tangan vs 'mas/mbak', mana yang lebih nyaman?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Dibaca tapi tidak dibalas vs tidak dibaca sama sekali, mana yang lebih parah?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pesan antar vs makan langsung di tempat, dari sisi rasa mana yang lebih penting?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Di dalam lift bareng orang asing terus tatap-tatapan, kamu biasanya ngapain?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Nyisiain makanan itu pemborosan atau maksa habisin itu kaku?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pakai sandal di dalam rumah itu wajib atau nggak perlu?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Orang yang datang tepat waktu vs 5 menit sebelumnya, mana yang lebih kamu suka?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Tali sepatu itu harus diikat vs nggak masalah kalau diinjak-injak aja?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Perpustakaan vs kafe, mana yang lebih enak buat belajar?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pesan antar tengah malam itu ganggu orang lain atau nggak masalah?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Makan di luar bayar sendiri-sendiri vs gantian, mana yang lebih nyaman?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Beli makanan di minimarket vs masak di rumah, mana yang lebih oke?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Foto makanan dulu sebelum makan itu wajar atau mendingan langsung dimakan aja?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Berbagi kulkas dengan teman serumah itu nyaman atau nggak nyaman?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Nonton TV atau YouTube waktu makan itu lebih enak atau mendingan makan tanpa gangguan?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pisahkan pakaian berdasarkan warna sebelum mencuci itu wajib dilakukan?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Nitip tas buat jaga tempat duduk di kafe itu boleh atau nggak?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Di era streaming, pergi ke bioskop masih ada maknanya menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Media sosial bikin hubungan antar manusia lebih baik atau lebih buruk?",
+    "category": "culture"
+  },
+  {
+    "question": "YouTube Shorts atau Instagram Reels udah merusak kemampuan konsentrasi menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Budaya fandom K-Pop, kamu bisa mengerti atau menurutmu agak berlebihan?",
+    "category": "culture"
+  },
+  {
+    "question": "Baca buku fisik lebih bermakna daripada e-book menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Remake drama atau film, ada yang bisa lebih bagus dari aslinya?",
+    "category": "culture"
+  },
+  {
+    "question": "Gambar yang dibuat AI bisa disebut karya seni?",
+    "category": "culture"
+  },
+  {
+    "question": "Konten Indonesia (film, musik, dll) sudah benar-benar diakui di mancanegara menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Produk yang diiklankan selebritis bisa dipercaya?",
+    "category": "culture"
+  },
+  {
+    "question": "Privasi kehidupan publik figur itu sampai mana yang boleh diekspos?",
+    "category": "culture"
+  },
+  {
+    "question": "Pernah ngerasa Instagram atau YouTube lebih akurat dari berita?",
+    "category": "culture"
+  },
+  {
+    "question": "Nonton film tanpa subtitle vs dengan subtitle, mana yang lebih kamu suka?",
+    "category": "culture"
+  },
+  {
+    "question": "Streaming ilegal musik, itu salah penggemar atau sistemnya yang bermasalah?",
+    "category": "culture"
+  },
+  {
+    "question": "Konsumsi informasi lewat video daripada teks itu males atau efisien?",
+    "category": "culture"
+  },
+  {
+    "question": "Wisata ke negara tertentu meski ada isu politik, itu bisa dipisah?",
+    "category": "culture"
+  },
+  {
+    "question": "Follow akun selebritis di media sosial bikin hidupmu lebih baik atau cuma bikin insecure?",
+    "category": "culture"
+  },
+  {
+    "question": "Kualitas video klip penting banget, sepenting musiknya?",
+    "category": "culture"
+  },
+  {
+    "question": "Budaya makanan siap saji yang makin berkembang itu hal yang baik?",
+    "category": "culture"
+  },
+  {
+    "question": "Budaya resell sneakers edisi terbatas itu bisa dimengerti atau berlebihan?",
+    "category": "culture"
+  },
+  {
+    "question": "Konten hiburan sekarang lebih bagus dari dulu menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Pengaruh influencer udah terlalu besar menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "E-Sport seharusnya diakui sebagai olahraga resmi menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Drama dengan tokoh antagonis lebih seru dari yang tokoh utamanya baik-baik saja menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Webtoon yang lebih populer dari komik cetak itu hal yang baik?",
+    "category": "culture"
+  },
+  {
+    "question": "Wisata ke luar negeri itu selalu lebih spesial dari wisata dalam negeri?",
+    "category": "culture"
+  },
+  {
+    "question": "Amplop nikahan, berapa yang kamu rasa wajar?",
+    "category": "culture"
+  },
+  {
+    "question": "Budaya lebaran atau perayaan hari besar perlu berubah menurutmu? Seperti apa?",
+    "category": "culture"
+  },
+  {
+    "question": "HP selama pertunjukan berlangsung harus dilarang total?",
+    "category": "culture"
+  },
+  {
+    "question": "Dengan berkembangnya AI penerjemah, belajar bahasa asing jadi kurang perlu menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Pemasaran tanpa media sosial itu masih mungkin sekarang?",
+    "category": "culture"
+  },
+  {
+    "question": "Konten sekarang rasanya makin clickbait dan sensasional menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Perusahaan tech besar seperti Gojek atau Tokopedia terlalu mendominasi menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Tren hidup sehat itu benar-benar mengubah hidup atau sekadar marketing?",
+    "category": "culture"
+  },
+  {
+    "question": "Selebritis yang punya channel YouTube masak itu menarik atau cuma eksploitasi image?",
+    "category": "culture"
+  },
+  {
+    "question": "Baca spoiler tapi tetap bisa nikmatin ceritanya?",
+    "category": "culture"
+  },
+  {
+    "question": "Budaya karaoke yang makin jarang itu bikin kamu sedih?",
+    "category": "culture"
+  },
+  {
+    "question": "Di dunia kerja, karakter lebih penting dari pengalaman dan gelar menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Barang branded itu pemborosan atau konsumsi yang punya nilai?",
+    "category": "culture"
+  },
+  {
+    "question": "YouTuber harus bertanggung jawab atas pengaruhnya seperti broadcaster?",
+    "category": "culture"
+  },
+  {
+    "question": "Video pendek seperti TikTok dan Reels sudah mulai menggantikan konten panjang menurutmu?",
+    "category": "culture"
+  },
+  {
+    "question": "Persahabatan murni antara pria dan wanita itu ada menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dalam hubungan, boleh ada rahasia?",
+    "category": "relationship"
+  },
+  {
+    "question": "Berteman dulu sebelum pacaran bikin hubungannya lebih lama menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Seberapa sering kontak mencerminkan seberapa besar perasaan menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Cinta pada pandangan pertama bisa jadi cinta yang nyata menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dalam pertemanan, perbedaan usia itu penting?",
+    "category": "relationship"
+  },
+  {
+    "question": "Pasangan harus saling tahu akun media sosial masing-masing?",
+    "category": "relationship"
+  },
+  {
+    "question": "LDR itu bisa berhasil menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Orang bisa berubah vs sifat dasar nggak bisa berubah, kamu lebih setuju yang mana?",
+    "category": "relationship"
+  },
+  {
+    "question": "Setelah putus, bisa tetap teman?",
+    "category": "relationship"
+  },
+  {
+    "question": "Jujur sepenuhnya ke pasangan itu selalu lebih baik?",
+    "category": "relationship"
+  },
+  {
+    "question": "PDKT itu fase yang perlu vs buang-buang waktu aja?",
+    "category": "relationship"
+  },
+  {
+    "question": "Antara teman, urusan uang memang seharusnya nggak dicampur?",
+    "category": "relationship"
+  },
+  {
+    "question": "Masa lalu percintaan pasangan, perlu kamu ketahui?",
+    "category": "relationship"
+  },
+  {
+    "question": "Orang yang pernah selingkuh susah dipercaya lagi menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dalam menjalin hubungan, persamaan lebih penting atau perbedaan?",
+    "category": "relationship"
+  },
+  {
+    "question": "Menunggu cinta sepihak lama itu pengecut atau murni?",
+    "category": "relationship"
+  },
+  {
+    "question": "Pasangan nggak harus punya hobi yang sama menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Teman bisa lebih penting dari keluarga menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Menjodohkan teman itu permintaan yang bikin beban atau biasa aja?",
+    "category": "relationship"
+  },
+  {
+    "question": "Perbedaan usia 10 tahun ke atas dalam hubungan, itu nggak masalah menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Nikah tanpa pernah tinggal bareng dulu itu gambling?",
+    "category": "relationship"
+  },
+  {
+    "question": "Teman dari teman bisa langsung jadi teman kamu atau tetap canggung?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dalam hubungan, yang duluan chat itu yang lebih sayang?",
+    "category": "relationship"
+  },
+  {
+    "question": "Pasangan yang mandiri secara finansial bikin hubungan lebih sehat menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Kalau teman kamu lagi dalam hubungan yang buruk, kamu harus bilang terus terang?",
+    "category": "relationship"
+  },
+  {
+    "question": "Rasa suka itu bisa tumbuh dengan usaha menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Menikah cukup bermodal cinta vs kondisi realistis juga harus dipenuhi?",
+    "category": "relationship"
+  },
+  {
+    "question": "Waktu berantem sama pasangan, harus diselesaikan saat itu juga atau masing-masing tenangkan diri dulu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Lebih baik duluan ngungkapin perasaan ke orang yang kamu suka?",
+    "category": "relationship"
+  },
+  {
+    "question": "Teman yang udah jarang kontak, kamu yang harus duluan ngubungin?",
+    "category": "relationship"
+  },
+  {
+    "question": "Kamu harus akrab sama teman-teman pasangan menurutmu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Kalau orang tua nggak setuju sama pacar kamu, apa yang bakal kamu lakuin?",
+    "category": "relationship"
+  },
+  {
+    "question": "Menurutmu soulmate itu ada?",
+    "category": "relationship"
+  },
+  {
+    "question": "Waktu kesal sama teman, lebih baik ngomong langsung atau biarkan berlalu?",
+    "category": "relationship"
+  },
+  {
+    "question": "Pasangan harus bisa lihat isi HP masing-masing vs privasi harus tetap dijaga?",
+    "category": "relationship"
+  },
+  {
+    "question": "Hubungan itu harus dipelihara dengan usaha atau cukup mengalir secara alami?",
+    "category": "relationship"
+  },
+  {
+    "question": "Waktu seseorang sibuk dan jarang kontak itu bisa dimaklumi?",
+    "category": "relationship"
+  },
+  {
+    "question": "Cemburu dalam hubungan itu tanda sayang atau tanda posesif?",
+    "category": "relationship"
+  },
+  {
+    "question": "Pacaran sama mantan teman dekat kamu itu oke?",
+    "category": "relationship"
+  },
+  {
+    "question": "Dengan uang, sebagian besar kebahagiaan bisa dibeli menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Hidup dengan rasa senang lebih penting daripada hidup dengan kerja keras menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Kesuksesan itu 50% keberuntungan menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Hidup bahagia adalah hidup yang baik vs hidup yang bermakna adalah hidup yang baik?",
+    "category": "life"
+  },
+  {
+    "question": "Nama universitas masih penting di masyarakat menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Membandingkan diri dengan orang lain nggak selalu buruk menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Mendahulukan diri sendiri itu egois atau perlu?",
+    "category": "life"
+  },
+  {
+    "question": "Dengan kerja keras, tidak ada yang tidak bisa dicapai, kamu setuju?",
+    "category": "life"
+  },
+  {
+    "question": "Usia 30-an vs 20-an, mana yang lebih bebas menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Semakin banyak pengalaman, semakin baik orangnya menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Tahan dulu yang nggak disukai sekarang demi masa depan vs prioritaskan kebahagiaan saat ini?",
+    "category": "life"
+  },
+  {
+    "question": "Menikah itu perlu menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Orang berkembang waktu sendirian vs berkembang dalam hubungan dengan orang lain?",
+    "category": "life"
+  },
+  {
+    "question": "Orang yang jujur pada akhirnya lebih berhasil menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Pekerjaan harus yang disukai vs yang dikuasai?",
+    "category": "life"
+  },
+  {
+    "question": "Hidup stabil lebih membahagiakan atau hidup yang dinamis?",
+    "category": "life"
+  },
+  {
+    "question": "Semakin tua impian makin menyusut itu hal yang wajar?",
+    "category": "life"
+  },
+  {
+    "question": "Keputusan yang didominasi logika menghasilkan hasil yang lebih baik menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Hidup biasa-biasa saja di zaman sekarang itu makin susah menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Kegagalan adalah guru terbaik, kamu beneran setuju?",
+    "category": "life"
+  },
+  {
+    "question": "Lahir kaya itu bakat atau keberuntungan?",
+    "category": "life"
+  },
+  {
+    "question": "Semua hal yang pengen dilakukan harus dicoba sebelum usia 40 menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Percaya bahwa orang yang berbuat baik pada akhirnya akan mendapat kebaikan?",
+    "category": "life"
+  },
+  {
+    "question": "Generasi sekarang lebih berat dari generasi orang tua menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Mengorbankan diri sendiri adalah cinta yang sejati vs jangan sampai kehilangan dirimu sendiri?",
+    "category": "life"
+  },
+  {
+    "question": "Resign terus buka usaha sendiri, itu worth it menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Kamu ngerasa wajib berbakti ke orang tua?",
+    "category": "life"
+  },
+  {
+    "question": "Waktu diperlakukan tidak adil, diam itu bijak atau tidak?",
+    "category": "life"
+  },
+  {
+    "question": "Ada cara hidup yang sesuai dengan umur menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Banyak khawatir itu persiapan yang baik atau buang energi?",
+    "category": "life"
+  },
+  {
+    "question": "Meminimalkan penyesalan bisa jadi tujuan hidup?",
+    "category": "life"
+  },
+  {
+    "question": "Pernah mengubah keputusan karena pandangan orang lain? Itu tepat menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Pengalaman buruk pada akhirnya berguna juga menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Tekun tanpa semangat lebih baik dari bersemangat tanpa konsistensi?",
+    "category": "life"
+  },
+  {
+    "question": "Menekuni satu pekerjaan seumur hidup lebih baik atau hidup dengan beragam pengalaman?",
+    "category": "life"
+  },
+  {
+    "question": "Kamu rasa bisa menutup mata nanti tanpa penyesalan?",
+    "category": "life"
+  },
+  {
+    "question": "Kalau harus pilih satu, rumah bagus atau perjalanan yang berkesan?",
+    "category": "life"
+  },
+  {
+    "question": "Dalam hidup, keberuntungan lebih berperan dari kerja keras menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Orang yang nyaman sendirian dirugikan dalam hubungan sosial menurutmu?",
+    "category": "life"
+  },
+  {
+    "question": "Sekarang ini adalah masa terbaik dalam hidupmu?",
+    "category": "life"
+  }
+]

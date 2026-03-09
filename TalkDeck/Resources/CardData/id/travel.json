@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Waktu pergi wisata, kamu tipe yang suka rencana matang atau spontan?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Wisata sendiri vs bareng teman, mana yang lebih kamu suka?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu lebih suka wisata ke kota atau ke alam?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Waktu packing, kamu tipe yang bawa barang sedikit atau banyak?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Di pesawat, kamu lebih suka duduk di kursi jendela atau lorong?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Waktu wisata, kamu lebih suka naik transportasi umum atau sewa kendaraan?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Wisata singkat tapi sering vs wisata panjang tapi jarang, mana style kamu?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu lebih suka keliling kampung lokal daripada tempat wisata terkenal?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Waktu wisata, kamu berani coba makanan lokal yang baru atau pilih yang aman?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu tipe hotel, Airbnb, atau guest house?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu sering foto-foto waktu wisata? Biasanya foto apa?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu langsung posting ke media sosial waktu wisata atau nunggu pulang dulu?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Waktu wisata, kamu perlu waktu bersantai di penginapan juga nggak?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu tipe koper atau ransel?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu biasanya sampai di bandara berapa jam sebelumnya?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Di tempat wisata, kamu suka bangun pagi dan langsung jalan-jalan?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Waktu bikin rencana wisata, kamu biasanya buat daftar kuliner dulu?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Waktu wisata, kamu suka baca buku atau dengerin podcast?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu biasanya bikin playlist khusus buat wisata?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Di pesawat, biasanya kamu ngapain buat ngisi waktu?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Waktu wisata ke luar negeri, kamu suka kangen masakan rumah?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu biasanya mampir ke museum atau galeri seni waktu wisata?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu suka belanja banyak waktu wisata?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Di tempat wisata, kamu lebih dulu ke rekomendasi warga lokal atau tempat terkenal?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Abis pulang wisata, kamu langsung rencanain wisata berikutnya?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu gelisah kalau nggak ada WiFi waktu wisata?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu suka tidur siang waktu wisata?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu suka makanan di pesawat? Biasanya pilih menu apa?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu tetap olahraga waktu wisata?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu biasanya hafalin salam dalam bahasa lokal sebelum berangkat?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu suka keliling lihat pemandangan malam?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu biasanya bikin jurnal atau catatan perjalanan?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu lebih suka wisata ke pantai atau gunung?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu suka jalan-jalan ke pasar tradisional atau supermarket lokal?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu biasanya tukar uang sebelum berangkat atau setiba di sana?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Malam sebelum berangkat wisata, kamu bisa tidur nyenyak?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu suka cuci mata di duty free bandara?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Kamu lebih suka tempat yang ditemukan secara nggak sengaja waktu wisata?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Abis wisata, kamu langsung rapiin foto atau nanti-nanti?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Waktu wisata, kamu lebih pengen lihat matahari terbit atau terbenam?",
+    "category": "travelStyle"
+  },
+  {
+    "question": "Dari semua tempat yang pernah kamu datangi, mana yang paling berkesan?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada nggak pengalaman memalukan yang pernah terjadi waktu wisata?",
+    "category": "memories"
+  },
+  {
+    "question": "Orang yang paling kamu ingat dari perjalanan wisata kamu itu siapa?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah nyasar tapi malah dapat pengalaman seru?",
+    "category": "memories"
+  },
+  {
+    "question": "Makanan paling mengejutkan yang pernah kamu coba waktu wisata itu apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah wisata sendirian? Gimana rasanya?",
+    "category": "memories"
+  },
+  {
+    "question": "Pemandangan paling memukau yang pernah kamu lihat waktu wisata apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada cerita lucu yang terjadi di pesawat?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada pengalaman wisata yang gagal total? Ceritain dong?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada tempat wisata yang pengen banget kamu kunjungi lagi? Kenapa?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah kesulitan karena nggak bisa bahasa lokal waktu wisata?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah terharu sampai mau nangis waktu wisata?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah ngerasa kehidupan sehari-harimu berubah setelah pulang wisata?",
+    "category": "memories"
+  },
+  {
+    "question": "Kejadian paling kocak yang pernah terjadi waktu wisata itu apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada pengalaman menginap yang paling berkesan?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah rencana wisata berubah total gara-gara cuaca?",
+    "category": "memories"
+  },
+  {
+    "question": "Makanan paling enak yang pernah kamu makan waktu wisata itu apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada momen waktu wisata yang sayang banget nggak sempat difoto?",
+    "category": "memories"
+  },
+  {
+    "question": "Wisata ke luar negeri pertama kamu ke mana? Ada kenangan apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah nggak sengaja ikutan festival atau acara waktu wisata?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah kehilangan barang waktu wisata? Ujung-ujungnya gimana?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah kena masalah karena transportasi dibatalin atau terlambat?",
+    "category": "memories"
+  },
+  {
+    "question": "Matahari terbit atau terbenam paling mengesankan yang pernah kamu lihat itu kapan?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah kaget sama budaya lokal waktu wisata?",
+    "category": "memories"
+  },
+  {
+    "question": "Kenangan paling berharga dari wisata kamu itu apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Perjalanan paling melelahkan yang pernah kamu alami waktu wisata itu apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada cerita berkesan yang terjadi di bandara?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah ketemu sesama wisatawan dari Indonesia di tempat yang nggak terduga?",
+    "category": "memories"
+  },
+  {
+    "question": "Pantai atau danau paling indah yang pernah kamu kunjungi itu di mana?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah datang tanpa reservasi dan kena masalah?",
+    "category": "memories"
+  },
+  {
+    "question": "Kendaraan paling unik yang pernah kamu naiki waktu wisata itu apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah keluar dini hari dan lihat pemandangan yang keren?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah sakit perut gara-gara makanan waktu wisata?",
+    "category": "memories"
+  },
+  {
+    "question": "Kenangan paling berkesan dari wisata bareng keluarga itu apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada aktivitas yang pertama kali kamu coba waktu wisata?",
+    "category": "memories"
+  },
+  {
+    "question": "Tempat terbaik yang kamu datangi secara spontan tanpa rencana itu di mana?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada cerita seru yang melibatkan hewan waktu wisata?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada momen berkesan waktu wisata di hari hujan?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah diajak ke rumah warga lokal atau menginap di homestay?",
+    "category": "memories"
+  },
+  {
+    "question": "Pemandangan wisata yang paling akan kamu ingat seumur hidup itu apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Momen paling berkesan dari wisata ini apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Hari ini makan apa yang paling enak?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Wisata kali ini ada yang lebih bagus dari ekspektasi kamu?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Dari foto yang kamu ambil hari ini, mana yang paling kamu suka?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Kalau perasaan kamu sekarang diekspresiin dalam satu kata, kata apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Momen apa dari wisata ini yang bakal paling kamu ingat?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Tempat paling berkesan yang kamu datangi hari ini di mana?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Wisata kali ini ada yang ternyata nggak sesuai ekspektasi?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Momen paling kocak hari ini itu apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Kalau wisata ini dirangkum dalam satu kalimat, kalimatnya gimana?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Momen paling berat dari wisata ini apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Hari ini ada hal yang bikin kamu terharu?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Dari wisata ini, hal yang bakal paling kamu kangenin setelah pulang itu apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Dari wisata ini, ada hal yang sayang belum sempat kamu lakuin?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Hari ini ada hal baru yang menarik yang kamu pelajari?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Momen paling menyenangkan dari wisata ini terjadi di mana?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Hari ini orang yang paling kamu syukuri ada di sisimu itu siapa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Keputusan paling tepat yang kamu buat di wisata ini apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Hal paling berkesan yang kamu lihat waktu jalan-jalan hari ini apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Tempat di wisata ini yang paling pengen kamu kunjungi lagi apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Dari wisata ini, hal yang paling sesuai harapan kamu apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Momen paling tenang dari hari ini waktu wisata itu kapan?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Hal paling mengejutkan dari wisata ini apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Ada sisi baru dari orang yang kamu temui di wisata ini yang bikin kamu surprise?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Makanan yang paling pengen kamu makan hari ini apa? Kalau belum, kapan mau nyoba?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Sekarang, hal dari rumah yang paling kamu kangenin apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Wisata ini bakal punya arti apa buat kamu?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Momen paling penuh semangat dari hari ini kapan?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Kalau wisata ini diwakili sama satu warna, warna apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Waktu paling banyak ketawa dari wisata ini itu kapan?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Hari ini, hal yang paling bikin kamu penasaran waktu wisata apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Sekarang, kamu lagi pengen ngubungi siapa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Dari wisata ini, ada hal yang pengen banget kamu lakuin setelah pulang?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Momen paling menantang dari hari ini waktu wisata apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Coba deskripsiin suasana tempat wisata ini dalam satu kalimat",
+    "category": "thisNow"
+  },
+  {
+    "question": "Hal baru yang pertama kali kamu coba di wisata ini yang paling kamu suka apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Ada alasan kenapa kamu nggak mau momen ini segera berakhir?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Momen paling membahagiakan secara spesifik dari hari ini apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Dari wisata ini, hal baru tentang diri kamu yang kamu temukan apa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Kalau wisata ini dikasih bintang, berapa bintangnya? Kenapa?",
+    "category": "thisNow"
+  },
+  {
+    "question": "Ada tempat wisata yang wajib kamu kunjungi sebelum mati?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada cara wisata yang pengen banget kamu coba suatu saat? Naik kapal pesiar, campervan, dll?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Negara yang paling pengen kamu datangi itu mana? Kenapa?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kalau mau tinggal sebulan di suatu tempat di dunia, kamu mau di mana?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pernah kepikiran mau lihat aurora langsung?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kalau keliling dunia, tiga kota yang wajib masuk daftar kamu itu di mana?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada kendaraan yang pengen banget kamu naiki suatu hari? Kereta mewah, kapal pesiar, dll?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada warisan alam dunia yang pengen kamu kunjungi?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada makanan dari negara lain yang pengen banget kamu coba langsung di sana?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada festival khusus di suatu tempat yang pengen kamu datangi suatu saat?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pengen coba skydiving atau bungee jumping waktu wisata?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Pernah pengen wisata ke gurun pasir? Gurun mana yang kamu bayangkan?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pengen ke Antartika atau Kutub Utara?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Pernah kepikiran mau menjelajahi hutan tropis seperti Amazon?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada museum atau galeri seni terkenal di dunia yang pengen banget kamu kunjungi?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Pernah kepikiran mau melihat dunia bawah laut langsung? Scuba diving, dll?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu punya impian mendaki gunung terkenal?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada negara yang pengen kamu tinggali lebih dari 6 bulan buat merasakan jadi warga lokal?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Menurut kamu, tempat dengan pemandangan malam terbaik di dunia itu di mana?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pengen melakukan perjalanan jalan kaki panjang seperti Camino de Santiago?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada pulau yang pengen banget kamu kunjungi suatu hari?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pengen belajar masak masakan lokal langsung di negara asalnya?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pernah kepikiran mau wisata sambil sukarelawan?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pengen naik kereta keliling Asia Tenggara atau Eropa?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada situs warisan budaya dunia yang pengen banget kamu datangi?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Pernah bermimpi wisata memancing atau menyatu dengan alam?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada tempat impian yang kayak dari film, misalnya Raja Ampat atau Komodo?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pengen jalan-jalan keliling pasar malam terkenal di berbagai negara?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kalau mau belajar olahraga tertentu di negara asalnya, kamu mau ke mana?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pengen mengunjungi tempat-tempat yang jarang dikunjungi wisatawan, seperti Eropa Timur atau Asia Tengah?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kalau suatu hari wisata luar angkasa bisa dilakukan, kamu mau ikutan?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada tempat wisata yang pengen banget kamu kunjungi bareng seseorang? Di mana?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pengen coba backpacking jarak jauh?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pengen coba wisata safari di Afrika?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada negara atau kota yang pengen banget kamu tinggali?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Kamu pengen kayak atau kano di sungai atau danau di luar negeri?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Pernah bermimpi melakukan road trip panjang, misalnya lintas pulau di Indonesia?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Ada tempat wisata yang pengen kamu datangi untuk merayakan momen spesial?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Meski belum bisa sekarang, ada rencana wisata yang pengen banget kamu wujudkan suatu hari?",
+    "category": "bucketList"
+  },
+  {
+    "question": "Dari bucket list wisata kamu, mana yang paling mungkin terwujud dalam waktu dekat?",
+    "category": "bucketList"
+  }
+]

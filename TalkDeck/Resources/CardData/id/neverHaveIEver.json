@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Aku belum pernah pesan makanan online setelah jam 3 pagi",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah matiin alarm lebih dari 10 kali",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah ketiduran waktu lagi makan",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah baru bangun tepat sebelum berangkat kerja atau sekolah",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah buka kulkas terus nutup lagi tanpa ngambil apa-apa",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah makan makanan yang sudah kadaluarsa",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah belanja dan habis dua kali lipat dari budget",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah biarkan cucian numpuk lebih dari seminggu",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah nggak mandi lebih dari dua hari",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah nunda bales chat lebih dari sehari",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah makan malam tengah malam terus langsung tidur",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah begadang karena maraton nonton satu video/serial",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah biarkan piring kotor numpuk lebih dari sehari",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah pakai sepatu dengan tali yang belum diikat karena males",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah berhenti nyapu atau nyedot debu di tengah jalan karena males",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah habis makan tapi nggak ingat tadi makan apa",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah bertahan sampai baterai HP hampir 0%",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah belanja di minimarket tanpa rencana dan habis lebih dari 100 ribu",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah nggak potong kuku sampai panjang banget",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah tumpah saus ke baju waktu makan",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah nyari barang yang nggak tahu ditaruh di mana selama lebih dari 30 menit",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah gesek kartu dan nggak tahu saldo tersisa berapa",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah males masak di rumah terus milih nggak makan",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah minum kopi lebih dari tiga cangkir dalam sehari",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah kasih petunjuk arah ke orang asing di jalan",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah salah ngitung tanggal paket datang dan nungguin sia-sia",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah pergi beli sesuatu tapi pulang bawa barang yang lain",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah jalan lama-lama cuma pake satu earphone",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah ketiduran di bus/angkot dan kelewatan halte",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah biarkan makanan pesan antar jadi dingin sampai lupa dimakan",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah ketinggalan HP di rumah waktu keluar",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah kena jebakan algoritma YouTube dan nonton lebih dari dua jam",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah salah tanggal janji dan pergi sia-sia",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah biarkan paket kiriman berhari-hari tanpa dibuka",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah lupa bawa dompet dan kena masalah",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah nonton video yang sama lebih dari tiga kali",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah minta sample di supermarket lebih dari dua kali",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah seharian penuh nggak keluar dari rumah",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah rebahan mau tidur tapi malah main HP sampai dua jam lebih",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah cancel pesanan makanan terus pesan lagi",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Aku belum pernah bungee jumping",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah beli tiket pesawat secara spontan",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah wisata ke luar negeri sendirian",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah skydiving atau paragliding",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah pergi wisata tanpa rencana sama sekali",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah tidur di tenda di luar ruangan",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah main snowboard atau ski",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah surfing",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah semalam di pulau terpencil atau tempat terpencil",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah tinggal lebih dari sebulan di negara lain",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah naik ke tempat tinggi padahal takut ketinggian",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah nyasar di kota/daerah yang baru pertama kali dikunjungi",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah naik motor atau sepeda perjalanan jauh",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah benar-benar belajar renang",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah main sampai dini hari di klub malam",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah mencentang satu pun dari bucket list",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah naik balon udara atau pesawat kecil",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah pergi lihat matahari terbit dini hari jam 4",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah pergi nonton pameran atau pertunjukan sendirian",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah road trip spontan bareng teman-teman",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah duluan mengajak bicara orang asing dan jadi akrab",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah ikut kegiatan sukarelawan",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah coba makanan yang tidak dikenal dulu baru nilai rasanya",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah mendaki gunung sendirian",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah main sampai malam di pantai atau sungai",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah menantang diri dan berhasil jadi yang terbaik",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah backpacking dengan barang bawaan seminimal mungkin",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah habiskan lebih dari sehari sendirian di kota yang asing",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah begadang maraton main game atau baca komik semalaman",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah tampil di atas panggung di depan banyak orang",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah belajar bidang yang benar-benar baru",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah naik kereta perjalanan jauh sendirian",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah pergi spontan ke pantai atau tempat terbuka dini hari",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah baur sepenuhnya dengan orang-orang baru di pesta",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah serius mulai belajar bahasa baru",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah sengaja pergi jauh demi lihat pemandangan sunset atau malam yang indah",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah sengaja cari dan makan di warung yang nggak terkenal",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah tinggal mandiri jauh dari keluarga",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah ikut wahana seram atau rumah horor",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah bertahan di luar dalam cuaca ekstrem panas atau dingin",
+    "category": "adventure"
+  },
+  {
+    "question": "Aku belum pernah kabur dari kencan buta",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah blokir kontak seseorang",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah pernah ada orang yang mengungkapkan perasaan ke aku",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah duluan mengungkapkan perasaan ke seseorang",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah nahan diri untuk nggak ngubungin mantan",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah kehilangan pertemanan secara tiba-tiba",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah suka sepihak selama lebih dari setahun",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah jadian secara resmi yang diketahui publik",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah hubungan jadi renggang karena kesalahpahaman yang menumpuk",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah nangis sesenggukan karena masalah teman",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah berantem besar dengan pasangan",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah langsung bilang ke teman waktu aku tersinggung",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah ngasih penghiburan yang nggak tulus",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah duluan minta putus dalam hubungan",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah nangis karena pasangan",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah mempertahankan hubungan yang sebenernya sudah ingin kuakhiri",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah bersikap baik ke orang yang nggak aku suka",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah langsung akrab sama orang yang baru pertama kali ketemu",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah minjemin uang ke teman",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah keluar dari grup chat",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah ketemu lagi sama mantan",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah ketemu lagi seseorang yang sudah lama nggak ada kabar",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah berantem besar dengan keluarga",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah bikin kejutan buat pasangan",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah diam saja di perkumpulan tanpa ngomong apa-apa",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah salah paham tentang seseorang dan hidup lama dengan salah paham itu",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah canggung sama teman-teman pasangan",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah punya orang yang aku suka tapi aku lepaskan",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah kaget karena ingatan teman lama berbeda dari ingatanku",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah duluan memutus kontak",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah gugup ngomong di depan orang yang aku suka",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah nyebarin rahasia teman ke orang lain",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah dengan tulus mengucapkan terima kasih kepada seseorang",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah susah bilang 'maaf' duluan",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah ngerasa lega setelah sebuah hubungan berakhir",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah kecewa dengan orang yang aku harapkan banyak",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah menyapa anak kecil yang tidak dikenal",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah melepaskan sesuatu demi orang yang aku sayangi",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah kehilangan kontak seseorang dan nggak bisa hubungi lagi",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah menulis surat yang tulus",
+    "category": "relationship"
+  },
+  {
+    "question": "Aku belum pernah diam-diam scroll media sosial seseorang dalam waktu lama",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah berbohong untuk membatalkan janji",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pura-pura nggak baca pesan yang sudah aku baca",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah nangis sendirian tanpa ada yang tahu",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah kecewa sama diri sendiri sampai lemas untuk beberapa waktu",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pura-pura sakit padahal nggak sakit",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah dalam hati nggak suka sama hadiah yang diterima",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah nahan diri untuk nggak pulang duluan dari nongkrong karena nggak enak",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah bilang makanan enak padahal sebenernya nggak",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah iri sama seseorang dan sakit hati sendirian",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah ngerasa campuran aduk waktu dapat pujian",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pura-pura sudah baca buku yang belum dibaca",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pura-pura tertarik sama cerita yang nggak menarik buatku",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pura-pura baru pertama dengar sesuatu yang sudah aku tahu",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pura-pura nggak apa-apa padahal hati lagi nggak enak",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pura-pura nggak tau sesuatu yang salah",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah kelihatan baik-baik saja di depan orang tapi nangis dalam perjalanan pulang",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah jujur iri nonton orang lain sukses",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah bohong untuk nutupin kesalahan",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah melebih-lebihkan cerita demi dapat pengakuan",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah bikin ekspresi aneh di depan cermin waktu sendirian",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah bilang 'kita ketemu lagi ya' tanpa niat untuk benar-benar menemui",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah setuju dengan orang lain padahal tahu dia salah",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pura-pura baru baca pesan padahal sudah lama baca",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pura-pura punya uang padahal lagi bokek",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah diam-diam mendengarkan pembicaraan orang lain",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah nyalahin nasib buruk waktu hasilnya nggak bagus",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pengen pergi karaoke sendirian",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah terus-terusan cek HP nunggu seseorang ngubungin",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah nggak bisa ngomong perasaan yang sebenarnya dan nyesal",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah foto terus hapus diam-diam karena nggak suka hasilnya",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah pura-pura percaya diri di depan orang padahal dalam hati deg-degan",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah dengar pujian tapi dalam hati nggak bisa mempercayainya",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah bersikap dingin ke orang yang aku suka",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah tersenyum di depan orang padahal dalam hati lagi berat",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah punya pikiran buruk terus kaget sama diri sendiri",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah punya hal yang pengen kukatakan ke seseorang tapi tidak pernah terucap",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah terpaksa lakukan sesuatu yang nggak ingin kulakukan sambil pura-pura oke",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah tahu sesuatu itu salah tapi tetap merasionalisasinya",
+    "category": "secret"
+  },
+  {
+    "question": "Aku belum pernah nggak mau ngaku umur yang sebenarnya",
+    "category": "secret"
+  }
+]

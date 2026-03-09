@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Makanan favorit kamu waktu kecil apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Mata pelajaran yang paling kamu suka waktu sekolah?",
+    "category": "childhood"
+  },
+  {
+    "question": "Nama teman paling deket waktu kecil dan kenangan kalian?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu kecil, benda yang paling pengen kamu punya apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu SD, cita-cita kamu apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu kecil, alasan paling berkesan waktu dimarahin orang tua?",
+    "category": "childhood"
+  },
+  {
+    "question": "Pulang sekolah, hal pertama yang kamu lakuin apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu kecil, ada kartun atau game yang bikin kamu ketagihan?",
+    "category": "childhood"
+  },
+  {
+    "question": "Tempat favorit di lingkungan rumah waktu kecil?",
+    "category": "childhood"
+  },
+  {
+    "question": "Permainan yang sering kamu mainin sama saudara atau teman waktu kecil?",
+    "category": "childhood"
+  },
+  {
+    "question": "Menu makan siang di sekolah yang paling kamu suka?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu kecil, hal yang paling bikin kamu takut apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Liburan sekolah waktu kecil, hal yang paling sering kamu lakuin apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu kecil, bayangan jadi orang dewasa yang seperti apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Masih ingat pertama kali naik angkot atau transportasi umum sendiri?",
+    "category": "childhood"
+  },
+  {
+    "question": "Guru favorit kamu waktu sekolah itu orangnya seperti apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Piknik atau wisata sekolah yang paling berkesan waktu SD?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu kecil, ada yang kamu lakukan diam-diam tanpa sepengetahuan orang tua dan sekarang bisa cerita?",
+    "category": "childhood"
+  },
+  {
+    "question": "Pertama kali dapat uang jajan, kamu beli apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Mata pelajaran atau pelajaran yang paling kamu nggak suka waktu sekolah?",
+    "category": "childhood"
+  },
+  {
+    "question": "Ada program TV yang selalu kamu tonton waktu kecil?",
+    "category": "childhood"
+  },
+  {
+    "question": "Hadiah ulang tahun paling berkesan waktu kecil?",
+    "category": "childhood"
+  },
+  {
+    "question": "Masih ingat pertama kali belajar naik sepeda?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu kecil, pernah pelihara hewan?",
+    "category": "childhood"
+  },
+  {
+    "question": "Jajanan atau minuman favorit waktu kecil?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu sekolah, ada hal yang merasa kamu paling jago?",
+    "category": "childhood"
+  },
+  {
+    "question": "Kata-kata yang sering orang dewasa bilang ke kamu waktu kecil?",
+    "category": "childhood"
+  },
+  {
+    "question": "Masih ingat pertama kali sendirian di rumah? Perasaanmu gimana?",
+    "category": "childhood"
+  },
+  {
+    "question": "Warung atau toko langganan di dekat rumah waktu kecil?",
+    "category": "childhood"
+  },
+  {
+    "question": "Ada masa yang berat waktu kecil?",
+    "category": "childhood"
+  },
+  {
+    "question": "Di antara teman-teman, kamu tipe anak yang seperti apa waktu kecil?",
+    "category": "childhood"
+  },
+  {
+    "question": "Pertama kali begadang itu kapan dan kenapa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Buku atau komik favorit waktu kecil?",
+    "category": "childhood"
+  },
+  {
+    "question": "Ada adegan dari masa kecil yang masih sangat jelas terbayang sekarang?",
+    "category": "childhood"
+  },
+  {
+    "question": "Ada warung atau toko makanan dekat sekolah yang sering kamu singgahi?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu kecil, ada pakaian atau sepatu yang pengen banget kamu punya?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu kecil, punya bayangan rumah impian seperti apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Hal yang paling sering dipuji waktu kecil apa?",
+    "category": "childhood"
+  },
+  {
+    "question": "Masih ingat aroma di rumah waktu pulang dari sekolah?",
+    "category": "childhood"
+  },
+  {
+    "question": "Waktu kecil, ada program TV yang selalu kamu nonton sambil makan?",
+    "category": "childhood"
+  },
+  {
+    "question": "Sekarang hal apa yang paling kamu suka?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada hobi atau minat baru yang kamu mulai?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang konten yang paling sering kamu tonton atau baca apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Bulan ini hal yang paling berkesan apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang kamu jaga kesehatan dengan cara apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini makanan enak apa yang kamu makan?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tempat yang sekarang sering kamu datangi?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Ceritain satu hal lucu yang terjadi minggu ini",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang ada yang lagi kamu pikirin?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada fakta menarik yang baru kamu tahu?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang siapa yang sering kamu hubungi?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini pernah traveling atau ada rencana ke mana?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang momen paling nyaman dalam sehari itu kapan?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Bulan ini satu hal yang paling kamu banggakan?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang rutinitas harianmu gimana?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada yang kamu pelajari atau kamu dalami?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang aplikasi atau layanan yang paling sering kamu pakai?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada momen yang paling bikin kamu terharu atau senang?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang ada makanan atau minuman yang sering kamu nikmati?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini pernah ketemu orang baru? Gimana ceritanya?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang hal yang paling pengen kamu lakuin waktu lagi happy?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Minggu ini makanan yang paling enak yang kamu makan apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang ada tujuan yang lagi kamu kejar?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini barang yang paling kamu syukuri pernah beli?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang lagu atau musik yang paling sering kamu dengerin?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini pernah berterima kasih ke orang sekitar?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang ada drama atau film yang lagi kamu tonton?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Bulan ini momen yang paling berat apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang ada impian yang lagi kamu bayangkan?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada perubahan kebiasaan olahraga atau kesehatan?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada percakapan yang berkesan?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada hal pertama yang kamu coba?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang buku atau tulisan apa yang lagi kamu baca?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Minggu ini satu hal yang paling kamu banggakan?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada bidang baru yang mulai menarik perhatianmu?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada momen yang bikin hatimu hangat?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang hal yang paling bikin kamu bahagia apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada tantangan atau perubahan yang kamu coba?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang tidurmu nyenyak?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Bulan ini ada yang pasti pengen kamu capai?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Cerita lucu yang paling berkesan saat liburan keluarga?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada hal yang pasti dilakukan keluarga kita setiap Lebaran atau hari raya?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Masakan orang tua yang paling kamu ingat apa?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Dari semua perjalanan bareng keluarga, yang paling spesial di mana?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada pertunjukan atau pertandingan yang pernah kamu tonton bareng keluarga dan masih ingat?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada kata-kata dari orang tua yang masih kamu ingat sampai sekarang?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Adegan yang paling berkesan dari kakek atau nenek kamu?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada kenangan masak bareng keluarga yang masih terbayang?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada tradisi atau acara khusus yang hanya ada di keluarga kita?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah keluarga melewati masa sulit bersama?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Alasan pertengkaran paling lucu sama saudara atau sepupu?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah ada anggota keluarga yang bikin kamu benar-benar terharu?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Kenangan paling menyenangkan di rumah kakek nenek?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah lihat foto keluarga lama yang bikin kamu kaget?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada hal yang baru-baru ini bikin seluruh keluarga tertawa?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada cerita lucu yang terjadi di acara kumpul keluarga?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah dengar cerita masa pacaran orang tua kamu?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Lebaran atau acara keluarga yang paling spesial dan berkesan?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah pindah rumah bareng keluarga? Ada yang masih diingat?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah ada rahasia yang ketahuan oleh anggota keluarga?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Masih ingat orang tua bersikap mesra satu sama lain?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah disamain kebiasaannya sama anggota keluarga tertentu?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pesta ulang tahun keluarga yang paling berkesan?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada barang dari keluarga yang masih kamu simpan sampai sekarang?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah sadar orang tua mengorbankan sesuatu demi kamu?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada kenangan olahraga atau jalan-jalan bareng keluarga?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Kapan waktu paling akur bareng saudara atau sepupu?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah bersih-bersih besar bareng keluarga?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada momen ketika kamu pertama kali memahami pekerjaan orang tua?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Masih ingat pertama kali makan di luar bareng keluarga?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah kehujanan atau kena cuaca buruk bareng keluarga?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada kenangan jalan-jalan atau perjalanan bareng orang tua yang berkesan?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada hobi yang kamu dapat gara-gara salah satu anggota keluarga?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Kamu tahu momen yang orang tua paling bangga dengan kamu?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Masih ingat pertama kali membelikan hadiah sendiri untuk keluarga?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada kenangan Natal atau akhir tahun yang berkesan bareng keluarga waktu kecil?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Masih ingat pertama kali kamu berani melawan orang tua?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah nemuin bakat tak terduga dari anggota keluarga?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Pernah berterima kasih ke saudara karena sesuatu?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Telepon keluarga yang paling panjang itu membahas apa?",
+    "category": "familyStory"
+  },
+  {
+    "question": "Ada hal dari generasi muda yang sekarang susah kamu pahami?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pernah susah memahami generasi yang lebih tua?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Dari generasi orang tua, hal yang masih berguna sampai sekarang?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada hal yang kamu pelajari dari generasi lebih muda yang ternyata mengejutkan?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Kapan kamu paling merasakan perbedaan generasi?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada tren sekarang yang kamu nggak bisa mengerti?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada hal yang wajar waktu kecil tapi generasi sekarang nggak tahu?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Topik yang paling sering beda pendapat sama orang tua?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pernah ngerasa iri sama anak-anak zaman sekarang? Dalam hal apa?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada hal dari generasi yang lebih tua yang kamu masih belum ngerti?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pernah ada situasi lucu dalam keluarga karena perbedaan generasi?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada cerita lucu waktu orang tua pertama kali mulai pakai smartphone?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada budaya bermain waktu kecil yang anak-anak sekarang nggak kenal?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Dari yang orang tua ajarkan, yang masih kamu rasa benar sampai sekarang?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pernah orang tua nggak bisa mengerti tren atau budaya kamu?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Perbedaan terbesar antara generasi orang tua dan generasi sekarang menurut kamu apa?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Menurut kamu, perbedaan generasi bisa diatasi gimana?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Waktu kecil pernah nggak mau ikutin kata orang tua? Sekarang kamu berpikir apa tentang itu?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada hal dari generasi orang tua yang kamu pikir lebih baik?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada hal dari generasi sekarang yang kamu rasa lebih baik?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Dari nilai-nilai orang tua, yang mana yang kamu warisi?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Dari nilai-nilai orang tua, ada yang pengen kamu ubah?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pernah komunikasi dalam keluarga terasa susah karena perbedaan generasi?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Perasaanmu waktu orang tua bilang 'anak sekarang ya'?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pernah kamu sendiri bilang 'anak sekarang ya'?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada bagian di mana kamu ngerasa generasi orang tua lebih kuat dari kita?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Hal yang generasi muda lebih baik dari generasi orang tua kalau menurutmu?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada upaya dari orang tua untuk memahami budaya zaman sekarang?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Apa yang kamu lakukan untuk berkomunikasi dengan generasi lebih muda?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pernah ada percakapan lintas generasi yang bikin kamu benar-benar bisa relate?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Perasaanmu waktu orang tua mencoba mengikuti tren?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Ada tindakan atau kata orang tua yang baru kamu pahami setelah dewasa?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pernah jadi penghubung antargenerasi dalam keluarga?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Omelan orang tua yang sekarang kamu akui ternyata benar?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Topik yang paling terasa beda generasi dalam keluarga kita?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pandangan orang tua tentang pernikahan dan keluarga, menurutmu gimana?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pandangan generasi muda tentang karier, menurut generasi yang lebih tua seperti apa ya?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Pernah membicarakan media sosial atau YouTube bareng orang tua?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Nilai apa yang pengen kamu wariskan ke generasi berikutnya?",
+    "category": "generationGap"
+  },
+  {
+    "question": "Kalau melampaui perbedaan generasi, ada hal yang bisa kita nikmati bareng sebagai keluarga?",
+    "category": "generationGap"
+  }
+]

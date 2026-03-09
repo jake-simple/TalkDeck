@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Sebelum ke sini, kamu lagi ngapain tadi?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kalau perasaan kamu sekarang digambarkan sebagai cuaca, seperti apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Gimana ceritanya kamu bisa ada di sini hari ini?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Hal pertama yang biasanya kamu perhatiin waktu ketemu orang baru itu apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kalau harus kenalan cuma pake satu kata, kamu pilih kata apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Yang paling kamu tunggu-tunggu dari acara ini apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Sebelum ke sini, kamu bayangin bakal ketemu orang kayak gimana?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Biasanya kamu jadi tipe yang gimana waktu ketemu orang baru?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Ketemu orang baru buat kamu terasa gimana? Seru atau deg-degan?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Tadi pagi bangun, hal pertama yang kamu lakuin apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kalau momen sekarang dijadiin foto, kira-kira komposisinya kayak gimana?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Waktu dalam perjalanan ke sini, kamu lagi mikirin apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Baju yang kamu pakai hari ini mencerminkan mood kamu nggak?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kamu tipe yang cepat nyambung sama orang baru di suatu perkumpulan?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Hal yang paling susah buat kamu waktu pertama ketemu orang baru itu apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Ada nggak hal yang pengen banget kamu omongin di sini hari ini?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kalau harus menggambarkan diri kamu lewat makanan, makanan apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Menurutmu kamu keliatan seperti apa di mata orang-orang di sini?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Waktu pertama ketemu seseorang, hal apa yang pengen kamu tanyain?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kalau kamu nggak ke sini hari ini, kamu lagi ngapain sekarang?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Nama kamu punya arti apa? Kamu suka sama namamu?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Tadi udah makan? Makan apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Suasana di sini sekarang kerasa kayak gimana buatmu?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Ada hal yang pantang kamu lakuin waktu pertama ketemu orang baru?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Terakhir kali ada chat masuk di HP kamu itu dari siapa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Waktu ada waktu luang, kamu biasanya ngapain?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kamu bakal ceritain acara ini ke teman kamu kayak gimana?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kamu cepet deket sama tipe orang yang kayak gimana?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Sebelum ke sini, seberapa excited kamu sama acara ini?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Hari ini ada hal baik yang terjadi nggak?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kalau harus kenalan cuma pake satu kalimat, kalimatnya apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kamu tipe yang jadi pemecah suasana di perkumpulan?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Setelah acara ini selesai, kamu mau ngapain?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Tiga kata yang langsung muncul di pikiran kamu sekarang itu apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Punya cara tersendiri buat cepat akrab sama orang yang baru kamu kenal?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Emoji yang paling sering kamu pakai sekarang apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Di sini, tipe orang yang pertama pengen kamu kenal itu seperti apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Tadi waktu berangkat ke sini, kamu deg-degan nggak?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kalau perasaan kamu sekarang diwakilin sama makanan, makanan apa?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Kalau kamu suka sama kesan pertama seseorang, kamu biasanya gimana?",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "Genre musik yang lagi sering kamu dengerin sekarang apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu minum kopi? Suka yang manis atau pahit?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu makan ayam goreng, bagian mana yang pertama kamu ambil?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu nonton di bioskop, cemilan wajib kamu apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu buka streaming, genre apa yang pertama kamu cari?",
+    "category": "taste"
+  },
+  {
+    "question": "Jajanan jalanan favorit kamu apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu dengerin musik, kamu lebih fokus ke lirik atau melodi?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu lebih suka mi instan rasa apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Lagi suka nonton drama atau acara TV apa sekarang?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu ke kafe, biasanya pesan apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu BBQ-an, kamu lebih suka daging apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Pizza favorit kamu toppingnya apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada lagu yang pasti kamu nyanyiin waktu karaoke?",
+    "category": "taste"
+  },
+  {
+    "question": "Genre film favorit kamu apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu suka baca buku? Genre apa yang kamu suka?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu nongkrong, minuman apa yang paling cocok buat kamu?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu pakai aplikasi streaming musik apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Makanan yang kenyal vs yang renyah, mana yang lebih kamu suka?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu lebih suka makanan manis atau asin?",
+    "category": "taste"
+  },
+  {
+    "question": "Channel YouTube apa yang lagi sering kamu tonton sekarang?",
+    "category": "taste"
+  },
+  {
+    "question": "Pernah jadi fans berat artis atau idol tertentu? Siapa?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu masak mi instan, topping wajib kamu apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Nasi goreng vs mie goreng, kamu team mana?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu suka olahraga? Ada olahraga yang rutin kamu lakuin?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu wisata, kamu lebih suka ke alam atau kota?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu pesan makanan online, kamu selalu cek review dulu?",
+    "category": "taste"
+  },
+  {
+    "question": "Makan malam tengah malam sendirian, menu favoritmu apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada olahraga favorit yang kamu suka tonton atau mainkan?",
+    "category": "taste"
+  },
+  {
+    "question": "Media sosial yang paling sering kamu pakai apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu suka main game? Genre apa yang paling kamu suka?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu belanja, kamu lebih suka online atau langsung ke toko?",
+    "category": "taste"
+  },
+  {
+    "question": "Musim favorit kamu apa? Kenapa?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu pakai parfum? Suka wangi yang kayak gimana?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu di rumah, kamu suka nyalain musik nggak?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu lebih suka gaya yang lucu atau yang stylish?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu bisa masak? Ada masakan andalan kamu?",
+    "category": "taste"
+  },
+  {
+    "question": "Aktivitas di waktu luang yang paling kamu suka apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Pernah nonton musikal atau pertunjukan teater? Tertarik nggak?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu suka foto-foto? Biasanya foto apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu punya gaya fashion favorit?",
+    "category": "taste"
+  },
+  {
+    "question": "Kalau suasana di sini diwakili sama judul lagu, judulnya apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau baju yang kamu pakai hari ini dikasih nama, namanya apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau momen sekarang dijadiin judul film, judulnya apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Tiba-tiba harus jualan sesuatu selama 1 menit, kamu bakal jual apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Pikiran paling aneh yang pernah kamu punya itu apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Perasaan kamu hari ini kalau diumpamain makanan, makanan apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau kamu jadi karakter fiksi, kamu mau punya kekuatan apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Lagu yang lagi jadi soundtrack hidup kamu sekarang apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Wallpaper layar kunci HP kamu sekarang apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau kamu diumpamain sama hewan, kamu hewan apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau kamu tiba-tiba terkenal, kira-kira gara-gara apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau suasana di sini diumpamain sama tanaman, tanaman apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Aplikasi paling aneh yang ada di HP kamu apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Hal yang paling sering kamu pikirin tepat sebelum tidur apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Pikiran pertama waktu bangun tadi pagi itu apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau hidup punya fitur auto-save, momen apa yang bakal kamu simpan?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau ada dress code yang cocok buat acara ini, apa kira-kira?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Tiba-tiba harus syuting iklan, produk apa yang paling cocok buat kamu?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau kamu harus diceritain di kebun binatang, kamu hewan apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau hidup kamu dijadiin acara TV, judulnya apa kira-kira?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kamu yakin bisa bikin orang ketawa dalam 5 detik di sini?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Bakat paling nggak berguna yang kamu punya apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Hal paling random yang pernah kamu ucapkan waktu pertama ketemu orang itu apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Seberapa beda feed Instagram kamu sama kamu yang sebenernya?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau tiba-tiba harus pergi wisata sama orang-orang di sini, hal pertama yang kamu bilang apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kamu punya kebiasaan aneh yang khas banget?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kata-kata yang paling sering dibilangin orang ke kamu itu apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Hari ini ada hal yang kamu lakuin yang paling aneh?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau acara ini dijadiin video YouTube, judulnya apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kesalahan paling kocak yang pernah kamu buat dalam hidup itu apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kombinasi makanan aneh yang paling cocok kamu makan itu apa kira-kira?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Tiba-tiba harus naik panggung, kamu bakal ngapain?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau acara hari ini digambarkan dalam satu peribahasa atau ungkapan, apa yang cocok?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau kamu dijadiin meme sekarang, situasinya gimana?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Ada mimpi paling absurd yang pernah kamu ceritain?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Makanan apa yang paling cocok sama suasana di sini?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Hari ini kamu ngerasa kayak karakter utama yang kayak gimana?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau teman kamu harus mendeskripsikan kamu dalam satu kata, kata apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Pengalaman paling absurd yang pernah terjadi dalam hidup kamu itu apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Kalau sekumpulan orang di sini diumpamain sebagai kelompok hewan, hewan apa?",
+    "category": "funQuestion"
+  },
+  {
+    "question": "Ada sisi kamu yang beda banget dari kesan pertama yang orang tangkap?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Hal tentang kamu yang paling bikin orang terkejut itu apa?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Bagian mana dari diri kamu yang paling beda antara yang keliatan dan yang sebenernya?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada hobi rahasia yang nggak banyak orang tahu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada hal yang kamu jago banget tapi nggak ada yang tahu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada kesalahpahaman yang sering terjadi waktu orang baru kenal kamu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada selera yang nggak nyambung sama penampilan atau vibe kamu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada sisi kamu yang bahkan teman terdekat kamu pun belum tahu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Pernah bertindak di luar karakter kamu sama sekali?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada sisi kamu yang cuma muncul waktu sendirian?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Menurut kamu, daya tarik tersembunyi kamu yang nggak banyak orang tahu itu apa?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Pengalaman paling tak terduga dalam hidup kamu itu apa?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Orang baru biasanya menganggap kamu tipe yang kayak gimana?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada hal yang sebenernya kamu nggak jago tapi sering pura-pura bisa?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Hal paling mengejutkan dari kepribadian kamu itu apa?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada perilaku atau cara bicara kamu yang sering disalahartikan?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada hal yang kamu suka yang nggak sesuai sama usiamu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada hobi yang sama sekali nggak nyambung sama pekerjaan atau jurusan kamu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Sisi kamu yang paling bikin orang di sekitar kamu terkejut itu apa?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Gimana kamu berubah antara pertama ketemu orang dan setelah deket sama mereka?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada sisi kamu yang bahkan kamu sendiri nggak terlalu paham?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada hal yang mengejutkan yang sebenernya kamu takutin?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada genre musik yang kamu suka tapi nggak nyambung sama image kamu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Kebiasaan paling aneh yang kamu sadari dari diri sendiri itu apa?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada reaksi kamu yang selalu bikin orang sekitar nggak nyangka?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada fakta salah tentang kamu yang sering beredar?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada hal yang ternyata kamu pikirkan sangat serius?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Orang yang paling kenal kamu, tahu sisi kamu yang seperti apa?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada impian yang nggak ada yang bakal nebak dari penampilan kamu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada perilaku kamu yang bahkan kamu sendiri merasa itu di luar kebiasaanmu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada pertanyaan yang kamu rasa nggak ada yang bakal pernah tanyain ke kamu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada ciri khas kamu yang susah banget ketahuan waktu pertama kenal?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada hal yang orang lain gampang lakuin tapi kamu justru susah banget?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada julukan atau nickname kamu yang mungkin mengejutkan?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada hal yang kalau kamu bilang suka, orang bakal heran?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada momen di mana kamu deg-degan tapi nggak pernah keliatan dari luar?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Kalau orang kenal kamu lebih dalam, sisi mana dari kamu yang bakal bikin mereka makin suka?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Ada hal yang ternyata kamu perhatiin banget tanpa orang lain tahu?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Perbedaan terbesar antara kamu di media sosial dan kamu yang sesungguhnya itu apa?",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "Pekerjaan apa yang paling nggak akan orang tebak dari penampilan kamu?",
+    "category": "unexpectedSide"
+  }
+]

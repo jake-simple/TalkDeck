@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Momen paling menggemaskan dari anak kita belakangan ini?",
+    "category": "parenting"
+  },
+  {
+    "question": "Momen paling membanggakan selama mengasuh anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Waktu anak pertama kali panggil 'Mama' atau 'Papa', rasanya gimana?",
+    "category": "parenting"
+  },
+  {
+    "question": "Coba ceritain momen pertama kali anak kita bisa berjalan",
+    "category": "parenting"
+  },
+  {
+    "question": "Sekarang permainan favorit anak kita apa?",
+    "category": "parenting"
+  },
+  {
+    "question": "Belakangan ini ada kata-kata atau tingkah anak yang bikin kita ketawa?",
+    "category": "parenting"
+  },
+  {
+    "question": "Ada hal yang kamu ajarkan ke anak dan paling cepat ditiru?",
+    "category": "parenting"
+  },
+  {
+    "question": "Perkembangan anak belakangan ini yang paling bikin kamu kaget?",
+    "category": "parenting"
+  },
+  {
+    "question": "Anak paling lucu waktu mengekspresikan perasaan apa?",
+    "category": "parenting"
+  },
+  {
+    "question": "Kamu punya rutinitas khusus waktu menidurkan anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Mainan atau benda favorit anak kita apa?",
+    "category": "parenting"
+  },
+  {
+    "question": "Cara paling ampuh untuk menenangkan anak kita?",
+    "category": "parenting"
+  },
+  {
+    "question": "Permainan yang paling seru waktu kamu main sama anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Tingkah lucu yang sering anak lakuin belakangan ini?",
+    "category": "parenting"
+  },
+  {
+    "question": "Masih ingat waktu anak pertama kali senyum? Waktu itu rasanya gimana?",
+    "category": "parenting"
+  },
+  {
+    "question": "Waktu pertama kali menggendong anak, kamu kepikiran apa?",
+    "category": "parenting"
+  },
+  {
+    "question": "Momen paling tenang dalam keseharian bareng anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Pengalaman paling berat waktu anak sakit?",
+    "category": "parenting"
+  },
+  {
+    "question": "Ada cerita di balik pemilihan nama anak kita?",
+    "category": "parenting"
+  },
+  {
+    "question": "Reaksi anak waktu pertama kali mencoba makanan itu gimana?",
+    "category": "parenting"
+  },
+  {
+    "question": "Hari pertama anak ke tempat penitipan atau PAUD, kamu rasanya gimana?",
+    "category": "parenting"
+  },
+  {
+    "question": "Hal yang paling tak terduga yang kamu pelajari dari anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Pernah anak bikin kamu terharu di momen yang nggak kamu duga?",
+    "category": "parenting"
+  },
+  {
+    "question": "Foto bareng anak yang paling kamu suka itu yang mana?",
+    "category": "parenting"
+  },
+  {
+    "question": "Pernah tiba-tiba kaget melihat anak tumbuh cepat banget?",
+    "category": "parenting"
+  },
+  {
+    "question": "Perjalanan pertama bareng anak gimana rasanya?",
+    "category": "parenting"
+  },
+  {
+    "question": "Reaksi anak waktu pertama kali ke kolam renang atau pantai?",
+    "category": "parenting"
+  },
+  {
+    "question": "Ulang tahun pertama anak kita dirayakan gimana?",
+    "category": "parenting"
+  },
+  {
+    "question": "Waktu anak pertama kali bermain sama teman sebaya, rasanya gimana?",
+    "category": "parenting"
+  },
+  {
+    "question": "Pernah ketiduran duluan waktu nemenin anak tidur?",
+    "category": "parenting"
+  },
+  {
+    "question": "Kamu punya gaya foto selfie khusus sama anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Ada makanan yang pengen kamu masak khusus buat anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Lagu yang paling sering kamu nyanyikan bareng anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Waktu anak pertama kali buka buku sendiri, rasanya gimana?",
+    "category": "parenting"
+  },
+  {
+    "question": "Ada cerita seru dari Lebaran pertama atau perayaan pertama anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Ada cerita lucu anak waktu naik kendaraan umum?",
+    "category": "parenting"
+  },
+  {
+    "question": "Hal yang paling mengejutkan yang kamu pelajari selama membesarkan anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Perasaan kamu waktu anak pertama kali bilang 'nggak mau'?",
+    "category": "parenting"
+  },
+  {
+    "question": "Pernah ngerasa bersalah ke anak?",
+    "category": "parenting"
+  },
+  {
+    "question": "Satu hal yang paling pengen kamu ajarkan ke anak waktu dia besar?",
+    "category": "parenting"
+  },
+  {
+    "question": "Setelah ada anak, kamu nemuin sisi baru dari pasangan yang menarik?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Pernah terharu lihat pasangan ngurusin anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Pertengkaran terbesar gara-gara urusan anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Sejak ada anak, topik obrolan kita berubah gimana?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Cara ngasuh anak kita pernah berbeda? Gimana cara nyamainnya?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Pernah bicara jujur soal pembagian tugas ngasuh anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Sejak ada anak, gimana cara kita tetap punya waktu berdua?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Momen pasangan ngurusin anak yang paling berkesan buat kamu?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Pernah jatuh cinta lagi sama pasangan gara-gara cara dia ngurusin anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Sejak ada anak, bagian dari kita yang paling serasi apa?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Sejak ada anak, kamu ngerasa kita lebih dekat dibanding sebelumnya?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Soal pendidikan anak, pernah beda pendapat sama pasangan?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Waktu ngasuh anak, pernah ngerasa bikin pasangan kecewa?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Keputusan untuk anak yang paling bikin kita bangga kita lakuin bareng?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Pernah bertengkar di depan anak? Waktu itu kamu kepikiran apa?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Pernah ngerasa minta maaf ke pasangan gara-gara urusan ngasuh anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Hal apa dari pasangan yang pengen kamu tiru dalam membesarkan anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Kita punya prinsip pengasuhan sendiri nggak? Apa itu?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Kalau dikasih nilai, tim parenting kita dapat berapa?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Sejak ada anak, hal yang paling bikin kamu berterima kasih ke pasangan apa?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Episode terbaru yang bikin kita ketawa bareng soal anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Waktu waktu berdua berkurang karena anak, gimana cara kalian mengatasinya?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gimana cara kamu memerhatikan pasangan waktu dia lelah atau susah?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Ada bagian kita yang tumbuh bareng karena pengalaman ngasuh anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Setelah anak tidur, kita biasanya ngapain?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Gimana cara kita menyamakan pendapat waktu beda pandangan soal anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Momen waktu ngasuh anak yang paling bikin kamu ngerasa pasangan itu sandaran kuat?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Sejak ada anak, ada rutinitas baru yang kita buat?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Momen paling berkesan membesarkan anak bareng pasangan?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Ada kode atau ungkapan khusus yang kita buat dalam proses ngasuh anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Perubahan paling positif yang dibawa anak dalam hubungan kita?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Momen waktu kamu ngerasa nilai pengasuhan kita sama?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Sejak ada anak, hal baru yang kamu tahu tentang pasangan?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Hal yang makin penting dalam hubungan kita sejak ada anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Kamu ngerasa anak bikin hubungan kita makin kuat?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Pernah berpikir tentang makna membesarkan anak bareng pasangan?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Ada hal yang pengen kamu sampaikan ke pasangan soal ngasuh anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Sejak ada anak, gimana cara pandangmu ke pasangan berubah?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Ada sosok yang pengen kita tunjukkan ke anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Satu hal yang masih kamu syukuri dari yang pasangan lakukan dalam pengasuhan anak?",
+    "category": "coupleLife"
+  },
+  {
+    "question": "Jujur, pernah ngerasa pengen kabur karena pengasuhan terasa terlalu berat?",
+    "category": "hardships"
+  },
+  {
+    "question": "Momen paling menguras fisik selama ngasuh anak?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hari paling berat waktu anak terus-terusan bangun malam?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah merasa berat karena nggak punya waktu untuk diri sendiri dalam pengasuhan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah nggak bisa mengontrol emosi waktu bareng anak?",
+    "category": "hardships"
+  },
+  {
+    "question": "Sejak jadi orang tua, pernah ngerasa identitas dirimu goyah?",
+    "category": "hardships"
+  },
+  {
+    "question": "Bagian yang paling susah dalam menyeimbangkan pengasuhan dan pekerjaan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Waktu anak sakit dan kamu nggak bisa berbuat banyak, pernah ngerasa nggak berdaya?",
+    "category": "hardships"
+  },
+  {
+    "question": "Momen paling kesepian selama ngasuh anak?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah pengen balik jadi 'kamu' bukan sebagai orang tua?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah ngerasa murung atau kehilangan semangat waktu ngasuh anak? Gimana mengatasinya?",
+    "category": "hardships"
+  },
+  {
+    "question": "Waktu marah atau teriak ke anak, perasaanmu gimana?",
+    "category": "hardships"
+  },
+  {
+    "question": "Periode paling kekurangan tidur yang berat itu kapan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Hal yang paling kamu sesali harus dikorbankan karena pengasuhan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah khawatir apakah kamu sudah menjadi orang tua yang baik?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah ada yang bikin kamu kecewa dari pasangan dalam pengasuhan tapi nggak bisa diucapkan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah ada konflik sama orang sekitar gara-gara urusan anak?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gimana cara kamu bertahan di masa pengasuhan paling berat?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah sempat menunda mimpi atau tujuanmu sendiri karena ngasuh anak?",
+    "category": "hardships"
+  },
+  {
+    "question": "Waktu anak nangis nggak berhenti meski sudah ditenangkan, perasaanmu gimana?",
+    "category": "hardships"
+  },
+  {
+    "question": "Gimana cara kamu mengeluarkan stres dari pengasuhan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Sejak ada anak, pernah ngerasa kesehatan kamu memburuk?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah kecewa sama diri sendiri dalam pengasuhan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah merasa terbebani sama saran atau campur tangan orang lain soal pengasuhan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah ada perasaan yang kamu simpan sendiri tanpa bilang ke pasangan dalam pengasuhan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Momen yang bikin kamu sadar membesarkan anak jauh lebih sulit dari bayangan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Momen paling membingungkan di awal jadi orang tua?",
+    "category": "hardships"
+  },
+  {
+    "question": "Perasaan yang paling sering kamu tahan dalam pengasuhan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Waktu paling menakutkan saat harus bawa anak ke dokter atau rumah sakit?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah nggak sempat merawat kesehatan diri sendiri karena ngasuh anak?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah ada situasi yang bikin kamu minta maaf ke anak karena terpaksa?",
+    "category": "hardships"
+  },
+  {
+    "question": "Momen tekanan finansial yang paling kamu rasakan sejak ada anak?",
+    "category": "hardships"
+  },
+  {
+    "question": "Situasi yang paling kamu takutkan sebagai orang tua itu apa?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah ngerasa terisolasi secara sosial karena pengasuhan?",
+    "category": "hardships"
+  },
+  {
+    "question": "Membesarkan anak bikin kekurangan dirimu jadi lebih terlihat?",
+    "category": "hardships"
+  },
+  {
+    "question": "Momen paling nggak bisa mengontrol emosi dalam pengasuhan? Waktu itu kamu ngapain?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pernah ngerasa pengen ada yang menemani, tapi nggak ada?",
+    "category": "hardships"
+  },
+  {
+    "question": "Seiring anak tumbuh, kekhawatiranmu bertambah atau berkurang?",
+    "category": "hardships"
+  },
+  {
+    "question": "Bisa ceritain jujur bagian yang paling berat dari pengasuhan sekarang?",
+    "category": "hardships"
+  },
+  {
+    "question": "Pikiran atau perasaan yang paling bikin kamu lelah dalam pengasuhan itu apa?",
+    "category": "hardships"
+  },
+  {
+    "question": "Satu hal yang paling kamu syukuri sejak anak lahir?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Momen yang paling bikin kamu berterima kasih ke pasangan selama ngasuh anak?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Karena anak, ada hal berharga yang baru kamu sadari?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada pelajaran hidup yang anak ajarkan ke kamu?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Sejak jadi orang tua, ada hal yang bikin kamu lebih bersyukur ke orang tuamu sendiri?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Momen paling terakhir yang bikin kamu ngerasa bahagia karena punya anak?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Hal yang paling kamu syukuri dari yang pasangan lakukan untuk anak?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Makna hidupmu berubah setelah membesarkan anak?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Dari orang sekitar, siapa yang paling banyak membantu pengasuhan dan paling kamu syukuri?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Coba deskripsiin perasaanmu waktu anak senyum ke kamu",
+    "category": "gratitude"
+  },
+  {
+    "question": "Bagian mana dari dirimu yang kamu rasa tumbuh karena pengasuhan?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Pernah satu kata dari anak mengubah harimu jadi lebih baik?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Sisi pasangan yang makin kamu syukuri karena membesarkan anak bareng?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Karena ada anak, kamu jadi lebih semangat menjalani hidup?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Coba ungkapkan perasaanmu waktu anak memeluk kamu",
+    "category": "gratitude"
+  },
+  {
+    "question": "Pernah ada momen waktu ngasuh anak yang bikin dunia terlihat lebih indah?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada hal baru yang kamu syukuri karena anak bawa kamu ke pengalaman itu?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Momen yang paling bikin kamu ngerasa kehadiran anak itu hadiah terbesar?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Sekarang kalau mau ngucapin terima kasih ke pasangan, kamu mau bilang apa?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Waktu anak pertama kali memelukmu, perasaanmu gimana?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Karena anak, ada hal yang bikin kamu nggak menyerah?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Kecepatan hidup yang berubah karena pengasuhan justru terasa sebagai berkah?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Perasaan yang muncul waktu melihat wajah anak yang sedang tidur?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Hal yang lebih baik dalam membesarkan anak karena kita lakuin bareng pasangan?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Karena ada anak, ada bagian dari dirimu yang makin berani?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Perubahan terbesar dalam dirimu sejak jadi orang tua yang paling kamu syukuri?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Waktu anak pertama kali bilang 'aku sayang kamu', perasaanmu gimana?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Momen waktu kamu ngerasa 'benar-benar bersyukur ada kamu di sini' ke pasangan dalam pengasuhan?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Nilai paling berharga yang anak ajarkan ke kamu?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada hubungan yang makin dalam karena pengalaman ngasuh anak?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Waktu anak bahagia karena hal-hal kecil, perasaanmu gimana?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Satu hal yang paling kamu syukuri setelah jadi orang tua?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ceritain momen pengasuhan yang paling berkesan belakangan ini",
+    "category": "gratitude"
+  },
+  {
+    "question": "Karena anak, ada rasa syukur baru yang muncul ke pasangan?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada momen ketika keberadaan anak saja sudah cukup?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada pengalaman pengasuhan yang berat waktu itu tapi sekarang justru kamu syukuri?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Anak, pasangan, keluarga ini — artinya apa dalam hidupmu?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Kamu sadar nggak betapa berharganya waktu ini sebagai orang tua?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Hal yang paling kamu syukuri dalam membesarkan anak itu apa?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Terakhir kali kamu bilang terima kasih ke pasangan itu kapan?",
+    "category": "gratitude"
+  }
+]

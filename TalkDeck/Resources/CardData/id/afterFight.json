@@ -1,0 +1,962 @@
+[
+  {
+    "question": "Kalau perasaan kamu sekarang digambarkan sebagai cuaca, kira-kira seperti apa?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Ada nggak satu momen hari ini yang bikin kamu merasa senang?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Sekarang lagi pengen makan apa?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Setelah tarik napas dalam, kondisi badan kamu sekarang gimana?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Waktu bangun pagi tadi, perasaan kamu gimana?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Belakangan ini ada konten yang lagi sering kamu tonton?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Sekarang yang paling kamu butuhkan apa? Air? Kopi? Cokelat?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kejadian lucu apa yang baru-baru ini bikin kamu ketawa?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Masih inget nggak waktu kita pertama ketemu?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Sekarang pemandangan di luar jendela kayak gimana?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Musim favorit kamu apa? Kenapa suka?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Ada lagu yang lagi sering kamu dengerin dan pengen kamu rekomendasiin?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Semalam tidurnya nyenyak?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kalau lagi stres, cara kamu buat ngilanginnya gimana?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kalau sekarang bisa pergi ke mana aja, kamu mau ke mana?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Dari semua waktu yang kita habiskan bareng, kapan yang paling nyaman buat kamu?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Biasanya kalau lagi marah, kamu ngeredainnya gimana?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kalau perasaan kamu sekarang diwakilin sama satu warna, warna apa?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Belakangan ini sempet jalan-jalan atau menghirup udara segar nggak?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Waktu kecil, kalau marah kamu biasanya ngapain?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Sekarang paling kangen sama siapa?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kamu tau kan kalau kamu bisa ngomong apa aja ke aku dengan santai?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Belakangan ini tidurnya gimana, nyenyak?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Coba sebutin satu hal yang kita berdua sama-sama suka?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Setelah berbaikan, kamu pengen ngapain?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kamu tau nggak kalau berani mulai ngobrol kayak gini itu keren banget?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Momen terakhir kita ketawa bareng itu kapan ya?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kalau emosi lagi meluap-luap, kamu butuh waktu buat sendiri dulu nggak?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Lapar nggak sekarang? Mau makan sesuatu dulu?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kapan momen yang paling bikin kamu bersyukur punya hubungan ini?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kalau perasaan kamu sekarang diekspresiin pake satu emoji, emoji apa?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Waktu lagi marah, kamu lebih suka sendiri atau ditemani?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Ada nggak orang yang baru-baru ini bikin kamu ketawa?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kalau sekarang mau dengerin lagu, lagu apa yang kamu pilih?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Masih inget waktu kita pertama kali deket?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Perasaan kamu udah agak lega?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Menurut kamu, marahin seseorang itu juga bentuk kepedulian nggak?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Cuaca di luar gimana hari ini?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Sambil minum teh atau kopi, ngobrol bareng yuk?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kamu tau kan kalau kamu orang yang penting banget buat aku?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Makasih ya udah mau duduk di sini bareng aku",
+    "category": "coolDown"
+  },
+  {
+    "question": "Hari ini makan apa yang paling enak?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Istirahat dulu bentar, terus lanjut ngobrol lagi yuk?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Selain marah ke aku, ada perasaan lain yang kamu rasain nggak?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kalau situasi ini dijadiin judul film, judulnya apa kira-kira?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Waktu kita canggung, biasanya siapa yang duluan nyapa?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Ada sesuatu yang pengen kamu bilang ke aku sekarang?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Boleh nggak kita berterima kasih ke orang yang ngeluarin kartu ini?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Sekarang yang paling kamu butuhin itu ngobrol atau waktu sendiri?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kapan kamu ngerasa kita paling cocok satu sama lain?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kalau perasaan kamu udah mendingan, hal pertama yang pengen kamu lakuin apa?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kalau bisa ngulangin hari ini dari awal, kamu mau ngapain?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Mau coba tutup mata dan istirahat 3 detik?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Ada kata atau frasa yang bisa langsung bikin kamu tenang?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Jangan-jangan kita berdua emang lagi sama-sama kelelahan?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Bisa nggak kita ketemu titik lucunya dari situasi ini?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Mau coba pegang tangan sebentar?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Beda itu bukan hal yang buruk, kan?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Kita pernah melewati masa sulit bareng sebelumnya, inget nggak?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Menurut kamu, oke nggak kalau ini belum selesai sekarang?",
+    "category": "coolDown"
+  },
+  {
+    "question": "Sekarang perasaan terbesar yang ada di dalam hati kamu apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kamu bisa bedain nggak, ini perasaan marah, kecewa, atau sedih?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Momen yang paling bikin kamu sakit hati itu kapan?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Rasanya kamu tanpa sadar ngucapin kata-kata yang menyakiti orang lain?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Sebenernya yang kamu pengenin itu apa sih?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Alasan sebenarnya kamu marah itu apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ada bagian dari perasaan ini yang susah kamu ungkapin pake kata-kata?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Dalam situasi ini, kamu pengen diperlakukan seperti apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Jangan-jangan ini luapan dari sesuatu yang udah lama kamu tahan?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ada nggak bagian di mana kamu ngerasa reaksi kamu terlalu sensitif?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Perasaan ini udah menumpuk dari kapan kira-kira?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Biasanya dalam situasi kayak gini, kamu ngerasain perasaan apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Mungkin cara bicara kamu tadi terasa menyerang buat dia?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Jujur, ada rasa takut juga nggak?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Harapan kamu dalam situasi ini terlalu besar, atau wajar?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kamu ngerasa nilai yang penting buat kamu diabaikan?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ada bagian dari perasaan kamu yang belum kamu ungkapin sepenuhnya?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ada kata-kata yang kamu sesali setelah ngomong waktu marah?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Dari perasaan yang kamu rasain sekarang, ada yang mungkin belum diketahui orang lain?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Gimana cara terbaik buat nyampaiin perasaan ini?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ada momen di mana kamu ngerasa reaksi kamu terlalu defensif?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Jangan-jangan yang lebih besar itu bukan marah, tapi kecewa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Reaksi seperti apa yang kamu harapkan dari dia?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Mungkin perasaan ini sebagian juga berasal dari dalam diri kamu sendiri?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kalau harus menjelaskan situasi ini ke orang lain, kamu bakal bilang apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kamu sendiri heran nggak kenapa bisa semarah ini?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Perasaan ini bikin kamu nggak suka sama diri sendiri?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Yang bikin sedih itu kejadiannya atau caranya?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kamu ngerasa kamu juga ada salah di sini?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Pernah ngerasain perasaan yang serupa sebelumnya?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ada keluhan yang selama ini kamu pendam?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Di balik perasaan ini, sebenernya kamu pengen apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Dalam situasi konflik, kamu biasanya nunjukin pola seperti apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Mungkin yang kamu maksud nggak tersampaikan dengan baik?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Sekarang ada perasaan pengen nangis nggak?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Dalam situasi ini, hal yang paling kamu takutin apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ada rasa cemas tertentu yang kamu rasain dalam hubungan ini?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Marah-marahan itu sendiri melelahkan nggak buat kamu?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kenapa susah buat kamu ngomong perasaan dengan jujur?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Bagian mana dari diri kamu yang paling butuh dihibur sekarang?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kamu tipe orang yang gampang minta maaf?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ada pelajaran yang bisa kamu ambil dari situasi ini?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ego kamu lagi menghalangi kamu buat ngungkapin perasaan?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Jujur, sekarang ada rasa kesepian juga nggak?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Apa yang bikin kamu susah buat duluan nyamperin?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Perasaan ini bakal kebawa sampai besok nggak kira-kira?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Setelah konflik, kamu pengen jadi orang yang seperti apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kalau perasaan kamu dikasih nama, namanya apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Perasaan ini coba ngasih tau kamu apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Jangan-jangan bukan marah, tapi sebenernya kamu khawatir?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ada bagian dari perasaan kamu yang pengen diakui dan dipahami?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kalau tingkat berat hatimu sekarang diangkain dari 1 sampai 10, angkanya berapa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Ada nggak momen di mana kamu ngomong sesuatu dan langsung nyesel?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Sebenernya kamu pengen denger kata-kata apa dari dia?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Menanggung perasaan ini sendirian terasa berat nggak?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Cara yang paling nyaman buat kamu dalam mengekspresikan perasaan itu gimana?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kalau situasi ini kamu lihat lagi seminggu kemudian, rasanya gimana ya?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kamu tau nggak titik mana yang paling bikin kamu gampang terluka?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Satu kalimat yang paling kamu butuhin sekarang itu apa?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Setelah perasaan ini berlalu, kira-kira gimana rasanya?",
+    "category": "myFeelings"
+  },
+  {
+    "question": "Kenapa ya dia ngomong kayak gitu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Coba bayangin situasi ini dari sudut pandang dia, gimana kira-kira?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Dia mungkin lagi kesulitan juga dalam hal tertentu kan?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Sebenernya yang pengen dia sampein itu apa?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kira-kira kamu keliatan seperti apa dari mata dia?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Bagian mana yang paling bikin dia kecewa?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Ada nggak bagian dari yang dia bilang yang ada benernya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Dia mungkin juga lagi seberat kamu nggak?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Belakangan ini ada nggak hal yang bikin dia stres?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Dia sebenarnya ngarepain apa dari kamu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Ada nggak saat kamu nggak ngehirauin perasaan dia?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Alasan sebenarnya dia marah itu apa kira-kira?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kalau dipikir dari kepribadiannya, ada nggak bagian yang masuk akal?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kata-kata kamu tadi mungkin terdengar bagaimana di telinganya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Ada alasan nggak kenapa dia jadi defensif?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Mungkin pengalaman masa lalunya ikut pengaruhi reaksinya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Ada perasaan yang belum sempat dia ungkapin?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Jangan-jangan niat baik dia yang nggak kamu tangkap?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Apa ini pertama kalinya dia ngerasa kecewa sama kamu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Mungkin dia sebenernya mau minta maaf tapi susah ngomongnya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Perubahan apa yang paling dia harapkan dari kamu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Cara dia ngungkapin perasaan bisa jadi beda banget sama cara kamu, kan?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kalau dia ceritain situasi ini ke teman, kira-kira dia bakal bilang apa?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kamu pengen nggak dengerin sudut pandangnya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Bisa sebutin satu hal yang kamu syukuri tentang dia?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Ada nggak hal yang selama ini dia tahan demi kamu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kalau fokusnya bukan ke cara bicaranya, tapi ke isinya, gimana menurutmu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kira-kira perasaan dia sekarang gimana?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kapan terakhir kali kamu nunjukin ke dia kalau dia berarti buat kamu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kekurangan dia mungkin sisi lain dari kelebihan yang kamu suka dari dia?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Dia pengen kamu berubah, atau pengen dimengerti?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Di balik sikapnya, mungkin ada rasa cemas yang dia pendam?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Dia juga peduli sama hubungan ini nggak ya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Ada nggak yang pengen dia sampein ke kamu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kamu udah cukup perhatiin dia belakangan ini?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Jangan-jangan kamu nggak ngeh kalau dia lagi kesulitan?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Ada nggak bagian di mana dia udah capek nyesuain diri sama kamu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Bisa coba ceritain situasi ini dari perspektif dia?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Reaksi dia mungkin bukan sepenuhnya karena kamu lho?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Hal apa yang paling dia pengen diakui oleh kamu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Dari kata-katanya, bisa nggak kamu lihat kekhawatiran di balik rasa sakitnya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Pernah nggak kamu anggap usahanya sebagai hal yang biasa aja?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Harapannya ke kamu itu terlalu besar, atau wajar?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kenapa dia menyembunyikan perasaannya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Mungkin kamu nggak sengaja menyentuh titik lemahnya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Hal apa dari diri kamu yang biasanya dia syukuri?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Ada bagian dari hubungan ini yang mungkin juga nggak mudah buatnya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Permintaan maaf seperti apa yang dia harapkan dari kamu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Belakangan ini pernah nggak kamu dengerin dia sampai selesai?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Hal yang paling dia takutin dalam situasi ini apa kira-kira?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Dia juga mau mempertahankan hubungan ini kayak kamu nggak ya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Ada nggak momen di mana kamu kurang perhatian ke dia?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Bisa sebutin tiga hal baik tentang dia?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Sekarang, hal apa yang paling dia pengen denger dari kamu?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kamu bisa bilang kalau kamu 100% ngerti perasaannya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Mungkin dia udah coba berubah tapi kamu nggak ngelihatnya?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Kapan dia paling keliatan bahagia?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Buat ngerti sudut pandangnya, kamu perlu tau apa lagi?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Dia juga pengen nggak ya ngobrol kayak gini?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Pernah nggak kamu ngerasa betapa berartinya kamu buat dia?",
+    "category": "yourSide"
+  },
+  {
+    "question": "Ada nggak yang bisa kita pelajari dari kejadian ini?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kalau situasi serupa terjadi lagi, menurut kamu kita sebaiknya gimana?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Ada nggak bagian yang bisa kamu mulai dengan minta maaf duluan?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Supaya komunikasi kita lebih baik, kita perlu ngapain?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kejadian ini bisa bikin hubungan kita makin kuat nggak ya?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kalau masing-masing bisa janji satu hal, kamu mau janjiin apa?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Dari cara kita menyelesaikan konflik, ada yang perlu diperbaiki nggak?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Setelah berbaikan, kita mau ngapain bareng?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Bisa kasih tau hal yang bikin kamu beneran bersyukur ada dia?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Bagian mana dari hubungan ini yang bisa kamu usahain lebih?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Gimana cara kita saling menghormati cara masing-masing mengekspresikan perasaan?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Lain kali kalau mulai marah, sinyal apa yang mau kamu kasih?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Gimana kalau kita bikin ritual berbaikan kita sendiri?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Mau jujur bilang satu hal yang kamu harapkan dari satu sama lain?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Waktu terbaik dalam hubungan kita itu kapan?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Yang kamu pengen dari dia sama nggak dengan yang bisa kamu kasih ke dia?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Gimana kalau kita sepakat buat kasih waktu jeda waktu emosi mulai panas?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Ada topik yang sebaiknya lebih sering kita bahas?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kamu bisa bilang 'maaf' ke dia?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Bisa ceritain kenapa hubungan ini penting banget buat kamu?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kalau konflik serupa muncul lagi, bisa nggak kita tanya dulu sebelum bereaksi?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Gimana kalau kita bikin aturan main waktu emosi lagi berbenturan?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Ada bagian dari diri dia yang masih susah kamu terima apa adanya?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Hal yang paling pengen kamu jaga dalam hubungan ini apa?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Mau sebutin tiga hal yang kamu syukuri tentang dia?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Ada bagian dari kejadian ini yang bikin kamu berkembang?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Gimana supaya kita bisa saling ngerti 'titik sensitif' masing-masing?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Gimana kalau kita sepakat punya 'kata sandi' kalau emosi mulai memuncak?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Menurutmu apa kekuatan terbesar dalam hubungan kita?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kamu bisa akui usaha yang dia lakuin?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kalau lihat balik situasi ini setahun lagi, kamu bakal ngerasa gimana?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Apa yang kita masing-masing butuhin supaya bisa lebih terbuka satu sama lain?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Krisis terbesar yang pernah kita lewatin bareng itu apa?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Daripada nunggu dia berubah, apa yang bisa kamu ubah duluan?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Ada cara yang lebih baik buat kita selesaiin perbedaan pendapat?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Langkah kecil apa yang bisa kita lakuin sekarang buat masa depan yang lebih baik?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kamu bisa bilang 'aku sayang kamu' atau 'kamu berarti banget buat aku' ke dia?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Hubungan ini udah bikin kamu berkembang dalam hal apa?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Gimana kalau kita rutin punya waktu khusus buat saling ngecek perasaan?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Menurutmu apa langkah pertama dalam proses berbaikan?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Ada hal yang mungkin nggak bakal kamu tau kalau kejadian ini nggak pernah terjadi?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kita bisa lebih banyak beri keringanan ke satu sama lain nggak?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Hal apa yang pengen kita lakuin bareng?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Gimana rasanya kalau dia bilang 'aku ngerti'?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kalau harus gambarkan hubungan ini dalam satu kata, kata apa?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kamu setuju nggak kalau konflik itu bagian dari hubungan?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Obrolan hari ini punya arti apa buat kita?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Apa yang bisa kita lakuin buat lebih saling memahami?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Apa yang kita butuhin buat bisa lebih bahagia ke depannya?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Mau pelukan sekarang?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kamu yakin kita bisa melewati ini bareng?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kita bisa berjanji buat lebih fokus ke hal-hal baik dari satu sama lain?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kamu rasa kita bisa ketawa bareng lagi?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Besok pagi waktu bangun, hal pertama yang pengen kamu bilang apa?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Mau pikirin sebentar kenapa kita memilih buat ada bersama?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Alasan kamu bilang dia orang terbaik itu apa?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kejadian ini bisa jadi awal hubungan kita yang lebih baik nggak ya?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Gimana kalau kita coba tulis surat buat satu sama lain?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Sebelum tidur malam ini, ada yang pengen kamu sampein ke dia?",
+    "category": "makingUp"
+  },
+  {
+    "question": "Kita bakal baik-baik aja kan?",
+    "category": "makingUp"
+  }
+]

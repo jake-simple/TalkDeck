@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Aku mau cerita satu hal yang belakangan ini bikin aku bersyukur sama kamu",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Di rumah, siapa yang lebih jago ngapain vs kamu lebih jago ngapain?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Momen paling damai di rumah kita itu kapan?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ada hal yang selalu kita beda pendapat waktu belanja bareng?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Makanan yang paling terakhir kamu makan diam-diam tanpa bilang pasangan apa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ada barang khusus pasangan yang selalu ada di kulkas kita?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Kata atau ungkapan yang paling sering pasangan ucapkan belakangan ini?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Coba ceritain urutan rutinitas pasangan setelah pulang kerja",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Makanan pesan antar yang paling sering kita pesan apa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Momen paling santai dan nyaman waktu kita bareng itu kapan?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ketika pasangan stres, ada gerakan atau kebiasaan yang muncul tanpa sadar?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Perang suhu AC atau kipas angin kita gimana?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Sabtu pagi, hal pertama yang pasangan lakukan apa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pasangan punya kebiasaan unik yang selalu muncul waktu masak?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Remote TV di rumah kita dikuasai siapa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Waktu bersih-bersih bareng, pembagian tugasnya gimana?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Menurut kamu, aplikasi apa yang paling sering pasangan pakai di HP?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Di rumah, siapa yang paling sering buang sampah? Jujur ya!",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Waktu pasangan lagi bahagia, gerakan atau kebiasaan yang muncul tanpa sadar apa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Sejak tinggal bareng, ada kebiasaan pasangan yang nular ke kamu?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Waktu kita berdua scrolling HP sambil ketawa, biasanya lagi lihat apa?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Rutinitas yang pasangan lakuin tepat sebelum tidur ada nggak?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Pembagian wilayah kasur kita gimana?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Waktu pasangan marah, ada pola tingkah laku yang selalu sama?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Barang atau alat rumah tangga yang paling banyak dibeli sejak menikah?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Panggilan sayang kita berubah-ubah tergantung situasi?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ada tanda yang bisa kamu baca dari pasangan waktu baru pulang kerja?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ada barang pasangan yang diam-diam pengen kamu buang?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Hal yang hanya aku perhatiin tapi pasangan sama sekali nggak?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Gaya alarm pagi pasangan gimana? Sama atau beda sama kamu?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Kebiasaan hidup pasangan yang paling bikin kamu kaget waktu pertama tinggal bareng?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Satu selera kehidupan sehari-hari yang paling cocok antara kita?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Ekspresi atau tingkah pasangan waktu kelelahan yang khas?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Belakangan ini ada hobi baru yang pasangan mulai tekuni?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Toko atau warung langganan di deket rumah yang paling sering kita datangi?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Omelan yang paling sering pasangan sampaikan ke aku?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Dari dua kita, siapa yang paling semangat buka paket kiriman?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Waktu sakit, pasangan tipe yang diam-diam menanggung atau yang lebay?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Urutan persiapan pagi kita gimana?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Sejak tinggal bareng, ada kode atau panggilan khusus yang kita buat?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "Kesan pertamamu waktu pertama kali ketemu pasangan sebelum menikah?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu dilamar (atau melamar), isi hati yang sebenarnya gimana?",
+    "category": "memories"
+  },
+  {
+    "question": "Adegan yang paling kamu ingat dari hari pernikahan kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada momen paling canggung di awal pernikahan kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Pertengkaran pertama yang cukup besar sama pasangan, masih ingat? Apa yang kamu pelajari?",
+    "category": "memories"
+  },
+  {
+    "question": "Hal yang paling berat selama persiapan pernikahan dulu?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada episode seru waktu pertama kali kita mendekorasi rumah bareng?",
+    "category": "memories"
+  },
+  {
+    "question": "Lebaran atau hari raya pertama setelah menikah, rasanya gimana?",
+    "category": "memories"
+  },
+  {
+    "question": "Momen paling bikin kamu ketawa karena pasangan?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah nangis bareng? Kejadian apa itu?",
+    "category": "memories"
+  },
+  {
+    "question": "Furnitur atau barang pertama yang kita beli bareng setelah menikah apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Momen paling berkesan dari perjalanan yang pernah kita lakuin bareng?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada episode waktu pertama kali ketemu keluarga pasangan?",
+    "category": "memories"
+  },
+  {
+    "question": "Kesalahpahaman atau kejadian lucu paling berkesan dalam pernikahan kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Hari jadi atau peringatan yang paling spesial dalam pernikahan kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada episode seru waktu kita masak bareng?",
+    "category": "memories"
+  },
+  {
+    "question": "Tempat yang jadi kenangan khusus kita berdua ada nggak? Tempat apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Setelah menikah, pernah ngabisin malam sendirian? Rasanya gimana?",
+    "category": "memories"
+  },
+  {
+    "question": "Cara kita berbaikan setelah bertengkar yang jadi cara khas kita gimana?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah kasih atau nerima kejutan dari pasangan?",
+    "category": "memories"
+  },
+  {
+    "question": "Bakat pasangan yang paling bikin kamu kaget selama tinggal bareng?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada momen kamu ngerasa 'benar-benar bersyukur menikah sama dia'?",
+    "category": "memories"
+  },
+  {
+    "question": "Cara kamu melihat pasangan berubah dari waktu pacaran sampai sekarang?",
+    "category": "memories"
+  },
+  {
+    "question": "Momen yang paling bikin kamu deg-degan dalam pernikahan kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah coba sesuatu bareng lalu gagal? Ceritain.",
+    "category": "memories"
+  },
+  {
+    "question": "Ada yang pernah ketahuan sama pasangan padahal kamu lakuin diam-diam?",
+    "category": "memories"
+  },
+  {
+    "question": "Hal yang pasangan lakukan untukmu yang paling bikin kamu terharu?",
+    "category": "memories"
+  },
+  {
+    "question": "Perbedaan antara bayangan tentang pernikahan sebelumnya vs kenyataannya apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Hal yang kamu lakukan waktu pasangan lagi susah yang paling efektif?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu pasangan pertama kali memanggil kamu dengan sebutan mesra, rasanya gimana?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada cerita di balik tradisi atau rutinitas khusus kita yang mulai terbentuk?",
+    "category": "memories"
+  },
+  {
+    "question": "Setelah menikah, hubungan pertemanan kamu ada yang berubah?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada hobi atau kegiatan baru yang kamu mulai gara-gara pasangan?",
+    "category": "memories"
+  },
+  {
+    "question": "Kebiasaan pasangan yang awalnya nggak suka tapi sekarang jadi lucu buat kamu?",
+    "category": "memories"
+  },
+  {
+    "question": "Momen paling tak terduga dalam pernikahan kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Kapan pertama kali kamu ngerasa 'ini beneran rumah kita'?",
+    "category": "memories"
+  },
+  {
+    "question": "Kebiasaan hidup yang paling pertama berubah setelah menikah?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada proyek atau tujuan yang berhasil kita selesaikan bareng?",
+    "category": "memories"
+  },
+  {
+    "question": "Dari semua yang kita capai bareng, yang paling bikin kamu bangga apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Momen paling damai dalam pernikahan kita itu kapan?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada hal yang belum sempat kamu ucapkan terima kasih dengan tulus ke pasangan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Dalam hubungan ini, bagian mana yang menurutmu masih kurang dari dirimu?",
+    "category": "honestly"
+  },
+  {
+    "question": "Ada hal yang kamu minta maaf ke pasangan tapi belum sempat diucapkan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Hal yang paling sering kamu tahan dalam pernikahan ini apa?",
+    "category": "honestly"
+  },
+  {
+    "question": "Ada hal dari pasangan yang kamu harap nggak berubah?",
+    "category": "honestly"
+  },
+  {
+    "question": "Topik yang paling susah kamu bicarakan jujur sama pasangan apa?",
+    "category": "honestly"
+  },
+  {
+    "question": "Pernah ngerasa cara kita mengekspresikan kasih sayang itu berbeda?",
+    "category": "honestly"
+  },
+  {
+    "question": "Dalam pernikahan ini, mungkin ada kata atau tindakan yang tanpa sadar menyakiti pasangan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Kamu kira apa yang pasangan harapkan dari kamu? Apa kamu sudah melakukannya?",
+    "category": "honestly"
+  },
+  {
+    "question": "Ada hal yang pengen kamu sampaikan ke pasangan tapi selalu ketinggalan momentum?",
+    "category": "honestly"
+  },
+  {
+    "question": "Dalam pernikahan, hal yang kamu rasa nggak boleh kamu lepaskan apa?",
+    "category": "honestly"
+  },
+  {
+    "question": "Pernah ngerasa komunikasi kita berkurang? Menurutmu kenapa?",
+    "category": "honestly"
+  },
+  {
+    "question": "Ada hal dalam pernikahan yang kamu rasain harus ditanggung sendirian?",
+    "category": "honestly"
+  },
+  {
+    "question": "Momen cinta dari pasangan yang paling bikin kamu hangat itu kapan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Kita sudah cukup mengungkapkan rasa terima kasih satu sama lain dalam hubungan ini?",
+    "category": "honestly"
+  },
+  {
+    "question": "Apa yang bisa aku lakukan untuk lebih memahami pasangan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Kapan kamu paling ngerasa perbedaan nilai antara kita dalam pernikahan ini?",
+    "category": "honestly"
+  },
+  {
+    "question": "Pernah khawatir terlalu banyak harapkan dari pasangan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Bagian dari hubungan kita yang menurutmu sekarang sudah kita jalani dengan baik?",
+    "category": "honestly"
+  },
+  {
+    "question": "Ada hal dalam cara kita menyelesaikan konflik yang pengen kamu perbaiki?",
+    "category": "honestly"
+  },
+  {
+    "question": "Sejak menikah, kamu merasa berubah menjadi orang yang seperti apa?",
+    "category": "honestly"
+  },
+  {
+    "question": "Kamu kira apa yang sedang susah dirasakan pasangan sekarang?",
+    "category": "honestly"
+  },
+  {
+    "question": "Ada aturan tak tertulis dalam hubungan kita? Apakah sudah dijalankan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Pernah ngerasa kesepian dalam pernikahan ini?",
+    "category": "honestly"
+  },
+  {
+    "question": "Pernah membicarakan soal sentuhan atau ekspresi kasih sayang secara jujur?",
+    "category": "honestly"
+  },
+  {
+    "question": "Pengorbanan terbesar dalam pernikahan ini apa? Apakah ada penyesalan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Momen ketika kamu ngerasa pasangan paling memahami dirimu itu kapan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Apa yang dibutuhkan supaya kita makin bahagia sebagai pasangan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Kamu sudah cukup mendukung mimpi dan tujuan pasangan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Kalau bisa kasih saran ke diri sendiri sebelum menikah, kamu mau bilang apa?",
+    "category": "honestly"
+  },
+  {
+    "question": "Kamu kira pasangan menilai dirinya sendiri seperti apa? Ada bagian yang bikin kamu khawatir?",
+    "category": "honestly"
+  },
+  {
+    "question": "Apa yang konkret bisa kita lakukan agar lebih memperhatikan satu sama lain?",
+    "category": "honestly"
+  },
+  {
+    "question": "Soal keuangan atau urusan rumah tangga, kita sudah cukup terbuka satu sama lain?",
+    "category": "honestly"
+  },
+  {
+    "question": "Kalau mau bilang ke pasangan 'karena kamu aku jadi berubah begini', kamu mau bilang apa?",
+    "category": "honestly"
+  },
+  {
+    "question": "Dalam pernikahan ini, siapa yang lebih sering mengalah — aku atau pasangan?",
+    "category": "honestly"
+  },
+  {
+    "question": "Sisi pasangan yang paling bikin kamu kagum apa?",
+    "category": "honestly"
+  },
+  {
+    "question": "Dalam pernikahan, bagaimana pandanganmu tentang 'waktu untuk diri sendiri'?",
+    "category": "honestly"
+  },
+  {
+    "question": "Bagian yang paling bikin kamu merasa berkembang dalam pernikahan ini?",
+    "category": "honestly"
+  },
+  {
+    "question": "Dari semua yang pernah pasangan ucapkan, yang paling lama kamu ingat apa?",
+    "category": "honestly"
+  },
+  {
+    "question": "Pelajaran terbesar yang pernikahan ini ajarkan ke kamu apa?",
+    "category": "honestly"
+  },
+  {
+    "question": "5 tahun lagi, kamu berharap kita seperti apa?",
+    "category": "ahead"
+  },
+  {
+    "question": "Satu hal yang pasti pengen kamu lakukan bareng pasangan ke depannya?",
+    "category": "ahead"
+  },
+  {
+    "question": "Setelah pensiun, ada yang pengen kita lakuin bareng?",
+    "category": "ahead"
+  },
+  {
+    "question": "Satu bucket list yang pengen kita capai bareng?",
+    "category": "ahead"
+  },
+  {
+    "question": "Satu janji yang pengen kita pegang teguh ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Tempat yang pengen kamu tinggali waktu tua nanti seperti apa?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada hal yang pengen kamu pelajari bareng pasangan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Standar kebahagiaan kita sebagai pasangan itu apa?",
+    "category": "ahead"
+  },
+  {
+    "question": "Kalau bisa mulai satu hobi bareng pasangan sekarang juga, kamu mau apa?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada mimpi pasangan yang kamu harap terwujud ke depannya?",
+    "category": "ahead"
+  },
+  {
+    "question": "Apa yang bisa kita lakukan mulai sekarang agar kita makin dekat?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada sisi dirimu dalam pernikahan ini yang pengen kamu ubah ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Kalau kita belajar bahasa baru bareng, kamu mau pilih bahasa apa?",
+    "category": "ahead"
+  },
+  {
+    "question": "10 tahun lagi, kamu kira kita seperti apa?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada tempat yang pengen sering kita kunjungi bareng ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada tujuan yang pengen kita capai bareng dalam pernikahan ini?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada hal yang pengen kamu lakukan lebih baik untuk pasangan ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada acara istimewa di hari jadi yang pengen kamu coba suatu hari nanti?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada hal yang pengen kita tambahkan di rumah ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Perasaanmu tentang tua bersama sama pasangan gimana?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ke depan, kata apa yang pengen menggambarkan hubungan kita?",
+    "category": "ahead"
+  },
+  {
+    "question": "Satu hal yang pengen kamu lakukan untuk pasangan seumur hidup?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada kebiasaan dalam komunikasi kita yang pengen kamu perbaiki ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Waktu sudah tua nanti, ada rutinitas harian yang pengen kita lakukan bareng?",
+    "category": "ahead"
+  },
+  {
+    "question": "Mimpi pasangan yang mana yang paling pengen kamu dukung ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada langkah berikutnya dalam pernikahan ini yang pengen kita capai?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada tradisi atau ritual baru yang pengen kita bangun bareng ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada cara kita berkontribusi buat masyarakat yang pengen kamu coba bareng pasangan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ke depan, rumah kita pengen kamu ubah menjadi seperti apa?",
+    "category": "ahead"
+  },
+  {
+    "question": "Cara kamu mencintai pasangan yang pengen kamu ubah ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Satu tujuan kecil yang pengen kamu capai tahun depan dalam pernikahan ini?",
+    "category": "ahead"
+  },
+  {
+    "question": "Kalau kita bareng, rasanya seperti hal apapun bisa kita hadapi?",
+    "category": "ahead"
+  },
+  {
+    "question": "Hal paling penting yang pengen kamu jaga dalam hubungan ini ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "20 tahun lagi, rutinitas akhir pekan kita seperti apa ya?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada kejutan yang pengen kamu berikan ke pasangan ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Lewat obrolan hari ini, ada yang pengen kamu sampaikan ke pasangan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada konten yang pengen kita baca atau tonton bareng ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada kegiatan sosial atau berbagi yang pengen kita lakukan bareng?",
+    "category": "ahead"
+  },
+  {
+    "question": "Apa yang bisa kita lakukan agar lebih jujur satu sama lain ke depan?",
+    "category": "ahead"
+  },
+  {
+    "question": "Ada kebiasaan sehat yang pengen kita mulai bareng?",
+    "category": "ahead"
+  }
+]

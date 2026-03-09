@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Pertama kali lihat aku, kamu ngerasa apa?",
+    "category": "excitement"
+  },
+  {
+    "question": "Kapan kamu mulai punya perasaan ke aku?",
+    "category": "excitement"
+  },
+  {
+    "question": "Momen paling bikin jantung berdebar waktu kita masih pendekatan?",
+    "category": "excitement"
+  },
+  {
+    "question": "Pertama kali deg-degan lihat aku itu waktu aku lagi gimana?",
+    "category": "excitement"
+  },
+  {
+    "question": "Pernah ragu-ragu sebelum ngajak aku ngobrol atau chat pertama kali?",
+    "category": "excitement"
+  },
+  {
+    "question": "Kamu tau nggak waktu pertama lihat aku kamu udah tertarik?",
+    "category": "excitement"
+  },
+  {
+    "question": "Waktu pertama kali kita jalan berdua, kamu gugup nggak?",
+    "category": "excitement"
+  },
+  {
+    "question": "Waktu aku lagi senyum vs serius, yang pertama lebih menarik buat kamu yang mana?",
+    "category": "excitement"
+  },
+  {
+    "question": "Malem sebelum kamu nembak aku, perasaanmu gimana?",
+    "category": "excitement"
+  },
+  {
+    "question": "Pertama kali kamu sadar suka sama aku itu kapan?",
+    "category": "excitement"
+  },
+  {
+    "question": "Sekarang masih ada momen yang bikin kamu deg-degan lihat aku?",
+    "category": "excitement"
+  },
+  {
+    "question": "Kapan paling seneng kalau aku chat?",
+    "category": "excitement"
+  },
+  {
+    "question": "Sebelum kita resmi, yang paling kamu nantiin dari hubungan kita apa?",
+    "category": "excitement"
+  },
+  {
+    "question": "Kamu suka suaraku?",
+    "category": "excitement"
+  },
+  {
+    "question": "Yang pertama muncul di benakmu waktu kepikiran aku itu apa?",
+    "category": "excitement"
+  },
+  {
+    "question": "Masih inget makan pertama kita bareng? Rasanya gimana?",
+    "category": "excitement"
+  },
+  {
+    "question": "Masih inget hari pertama kita resmi? Waktu itu perasaanmu gimana?",
+    "category": "excitement"
+  },
+  {
+    "question": "Waktu aku jalan ke arahmu dari jauh, perasaanmu gimana?",
+    "category": "excitement"
+  },
+  {
+    "question": "Ada momen yang bikin kamu yakin 'aku suka dia beneran'?",
+    "category": "excitement"
+  },
+  {
+    "question": "Sekarang waktu mau ketemu aku masih deg-degan nggak?",
+    "category": "excitement"
+  },
+  {
+    "question": "Hal tak terduga yang pernah aku lakuin yang paling bikin kamu deg-degan apa?",
+    "category": "excitement"
+  },
+  {
+    "question": "Waktu pertama kita sentuhan, perasaanmu gimana?",
+    "category": "excitement"
+  },
+  {
+    "question": "Pertama kali kamu ngerasa kangen sama aku itu kapan?",
+    "category": "excitement"
+  },
+  {
+    "question": "Pernah deg-degan sendirian gara-gara aku lalu nenangin diri sendiri?",
+    "category": "excitement"
+  },
+  {
+    "question": "Pernah ngerasa khawatir aku bisa menjauh?",
+    "category": "excitement"
+  },
+  {
+    "question": "Dulu waktu kita masih chat-chatan, kamu nunggu balesan aku nggak?",
+    "category": "excitement"
+  },
+  {
+    "question": "Waktu aku bilang apa yang paling bikin kamu deg-degan?",
+    "category": "excitement"
+  },
+  {
+    "question": "Sekarang masih ada momen jantungmu berdetak lebih cepat waktu sama aku?",
+    "category": "excitement"
+  },
+  {
+    "question": "Setelah pertama kali ketemu, kamu banyak kepikiran aku nggak?",
+    "category": "excitement"
+  },
+  {
+    "question": "Pernah berusaha nggak kelihatan tertarik sama aku padahal sebenernya iya?",
+    "category": "excitement"
+  },
+  {
+    "question": "Sebelum pacaran, pernah diam-diam cari tahu tentang aku?",
+    "category": "excitement"
+  },
+  {
+    "question": "Waktu aku ngapain yang bikin kamu ngerasa 'dia orangnya'?",
+    "category": "excitement"
+  },
+  {
+    "question": "Waktu pertama kali cerita ke teman kalau kamu suka aku, gimana rasanya?",
+    "category": "excitement"
+  },
+  {
+    "question": "Waktu pertama kali kita pisah dan pulang sendiri, kamu kepikiran apa?",
+    "category": "excitement"
+  },
+  {
+    "question": "Pernah deg-degan waktu nungguin aku?",
+    "category": "excitement"
+  },
+  {
+    "question": "Pernah khawatir kalau aku menjauh?",
+    "category": "excitement"
+  },
+  {
+    "question": "Sebelum pacaran, ada hal yang kamu lakuin supaya aku terkesan?",
+    "category": "excitement"
+  },
+  {
+    "question": "Pernah diam-diam sering lihat foto aku?",
+    "category": "excitement"
+  },
+  {
+    "question": "Masih ingat hari pertama kita ketemu, kamu pakai baju apa?",
+    "category": "excitement"
+  },
+  {
+    "question": "Sekarang masih ada hal yang bikin kamu deg-degan dari aku?",
+    "category": "excitement"
+  },
+  {
+    "question": "Tipe kencan bareng aku yang paling kamu suka?",
+    "category": "taste"
+  },
+  {
+    "question": "Makanan yang pengen kamu makan bareng aku sekarang?",
+    "category": "taste"
+  },
+  {
+    "question": "Tempat traveling yang pengen kamu kunjungi bareng aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Genre yang paling seru waktu kita nonton bareng?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada makanan yang pengen kamu kenalin ke aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada hal yang kita berdua sama-sama suka yang baru kita temuin belakangan ini?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada hobi yang menurutmu bakal lebih seru kalau dilakuin bareng aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Lagu yang menurutmu cocok kita dengerin bareng?",
+    "category": "taste"
+  },
+  {
+    "question": "Bagian mana dari selera kita yang paling serasi?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada hal yang kamu mulai suka gara-gara pengaruh aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Pernah ngerasa 'kita nyambung banget' waktu lagi bareng?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada hal yang selera kita benar-benar berbeda?",
+    "category": "taste"
+  },
+  {
+    "question": "Pernah seneng banget waktu tau kita sama-sama suka sesuatu?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada pengalaman baru yang pengen kamu coba bareng aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Pernah aku rekomendasiin sesuatu dan ternyata kamu lebih suka dari yang disangka?",
+    "category": "taste"
+  },
+  {
+    "question": "Kencan outdoor atau indoor, mana yang lebih kamu suka?",
+    "category": "taste"
+  },
+  {
+    "question": "Kalau kita bikin playlist bareng, lagu pertamanya apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Kalau kita tinggal bareng, kamu kira selera dekorasi kita bakal cocok?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada film atau drama yang pengen banget kamu tunjukin ke aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Hal apa yang bisa kita nikmatin bareng dengan penuh semangat kayak anak kecil?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada hal dari selera aku yang bikin kamu kaget atau heran?",
+    "category": "taste"
+  },
+  {
+    "question": "Kalau kita masak bareng, pengen bikin apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada pameran atau pertunjukan yang pengen kamu datangi bareng aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Bidang yang selera kita paling mirip itu apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada makanan atau menu baru yang kamu tahu karena aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Suasana kafe seperti apa yang pengen kamu kunjungi bareng aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Kalau olahraga bareng, olahraga apa yang cocok buat kita?",
+    "category": "taste"
+  },
+  {
+    "question": "Selera buku kita mirip nggak?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada yang bakal kurang kalau kencan kita tanpa itu?",
+    "category": "taste"
+  },
+  {
+    "question": "Gaya fashion aku yang paling kamu suka yang mana?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada tempat yang pengen kamu habiskan waktu sampai larut bareng aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada hal menarik yang kita temuin dari perbedaan selera kita?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada makanan yang pengen banget kamu kasih coba ke aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Tempat yang paling seru buat kita jalan-jalan bareng itu di mana?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada hal yang aku suka dan pengen kamu coba juga?",
+    "category": "taste"
+  },
+  {
+    "question": "Selera makan yang paling banyak kesamaannya antara kita apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Musim apa yang paling pengen kamu traveling bareng aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada olahraga atau game yang lebih seru kalau ditonton atau dimainkan bareng?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada hal yang aku nggak suka tapi kamu pengen coba bareng aku?",
+    "category": "taste"
+  },
+  {
+    "question": "Pernah ada hal yang selera kita beda banget tapi tetap bisa dinikmati bareng?",
+    "category": "taste"
+  },
+  {
+    "question": "Momen paling banyak ketawa kita waktu pacaran itu kapan?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada yang masih kamu inget dari kencan pertama kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Momen karena aku yang paling bikin kamu bahagia itu apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Setelah kita berantem dan baikan, kata-kata yang paling kamu inget?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada hal yang pernah kita lakuin bareng yang masih sering kamu inget?",
+    "category": "memories"
+  },
+  {
+    "question": "Coba inget momen waktu aku bikin kamu tersentuh, apa yang pertama muncul?",
+    "category": "memories"
+  },
+  {
+    "question": "Episode paling berkesan dari liburan kita bareng?",
+    "category": "memories"
+  },
+  {
+    "question": "Pertama kali kamu beneran ngerasa terima kasih ke aku itu kapan?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada makanan yang kita makan bareng yang masih sering kamu inget?",
+    "category": "memories"
+  },
+  {
+    "question": "Hari yang paling biasa-biasa aja tapi paling bahagia dalam hubungan kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Hari pulang dari ketemu aku yang paling kamu ngerasa seneng itu hari yang mana?",
+    "category": "memories"
+  },
+  {
+    "question": "Pertama kali kamu marah ke aku karena apa? Sekarang masih inget dan bisa ketawa?",
+    "category": "memories"
+  },
+  {
+    "question": "Momen paling mengejutkan yang kamu rasain dalam hubungan kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu aku lagi sakit atau susah, kamu masih inget? Perasaanmu gimana?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah kita nyasar atau rencananya berantakan? Masih inget?",
+    "category": "memories"
+  },
+  {
+    "question": "Pertama kali kamu beneran bilang makasih ke aku dari hati itu kapan?",
+    "category": "memories"
+  },
+  {
+    "question": "Episode paling bikin deg-degan di awal kita pacaran apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah begadang bareng buat sesuatu? Kenangan apa itu?",
+    "category": "memories"
+  },
+  {
+    "question": "Momen paling lucu waktu aku bikin kamu ketawa?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah ngerasa kita mulai saling mengenal lebih dalam di suatu momen?",
+    "category": "memories"
+  },
+  {
+    "question": "Masih inget pertama kali kita berantem?",
+    "category": "memories"
+  },
+  {
+    "question": "Film atau pertunjukan yang kita tonton bareng yang masih kamu inget?",
+    "category": "memories"
+  },
+  {
+    "question": "Hal tak terduga yang aku lakuin yang paling berkesan buat kamu?",
+    "category": "memories"
+  },
+  {
+    "question": "Kejadian paling absurd dalam hubungan kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Masih inget waktu aku lagi susah dan kamu ada di sisi aku?",
+    "category": "memories"
+  },
+  {
+    "question": "Percakapan paling jujur kita kapan?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah hujan atau cuaca buruk waktu kita keluar tapi malah jadi momen bagus?",
+    "category": "memories"
+  },
+  {
+    "question": "Masih inget pertama kali kita ngobrol serius?",
+    "category": "memories"
+  },
+  {
+    "question": "Hal yang pernah aku lakuin buat kamu yang paling kamu inget?",
+    "category": "memories"
+  },
+  {
+    "question": "Pertama kali kita perjalanan panjang bareng itu kapan? Gimana rasanya?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada hari waktu bareng aku yang ngerasa waktu berlalu sangat cepat?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada hal yang awalnya nggak suka tapi lama-lama jadi suka waktu bareng aku?",
+    "category": "memories"
+  },
+  {
+    "question": "Hal paling berkesan di ulang tahunku atau hari spesial kita?",
+    "category": "memories"
+  },
+  {
+    "question": "Tempat yang paling sering kamu inget dari momen kita berdua?",
+    "category": "memories"
+  },
+  {
+    "question": "Pernah lihat aku ketiduran? Perasaanmu gimana?",
+    "category": "memories"
+  },
+  {
+    "question": "Pertama kali setelah kita pisah dan kamu ngerasa kangen itu kapan?",
+    "category": "memories"
+  },
+  {
+    "question": "Hari paling romantis dalam hubungan kita itu menurutmu yang mana?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada momen waktu aku selesaiin sesuatu sendiri dan kamu bangga?",
+    "category": "memories"
+  },
+  {
+    "question": "Makanan yang paling spesial dari semua yang kita makan bareng?",
+    "category": "memories"
+  },
+  {
+    "question": "Momen yang kamu ngerasa paling dekat sama aku itu kapan?",
+    "category": "memories"
+  },
+  {
+    "question": "Satu hal yang pasti pengen kamu lakuin bareng aku ke depannya?",
+    "category": "future"
+  },
+  {
+    "question": "Kamu berharap kita seperti apa 5 tahun dari sekarang?",
+    "category": "future"
+  },
+  {
+    "question": "Tempat mana yang pengen kamu kunjungi bareng aku?",
+    "category": "future"
+  },
+  {
+    "question": "Kalau kita tinggal bareng, hal pertama yang mau kamu lakuin apa?",
+    "category": "future"
+  },
+  {
+    "question": "Ada hal yang pengen kamu lakuin bareng aku sampai tua?",
+    "category": "future"
+  },
+  {
+    "question": "Ada tujuan yang pengen kita capai bareng?",
+    "category": "future"
+  },
+  {
+    "question": "Kehidupan sehari-hari seperti apa yang kamu mau bareng aku waktu tua nanti?",
+    "category": "future"
+  },
+  {
+    "question": "Negara mana yang paling pengen kita kunjungi bareng berikutnya?",
+    "category": "future"
+  },
+  {
+    "question": "Waktu aku lagi susah, kamu mau jadi orang yang seperti apa buat aku?",
+    "category": "future"
+  },
+  {
+    "question": "Kalau kita mendekorasi rumah, ruang yang paling ingin kamu perhatikan?",
+    "category": "future"
+  },
+  {
+    "question": "Kamu berharap aku seperti apa di masa depan?",
+    "category": "future"
+  },
+  {
+    "question": "Ada hal yang pengen kamu lakukan lebih baik dalam hubungan kita ke depan?",
+    "category": "future"
+  },
+  {
+    "question": "Bucket list nomor satu yang pengen kita wujudkan bareng apa?",
+    "category": "future"
+  },
+  {
+    "question": "Ada hal yang pengen kita tetap jaga dalam hubungan kita ke depan?",
+    "category": "future"
+  },
+  {
+    "question": "Bagaimana cara kamu mendukung aku meraih impian?",
+    "category": "future"
+  },
+  {
+    "question": "Kalau kita tinggal bareng, kamu mau di daerah mana?",
+    "category": "future"
+  },
+  {
+    "question": "10 tahun dari sekarang, topik apa yang masih pengen kamu ceritain bareng aku sambil ketawa?",
+    "category": "future"
+  },
+  {
+    "question": "Ada hal yang pengen kamu lakukan buatku tapi belum sempat?",
+    "category": "future"
+  },
+  {
+    "question": "Ada tradisi yang pengen kita buat dan jaga seiring kita tua bersama?",
+    "category": "future"
+  },
+  {
+    "question": "Ada mimpi yang kamu harap bisa aku capai?",
+    "category": "future"
+  },
+  {
+    "question": "Ada hal dalam hubungan kita yang pengen kamu lebih jujur ke depannya?",
+    "category": "future"
+  },
+  {
+    "question": "Ada hal yang pengen kita pelajari bareng?",
+    "category": "future"
+  },
+  {
+    "question": "Ada tempat yang pengen kita bangun atau ciptakan bareng suatu hari nanti?",
+    "category": "future"
+  },
+  {
+    "question": "Dalam situasi apa kamu pengen aku ada di sisi kamu?",
+    "category": "future"
+  },
+  {
+    "question": "Tipe kencan yang pengen lebih sering kamu lakuin ke depannya?",
+    "category": "future"
+  },
+  {
+    "question": "Ada kegiatan sosial atau kegiatan baik yang pengen kita lakuin bareng?",
+    "category": "future"
+  },
+  {
+    "question": "Bayangan kamu tentang pernikahan gimana?",
+    "category": "future"
+  },
+  {
+    "question": "Waktu aku lagi bingung arah, gimana cara kamu mau bantu?",
+    "category": "future"
+  },
+  {
+    "question": "Kenangan baru apa yang paling pengen kamu buat bareng aku ke depannya?",
+    "category": "future"
+  },
+  {
+    "question": "Ada hal dari diri kita yang kamu harap nggak berubah seiring usia?",
+    "category": "future"
+  },
+  {
+    "question": "Kalau kita menikah, keluarga seperti apa yang pengen kamu bangun?",
+    "category": "future"
+  },
+  {
+    "question": "Bagaimana cara kamu mendukung pertumbuhanku ke depan?",
+    "category": "future"
+  },
+  {
+    "question": "Ada hal yang pengen kamu coba bareng aku?",
+    "category": "future"
+  },
+  {
+    "question": "Apa yang bisa kita lakukan untuk menjadi orang yang lebih baik buat satu sama lain?",
+    "category": "future"
+  },
+  {
+    "question": "Satu hal yang jujur pengen kamu minta dari aku ke depannya?",
+    "category": "future"
+  },
+  {
+    "question": "Ada pola dalam hubungan kita yang pengen kamu ubah ke depan?",
+    "category": "future"
+  },
+  {
+    "question": "Bagaimana cara kita menjaga kesehatan dan tua bersama dengan baik?",
+    "category": "future"
+  },
+  {
+    "question": "30 tahun lagi, kamu kira kita lagi ngapain bareng?",
+    "category": "future"
+  },
+  {
+    "question": "Ada bagian dari aku yang kamu harap terus berkembang?",
+    "category": "future"
+  },
+  {
+    "question": "Apa yang dibutuhkan supaya waktu kita bareng makin bermakna?",
+    "category": "future"
+  }
+]

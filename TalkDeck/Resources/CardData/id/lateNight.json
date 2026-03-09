@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Sekarang lagu apa yang tiba-tiba muncul di kepalamu?",
+    "category": "emotional"
+  },
+  {
+    "question": "Momen terbaik dari hari ini apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Ada lagu yang lagi sering kamu dengerin? Kenapa menurutmu lagu itu?",
+    "category": "emotional"
+  },
+  {
+    "question": "Kalau malam ini diwakili satu warna, warna apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Kalau perasaan paling jujur kamu hari ini harus diwakili satu kata, kata apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Perasaan yang paling sering kamu rasain belakangan ini apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Momen terakhir yang bikin hatimu hangat itu kapan?",
+    "category": "emotional"
+  },
+  {
+    "question": "Waktu sendirian di malam hari, kamu biasanya mikirin apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Kalau momen sekarang dijadiin satu foto, kira-kira fotonya kayak gimana?",
+    "category": "emotional"
+  },
+  {
+    "question": "Perasaan apa yang belakangan ini paling asing buatmu?",
+    "category": "emotional"
+  },
+  {
+    "question": "Ada nggak momen tertentu di mana kamu tiba-tiba pengen ngubungin seseorang?",
+    "category": "emotional"
+  },
+  {
+    "question": "Kapan terakhir kali kamu merasakan sesuatu yang bikin jantung berdebar?",
+    "category": "emotional"
+  },
+  {
+    "question": "Waktu lagi sedih, biasanya kamu ngapain buat hibur diri?",
+    "category": "emotional"
+  },
+  {
+    "question": "Belakangan ini, hal yang paling sering kamu pikirin sebelum tidur apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Kapan terakhir kali kamu nangis karena tersentuh?",
+    "category": "emotional"
+  },
+  {
+    "question": "Sekarang ada hal yang paling kamu rindukan?",
+    "category": "emotional"
+  },
+  {
+    "question": "Gimana bedanya perasaanmu waktu sendirian dan waktu pengen ada yang temenin?",
+    "category": "emotional"
+  },
+  {
+    "question": "Perasaan apa yang kayaknya lagi kamu tahan belakangan ini?",
+    "category": "emotional"
+  },
+  {
+    "question": "Waktu pikiran lagi kacau, kamu ngatasinnya gimana?",
+    "category": "emotional"
+  },
+  {
+    "question": "Kenangan paling bahagia yang muncul waktu kamu menutup mata itu seperti apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Ada tempat atau ruang yang lagi jadi favorit kamu belakangan ini?",
+    "category": "emotional"
+  },
+  {
+    "question": "Sekarang ada rasa terima kasih yang ingin kamu sampein ke seseorang?",
+    "category": "emotional"
+  },
+  {
+    "question": "Ada hal yang tanpa sadar kamu lakuin waktu lagi nggak enak hati?",
+    "category": "emotional"
+  },
+  {
+    "question": "Kalau malam ini ada wangi yang mewakilinya, wangi apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Momen paling banyak ketawa dari hari ini kapan?",
+    "category": "emotional"
+  },
+  {
+    "question": "Belakangan ini kamu ngerasa kelelahan secara emosional? Di bagian mana?",
+    "category": "emotional"
+  },
+  {
+    "question": "Apa yang biasa bikin hatimu tenang?",
+    "category": "emotional"
+  },
+  {
+    "question": "Bisa ceritain dengan jujur perasaan yang kamu rasain di sini sekarang?",
+    "category": "emotional"
+  },
+  {
+    "question": "Dalam situasi seperti apa kamu biasanya ngerasa kesepian belakangan ini?",
+    "category": "emotional"
+  },
+  {
+    "question": "Sebelum malam ini berakhir, ada hal yang pengen kamu lakuin?",
+    "category": "emotional"
+  },
+  {
+    "question": "Hari ini kalau diwakili warna, warna apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Kapan momen kamu paling merasa terhibur?",
+    "category": "emotional"
+  },
+  {
+    "question": "Sekarang, kata-kata yang paling pengen kamu denger itu apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Belakangan ini pernah nggak tiba-tiba mood turun tanpa alasan jelas?",
+    "category": "emotional"
+  },
+  {
+    "question": "Kapan kamu ngerasa paling tenang?",
+    "category": "emotional"
+  },
+  {
+    "question": "Hari ini ada momen yang paling berat?",
+    "category": "emotional"
+  },
+  {
+    "question": "Sekarang, ada orang yang pengen banget kamu ada di sisinya?",
+    "category": "emotional"
+  },
+  {
+    "question": "Belakangan ini pernah nggak tiba-tiba ngerasa bahagia tanpa alasan?",
+    "category": "emotional"
+  },
+  {
+    "question": "Apa yang paling banyak memenuhi pikiranmu tentang dirimu sendiri belakangan ini?",
+    "category": "emotional"
+  },
+  {
+    "question": "Setelah acara ini selesai, kamu mau pulang dengan perasaan seperti apa?",
+    "category": "emotional"
+  },
+  {
+    "question": "Menurutmu kebahagiaan itu pada akhirnya apa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Kenapa ya manusia itu ingin terhubung satu sama lain?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu menjadi tua itu artinya apa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurut kamu, kebebasan sejati itu ada nggak?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu manusia itu pada dasarnya baik atau jahat?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu hidup yang baik itu seperti apa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu batas antara cinta dan persahabatan itu di mana?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Supaya nggak takut mati, kita harus hidup seperti apa menurutmu?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu takdir itu ada?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu waktu itu sumber daya yang paling berharga?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Orang lebih jujur waktu sendirian atau waktu bareng orang lain?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Kenapa rasanya susah ya buat fokus ke momen sekarang?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu orang yang baik itu seperti apa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurut kamu, penting nggak mencari makna dalam hidup?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurut kamu, hidup tanpa penyesalan itu mungkin nggak?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Hubungan itu harus dipertahankan atau mengalir secara alami?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Sukses dan bahagia itu sama menurutmu?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Berubah itu hal yang baik atau buruk?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Kamu ngerasa diri kamu jadi tokoh utama dalam hidupmu sendiri?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu apa bedanya keberanian dan nekat?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Mengatakan kebenaran itu selalu benar menurutmu?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Mencintai diri sendiri itu menurut kamu artinya apa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Kenangan itu kenyataan atau hanya cerita yang kita buat sendiri?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurut kamu hubungan yang sempurna itu ada?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Momen sekarang bakal punya arti apa buat kamu sepuluh tahun lagi?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Mengandalkan orang lain itu tanda kelemahan atau kekuatan?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ada nggak momen di mana kegagalan lebih penting dari kesuksesan?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu ada nggak hubungan yang nggak perlu kata-kata untuk saling mengerti?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Kata 'manusia lahir sendiri dan mati sendiri' itu menghibur atau menyedihkan buatmu?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Kenapa rasanya susah ya mempertahankan rasa syukur dalam jangka panjang?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Kamu ngerasa pilihan-pilihan yang kamu buat sekarang lagi membentuk dirimu?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu seiring waktu, sebagian besar hal jadi nggak terasa penting lagi?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu seberapa baik kamu mengenal dirimu sendiri?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu obrolan yang paling bermakna itu seperti apa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Luka itu bisa bikin orang jadi lebih kuat menurutmu?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Dari hal-hal yang nggak bisa dibeli dengan uang, yang paling penting menurutmu apa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Hal yang paling sia-sia digunakan dalam hidup menurutmu apa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Sekarang, satu hal yang paling kamu yakini dan satu hal yang paling kamu ragukan itu apa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurutmu kebahagiaan itu semakin besar kalau dibagikan?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Menurut kamu, hal yang paling kamu butuhin sekarang itu apa?",
+    "category": "philosophy"
+  },
+  {
+    "question": "Ada hal yang pengen kamu bilang jujur ke aku hari ini?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada hal tentang aku yang selama ini pengen kamu tanyain tapi belum sempat?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada cerita yang belum pernah kamu ceritain ke siapa pun?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada bagian hidupmu yang sebenernya berat tapi jarang kamu tunjukin?",
+    "category": "confession"
+  },
+  {
+    "question": "Kapan terakhir kali kamu memberanikan diri buat sesuatu?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada hal yang sebenernya kamu nggak bisa tapi pura-pura bisa?",
+    "category": "confession"
+  },
+  {
+    "question": "Belakangan ini ada orang atau hal yang paling banyak memenuhi pikiranmu?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada kegelisahan yang belum pernah kamu ucapkan ke siapa pun?",
+    "category": "confession"
+  },
+  {
+    "question": "Di sini, ada hal yang baru pertama kali pengen kamu ucapkan dengan jujur?",
+    "category": "confession"
+  },
+  {
+    "question": "Belakangan ini ada nggak orang yang bikin kamu terluka?",
+    "category": "confession"
+  },
+  {
+    "question": "Masalah yang paling susah kamu selesaikan dalam hidupmu sekarang itu apa?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada rahasia yang cuma kamu yang tahu?",
+    "category": "confession"
+  },
+  {
+    "question": "Kapan terakhir kali kamu bohong, dan dalam situasi apa?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada hal yang sampai sekarang masih mengganjal di hatimu?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada kelemahan diri sendiri yang kamu nggak mau akui?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada orang yang kamu rasa salah paham tentang dirimu?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada orang yang sebenernya kamu iri?",
+    "category": "confession"
+  },
+  {
+    "question": "Sekarang ada nggak alasan yang kamu jadikan pembenaran?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada seseorang yang pengen banget kamu hubungi lagi?",
+    "category": "confession"
+  },
+  {
+    "question": "Hari ini, di sini, baru pertama kali kamu tertawa dengan lepas?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada keinginan yang belum pernah kamu ceritain ke siapa pun?",
+    "category": "confession"
+  },
+  {
+    "question": "Sekarang ada hal yang sedang kamu hindari?",
+    "category": "confession"
+  },
+  {
+    "question": "Perasaan yang paling nggak mau kamu akui itu apa?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada kata 'maaf' yang belum sempat kamu ucapkan ke seseorang?",
+    "category": "confession"
+  },
+  {
+    "question": "Belakangan ini pernah ngerasa kamu terlalu keras sama diri sendiri?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada hal yang sebenarnya kamu takutin tapi pengen kamu coba?",
+    "category": "confession"
+  },
+  {
+    "question": "Kata-kata penghibur yang paling kamu butuhin sekarang itu seperti apa?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada hal yang sampai sekarang belum bisa kamu lupain sepenuhnya?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada hal yang sebenernya kamu sangat peduliin tapi pura-pura nggak peduli?",
+    "category": "confession"
+  },
+  {
+    "question": "Kata-kata yang paling sering kamu ucapkan ke dirimu sendiri belakangan ini apa?",
+    "category": "confession"
+  },
+  {
+    "question": "Hal yang paling pengen kamu beranikan diri buat lakukan itu apa?",
+    "category": "confession"
+  },
+  {
+    "question": "Belakangan ini pernah ngerasa kamu terlalu kejam sama diri sendiri?",
+    "category": "confession"
+  },
+  {
+    "question": "Pilihan yang paling kamu sesali dalam hidup itu apa?",
+    "category": "confession"
+  },
+  {
+    "question": "Hal yang paling pengen kamu ungkapin dengan jujur sekarang itu apa?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada hal yang sudah lama banget kamu pikirkan?",
+    "category": "confession"
+  },
+  {
+    "question": "Dalam hal apa belakangan ini kamu ngerasa bangga sama diri sendiri?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada hal yang kalau nggak kamu bilang sekarang, rasanya nggak akan bisa kamu bilang selamanya?",
+    "category": "confession"
+  },
+  {
+    "question": "Sebenernya perasaan apa yang kamu bawa tepat sebelum datang ke sini tadi?",
+    "category": "confession"
+  },
+  {
+    "question": "Kata-kata yang paling pengen kamu denger dari aku itu apa?",
+    "category": "confession"
+  },
+  {
+    "question": "Pilihan terbaik yang pernah kamu buat dalam hidup itu apa kira-kira?",
+    "category": "confession"
+  },
+  {
+    "question": "Ada mimpi yang sering kamu alami belakangan ini?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada impian yang pengen kamu capai tapi malu buat ngomong?",
+    "category": "dream"
+  },
+  {
+    "question": "Impian waktu kecilmu masih tersisa sampai sekarang?",
+    "category": "dream"
+  },
+  {
+    "question": "Kalau sekarang semua hal bisa kamu lakukan, hal apa yang paling pengen kamu lakuin?",
+    "category": "dream"
+  },
+  {
+    "question": "Lima tahun lagi, kamu ada di mana dan lagi ngapain kira-kira?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada mimpi yang paling berkesan? Mimpi apa itu?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada tempat yang sering muncul di mimpimu?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada impian yang sudah kamu lepaskan? Masih terasa di hati?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada hal yang pengen banget kamu capai tahun ini?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada hal yang kamu rasa harus kamu lakukan sebelum mati?",
+    "category": "dream"
+  },
+  {
+    "question": "Kamu biasanya bangun dari mimpi dengan perasaan apa?",
+    "category": "dream"
+  },
+  {
+    "question": "Kamu sepuluh tahun lagi, kira-kira bakal bilang apa ke kamu yang sekarang?",
+    "category": "dream"
+  },
+  {
+    "question": "Seberapa realistis impian yang pengen kamu capai sekarang?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada orang yang pengen kamu temui dalam mimpi?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada impian yang mungkin nggak tercapai tapi tetap nggak mau kamu lepaskan?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada gambaran hidup ideal yang kamu impikan?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada alasan yang bikin kamu nggak menyerah di antara mimpi dan kenyataan?",
+    "category": "dream"
+  },
+  {
+    "question": "Keberanian yang paling kamu butuhin sekarang itu apa?",
+    "category": "dream"
+  },
+  {
+    "question": "Gambaran masa depan yang paling baru-baru ini kamu bayangkan seperti apa?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada kenangan dalam mimpi yang pengen kamu temui lagi?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada hal yang pengen kamu tetap lakukan meski orang lain mencegahmu?",
+    "category": "dream"
+  },
+  {
+    "question": "Hal yang kamu kerjakan sekarang terhubung dengan impianmu?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada impian waktu kecil yang sudah terwujud sekarang?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada orang yang sering muncul di mimpimu?",
+    "category": "dream"
+  },
+  {
+    "question": "Hari ideal yang kamu impikan itu seperti apa?",
+    "category": "dream"
+  },
+  {
+    "question": "Sekarang hal yang paling kamu inginkan dengan sangat itu apa?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada hal yang sedang kamu lakukan demi mewujudkan impianmu?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada isi mimpi yang paling absurd yang pernah kamu alami?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada hal yang karena nggak bisa tercapai di dunia nyata, kamu pengen setidaknya tercapai dalam mimpi?",
+    "category": "dream"
+  },
+  {
+    "question": "Kamu sepuluh tahun lagi, gambaran seperti apa yang kamu bayangkan?",
+    "category": "dream"
+  },
+  {
+    "question": "Pernah bangun dari mimpi dan ngerasa sayang banget mimpinya harus berakhir?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada impian yang belum sempat kamu mulai?",
+    "category": "dream"
+  },
+  {
+    "question": "Sekarang, siapa yang paling tahu tentang impianmu?",
+    "category": "dream"
+  },
+  {
+    "question": "Kalau impianmu terwujud, hal pertama yang pengen kamu lakuin apa?",
+    "category": "dream"
+  },
+  {
+    "question": "Kalau cuma satu impian yang bisa terwujud sekarang, kamu pilih yang mana?",
+    "category": "dream"
+  },
+  {
+    "question": "Impianmu yang paling realistis dan paling nggak realistis itu apa?",
+    "category": "dream"
+  },
+  {
+    "question": "Pernah nggak kamu bergulat antara mengejar impian atau memilih jalan yang aman?",
+    "category": "dream"
+  },
+  {
+    "question": "Ada pengalaman di mana dukungan seseorang bikin kamu berani bermimpi lagi?",
+    "category": "dream"
+  },
+  {
+    "question": "Apa hambatan terbesar menuju impianmu menurutmu?",
+    "category": "dream"
+  },
+  {
+    "question": "Setelah malam ini berakhir, hal yang paling kamu nantikan besok itu apa?",
+    "category": "dream"
+  }
+]

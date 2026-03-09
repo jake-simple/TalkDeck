@@ -1,0 +1,962 @@
+[
+  {
+    "question": "Ada guilty pleasure yang kamu nikmati diam-diam waktu nggak ada orang?",
+    "category": "vibe"
+  },
+  {
+    "question": "Selera makan kamu yang paling unik itu apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hal yang orang lain nggak suka tapi kamu doyan banget?",
+    "category": "vibe"
+  },
+  {
+    "question": "Satu lagu yang nggak bakal pernah bosan kamu dengerin?",
+    "category": "vibe"
+  },
+  {
+    "question": "Ada rutinitas aneh yang cuma kamu sendiri yang tahu?",
+    "category": "vibe"
+  },
+  {
+    "question": "Aroma favorit kamu apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Menu yang selalu kamu pesan pas makan tengah malam sendirian?",
+    "category": "vibe"
+  },
+  {
+    "question": "Ada hobi yang bakal bikin orang lain kaget kalau tahu?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hal yang pernah bikin kamu paling obsesif selama ini?",
+    "category": "vibe"
+  },
+  {
+    "question": "Musim favorit kamu apa dan kenapa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Cara kamu sendiri buat melepas stres?",
+    "category": "vibe"
+  },
+  {
+    "question": "Bahan rahasia yang selalu kamu tambahin waktu masak mie instan?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hal yang selalu kamu lakukan sebelum tidur?",
+    "category": "vibe"
+  },
+  {
+    "question": "Waktu favorit dalam sehari itu kapan dan kenapa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Lagu yang paling sering kamu dengerin belakangan ini?",
+    "category": "vibe"
+  },
+  {
+    "question": "3 aplikasi yang paling sering kamu buka di HP?",
+    "category": "vibe"
+  },
+  {
+    "question": "Ada menu yang selalu kamu pesan tiap ke kafe?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kamu tipe orang pagi atau malam?",
+    "category": "vibe"
+  },
+  {
+    "question": "Genre YouTube yang paling bikin kamu nyangkut berjam-jam?",
+    "category": "vibe"
+  },
+  {
+    "question": "Apa yang selalu kamu beli tiap ke minimarket?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hal paling penting yang kamu perhatiin waktu beli baju?",
+    "category": "vibe"
+  },
+  {
+    "question": "Konten apa yang paling sering kamu scroll di media sosial?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kalau traveling, lebih suka hotel atau Airbnb?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hal yang paling pengen kamu lakuin pas hujan?",
+    "category": "vibe"
+  },
+  {
+    "question": "Sekarang lagi nge-obsess sama apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kegiatan yang paling sering kamu lakuin waktu sendirian?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kalau harus pilih satu film terbaik dalam hidupmu, apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Makanan yang pengen kamu makan sekarang?",
+    "category": "vibe"
+  },
+  {
+    "question": "Hal yang suka kamu waktu kecil dan masih diam-diam suka sekarang?",
+    "category": "vibe"
+  },
+  {
+    "question": "Cara terbaik kamu menghabiskan akhir pekan?",
+    "category": "vibe"
+  },
+  {
+    "question": "Sudut rumah favorit kamu?",
+    "category": "vibe"
+  },
+  {
+    "question": "Lebih suka naik ojek/taksi atau transportasi umum?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kalau ngidam makan malam, menu apa yang langsung kepikiran?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kesenangan kecil sehari-hari yang bikin kamu bahagia?",
+    "category": "vibe"
+  },
+  {
+    "question": "Terakhir kamu searching apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Satu hal dalam hidup yang nggak bisa kamu lepas?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kalau diibaratkan hewan, kamu kira-kira hewan apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Sekarang ada apa aja di dalam tas kamu?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kamu termasuk yang nonton video waktu makan nggak?",
+    "category": "vibe"
+  },
+  {
+    "question": "Warna favorit kamu apa? Kenapa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Satu barang yang selalu kamu bawa waktu traveling?",
+    "category": "vibe"
+  },
+  {
+    "question": "Sekarang lagi galau mau beli apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Warung atau restoran langganan di dekat rumah?",
+    "category": "vibe"
+  },
+  {
+    "question": "Suka olahraga? Olahraga favorit kamu apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Lebih suka minuman hangat saat dingin atau minuman dingin saat panas?",
+    "category": "vibe"
+  },
+  {
+    "question": "Ada video atau meme lucu yang bikin kamu ngakak belakangan ini?",
+    "category": "vibe"
+  },
+  {
+    "question": "Pengeluaran terbesar kamu tiap bulan buat apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Lebih sering scroll feed Instagram atau Reels/TikTok?",
+    "category": "vibe"
+  },
+  {
+    "question": "Suka masak? Ada menu andalan yang bisa kamu bikin?",
+    "category": "vibe"
+  },
+  {
+    "question": "Ada tempat makan yang pengen kamu rahasiain biar nggak rame?",
+    "category": "vibe"
+  },
+  {
+    "question": "Berapa lama kamu main HP di kasur sebelum tidur?",
+    "category": "vibe"
+  },
+  {
+    "question": "Ada parfum atau aroma favorit yang sering kamu pakai?",
+    "category": "vibe"
+  },
+  {
+    "question": "Ada konten yang belakangan ini paling ngaruh ke kamu?",
+    "category": "vibe"
+  },
+  {
+    "question": "Di playlist kamu ada genre yang di luar dugaan nggak?",
+    "category": "vibe"
+  },
+  {
+    "question": "Akhir pekan kamu lebih sering bangun kesiangan atau malah bangun pagi?",
+    "category": "vibe"
+  },
+  {
+    "question": "Tertarik sama dekorasi rumah? Suka gaya seperti apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kamu teliti baca ulasan sebelum order makanan?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kalau harus makan satu makanan seumur hidup, makanan apa?",
+    "category": "vibe"
+  },
+  {
+    "question": "Akhir-akhir ini ada hobi baru yang kamu tekuni?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kamu tipe yang nggak bisa hidup tanpa kopi?",
+    "category": "vibe"
+  },
+  {
+    "question": "Kalau bisa jadi orang tak terlihat selama sehari, apa yang mau kamu lakukan?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa teleportasi ke mana saja, sekarang mau ke mana?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa punya satu kekuatan super, apa yang kamu pilih?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa balik ke masa lalu, zaman apa yang pengen kamu kunjungi?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau terdampar di pulau terpencil dan cuma boleh bawa 3 barang, apa pilihanmu?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau mendadak menang lotere, hal pertama yang mau kamu lakukan?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau besok adalah hari terakhir di bumi, hari ini mau ngapain?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa bicara sama hewan, hewan pertama yang mau kamu ajak ngobrol?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa punya pekerjaan lain, kamu mau jadi apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa hidup sebagai karakter film, kamu mau jadi siapa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau buka usaha sendiri, usaha apa yang mau kamu jalankan?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau ketemu alien, hal pertama yang mau kamu tunjukin?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau dikasih sabatikal setahun, mau kamu gunain buat apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Di kehidupan sebelumnya, kamu kira-kira orang seperti apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Hal paling pengen kamu lihat kalau bisa maju ke 100 tahun ke depan?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa tinggal di luar negeri selama setahun, kamu pilih negara mana?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau jadi terkenal, kamu bakal terkenal di bidang apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa jadi orang lain selama sehari, kamu mau jadi siapa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa menghentikan waktu, waktu itu mau ngapain?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau tiba-tiba bisa fasih satu bahasa asing, bahasa apa yang kamu pilih?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa kirim pesan ke diri sendiri di masa lalu, apa yang mau kamu tulis?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa kendaliin mimpi, mimpi seperti apa yang pengen kamu alami?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau punya pulau sendiri, mau kamu bikin seperti apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa makan malam sama satu tokoh sejarah, kamu pilih siapa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau harus punya satu hobi seumur hidup, apa pilihanmu?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau hidup sampai 100 tahun, hal apa yang paling pengen kamu lakukan?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa bikin satu peraturan yang berlaku untuk semua orang, apa aturannya?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau balik ke tahun pertama kuliah, apa yang mau kamu lakukan berbeda?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau tiba-tiba dapat 10 miliar, kamu masih mau lanjutin pekerjaan sekarang?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa berubah jadi hewan apa saja, mau jadi apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau jadi YouTuber, channel seperti apa yang mau kamu jalankan?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau hanya bisa menyimpan satu kenangan selamanya, kenangan apa yang kamu pilih?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa membangun rumah di mana saja di dunia, kamu mau di mana?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa makan satu makanan tanpa batas, makanan apa itu?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa balik ke 10 tahun lalu selama satu hari, mau ngapain?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau jadi sutradara film, genre apa yang mau kamu buat?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau besok nggak harus kerja selama sebulan, mau ngapain?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa tinggal di planet lain, kamu mau coba?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau tiba-tiba bisa baca pikiran orang, menurut kamu itu menyenangkan atau menyiksa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau hidup bisa di-reset seperti game, kamu mau lakuin itu?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa terbang, tempat pertama yang pengen kamu kunjungi?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau ada versi kamu di alam paralel, menurut kamu dia lagi menjalani hidup seperti apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa baca otobiografi siapa saja, kamu pilih punya siapa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau AI bisa merancang hari sempurna buat kamu, kamu bakal ikutin?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bau bisa terlihat sebagai warna, kamu bayangin dunia seperti apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau buku yang kamu tulis jadi bestseller, isinya tentang apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau cuma bisa pakai tombol 'rewind' sekali seumur hidup, kapan kamu gunakannya?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau tiba-tiba semua orang di dunia nggak bisa bohong, dunia bakal jadi seperti apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau setahun penuh nggak pakai media sosial, apa yang bakal berubah?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa mendapat satu bakat secara instan lewat sihir, kamu pilih apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau diri kamu di masa depan kirim surat, kira-kira isinya apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau robot bisa urus semua pekerjaan rumah, waktu luangmu mau dipakai buat apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau di dunia ini cuma ada kamu seorang, sehari bakal kamu isi dengan apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa masuk ke dunia komik atau anime favorit, kamu pilih masuk ke mana?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Sekarang mau masukin apa ke dalam kapsul waktu?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau chef terkenal bisa masak khusus buat kamu, mau minta dimasakin apa?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau hewan bisa bersekolah, hewan apa yang bakal jadi ketua kelas?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau diri kamu 10 tahun kemudian melihat kamu sekarang, apa yang bakal dia bilang?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa menyelesaikan satu masalah di dunia ini, masalah apa yang kamu pilih?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Kalau bisa menghapus satu musim, musim mana yang kamu hapus?",
+    "category": "whatIf"
+  },
+  {
+    "question": "Momen paling berani yang pernah kamu lakuin dalam hidup?",
+    "category": "story"
+  },
+  {
+    "question": "Pelajaran terbesar yang kamu dapat dari kegagalan terbesar dalam hidupmu?",
+    "category": "story"
+  },
+  {
+    "question": "Adakah satu orang yang benar-benar mengubah hidupmu?",
+    "category": "story"
+  },
+  {
+    "question": "Mimpi waktu kecil kamu, seberapa jauh beda sama kamu sekarang?",
+    "category": "story"
+  },
+  {
+    "question": "Momen paling membanggakan yang kamu alami tahun ini?",
+    "category": "story"
+  },
+  {
+    "question": "Pengalaman apa yang paling banyak mendewasakan kamu?",
+    "category": "story"
+  },
+  {
+    "question": "Pujian yang paling berkesan yang pernah kamu terima?",
+    "category": "story"
+  },
+  {
+    "question": "Peristiwa apa yang jadi titik balik dalam hidupmu?",
+    "category": "story"
+  },
+  {
+    "question": "Ada episode perjalanan yang sampai sekarang masih kamu ingat?",
+    "category": "story"
+  },
+  {
+    "question": "Kapan terakhir kali kamu tertawa paling keras?",
+    "category": "story"
+  },
+  {
+    "question": "Pengalaman paling memalukan yang pernah kamu alami?",
+    "category": "story"
+  },
+  {
+    "question": "Bagaimana rasanya waktu pertama kali kamu mendapat uang sendiri?",
+    "category": "story"
+  },
+  {
+    "question": "Ada barang yang udah kamu simpan sejak lama dan masih kamu jaga sampai sekarang?",
+    "category": "story"
+  },
+  {
+    "question": "Guru paling berkesan semasa sekolah kamu siapa?",
+    "category": "story"
+  },
+  {
+    "question": "Kenangan paling seru bareng teman yang masih kamu ingat?",
+    "category": "story"
+  },
+  {
+    "question": "Momen paling menegangkan yang pernah kamu alami?",
+    "category": "story"
+  },
+  {
+    "question": "Hal baru apa yang baru-baru ini kamu mulai?",
+    "category": "story"
+  },
+  {
+    "question": "Permainan favorit waktu kecil kamu apa?",
+    "category": "story"
+  },
+  {
+    "question": "Momen paling mengharukan yang pernah kamu alami?",
+    "category": "story"
+  },
+  {
+    "question": "Tantangan paling nekat yang pernah kamu coba?",
+    "category": "story"
+  },
+  {
+    "question": "Ada momen belakangan ini waktu kamu bersyukur ke seseorang?",
+    "category": "story"
+  },
+  {
+    "question": "Lingkungan yang paling berkesan waktu kamu pernah pindah rumah?",
+    "category": "story"
+  },
+  {
+    "question": "Pernah traveling sendirian? Cerita dong pengalamannya!",
+    "category": "story"
+  },
+  {
+    "question": "Ulang tahun paling berkesan yang pernah kamu rayakan?",
+    "category": "story"
+  },
+  {
+    "question": "Kapan terakhir kali kamu lari secepat mungkin karena suatu hal?",
+    "category": "story"
+  },
+  {
+    "question": "Ada hal yang kamu mulai secara kebetulan tapi ternyata berdampak besar pada hidupmu?",
+    "category": "story"
+  },
+  {
+    "question": "Kenangan makan paling enak yang kamu punya?",
+    "category": "story"
+  },
+  {
+    "question": "Film atau drama pertama yang bikin kamu nangis?",
+    "category": "story"
+  },
+  {
+    "question": "Kenangan terbaik bersama keluarga waktu kecil?",
+    "category": "story"
+  },
+  {
+    "question": "Kebaikan tak terduga dari orang asing yang pernah kamu alami?",
+    "category": "story"
+  },
+  {
+    "question": "Berapa lama rekor kamu terjaga paling lama tanpa tidur?",
+    "category": "story"
+  },
+  {
+    "question": "Pengalaman paling menakutkan yang pernah kamu alami?",
+    "category": "story"
+  },
+  {
+    "question": "Konser atau pertunjukan yang paling berkesan?",
+    "category": "story"
+  },
+  {
+    "question": "Bagaimana kamu bisa kenal orang baru yang terakhir kamu temui?",
+    "category": "story"
+  },
+  {
+    "question": "Keberuntungan paling tidak terduga dalam hidupmu?",
+    "category": "story"
+  },
+  {
+    "question": "Waktu kecil, cita-citamu apa?",
+    "category": "story"
+  },
+  {
+    "question": "Pernah sakit parah? Cerita dong pengalamannya!",
+    "category": "story"
+  },
+  {
+    "question": "Kebiasaan yang udah kamu jalankan paling lama sampai sekarang?",
+    "category": "story"
+  },
+  {
+    "question": "Momen ketika kamu paling bulat tekadnya buat memutuskan sesuatu?",
+    "category": "story"
+  },
+  {
+    "question": "Momen acara keluarga yang paling berkesan?",
+    "category": "story"
+  },
+  {
+    "question": "Pernah ngerasain kebetulan yang terasa seperti takdir?",
+    "category": "story"
+  },
+  {
+    "question": "Ada pencapaian pribadi yang nggak banyak orang tahu?",
+    "category": "story"
+  },
+  {
+    "question": "Sekarang apa yang lagi paling kamu tekuni?",
+    "category": "story"
+  },
+  {
+    "question": "Ada perkataan yang paling kamu sesali sepanjang hidup?",
+    "category": "story"
+  },
+  {
+    "question": "Hal terbaru yang baru kamu sadari tentang diri sendiri?",
+    "category": "story"
+  },
+  {
+    "question": "Teman yang paling lama tetap berhubungan, gimana cerita pertama ketemu?",
+    "category": "story"
+  },
+  {
+    "question": "Periode paling sibuk dalam hidupmu itu kapan?",
+    "category": "story"
+  },
+  {
+    "question": "Baru-baru ini ada makanan baru yang kamu coba?",
+    "category": "story"
+  },
+  {
+    "question": "Hadiah yang paling berharga yang pernah kamu terima?",
+    "category": "story"
+  },
+  {
+    "question": "Tempat yang paling sering kamu kunjungi waktu kecil?",
+    "category": "story"
+  },
+  {
+    "question": "Pengalaman paling membanggakan waktu kamu bisa bantu orang lain?",
+    "category": "story"
+  },
+  {
+    "question": "Momen yang bikin hati kamu hangat belakangan ini?",
+    "category": "story"
+  },
+  {
+    "question": "Pertemuan pertama yang paling berkesan dalam hidupmu?",
+    "category": "story"
+  },
+  {
+    "question": "Pernah ngalamin timing yang pas banget dalam hidupmu?",
+    "category": "story"
+  },
+  {
+    "question": "Ada lagu yang pernah bikin kamu nangis?",
+    "category": "story"
+  },
+  {
+    "question": "Pernah hal yang nggak direncanain malah berakhir dengan hasil yang bagus?",
+    "category": "story"
+  },
+  {
+    "question": "Nasihat yang paling mengena yang pernah kamu dengar?",
+    "category": "story"
+  },
+  {
+    "question": "Hal yang paling lama kamu tunggu selama ini?",
+    "category": "story"
+  },
+  {
+    "question": "Kenangan pekerjaan atau magang pertama kamu seperti apa?",
+    "category": "story"
+  },
+  {
+    "question": "Pernah dengan berani menolak sesuatu? Ceritain!",
+    "category": "story"
+  },
+  {
+    "question": "Satu hal yang mau kamu katakan ke diri sendiri 5 tahun lalu?",
+    "category": "deep"
+  },
+  {
+    "question": "Hal yang paling kamu sesali karena nggak pernah kamu lakukan?",
+    "category": "deep"
+  },
+  {
+    "question": "Pertanyaan apa yang pengen kamu tanyain ke diri sendiri 10 tahun dari sekarang?",
+    "category": "deep"
+  },
+  {
+    "question": "3 hal yang paling kamu syukuri dalam hidup?",
+    "category": "deep"
+  },
+  {
+    "question": "Ada masa dalam hidupmu yang pengen kamu kembali ke sana?",
+    "category": "deep"
+  },
+  {
+    "question": "Kalau harus menggambarkan dirimu dalam satu kata, apa itu?",
+    "category": "deep"
+  },
+  {
+    "question": "Kemampuan yang paling kamu banggakan dari dirimu sendiri?",
+    "category": "deep"
+  },
+  {
+    "question": "Siapa orang yang paling kamu kagumi dan kenapa?",
+    "category": "deep"
+  },
+  {
+    "question": "Definisi kebahagiaanmu berubah dari dulu sampai sekarang?",
+    "category": "deep"
+  },
+  {
+    "question": "Nilai hidup yang paling banyak berubah seiring bertambahnya usiamu?",
+    "category": "deep"
+  },
+  {
+    "question": "Bagian dari hidupmu sekarang yang paling kamu syukuri?",
+    "category": "deep"
+  },
+  {
+    "question": "Ada sisi dirimu yang nggak banyak orang tahu?",
+    "category": "deep"
+  },
+  {
+    "question": "Pernah ngerasain kesepian yang dalam?",
+    "category": "deep"
+  },
+  {
+    "question": "Hal paling penting dalam hubungan antarmanusia menurut kamu?",
+    "category": "deep"
+  },
+  {
+    "question": "Satu hal yang harus kamu lakukan sebelum meninggal?",
+    "category": "deep"
+  },
+  {
+    "question": "Ada hal yang pengen kamu minta maaf ke seseorang?",
+    "category": "deep"
+  },
+  {
+    "question": "Menurutmu, seperti apa definisi sukses?",
+    "category": "deep"
+  },
+  {
+    "question": "Apa yang paling kamu takuti sekarang?",
+    "category": "deep"
+  },
+  {
+    "question": "Buat kamu, apa artinya 'menjadi dewasa'?",
+    "category": "deep"
+  },
+  {
+    "question": "Peristiwa yang paling banyak memberimu pelajaran hidup?",
+    "category": "deep"
+  },
+  {
+    "question": "Hal yang paling banyak bikin kamu berpikir belakangan ini?",
+    "category": "deep"
+  },
+  {
+    "question": "Menurutmu, seperti apa sosok teman yang sejati?",
+    "category": "deep"
+  },
+  {
+    "question": "Kamu kira-kira memberikan kesan pertama seperti apa ke orang lain?",
+    "category": "deep"
+  },
+  {
+    "question": "Kamu merasa udah hidup tanpa penyesalan?",
+    "category": "deep"
+  },
+  {
+    "question": "Perasaan yang paling sulit kamu ungkapkan secara jujur?",
+    "category": "deep"
+  },
+  {
+    "question": "Pengalaman terbesar yang membentuk dirimu sekarang?",
+    "category": "deep"
+  },
+  {
+    "question": "Hal paling berharga yang nggak bisa dibeli dengan uang?",
+    "category": "deep"
+  },
+  {
+    "question": "Kamu punya filosofi hidup tersendiri?",
+    "category": "deep"
+  },
+  {
+    "question": "Menurut kamu, apakah manusia bisa berubah?",
+    "category": "deep"
+  },
+  {
+    "question": "Kenapa menurut kamu waktu sendiri itu perlu?",
+    "category": "deep"
+  },
+  {
+    "question": "Kapan kamu merasa paling lemah?",
+    "category": "deep"
+  },
+  {
+    "question": "Kalau ada satu hal yang mau kamu ubah dari hidupmu sekarang, apa itu?",
+    "category": "deep"
+  },
+  {
+    "question": "Pernah merasa mengecewakan seseorang?",
+    "category": "deep"
+  },
+  {
+    "question": "Kamu punya tolok ukur sendiri kapan kamu merasa 'sudah cukup'?",
+    "category": "deep"
+  },
+  {
+    "question": "Perasaan yang paling sering kamu rasain?",
+    "category": "deep"
+  },
+  {
+    "question": "Kunci untuk menjaga hubungan yang baik menurut kamu apa?",
+    "category": "deep"
+  },
+  {
+    "question": "Siapa yang paling mengenal dirimu?",
+    "category": "deep"
+  },
+  {
+    "question": "Pernah ada momen ketika kamu menarik garis dan berkata 'ini sudah cukup'?",
+    "category": "deep"
+  },
+  {
+    "question": "Hal yang makin penting seiring bertambahnya usia menurut kamu apa?",
+    "category": "deep"
+  },
+  {
+    "question": "Kapan kepercayaan dirimu paling turun?",
+    "category": "deep"
+  },
+  {
+    "question": "Pernah harus merelakan sesuatu demi kebahagiaan?",
+    "category": "deep"
+  },
+  {
+    "question": "Ingin diingat seperti apa setelah kamu tiada?",
+    "category": "deep"
+  },
+  {
+    "question": "Impian yang paling lama kamu simpan dalam hati?",
+    "category": "deep"
+  },
+  {
+    "question": "Bagaimana kamu menghadapi emosi yang menyulitkan?",
+    "category": "deep"
+  },
+  {
+    "question": "Bagaimana kamu bangkit setelah terluka dalam sebuah hubungan?",
+    "category": "deep"
+  },
+  {
+    "question": "Apa arti kebebasan buatmu?",
+    "category": "deep"
+  },
+  {
+    "question": "Pernah berbohong demi sesuatu? Kenapa?",
+    "category": "deep"
+  },
+  {
+    "question": "Apa arti keluarga bagimu?",
+    "category": "deep"
+  },
+  {
+    "question": "Ada hal yang kamu tahu harus dilepaskan tapi belum bisa?",
+    "category": "deep"
+  },
+  {
+    "question": "Kamu tipe pemimpin atau pengikut? Kenapa begitu?",
+    "category": "deep"
+  },
+  {
+    "question": "Pernah ngerasain diri dalam vs diri luar kamu terasa berbeda?",
+    "category": "deep"
+  },
+  {
+    "question": "Kamu percaya cinta tanpa syarat itu ada?",
+    "category": "deep"
+  },
+  {
+    "question": "Apa yang pengen kamu katakan ke orang yang paling kamu syukuri kehadirannya sekarang?",
+    "category": "deep"
+  },
+  {
+    "question": "Hubungan seperti apa yang paling bikin kamu nyaman?",
+    "category": "deep"
+  },
+  {
+    "question": "Pada akhirnya, apa yang paling penting dalam hidupmu?",
+    "category": "deep"
+  },
+  {
+    "question": "Kamu sering memikirkan apa yang orang lain pikirkan tentang kamu?",
+    "category": "deep"
+  },
+  {
+    "question": "Kamu kira hal yang jadi kekhawatiranmu sekarang masih bakal jadi masalah setahun lagi?",
+    "category": "deep"
+  },
+  {
+    "question": "Apa yang memberimu kekuatan?",
+    "category": "deep"
+  },
+  {
+    "question": "Kenapa menurut kamu susah buat menunjukkan sisi lemah diri sendiri?",
+    "category": "deep"
+  },
+  {
+    "question": "Kalau harus kasih nilai untuk hidupmu sekarang, berapa dan kenapa?",
+    "category": "deep"
+  }
+]

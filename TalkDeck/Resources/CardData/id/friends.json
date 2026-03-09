@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Sekarang siapa yang paling sering kamu hubungi?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Bulan ini, hal apa yang paling bikin kamu seneng?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang hal apa yang paling banyak ada di pikiranmu?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada rutinitas baru yang kamu mulai?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang aplikasi apa yang paling sering kamu buka?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Minggu ini makanan paling enak yang kamu makan apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang kamu paling banyak menghabiskan waktu di mana?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada konten baru yang lagi kamu suka banget?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang jam tidurmu gimana?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Bulan ini keputusan terbaik kamu apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini hal baru apa yang menarik perhatianmu?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Pengeluaran terakhir yang paling bikin kamu puas apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Cuaca atau musim lagi mempengaruhi mood kamu sekarang?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Minggu ini hal paling absurd apa yang terjadi sama kamu?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tempat yang baru kamu kunjungi dan pengen balik lagi?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Kondisi fisik kamu sekarang gimana? Ada yang lagi dijaga?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Bulan ini hal apa yang paling kamu tunggu-tunggu?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini kamu sering ngobrol sama teman-teman?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Hal yang kamu coba sendirian belakangan ini yang ternyata seru?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sebelum tidur, kamu lagi kepikiran apa sekarang?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Bulan ini pernah stres? Gimana cara kamu ngatasinnya?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Kamu sering makan di luar belakangan ini? Biasanya ke mana?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada hal baru yang kamu coba?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Dalam sehari, waktu favorit kamu sekarang itu kapan?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Minggu ini kapan kamu paling banyak ketawa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang ada hal yang lagi kamu pelajari atau coba kuasai?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada buku, film, atau konten yang bisa kamu rekomendasiin?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang lebih sering di rumah atau di luar?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Bulan ini siapa yang paling bikin kamu merasa berterima kasih?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang perasaan apa yang paling sering kamu rasain?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada hal yang tak terduga yang terjadi?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang ada sesuatu yang pengen kamu beresin? Entah barang atau hubungan?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Minggu ini janji temu yang paling kamu tunggu apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Kalau lagi sendirian sekarang, kamu biasanya ngapain?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada hal yang kamu lepas atau berhenti lakukan?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang ada barang yang selalu kamu beli kalau belanja?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Bulan ini rencana kamu apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Sekarang kebiasaan atau rutinitas yang paling kamu perhatiin apa?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Belakangan ini ada orang lama yang tiba-tiba kamu hubungi?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Tidur kamu sekarang gimana? Ada mimpi yang masih inget?",
+    "category": "recentLife"
+  },
+  {
+    "question": "Kamu masih ingat gimana awalnya kita bisa deket?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada hal yang pernah kita lakuin bareng yang masih sering kamu inget?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu sekolah dulu, ada momen yang paling berkesan buat kamu?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu kecil, ada makanan yang pasti kamu tolak makan?",
+    "category": "memories"
+  },
+  {
+    "question": "Teman paling lama kamu kenal, gimana cerita kalian ketemu?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada kenangan waktu kecil yang masih sering muncul di pikiranmu?",
+    "category": "memories"
+  },
+  {
+    "question": "Episode paling absurd yang pernah terjadi bareng teman kamu?",
+    "category": "memories"
+  },
+  {
+    "question": "Permainan atau game yang sering kamu mainin waktu kecil?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada kenangan pertama kali kamu berhasil melakukan sesuatu sendiri?",
+    "category": "memories"
+  },
+  {
+    "question": "Kejadian paling berkesan yang pernah terjadi di sekolah?",
+    "category": "memories"
+  },
+  {
+    "question": "Dari semua tempat yang pernah kamu kunjungi, mana yang paling berkesan?",
+    "category": "memories"
+  },
+  {
+    "question": "Tempat favorit kamu waktu kecil di mana?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu kecil, cita-cita kamu apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada kenangan pertama kali kamu cerita rahasia ke teman?",
+    "category": "memories"
+  },
+  {
+    "question": "Ulang tahun atau hari spesial yang paling berkesan buat kamu?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu kecil, alasan paling lucu kenapa dimarahin orang tua?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu pertama kali punya uang sendiri, kamu pakai buat apa?",
+    "category": "memories"
+  },
+  {
+    "question": "Mata pelajaran yang paling kamu suka dan paling kamu benci di sekolah?",
+    "category": "memories"
+  },
+  {
+    "question": "Makanan favorit waktu kecil masih kamu suka sampai sekarang?",
+    "category": "memories"
+  },
+  {
+    "question": "Masih ingat pertama kali kamu pergi ke luar negeri?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada tren waktu kecil yang sekarang kalau diinget jadi pengen ketawa?",
+    "category": "memories"
+  },
+  {
+    "question": "Lagu favorit kamu waktu SMP masih inget?",
+    "category": "memories"
+  },
+  {
+    "question": "Program TV atau acara yang selalu kamu tonton waktu kecil?",
+    "category": "memories"
+  },
+  {
+    "question": "Pertama kali traveling jauh sendirian itu kapan?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada momen waktu sekolah dipuji guru yang masih kamu ingat?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada teman lama yang kadang masih kamu pengen ketemu?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu kecil, punya tempat rahasia atau tempat persembunyian favorit?",
+    "category": "memories"
+  },
+  {
+    "question": "Kesan pertama sama teman paling lamamu itu gimana?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada barang lama yang masih kamu simpan sampai sekarang?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu kecil ada hobi atau karakter yang bikin kamu fanatik banget?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada kenangan masa kecil yang bikin kamu ngerasa 'dulu polos banget ya'?",
+    "category": "memories"
+  },
+  {
+    "question": "Masih ingat pertama kali kamu minum alkohol?",
+    "category": "memories"
+  },
+  {
+    "question": "Waktu sekolah, kamu tipe anak yang seperti apa di kelas?",
+    "category": "memories"
+  },
+  {
+    "question": "Kenangan paling bahagia bareng orang tua kamu?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada orang di masa lalu yang berdampak besar buat hidup kamu?",
+    "category": "memories"
+  },
+  {
+    "question": "Pengalaman paling menakutkan waktu kamu masih kecil?",
+    "category": "memories"
+  },
+  {
+    "question": "Kalau bisa balik ke hari sekolah menengah selama satu hari, kamu mau ke hari yang mana?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada guru yang masih sering kamu inget sampai sekarang?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada kenangan nakal waktu kecil yang akhirnya ketahuan?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada cerita seru atau lucu dari upacara kelulusan atau hari pertama sekolah?",
+    "category": "memories"
+  },
+  {
+    "question": "Ada hal yang belum pernah kamu ceritain ke aku, tapi sekarang mau cerita?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah ngerasa susah jujur sama teman?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah kelihatan baik-baik aja padahal sebenernya lagi berat banget?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada hal yang orang salah paham tentang kamu?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada perasaan yang jarang kamu tunjukin ke orang lain?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada seseorang yang pengen kamu minta maaf tapi belum sempat?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada hal yang kamu takuti tapi jarang kamu akui?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah kelihatan ceria di luar tapi dalem hati lagi susah?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada hal yang orang anggap wajar tapi kamu sendiri merasa berat?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada orang yang pengen kamu ucapkan terima kasih tapi belum sempat?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Hal apa yang paling susah kamu akui jujur ke diri sendiri?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah ngerasa terbebani sama ekspektasi orang lain?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada perasaan yang cuma muncul waktu kamu sendirian?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada sisi dirimu yang jarang orang lain lihat?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada hal yang kamu pura-pura ngerti padahal sebenarnya nggak?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada hal yang kamu iri dari teman? Boleh jujur ya.",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Bagian dirimu yang paling mudah terluka itu yang mana?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Kekhawatiran yang paling sering muncul belakangan ini?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah bilang sesuatu yang sampai sekarang masih kamu sesali?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Kapan kamu ngerasa paling 'nggak jadi diri sendiri'?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah pengen orang lain ngerti perasaanmu tapi malah nggak dipahami?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Sekarang hal yang paling kamu butuhin itu apa?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah berusaha terlihat sempurna di depan orang lain?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah ngerasa menyembunyikan perasaan sudah jadi kebiasaan?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah ngerasa kesepian waktu lagi bareng teman-teman?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Bagian diri yang paling kamu nggak pede itu apa?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah nggak jujur ke seseorang sampai bikin hubungan jadi renggang?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Kapan kamu paling sering nyalahin diri sendiri?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada hal yang agak memalukan tapi masih kamu suka sampai sekarang?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah ekspresi atau kata-katamu berbeda sama perasaan yang kamu rasain dalem hati?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Sekarang ada yang lagi kamu pikirin sendirian?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada situasi atau perasaan yang tanpa sadar kamu hindari?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada hal yang pengen kamu lakuin tapi selalu ragu-ragu?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Waktu kamu lagi paling terpuruk, kenapa nggak cerita ke siapapun?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Kamu tipe yang memendam perasaan atau langsung ungkapin?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah ngerasa ekspektasi kamu ke diri sendiri terlalu besar?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Sekarang perasaan kamu yang sebenarnya gimana?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Pernah lagi ketawa bareng orang tapi sebenernya lagi ngerasa lain?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Kapan terakhir kali kamu beneran pengen nangis?",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada sesuatu yang pengen kamu sampaikan sekarang? Apa aja boleh.",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "Ada momen yang bikin kamu ngerasa 'ini baru namanya teman beneran'?",
+    "category": "friendship"
+  },
+  {
+    "question": "Pernah hampir renggang tapi malah jadi lebih deket?",
+    "category": "friendship"
+  },
+  {
+    "question": "Kata-kata dari teman yang masih kamu ingat sampai sekarang?",
+    "category": "friendship"
+  },
+  {
+    "question": "Kamu ngerasa pertemanan berubah seiring dewasa nggak?",
+    "category": "friendship"
+  },
+  {
+    "question": "Pengorbanan terbesar yang pernah kamu lakukan buat teman?",
+    "category": "friendship"
+  },
+  {
+    "question": "Menurut kamu, hal paling penting buat menjaga pertemanan itu apa?",
+    "category": "friendship"
+  },
+  {
+    "question": "Perbedaan antara kamu dan teman malah bikin kalian makin deket?",
+    "category": "friendship"
+  },
+  {
+    "question": "Pernah jujur ngomong hal yang nggak enak ke teman?",
+    "category": "friendship"
+  },
+  {
+    "question": "Kalau lagi beneran susah, siapa yang pertama kamu mau hubungi?",
+    "category": "friendship"
+  },
+  {
+    "question": "Satu momen dalam pertemanan kita yang paling berkesan buat kamu?",
+    "category": "friendship"
+  },
+  {
+    "question": "Pandangan kamu tentang pertemanan berubah seiring usia?",
+    "category": "friendship"
+  },
+  {
+    "question": "Hal yang menurutmu nggak boleh dilakukan dalam pertemanan?",
+    "category": "friendship"
+  },
+  {
+    "question": "Kamu ngerasa makin susah buat dapetin teman baru sekarang?",
+    "category": "friendship"
+  },
+  {
+    "question": "Buat kamu, teman itu artinya apa?",
+    "category": "friendship"
+  },
+  {
+    "question": "Kunci menjaga pertemanan lama itu menurut kamu apa?",
+    "category": "friendship"
+  },
+  {
+    "question": "Hal yang paling bikin kamu terharu yang pernah teman lakukan buatmu?",
+    "category": "friendship"
+  },
+  {
+    "question": "Menurut kamu, pertemanan atau cinta yang lebih tahan lama?",
+    "category": "friendship"
+  },
+  {
+    "question": "Perasaan kamu waktu ada teman yang menjauh?",
+    "category": "friendship"
+  },
+  {
+    "question": "Pernah bersandar ke teman? Ceritain situasinya.",
+    "category": "friendship"
+  },
+  {
+    "question": "Kamu kira pertemanan kita masih akan ada 10 tahun lagi?",
+    "category": "friendship"
+  },
+  {
+    "question": "Pernah kecewa sama teman? Gimana cara kamu ngatasinnya?",
+    "category": "friendship"
+  },
+  {
+    "question": "Kapan kamu ngerasa pertemanan semakin dalam?",
+    "category": "friendship"
+  },
+  {
+    "question": "Kita punya hal yang nggak perlu diucapkan tapi udah saling ngerti nggak?",
+    "category": "friendship"
+  },
+  {
+    "question": "Hal terpenting yang kamu lihat waktu berteman sama seseorang?",
+    "category": "friendship"
+  },
+  {
+    "question": "Ada sesuatu dalam pertemanan kita yang nggak berubah meski waktu berlalu?",
+    "category": "friendship"
+  },
+  {
+    "question": "Teman seperti apa yang bikin kamu paling bisa jadi diri sendiri?",
+    "category": "friendship"
+  },
+  {
+    "question": "Pernah kehilangan teman? Gimana kamu menerimanya?",
+    "category": "friendship"
+  },
+  {
+    "question": "Bagian yang paling susah dari menjaga pertemanan itu apa?",
+    "category": "friendship"
+  },
+  {
+    "question": "Kapan terakhir kamu ungkapkan rasa terima kasih ke teman?",
+    "category": "friendship"
+  },
+  {
+    "question": "Sekarang kita berbeda dari waktu pertama ketemu, menurutmu gimana?",
+    "category": "friendship"
+  },
+  {
+    "question": "Satu kenangan pertemanan yang paling berharga buat kamu?",
+    "category": "friendship"
+  },
+  {
+    "question": "Hal paling penting yang kamu pelajari dari teman?",
+    "category": "friendship"
+  },
+  {
+    "question": "Menurut kamu, pertemanan dan loyalitas itu sama atau berbeda?",
+    "category": "friendship"
+  },
+  {
+    "question": "Ada teman yang sudah lama nggak kontak dan kamu pengen mulai lagi?",
+    "category": "friendship"
+  },
+  {
+    "question": "Tindakan apa yang bikin kamu ngerasa seseorang adalah teman yang beneran?",
+    "category": "friendship"
+  },
+  {
+    "question": "Pernah bertengkar besar sama teman dan hubungan jadi berubah?",
+    "category": "friendship"
+  },
+  {
+    "question": "Ada teman yang tau kamu lagi susah tanpa kamu bilang?",
+    "category": "friendship"
+  },
+  {
+    "question": "Kamu ngerasa makin dewasa makin susah menjaga pertemanan?",
+    "category": "friendship"
+  },
+  {
+    "question": "Ada bagian dari dirimu yang pengen kamu tingkatkan dalam pertemanan?",
+    "category": "friendship"
+  },
+  {
+    "question": "Sekarang ada seseorang yang pengen kamu ucapkan terima kasih?",
+    "category": "friendship"
+  }
+]

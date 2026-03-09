@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Satu keputusan terbaik yang kamu buat tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Dari semua hal yang pertama kali kamu coba tahun ini, mana yang paling berkesan?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Kapan momen paling banyak ketawa dari tahun ini?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Pengalaman apa tahun ini yang paling banyak membuat kamu berkembang?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Ada nggak hal tahun ini yang paling kamu sesali?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Ceritain momen yang paling bikin kamu bangga tahun ini",
+    "category": "yearReview"
+  },
+  {
+    "question": "Ada hal yang kamu lepaskan tahun ini dan ternyata itu keputusan yang tepat?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Periode paling berat dari tahun ini itu kapan?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Ada sisi baru dari dirimu yang kamu temukan tahun ini?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hal yang paling kamu usahakan dengan sepenuh hati tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hal yang paling banyak berubah tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Orang yang paling berkesan yang kamu temui tahun ini siapa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Ada wisata atau jalan-jalan yang paling berkesan tahun ini?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Lagu atau playlist yang paling sering kamu dengarkan tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Dari target yang kamu set tahun ini, mana yang tercapai dan mana yang belum?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Kapan momen paling berani dari tahun ini?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Makanan yang paling sering kamu makan tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Ceritain momen paling menyentuh dari tahun ini",
+    "category": "yearReview"
+  },
+  {
+    "question": "Pengeluaran paling worth it dan paling nyesel dari tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Ada hobi atau minat baru yang kamu temukan tahun ini?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hal apa yang paling banyak kamu pikirkan sepanjang tahun ini?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Kabar paling menggembirakan yang kamu terima tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Orang yang paling sering kamu hubungi tahun ini siapa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Makanan enak terbaik yang kamu makan tahun ini itu apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Buku yang kamu baca atau film yang kamu tonton yang paling berkesan tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hal baru tentang diri kamu yang kamu pelajari tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hal paling tak terduga yang terjadi tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hal yang paling banyak kamu renungkan dan sesali tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Pembelian paling tepat yang kamu lakukan tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Bisa bilang satu kalimat buat dirimu sendiri tentang tahun ini?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Ada hal yang pengen kamu puji dari dirimu sendiri tahun ini?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Momen paling berkesan dalam hubunganmu tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hal yang paling banyak bikin kamu stres tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Satu hari yang sepertinya paling lama kamu ingat dari tahun ini itu kapan?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hal yang paling membebani dan hal yang paling menguatkan kamu tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Momen biasa-biasa yang paling membuatmu bahagia tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Ada hal yang kamu rasa perlu kamu minta maaf ke diri sendiri tahun ini?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Hal terbaik yang masuk ke dalam hidupmu tahun ini apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Kalau tahun ini diwakilin satu kata, kata apa?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Kapan momen kamu ngerasa paling berhasil bertahan dari tahun ini?",
+    "category": "yearReview"
+  },
+  {
+    "question": "Orang yang paling kamu syukuri tahun ini siapa?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada hal yang tidak terduga tapi membuatmu bersyukur tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Apa yang menopang kamu sepanjang tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada momen di mana hal-hal kecil membuatmu merasa bahagia tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada orang yang pengen kamu ucapin terima kasih tapi belum sempat tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Siapa yang ada di sisimu waktu kamu kesulitan tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada kata-kata atau tulisan yang memberi kamu semangat tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Sebutkan satu pengalaman yang paling kamu syukuri tahun ini",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada hal tentang tubuh atau kesehatanmu yang kamu syukuri tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada momen keberuntungan yang datang secara kebetulan tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada anggota keluarga yang khususnya ingin kamu ucapkan terima kasih tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada hal yang gagal tahun ini tapi ternyata itu yang terbaik?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Dari keseharian hidupmu, hal mana yang paling kamu syukuri tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Hal-hal apa yang membuat kamu tertawa tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada momen di mana bantuan seseorang membuatmu sangat bersyukur tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada konten atau buku yang memberikan pengaruh positif tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada hal dari lingkungan sekitarmu yang kamu syukuri tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada kebaikan dari orang yang tidak kamu kenal yang masih kamu ingat tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada hal tentang diri kamu sendiri yang kamu syukuri tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Dalam situasi sulit pun, ada hal yang kamu syukuri tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada momen makan atau makanan tertentu yang terasa sangat istimewa tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Apa alasan kamu bisa melewati tahun ini dengan baik?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada teman yang kehadirannya membuatmu bersyukur tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada pertemuan atau koneksi yang terjalin kembali yang kamu syukuri tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada momen di tempat kerja atau belajar yang kamu syukuri tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada orang yang mempercayaimu tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada momen beristirahat yang membuatmu sangat bersyukur tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Dari hal-hal yang berhasil kamu lakuin tahun ini, apa yang bikin kamu bersyukur untuk dirimu sendiri?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada musim atau cuaca yang paling kamu syukuri tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada pengalaman belajar yang membuatmu bersyukur tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada hal yang kamu lewatkan begitu saja tahun ini, tapi sebenernya patut kamu syukuri?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada kebiasaan atau rutinitas yang menguatkan kamu di masa sulit tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada orang yang berbicara jujur kepadamu tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Dalam situasi apa tahun ini kamu paling banyak mendapatkan ucapan terima kasih?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada momen tahun ini di mana kehadiranmu membantu seseorang?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Pernah nggak bersyukur atas hari-hari di mana kamu tidak sakit tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada hobi atau waktu luang yang kamu syukuri tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ada hal tentang ruang atau rumahmu yang kamu syukuri tahun ini?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Di sini sekarang, mau bilang terima kasih ke siapa?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Kalau melihat kembali tahun ini, ada berapa momen yang terasa kamu syukuri?",
+    "category": "gratitude"
+  },
+  {
+    "question": "Ceritain satu hal yang tahun depan pasti mau kamu coba",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada kebiasaan buruk yang pengen kamu tinggalkan tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada rutinitas baru yang mau kamu mulai tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Hal apa yang pengen kamu pelajari tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Hal apa yang pengen kamu lakukan lebih sering tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Hal apa yang pengen kamu lakukan lebih jarang tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada hal baru yang pengen kamu tantang diri sendiri tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Dalam hubunganmu, ada yang pengen kamu ubah tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada yang pengen kamu ubah untuk kesehatan tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada tempat yang pengen banget kamu kunjungi tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada bagian dari dirimu yang pengen kamu perlakukan lebih baik tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada buku yang pengen kamu baca tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada target finansial yang pengen kamu capai tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada orang yang pengen kamu temui lebih sering tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada hal yang pengen kamu pertahankan dan teruskan tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Satu hal yang paling ingin kamu fokuskan tahun depan apa?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada hal yang pengen kamu beranikan diri tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada orang yang pengen kamu hubungi tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada gaya hidup yang pengen kamu ubah tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Waktu untuk dirimu sendiri tahun depan mau kamu manfaatin seperti apa?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Satu target kecil yang pasti mau kamu capai tahun depan apa?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Hal apa yang pengen kamu lebih nikmati tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada cara bicara atau komunikasi yang pengen kamu ubah tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada hal yang pengen kamu lakoni lebih aktif tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Target apa yang pengen banget kamu tulis di agenda tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Perubahan yang paling kamu butuhin tahun depan apa?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Lingkungan di sekitarmu, ada yang pengen kamu ubah tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada hal yang selalu pengen kamu hentikan dan tahun depan rasanya benar-benar bisa?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Rencana yang paling kamu nantikan tahun depan apa?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada hal yang pengen kamu ubah supaya lebih menyukai dirimu sendiri tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada proyek atau tujuan yang pengen kamu selesaikan tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Tahun depan kamu mau jadi orang yang seperti apa?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada hal yang pengen kamu kurang pedulikan tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada hal yang pengen kamu ungkapkan dengan lebih berani tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Tahun depan pengen ada kesempatan kenalan sama orang-orang baru?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada resolusi tahun depan yang sama dengan tahun lalu? Kali ini mau dekatin dari arah yang mana?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada pengalaman yang pengen kamu hadiahkan ke diri sendiri tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Tahun depan mau lebih sering istirahat atau lebih sibuk?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Ada hal tentang dirimu yang pengen kamu pelajari lebih dalam tahun depan?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Di waktu yang sama tahun depan, kamu ingin ada di kondisi yang seperti apa?",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "Di waktu yang sama tahun depan, kamu pengen jadi seperti apa?",
+    "category": "wish"
+  },
+  {
+    "question": "Hal yang belum tercapai tahun ini tapi tahun depan pengen kamu wujudkan apa?",
+    "category": "wish"
+  },
+  {
+    "question": "Kalau hanya boleh punya satu keinginan untuk tahun depan, apa itu?",
+    "category": "wish"
+  },
+  {
+    "question": "Apa yang kamu harapkan dari dirimu sendiri lima tahun ke depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada harapan tentang kesehatanmu di tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada harapan tentang hubunganmu di tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Di pekerjaan atau belajar, apa yang kamu harapkan tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada impian yang pengen kamu capai tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Bayangkan momen paling membahagiakan dari hidupmu tahun depan",
+    "category": "wish"
+  },
+  {
+    "question": "Ada harapan untuk keluarga atau orang-orang tersayang di tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Keberuntungan seperti apa yang kamu harapkan datang ke hidupmu tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada masalah yang pengen banget selesai tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Hal-hal apa yang bakal membuat kamu lebih bahagia tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Kata-kata apa yang pengen kamu dengar dari dirimu sendiri sepuluh tahun dari sekarang?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada hal baru yang pengen kamu mulai tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada perubahan kecil di dunia yang kamu harapkan tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Hal apa yang pengen kamu bebaskan lebih banyak tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Perasaan apa yang pengen lebih sering kamu rasakan tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada tempat yang pengen banget kamu kunjungi tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Apa yang menurutmu paling akan membuatmu bangga tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada hal yang pengen kamu capai bareng seseorang tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada hal tentang dirimu yang pengen kamu ketahui lebih lanjut tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Tahun depan mau hidup lebih santai atau lebih giat?",
+    "category": "wish"
+  },
+  {
+    "question": "Tahun depan mau perlakukan dirimu sendiri seperti apa?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada kenangan yang pengen banget kamu buat tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Nilai yang paling ingin kamu pegang teguh tahun depan apa?",
+    "category": "wish"
+  },
+  {
+    "question": "Kalau tahun depan kamu punya keberanian ekstra, hal pertama yang mau kamu lakukan apa?",
+    "category": "wish"
+  },
+  {
+    "question": "Ceritain hal-hal kecil yang akan membuatmu bahagia tahun depan",
+    "category": "wish"
+  },
+  {
+    "question": "Ada harapan untuk bertemu orang-orang baik tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Perubahan apa yang pengen kamu sambut di tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada tugas lama yang sudah lama tertunda yang pengen kamu selesaikan tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Setahun lagi di waktu yang sama, cerita apa yang pengen kamu bagi di sini?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada hal yang pengen kamu lebih jujur tentangnya tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Dari hal-hal yang tidak bisa dibeli dengan uang, apa yang kamu harapkan tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Kamu tahun depan pengen merasakan apa waktu melihat dirimu yang sekarang?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada hal baru yang pengen masuk ke dalam hidupmu tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Hal apa yang tidak mau kamu lepaskan tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Ada kata-kata yang pengen kamu sampaikan ke dirimu sendiri untuk tahun baru?",
+    "category": "wish"
+  },
+  {
+    "question": "Situasi seperti apa yang paling pengen bikin kamu banyak tertawa tahun depan?",
+    "category": "wish"
+  },
+  {
+    "question": "Harapan yang paling kamu rindukan sekarang itu apa?",
+    "category": "wish"
+  }
+]

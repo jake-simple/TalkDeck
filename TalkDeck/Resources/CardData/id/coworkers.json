@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Momen paling berkesan dan bermakna selama bekerja di sini?",
+    "category": "workLife"
+  },
+  {
+    "question": "Ada pengalaman paling absurd yang pernah kamu alami waktu kerja?",
+    "category": "workLife"
+  },
+  {
+    "question": "Masih ingat hari pertama masuk kerja? Perasaannya gimana?",
+    "category": "workLife"
+  },
+  {
+    "question": "Ada rekan kerja yang paling bikin kamu berterima kasih?",
+    "category": "workLife"
+  },
+  {
+    "question": "Dari semua tempat kerja yang pernah kamu singgahi, mana yang paling berkesan?",
+    "category": "workLife"
+  },
+  {
+    "question": "Ada episode lembur yang paling kamu ingat?",
+    "category": "workLife"
+  },
+  {
+    "question": "Ceritain episode seru bareng rekan kerja yang paling deket?",
+    "category": "workLife"
+  },
+  {
+    "question": "Momen paling lucu di kantor itu apa?",
+    "category": "workLife"
+  },
+  {
+    "question": "Kapan kamu paling berkeringat dingin gara-gara kesalahan kerja?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pencapaian kerja yang paling bikin kamu bangga apa?",
+    "category": "workLife"
+  },
+  {
+    "question": "Ada episode makan-makan atau gathering yang nggak bisa kamu lupakan?",
+    "category": "workLife"
+  },
+  {
+    "question": "Kapan pertama kali kamu ngerasa diakui di tempat kerja?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pernah dimarahi atasan dan sekarang malah jadi kenangan yang bisa ditertawakan?",
+    "category": "workLife"
+  },
+  {
+    "question": "Situasi paling bikin kamu panik waktu masih baru?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pernah have fun bareng rekan kerja di luar urusan kerjaan?",
+    "category": "workLife"
+  },
+  {
+    "question": "Ada episode lucu atau deg-degan waktu dinas luar?",
+    "category": "workLife"
+  },
+  {
+    "question": "Boleh ceritain satu proyek yang paling berat yang pernah kamu tangani?",
+    "category": "workLife"
+  },
+  {
+    "question": "Bakat tersembunyi yang kamu temukan dari diri sendiri lewat pengalaman kerja?",
+    "category": "workLife"
+  },
+  {
+    "question": "Dari tempat kerja sebelumnya, apa yang paling kamu rindukan?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pertama kali terima gaji, kamu ngapain?",
+    "category": "workLife"
+  },
+  {
+    "question": "Ada episode paling lucu waktu kerja dari rumah?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pernah begadang kerja? Situasinya gimana?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pernah disalahpahami di tempat kerja? Gimana cara kamu mengatasinya?",
+    "category": "workLife"
+  },
+  {
+    "question": "Waktu beda pendapat sama rekan, gimana cara kamu menyelesaikannya?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pernah terharu di tempat kerja? Ada kejadian apa?",
+    "category": "workLife"
+  },
+  {
+    "question": "Alasan kamu melamar ke kantor ini apa?",
+    "category": "workLife"
+  },
+  {
+    "question": "Cuti yang paling berkesan kamu pakai buat apa?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pernah dapat julukan atau panggilan di tempat kerja?",
+    "category": "workLife"
+  },
+  {
+    "question": "Rekan yang paling kamu sayangkan waktu resign?",
+    "category": "workLife"
+  },
+  {
+    "question": "Hal yang paling banyak berubah dari dirimu antara awal dan sekarang dalam karier?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pernah kata-kata seorang rekan memberikan dampak besar buat kamu?",
+    "category": "workLife"
+  },
+  {
+    "question": "Ada senior atau rekan yang paling kamu kagumi?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pernah ada insiden di pekerjaan yang malah bikin tim lebih solid?",
+    "category": "workLife"
+  },
+  {
+    "question": "Momen paling berani yang pernah kamu lakukan di tempat kerja?",
+    "category": "workLife"
+  },
+  {
+    "question": "Proyek tim yang paling berkesan buat kamu apa?",
+    "category": "workLife"
+  },
+  {
+    "question": "Ada pengalaman kerja yang ternyata lebih seru dari yang dibayangkan?",
+    "category": "workLife"
+  },
+  {
+    "question": "Periode paling sibuk dalam karier kamu itu kapan?",
+    "category": "workLife"
+  },
+  {
+    "question": "Ada kebiasaan baru yang muncul dari pengalaman kerja?",
+    "category": "workLife"
+  },
+  {
+    "question": "Kapan paling terakhir kamu ngerasa 'senang pilih kerjaan ini'?",
+    "category": "workLife"
+  },
+  {
+    "question": "Pernah dapat feedback terkait kerjaan yang paling berkesan?",
+    "category": "workLife"
+  },
+  {
+    "question": "Waktu kerja, kamu suka dengerin musik? Suasana musik yang kamu suka seperti apa?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Gaya balas pesan kamu gimana? Langsung balas atau dikumpulin dulu?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Ada benda yang wajib ada di meja kerja kamu?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Gaya menata meja kamu gimana? Rapi atau kreatif kacau?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kamu lebih produktif di pagi hari atau sore hari?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Waktu rapat, kamu tipe yang mencatat atau cukup dengerin?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Sebelum mulai kerja, kamu suka bikin to-do list?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kerja dari rumah bikin kamu lebih produktif atau malah menurun?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Waktu kerja, sehari kira-kira berapa lama kamu bengong?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kamu lebih fokus kalau deadlinenya mepet?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kamu lebih suka mengerjakan banyak hal sekaligus atau fokus satu per satu?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Ada tips sendiri buat tetap fokus waktu kerja?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kamu lebih suka kerja tenang sendiri atau bareng tim yang aktif?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kamu sering pakai emoji di chat kerja?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Waktu nulis email kerja, kamu banyak mikirin kata-katanya?",
+    "category": "workLife"
+  },
+  {
+    "question": "Kamu tipe yang mondar-mandir waktu nelpon atau duduk diam?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Ada alat tulis atau perlengkapan kantor yang diam-diam kamu koleksi?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Waktu bikin laporan, kamu banyak mikirin desainnya?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kalau melakukan kesalahan, kamu langsung ngaku atau cari dulu akar masalahnya?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Waktu mentok di kerjaan, kamu lebih suka cari sendiri atau langsung minta bantuan?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Dalam rapat, kamu lebih dulu bicara atau dengarkan orang lain dulu?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kamu suka berbagi pencapaian kerja ke tim?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Waktu dipuji, kamu canggung atau bisa nerima dengan natural?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Sifat perfeksionis kamu gimana muncul dalam kerjaan?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Aplikasi atau alat yang paling sering kamu pakai waktu kerja?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Rutinitas pertama yang kamu lakuin waktu mulai kerja?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kalau ada yang nggak kamu tahu, kamu cari dulu atau langsung tanya?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Proyek panjang kamu pecah-pecah dulu atau langsung lihat gambaran besar?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Waktu kasih feedback, kamu langsung ke poin atau diputar dulu?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kamu punya cara sendiri untuk menentukan prioritas pekerjaan?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Waktu belajar hal baru, kamu lebih suka langsung praktek atau pelajari teorinya dulu?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kerja sama tim vs kemampuan individu, mana yang lebih penting menurutmu?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Pujian atau feedback yang lebih banyak membantu pertumbuhan, menurutmu yang mana?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kamu kira MBTI kamu muncul juga dalam gaya kerja kamu?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kamu suka nempel stiker di laptop?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Waktu konsentrasi mulai buyar, kamu ngatasinnya gimana?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Jenis feedback yang paling bikin kamu termotivasi itu seperti apa?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kamu mudah terpengaruh emosi waktu bekerja?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Kalau hasil kerja ada namamu, kamu makin hati-hati?",
+    "category": "workStyle"
+  },
+  {
+    "question": "Weekend kamu cek notif kerja nggak?",
+    "category": "workStyle"
+  },
+  {
+    "question": "5 tahun lagi, kamu kira kamu lagi ngapain?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Dalam karier, ada hal yang nggak mau kamu kompromikan?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Selain pekerjaan sekarang, ada yang pengen kamu coba ke depan?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Selain uang, ada yang pengen kamu dapat dari pekerjaan?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Nilai yang paling penting dalam kariermu apa?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Kalau pindah ke bidang yang benar-benar berbeda, kamu mau coba apa?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Pernah kepikiran buat usaha sendiri? Pengennya di bidang apa?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Pekerjaan yang kamu lakuin sekarang kira-kira masih ada 10 tahun lagi?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Untuk jadi benar-benar ahli di bidangmu, apa yang masih perlu kamu kembangkan?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Cita-cita kamu waktu kecil ada hubungannya sama pekerjaan sekarang?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Dalam karier, semangat atau stabilitas yang lebih penting sekarang?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Pernah serius mempertimbangkan pindah kerja? Waktu itu kamu pakai kriteria apa?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Menurutmu, sukses dalam karier itu tampilannya seperti apa?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Bagian yang paling pengen kamu kembangkan dalam pekerjaan sekarang?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Nanti kamu mau diingat sebagai senior seperti apa oleh junior?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Skill atau pengetahuan yang sekarang pengen kamu pelajari?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Pernah punya kerja sampingan atau proyek sendiri? Atau ada yang pengen kamu coba?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Pekerjaan kamu pengennya memberi dampak apa ke masyarakat?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Titik balik terbesar dalam kariermu apa?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Kalau bisa kasih satu saran karier ke dirimu 10 tahun lalu, kamu mau bilang apa?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Secara konkret, kapan kamu ngerasa pekerjaan sekarang bermakna?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Ke depan, kamu pengen kerja dengan cara yang seperti apa? WFH, kantor, freelance?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Promosi atau keahlian, sekarang kamu lebih fokus ke yang mana?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Ada target yang pengen kamu capai di kantor ini?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Setelah pensiun, kamu pengen ngapain?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Lewat pekerjaan, kamu pengen tumbuh menjadi orang seperti apa?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Kalau bukan pekerjaan ini, kira-kira kamu bakal di jalur yang mana?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Dalam karier, hal yang belum pernah kamu lakukan tapi pasti pengen dicoba?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Pernah kepikiran membangun personal brand atau keahlian sendiri?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Memilih tempat kerja sekarang, kamu rasa itu keputusan yang tepat?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Antara pekerjaan dan kehidupan, sekarang sisi mana yang lebih berat?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Waktu burnout, gimana cara kamu mengatasinya atau menemukan kembali motivasi?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Kamu punya mentor dalam karier? Orangnya seperti apa?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Kamu lebih tertarik jadi pemimpin tim atau mendalami keahlian?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Dalam pekerjaan sekarang, kemampuan apa yang paling pengen kamu tingkatkan?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Kamu punya pekerjaan yang masih mau kamu lakukan waktu sudah tua?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Kamu pernah kepikiran kerja di luar negeri?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Ada bidang baru yang sekarang paling pengen kamu jajal?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Lingkungan kerja ideal menurutmu seperti apa?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Selain pekerjaan, ada tujuan hidup yang paling pengen kamu capai?",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "Pulang kerja, hal pertama yang kamu lakuin apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Cara kamu melepas stres setelah kerja itu gimana?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Sekarang hobi yang paling kamu suka?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Waktu sendirian setelah pulang kerja, itu momen yang mengisi energi atau bikin kesepian?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Ada rutinitas yang pasti kamu lakuin di akhir pekan?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Setelah kerja, kamu rutin olahraga? Olahraga apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Sekarang ada drama atau film yang lagi kamu tonton?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Pulang kerja, kamu masak sendiri atau beli atau pesan?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Setelah kerja, ada tempat yang paling pengen kamu datangi?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Pulang kerja, sehari berapa lama kamu nonton YouTube atau Netflix?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Kamu banyak keluar uang buat hobi?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Weekend kamu jadwalnya penuh atau nggak ngapain-ngapain?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Kamu suka baca? Sekarang lagi baca buku apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Setelah kerja, kamu sering ketemu teman-teman?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Di rumah, ruang favorit kamu yang mana?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Kamu memanfaatkan waktu dini hari? Buat apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Setelah kerja, kamu lagi mengembangkan diri dalam hal apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Belakangan ini ada hobi baru yang kamu mulai?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Weekend kamu lebih suka sendiri atau bareng orang lain?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Setelah pulang kerja, hal yang paling kamu tunggu apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Sekarang ada musik atau podcast yang sering kamu dengerin?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Kamu sering ke kafe? Kafe yang kamu suka seperti apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Setelah kerja, ada orang yang sering kamu hubungi?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Pernah nonton bioskop sendirian waktu libur?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Kamu suka jalan-jalan? Rute yang kamu suka yang mana?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Pulang kerja, kamu suka nonton mukbang?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Rutinitas tidurmu sudah cukup teratur?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Di rumah, waktu favorit dalam sehari itu kapan?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Aktivitas yang paling bikin kamu berenergi sekarang apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Kamu suka main game? Game apa yang kamu main?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Setelah kerja, kamu banyak bermain media sosial?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Pernah traveling sendirian? Rasanya gimana?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Sekarang momen yang paling kamu tunggu dalam sehari apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Kamu suka masak di rumah? Ada menu yang sering kamu buat?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Aktivitas yang paling sering kamu lakuin setelah pulang kerja?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Setelah kerja, kamu bisa langsung berhenti memikirkan kerjaan?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Hari ini setelah pulang kerja, kamu ada rencana apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Sejak bekerja, hobi kamu ada yang berubah?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Cara kamu me-refresh diri setelah pulang kerja itu apa?",
+    "category": "afterWork"
+  },
+  {
+    "question": "Hari libur, kamu bangun siang atau tetap bangun awal?",
+    "category": "afterWork"
+  }
+]

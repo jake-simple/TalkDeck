@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Tadi sebelum ketemu, perasaan kamu gimana?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Pertama lihat aku, kesan pertamamu gimana? Boleh jujur loh.",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Hal yang paling banyak kamu pikirin sebelum datang ke sini?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Sebelum ketemu, kamu membayangkan aku seperti apa?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Waktu kita salam pertama kali, hal pertama yang kamu perhatiin dari aku apa?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu tipe yang gampang gugup waktu pertama kali ketemu orang baru?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Ada alasan khusus kenapa kamu memutuskan datang ke sini?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Sekarang hal yang paling pengen kamu tanya ke aku apa?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Pernah ada kesan pertama dari pertemuan seperti ini yang paling kamu inget?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Waktu pertama ketemu, hal apa yang bikin kamu mulai membuka diri?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Sebelum datang, hal yang paling banyak kamu persiapkan apa?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Hal paling penting yang kamu perhatiin waktu pertama kali ketemu seseorang?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu dikasih info apa tentang aku sebelumnya?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Waktu perjalanan ke sini, kamu kepikiran apa?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Sekarang ngerasa canggung atau udah nyaman?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Aku mirip hewan apa menurut kamu?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Waktu ngobrol pertama kali sama orang baru, hal yang paling pengen kamu tahu apa?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu tertarik sama orang yang seperti apa waktu pertama kali ketemu?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu biasanya gampang nyambung waktu pertama ketemu kayak gini?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Pernah ada pertemuan seperti ini yang paling kamu inget?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu kira aku kerjanya di bidang apa?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Waktu pertama ketemu, kamu lebih suka orang yang banyak senyum atau yang tenang?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Tempatnya enak nggak? Kamu suka?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Biasanya kesan pertamamu tentang seseorang bisa bertahan lama?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Boleh kamu ajuin satu pertanyaan ke aku?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu ngerasa obrolan kita mengalir dengan natural sejauh ini?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Dalam pertemuan seperti ini, situasi yang paling bikin kamu nggak nyaman apa?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Ada topik yang bisa kamu ceritain dengan jujur ke orang yang baru dikenal?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Sebelum kemari, kamu sempat chat ke teman nggak?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Suasana di sini menurut kamu gimana?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu tipe yang langsung akrab waktu pertama ketemu?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu bisa merasakan tanda-tanda kalau pertemuan ini berjalan baik?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Dari obrolan tadi, ada yang paling berkesan buat kamu?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kalau harus deskripsiin aku dalam dua kata, kata apa yang kamu pilih?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Setelah ngobrol bareng, ada yang di luar ekspektasimu dari aku?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kata-kata apa dari orang yang baru kamu kenal yang langsung bikin kamu nyaman?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu punya cara tertentu buat nenangin diri sebelum pertemuan seperti ini?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Boleh jujur, sekarang aku kesan seperti apa di matamu?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu merasa datang ke sini adalah keputusan yang tepat?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Kamu bisa rasain waktu percakapan itu beneran nyambung gimana?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "Genre musik yang paling sering kamu dengerin sekarang apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Makanan favorit kamu apa? Kalau harus milih antara masakan nusantara, western, atau Jepang?",
+    "category": "taste"
+  },
+  {
+    "question": "Kalau nonton film, genre yang paling sering kamu pilih?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu sering ke kafe? Suasana kafe yang kamu suka seperti apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu traveling, kamu tipe yang jadwal padat atau santai-santai?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada drama atau film yang baru-baru ini kamu tonton dan suka?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada makanan yang benar-benar nggak bisa kamu makan?",
+    "category": "taste"
+  },
+  {
+    "question": "Kalau weekend ada waktu luang sendiri, kamu biasanya ngapain?",
+    "category": "taste"
+  },
+  {
+    "question": "Musim favorit kamu apa? Boleh cerita alasannya.",
+    "category": "taste"
+  },
+  {
+    "question": "Sekarang lagi suka makan atau minum apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu punya hobi? Sekarang yang paling sering dilakuin apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Buku atau konten seperti apa yang kamu suka?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu suka olahraga? Ada olahraga yang rutin kamu lakuin?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu suka minum? Jenis minuman yang kamu suka apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu dengerin musik, kamu lebih fokus ke lirik atau melodi?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada tempat yang pernah kamu kunjungi dan pengen balik lagi?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu di rumah, biasanya kamu isi waktu dengan apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Makanan paling enak yang pernah kamu makan selama ini?",
+    "category": "taste"
+  },
+  {
+    "question": "Di media sosial, kamu biasanya lihat atau baca konten jenis apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu suka masak? Kalau ada menu andalan, boleh cerita.",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu belanja, kamu paling lama di bagian mana?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu lebih suka aktivitas outdoor atau indoor?",
+    "category": "taste"
+  },
+  {
+    "question": "Liburan musim panas, kamu lebih suka pantai atau pegunungan?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada tema playlist yang sering kamu dengerin?",
+    "category": "taste"
+  },
+  {
+    "question": "Sekarang lagi suka apa? Hobi atau hal apapun.",
+    "category": "taste"
+  },
+  {
+    "question": "Snack favorit kamu apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada channel Instagram atau YouTube yang sering kamu tonton?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu pakai parfum? Aroma seperti apa yang kamu suka?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu suka kopi? Menu favoritmu apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu kerja, kamu suka dengerin musik?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu tahan pedas?",
+    "category": "taste"
+  },
+  {
+    "question": "Kalau makan malam, kamu biasanya pesan apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Waktu traveling, yang paling kamu perhatiin itu penginapan, makanan, atau wisata?",
+    "category": "taste"
+  },
+  {
+    "question": "Belakangan ini ada bidang baru yang kamu mulai tertarik?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu suka olahraga atau punya tim favorit?",
+    "category": "taste"
+  },
+  {
+    "question": "Selera kamu berubah banyak seiring waktu?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu punya bunga atau tanaman favorit?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu lebih suka konten video pendek atau panjang?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu suka dessert? Yang paling kamu suka apa?",
+    "category": "taste"
+  },
+  {
+    "question": "Ada hobi yang belum pernah kamu coba tapi pengen dicoba?",
+    "category": "taste"
+  },
+  {
+    "question": "Kamu tipe pagi hari atau malam hari?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Boleh ceritain sehari-hari kamu di hari kerja seperti apa?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Hari Sabtu yang ideal buat kamu itu seperti apa?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu lebih suka di rumah atau di luar?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu tinggal sendiri atau sama keluarga? Masing-masing ada kelebihan dan kekurangannya ya.",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu punya olahraga yang rutin dilakuin?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu sering makan sendirian?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Ada hal yang selalu kamu lakukan sebelum tidur?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu punya kebiasaan menjaga kesehatan tersendiri?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu tipe yang suka rencana atau suka spontan?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kalau tiba-tiba sehari penuh kosong, kamu ngapain?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu tipe yang hemat atau suka belanja?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu sering bersih-bersih? Termasuk tipe yang rapi?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu sering masak sendiri?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu tipe yang sering balas pesan dengan cepat?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu punya kebiasaan tidur siang?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu bisa seimbangkan antara kerja dan istirahat?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Ada tempat atau area yang sering kamu datangi?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Setelah pulang kerja, kamu biasanya ngapain buat istirahat?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu tipe yang gampang belanja impulsif?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Sebulan berapa kali kamu makan di luar?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu butuh berapa banyak waktu sendiri?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu sering traveling?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Di media sosial kamu aktif posting atau cuma lihat-lihat?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Suasana rumah kamu seperti apa? Nyaman nggak?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu rutin belajar atau baca buku?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu sering ketemu teman-teman?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu tidurnya nyenyak?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Waktu stres, kamu biasanya ngatasinnya gimana?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu punya atau mau pelihara hewan?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu suka jalan-jalan atau berjalan kaki?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu banyak janji atau acara sosial?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu sering pulang kampung atau kumpul keluarga?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Pengeluaran yang paling nggak kamu sesalin itu buat apa?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu biasanya tidur awal atau tidur larut?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Hubungan sosial banyak menguras energi kamu?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu mudah membentuk rutinitas yang teratur?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kamu suka mencoba hal baru?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Ada pola hidup sekarang yang pengen kamu ubah?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Kapan waktu kamu merasa paling jadi diri sendiri?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "Hal yang paling penting dalam hidupmu itu apa?",
+    "category": "values"
+  },
+  {
+    "question": "Kalau harus deskripsiin hubungan yang ideal dalam satu kalimat?",
+    "category": "values"
+  },
+  {
+    "question": "Dalam menjalin hubungan, ada hal yang tidak bisa kamu kompromikan?",
+    "category": "values"
+  },
+  {
+    "question": "Waktu menjalani hubungan, kamu pengen jadi orang yang seperti apa?",
+    "category": "values"
+  },
+  {
+    "question": "Perbedaan banyak tapi tetap bisa cocok, menurutmu bisa?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu punya pandangan tentang seberapa sering harus komunikasi dalam hubungan?",
+    "category": "values"
+  },
+  {
+    "question": "Dalam hubungan, kepercayaan itu yang paling penting menurut kamu?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu butuh waktu sendirian dalam hubungan?",
+    "category": "values"
+  },
+  {
+    "question": "Buat kamu, percakapan yang baik itu seperti apa?",
+    "category": "values"
+  },
+  {
+    "question": "Pandangan kamu tentang uang gimana?",
+    "category": "values"
+  },
+  {
+    "question": "Hubungan keluarga itu penting buat kamu?",
+    "category": "values"
+  },
+  {
+    "question": "Kebebasan atau stabilitas, mana yang lebih penting buat kamu?",
+    "category": "values"
+  },
+  {
+    "question": "Ada hal yang paling kamu syukuri dalam hidup?",
+    "category": "values"
+  },
+  {
+    "question": "Dalam hubungan, mengungkapkan perasaan secara terbuka itu penting nggak?",
+    "category": "values"
+  },
+  {
+    "question": "Waktu kerja lagi padat, menurut kamu hubungan harus dikelola gimana?",
+    "category": "values"
+  },
+  {
+    "question": "Waktu vs pasangan, mana yang harus lebih diprioritaskan?",
+    "category": "values"
+  },
+  {
+    "question": "Waktu ada konflik, menurut kamu cara terbaik untuk menyelesaikannya gimana?",
+    "category": "values"
+  },
+  {
+    "question": "Manusia bisa berubah menurut kamu?",
+    "category": "values"
+  },
+  {
+    "question": "Nilai-nilai kamu berubah seiring bertambah usia?",
+    "category": "values"
+  },
+  {
+    "question": "Pandangan kamu tentang pernikahan gimana?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu lebih suka orang yang karakternya mirip atau berbeda?",
+    "category": "values"
+  },
+  {
+    "question": "Dalam hubungan, perlu tahu masa lalu pasangan?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu tipe yang bisa fokus ke satu orang?",
+    "category": "values"
+  },
+  {
+    "question": "Kejujuran dalam hubungan itu penting menurutmu?",
+    "category": "values"
+  },
+  {
+    "question": "Buat kamu, standar kebahagiaan itu apa?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu ngerasa diperhatikan dari pasangan waktu dia ngapain?",
+    "category": "values"
+  },
+  {
+    "question": "Orang yang mencintai dirinya sendiri itu lebih bisa menjalin hubungan yang baik, setuju?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu lebih pilih yang cocok atau yang sesuai tipe idealmu?",
+    "category": "values"
+  },
+  {
+    "question": "Dalam hubungan, masing-masing perlu punya ruang pribadi nggak?",
+    "category": "values"
+  },
+  {
+    "question": "Ada pengalaman yang bikin kamu ngerasa paling berkembang dalam hidup?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu lebih nyaman di keramaian atau dengan sedikit orang tapi intim?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu ngerasa nyaman sama orang yang seperti apa?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu peduli sama pandangan orang lain?",
+    "category": "values"
+  },
+  {
+    "question": "Ada mimpi yang lagi kamu kejar sekarang?",
+    "category": "values"
+  },
+  {
+    "question": "Rahasia menjaga hubungan yang bertahan lama itu menurut kamu apa?",
+    "category": "values"
+  },
+  {
+    "question": "Orang yang seperti apa yang paling berkesan dan sulit dilupakan menurutmu?",
+    "category": "values"
+  },
+  {
+    "question": "Kalau harus deskripsiin dirimu sekarang dalam satu kalimat, kamu bilang apa?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu gampang mengungkapkan perasaan?",
+    "category": "values"
+  },
+  {
+    "question": "Ada hal yang wajib kamu coba dalam hidup?",
+    "category": "values"
+  },
+  {
+    "question": "Kamu berharap pertemuan hari ini menjadi apa?",
+    "category": "values"
+  }
+]
