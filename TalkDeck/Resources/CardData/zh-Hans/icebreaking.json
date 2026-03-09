@@ -1,0 +1,642 @@
+[
+  {
+    "question": "来这里之前你在做什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "用天气来形容你现在的心情是什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今天是怎么来到这里的？有什么契机吗？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "第一次见面，你最先注意到对方什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "如果用一个词来自我介绍，你会说什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今天这个场合你最期待的是什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "来之前你想象过会遇到什么样的人吗？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "第一次见面的场合，你通常扮演什么角色？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "你喜欢认识新朋友吗？会兴奋还是会紧张？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今天早上起来之后第一件事是什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "如果把现在这个瞬间拍成一张照片，你想要什么构图？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "来这里的路上你在想什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "你今天穿的衣服有没有体现你的心情？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "你平时在新圈子里融入得快吗？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "第一次见面最让你觉得难的是什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今天这个场合，有什么特别想聊的话题吗？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "如果用一种食物来代表你自己，你觉得是什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "你觉得这群人里，你会给人留下什么印象？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "初次见面，你最想问对方什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "如果今天没来，你会在干什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "你名字有什么含义吗？你喜欢自己的名字吗？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今天吃饭了吗？吃了什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "你觉得现在这里的氛围怎么样？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "第一次见面你绝对不会做的事是什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "手机里最近一条消息是谁发来的？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "最近有空的时候你一般干什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "你会怎么向朋友介绍今天这个聚会？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "你跟什么样的人最容易很快熟起来？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "来之前你有多期待这次聚会？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今天有没有什么开心的事？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "用一句话介绍自己，你会怎么说？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "在聚会里你是活跃气氛的那种人吗？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "今天结束之后你有什么安排？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "此刻脑子里浮现的三个词是什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "你有没有快速跟陌生人熟起来的小技巧？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "你最常用的表情包是哪个？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "现在最想先认识哪类人？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "来之前你紧张了吗？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "如果用食物来形容你现在的心情是什么？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "对第一印象好的人，你会怎么表现？",
+    "category": "firstMeeting"
+  },
+  {
+    "question": "最近最喜欢听什么类型的音乐？",
+    "category": "taste"
+  },
+  {
+    "question": "你喝咖啡吗？你是美式派还是拿铁派？",
+    "category": "taste"
+  },
+  {
+    "question": "吃炸鸡的时候你先拿哪个部位？",
+    "category": "taste"
+  },
+  {
+    "question": "看电影必买的零食是什么？",
+    "category": "taste"
+  },
+  {
+    "question": "打开流媒体你最先找什么类型？",
+    "category": "taste"
+  },
+  {
+    "question": "街边小吃你最爱哪个？",
+    "category": "taste"
+  },
+  {
+    "question": "听歌的时候你更注意歌词还是旋律？",
+    "category": "taste"
+  },
+  {
+    "question": "便利店三角饭团最爱哪个口味？",
+    "category": "taste"
+  },
+  {
+    "question": "最近在追什么剧或综艺？",
+    "category": "taste"
+  },
+  {
+    "question": "去咖啡馆你一般点什么？",
+    "category": "taste"
+  },
+  {
+    "question": "烤肉的时候你更爱五花肉还是梅花肉？",
+    "category": "taste"
+  },
+  {
+    "question": "吃披萨你最喜欢什么配料？",
+    "category": "taste"
+  },
+  {
+    "question": "去KTV必唱的一首歌是什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢看什么类型的电影？",
+    "category": "taste"
+  },
+  {
+    "question": "你看书吗？喜欢什么类型？",
+    "category": "taste"
+  },
+  {
+    "question": "喝酒的话你最合拍的是哪种酒？",
+    "category": "taste"
+  },
+  {
+    "question": "你用什么音乐App？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢Q弹的还是脆的食物？",
+    "category": "taste"
+  },
+  {
+    "question": "你是甜食党还是咸口党？",
+    "category": "taste"
+  },
+  {
+    "question": "最近在B站或YouTube上追什么频道？",
+    "category": "taste"
+  },
+  {
+    "question": "你有追星过吗？追的是谁？",
+    "category": "taste"
+  },
+  {
+    "question": "煮泡面的时候你必加什么料？",
+    "category": "taste"
+  },
+  {
+    "question": "炸酱面和麻辣烫，你永远选哪个？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢运动吗？常做什么运动？",
+    "category": "taste"
+  },
+  {
+    "question": "旅行你更喜欢自然景观还是城市探索？",
+    "category": "taste"
+  },
+  {
+    "question": "点外卖的时候你会认真看评价吗？",
+    "category": "taste"
+  },
+  {
+    "question": "深夜一个人吃的宵夜是什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你有喜欢的体育项目吗？自己玩还是看比赛？",
+    "category": "taste"
+  },
+  {
+    "question": "你最常用哪个社交平台？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢玩游戏吗？喜欢什么类型？",
+    "category": "taste"
+  },
+  {
+    "question": "购物的时候你是网购派还是逛实体店派？",
+    "category": "taste"
+  },
+  {
+    "question": "你最喜欢哪个季节？原因是？",
+    "category": "taste"
+  },
+  {
+    "question": "你会喷香水吗？喜欢什么香？",
+    "category": "taste"
+  },
+  {
+    "question": "在家的时候会开着音乐吗？",
+    "category": "taste"
+  },
+  {
+    "question": "你更喜欢可爱风还是简约风？",
+    "category": "taste"
+  },
+  {
+    "question": "你会做菜吗？有什么拿手菜？",
+    "category": "taste"
+  },
+  {
+    "question": "空闲时间你最喜欢干什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你看过音乐剧或话剧吗？感兴趣吗？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢拍照吗？主要拍什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你有自己偏爱的穿衣风格吗？",
+    "category": "taste"
+  },
+  {
+    "question": "用一首歌名来形容现在这里的氛围？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果给今天穿的衣服取个名字，你会叫它什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果把现在这个瞬间拍成一部电影，片名是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果突然要你1分钟内卖掉任何东西，你会卖什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你人生中最奇葩的一个想法是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "用一种食物来比喻今天的心情？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果你是一个角色，你最想拥有什么能力？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "最近你人生的BGM是哪首歌？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你手机锁屏现在是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果把你比作一种动物，你觉得是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果突然变得很出名，你觉得会是因为什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果把现在这个场合比作一种植物，你觉得是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你手机里最奇怪的App是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "睡着之前你脑子里最常在想什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今天早上睁眼第一个念头是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果人生有自动存档功能，你会存下哪一刻？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果今天这个场合有主题着装要求，会是什么风格？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果突然要你拍广告，哪种产品最适合你？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果用动物园的动物来形容你自己，是哪种动物？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果把你的人生拍成一档综艺，节目名叫什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你有把握在5秒内让大家笑吗？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你有什么最没用的才能？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你在初次见面的场合说过的最奇怪的话是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你的社交账号和现实中的你，差距有多大？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果突然和现在这群人一起出发旅行，你会先说什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你有什么奇怪的个人习惯吗？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "周围人最常对你说的一句话是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今天做过最奇怪的事情是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果把今天这个聚会拍成一个视频，标题叫什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你这辈子最好笑的一次失误是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果你吃，最奇葩的食物搭配是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果突然要上台表演，你会干什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "用一个成语形容今天这个场合？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果把现在的你做成表情包，是什么情境？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你有没有什么特别离奇的梦，可以讲一下吗？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "现在这个场合最适合搭配什么食物？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "今天的你像哪部剧的主角？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果让你的朋友用一句话形容你，会说什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你这辈子最匪夷所思的经历是什么？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "如果把这群人比作动物群，你们像哪种动物群？",
+    "category": "funQuestion"
+  },
+  {
+    "question": "你给人的第一印象和真实的你，有什么不同？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "别人最常对你感到惊讶的是什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "表面上的你和实际上的你，最大的差异在哪里？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你有什么没人知道的秘密爱好吗？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你有什么特别厉害但没人知道的技能？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "第一次见你的人，最常误解你什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有什么爱好和你的外表气质完全不搭？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "最好的朋友也不知道的你的一面？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有哪次你的行为完全颠覆了别人对你的印象？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "只有一个人独处的时候才会出现的你是什么样的？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你觉得自己最出乎意料的魅力点是什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你这辈子最意想不到的经历是什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "初次见面的人，通常会把你划到哪种类型？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "其实很不擅长但在别人面前假装会的事是什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你最大的反差萌在哪里？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你有没有容易让人误会的说话方式或行为？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有什么爱好跟你的年龄完全不符？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有和你的专业或工作完全不搭的爱好？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "周围人对你哪方面最常感到惊讶？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "刚认识你和熟了之后，你有什么不一样的地方？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你自己最不了解的自己的一面是什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你有没有出乎意料地很怕的东西？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有和你气质不符的喜欢的音乐类型？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你知道自己最奇怪的一个习惯是什么吗？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有什么总是出乎别人意料的你的反应？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有关于你的什么误解一直流传着？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有什么事情是你意外地非常认真对待的？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "最了解你的人，知道你的哪一面？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有什么梦想跟你的外表气质完全不搭？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你自己也觉得意外的自己的某个行为是什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有别人绝对不会问你的问题？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "第一次见面绝对猜不到的你的特点是什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "别人都能做、你却特别不擅长的事是什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你有没有什么很出乎意料的外号或昵称？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "如果说你喜欢某件事，别人会感到意外的是什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "有没有什么不为人知的、会让你紧张的瞬间？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "了解之后会更喜欢你的，是你的哪一面？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你有没有意外地非常细心的地方？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "你的社交账号和真实的你，最大的差距是什么？",
+    "category": "unexpectedSide"
+  },
+  {
+    "question": "看到你，别人绝对想不到你会做的职业是什么？",
+    "category": "unexpectedSide"
+  }
+]

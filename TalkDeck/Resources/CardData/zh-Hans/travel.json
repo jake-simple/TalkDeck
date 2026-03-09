@@ -1,0 +1,642 @@
+[
+  {
+    "question": "旅行的时候你是计划控还是随性派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你更喜欢独自旅行还是结伴旅行？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你更爱城市旅行还是自然旅行？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "出门旅行你是轻装简行派还是大箱子派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "坐飞机你喜欢靠窗座还是靠走道座？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中你是公共交通派还是租车派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你更偏向短途频繁旅行，还是长途偶尔出发？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你喜欢逛景点，还是更爱在当地小巷里随便转转？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中你会大胆尝试当地食物，还是选安全感强的？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你是酒店派、民宿派还是青旅派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中你喜欢拍很多照片吗？一般拍什么？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中你是实时发朋友圈，还是回来再统一发？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行途中你需要在住处好好休息一下吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你是行李箱派还是背包派？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你一般提前多久到机场？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中你喜欢一大早出门探索吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "规划旅行的时候，你会先整理一份美食清单吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅途中你会看书或者听播客吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你会专门为旅行做一个音乐歌单吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "坐飞机的时候你一般怎么打发时间？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "出国旅行的时候会想念家乡的饭菜吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中你会专门去博物馆或美术馆吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中你喜欢购物吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行地当地人推荐的地方 vs 网红景点，你先去哪个？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行回来之后，你会马上开始计划下一次旅行吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中没有WiFi会让你感到焦虑吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中你会午睡吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你喜欢飞机餐吗？一般选什么？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行途中你会坚持运动吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "去旅行地之前你会背几句当地语言吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你喜欢出去看夜景吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中你会记旅行日记吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "海边旅行和山里旅行，你更喜欢哪个？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行地你喜欢逛传统市场或当地超市吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你是提前换好外币，还是到了当地再换？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "出发前一晚你睡得着吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "你喜欢在机场逛免税店吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中你更喜欢偶然发现的地方，而不是提前计划好的？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行结束后你会马上整理照片吗？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "旅行中的日出和日落，你更想看哪个？",
+    "category": "travelStyle"
+  },
+  {
+    "question": "去过的地方里，你最喜欢哪个？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中最让你手足无措的经历是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中遇到过最让你印象深刻的人吗？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有迷路反而收获了好体验的经历？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中最让你震惊的食物是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "你有过独自旅行的经历吗？感觉怎么样？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中最让你感动的风景是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "坐飞机有没有什么有趣的小故事？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有哪次旅行可以说是翻车了？讲来听听？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有想再去一次的地方？为什么？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中有没有语言不通的尴尬经历？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中有没有哪个瞬间突然很感动？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行回来之后，日常生活有没有什么改变？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中发生过最好笑的事情是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "你有印象最深的住宿体验吗？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中有没有因为天气而整个行程大变样的经历？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中吃过最好吃的是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中有没有没来得及拍下来、很遗憾的瞬间？",
+    "category": "memories"
+  },
+  {
+    "question": "你第一次出国是去哪里？有什么记忆？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中有没有偶然参加了节日或活动？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中丢过东西吗？后来怎么了？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中有没有交通工具取消或延误的狼狈经历？",
+    "category": "memories"
+  },
+  {
+    "question": "最难忘的日出或日落体验是哪一次？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中有没有被当地文化惊到的时候？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中最珍贵的回忆是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中最累的一段路程是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "在机场有没有什么难忘的故事？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有在意想不到的地方遇到过中国人？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中见过最美的大海或湖泊是哪里？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有没预约就去，结果吃了大亏的经历？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中坐过最特别的交通工具是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中有没有凌晨出去看风景的经历？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中有没有因为吃东西而闹肚子的经历？",
+    "category": "memories"
+  },
+  {
+    "question": "和家人一起旅行，最让你记忆深刻的是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中第一次尝试过什么体验项目？",
+    "category": "memories"
+  },
+  {
+    "question": "计划外临时去的地方里，哪里最让你惊喜？",
+    "category": "memories"
+  },
+  {
+    "question": "旅行中有没有和动物的有趣故事？",
+    "category": "memories"
+  },
+  {
+    "question": "下雨天旅行中有没有让你难忘的瞬间？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有被当地人邀请去家里或者做过寄宿的经历？",
+    "category": "memories"
+  },
+  {
+    "question": "这辈子最不会忘记的一个旅行画面是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "这次旅行到目前为止最美好的时刻是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天最好吃的是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行里有没有什么超出预期的惊喜？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天拍的照片里，你最喜欢哪张？",
+    "category": "thisNow"
+  },
+  {
+    "question": "用一个词来形容你此刻的感受？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行里，哪个瞬间最让你觉得值得记住？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天去的地方里，哪里最让你印象深刻？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行有没有什么低于预期的地方？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天旅行中最好笑的一刻是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "用一句话描述这次旅行？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行里，最累的瞬间是什么时候？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天有没有什么特别感动的时刻？",
+    "category": "thisNow"
+  },
+  {
+    "question": "旅行结束后，最怀念的会是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行还有什么遗憾没做到的？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天有没有了解到什么有趣的新知识？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行中哪个地方最让你快乐？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天陪在你身边，最让你感谢的人是谁？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行中做过的最正确的选择是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天走路的时候，哪个画面最让你印象深刻？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行里，最想再来一次的地方是哪里？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行中，最符合你期待的是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天旅途中最平静的时刻是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行中最出乎意料的事是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "一起旅行，有没有发现对方什么新的一面？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天最想吃什么？还没吃的话，要不要去找？",
+    "category": "thisNow"
+  },
+  {
+    "question": "此刻最想念家里的什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行对你来说会有什么意义？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天哪个时刻让你精力最充沛？",
+    "category": "thisNow"
+  },
+  {
+    "question": "用一个颜色来形容这次旅行，是什么颜色？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行中，笑得最大声的是哪一刻？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天旅行中最让你好奇的事是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "此刻最想联系的人是谁？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行让你产生了想回去后尝试的事吗？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天旅行中最有挑战性的时刻是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "用一句话来描述一下这个旅行地的氛围吧",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行中第一次尝试的事里，最喜欢哪个？",
+    "category": "thisNow"
+  },
+  {
+    "question": "有没有不想让这个瞬间结束的理由？",
+    "category": "thisNow"
+  },
+  {
+    "question": "今天旅行中最幸福的具体瞬间是什么？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这次旅行中你有没有发现自己的什么新的一面？",
+    "category": "thisNow"
+  },
+  {
+    "question": "给这次旅行打几颗星？理由呢？",
+    "category": "thisNow"
+  },
+  {
+    "question": "这辈子你最想去的旅行地是哪里？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有一种旅行方式是你一直想体验的？比如邮轮、房车？",
+    "category": "bucketList"
+  },
+  {
+    "question": "最想去的国家是哪里？理由是什么？",
+    "category": "bucketList"
+  },
+  {
+    "question": "如果可以在世界某处住一个月，你会选哪里？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你有没有想过亲眼看极光？",
+    "category": "bucketList"
+  },
+  {
+    "question": "如果环游世界，你会必去的三座城市是哪些？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有很想体验的特别交通工具？比如东方快车、游轮？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有想去的世界自然遗产？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有一定要去那个国家才能吃到的食物是你很想尝试的？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有特别想去的节日或活动？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你想尝试跳伞或蹦极这种极限旅行吗？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你有没有想去某个沙漠旅行的想法？是哪个沙漠？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你想去南极或北极这样的极地吗？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你有没有想过去亚马逊或热带雨林探险？",
+    "category": "bucketList"
+  },
+  {
+    "question": "世界著名美术馆或博物馆里，有没有一定要去的地方？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你有没有想亲眼看海底世界的想法？比如潜水？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你的愿望清单里有没有想登的名山？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有想在某个国家像当地人一样住半年以上的地方？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你觉得世界上最美的夜景在哪里？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你想尝试像朝圣之路这样的长途徒步旅行吗？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有特别想去的岛屿？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有想在某个国家学习当地烹饪的地方？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你有没有想过边旅行边做志愿者？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你想坐火车横穿欧洲或亚洲吗？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有一定要去的世界文化遗产？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你有没有梦想过去钓鱼旅行或深入自然的旅行？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有一直梦想着去的地方，比如圣托里尼或马尔代夫？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你想逛遍世界各地著名的夜市吗？",
+    "category": "bucketList"
+  },
+  {
+    "question": "如果为了学某项运动去某个国家旅行，你会去哪里？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你想去东欧或中亚这种冷门旅行地吗？",
+    "category": "bucketList"
+  },
+  {
+    "question": "如果将来太空旅行成为可能，你一定要去吗？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有特别想和某个人一起去的旅行地？是哪里？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你有没有想挑战一次长途背包旅行？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你想去非洲来一次野生动物园旅行吗？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有一个特别想住下来的国家或城市？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你想在湖边或河上划皮划艇旅行吗？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你有没有梦想过长途驾车穿越某段公路？",
+    "category": "bucketList"
+  },
+  {
+    "question": "有没有想为某个特别的日子专门去某个旅行地庆祝？",
+    "category": "bucketList"
+  },
+  {
+    "question": "现在还没实现但一定要实现的旅行计划是什么？",
+    "category": "bucketList"
+  },
+  {
+    "question": "你的旅行愿望清单里，最近可能实现的是哪个？",
+    "category": "bucketList"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "question": "孩子最近最让你觉得可爱的瞬间是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "带孩子以来最让你感到骄傲的时刻是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子第一次叫"妈妈"或"爸爸"的时候，你是什么感受？",
+    "category": "parenting"
+  },
+  {
+    "question": "请描述孩子第一次走路的那个瞬间",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子最近最爱玩的游戏是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子最近用什么话或动作逗笑了你们？",
+    "category": "parenting"
+  },
+  {
+    "question": "你教孩子的东西里，哪个学得最快？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子最近的成长里，什么最让你惊喜？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子表达什么情绪的时候最可爱？",
+    "category": "parenting"
+  },
+  {
+    "question": "哄孩子睡觉你有什么独门方法？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子最喜欢的玩具或物品是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子哭闹时，什么方法最管用？",
+    "category": "parenting"
+  },
+  {
+    "question": "陪孩子玩时，你最享受的游戏是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子最近常做的可爱动作是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "还记得孩子第一次笑吗？那时候你是什么感受？",
+    "category": "parenting"
+  },
+  {
+    "question": "第一次把孩子抱在怀里，你脑子里想的是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "和孩子日常相处里最平和美好的瞬间是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子生病的时候，最难熬的经历是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子名字背后有什么故事吗？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子第一次尝食物的时候反应是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子第一天去托儿所或幼儿园是什么感觉？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子给你的意外收获里，最出乎意料的是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子有没有在你没想到的时候感动了你？",
+    "category": "parenting"
+  },
+  {
+    "question": "和孩子拍的照片里，你最喜欢的一张是哪张？",
+    "category": "parenting"
+  },
+  {
+    "question": "有没有突然觉得孩子一下长大了、让你惊讶的时候？",
+    "category": "parenting"
+  },
+  {
+    "question": "带孩子一起的第一次旅行是什么感觉？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子第一次去游泳池或海边，反应是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子的第一个生日是怎么过的？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子第一次和同龄小朋友玩耍，是什么情景？",
+    "category": "parenting"
+  },
+  {
+    "question": "哄孩子睡觉，你自己先睡着过吗？",
+    "category": "parenting"
+  },
+  {
+    "question": "和孩子自拍时你有什么专属姿势？",
+    "category": "parenting"
+  },
+  {
+    "question": "你想给孩子做什么菜？",
+    "category": "parenting"
+  },
+  {
+    "question": "你们一起唱的歌里，最喜欢的是哪首？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子第一次自己翻书是什么时候？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子第一次过节或过节假日有什么故事？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子在公共交通上发生过什么趣事？",
+    "category": "parenting"
+  },
+  {
+    "question": "带孩子之后，了解到的最让你惊讶的知识是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子第一次说"不要"的时候，你是什么感觉？",
+    "category": "parenting"
+  },
+  {
+    "question": "有没有觉得对不起孩子的时候？",
+    "category": "parenting"
+  },
+  {
+    "question": "孩子长大后，有一件一定要教给他/她的事是什么？",
+    "category": "parenting"
+  },
+  {
+    "question": "有了孩子之后，你发现了对方哪些新的魅力？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "看到对方照顾孩子，有没有被感动过？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "因为育儿，你们夫妻最大的一次争吵是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "有了孩子之后，你们的对话主题有什么变化？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "对方的育儿方式和你不一样的时候，怎么磨合的？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "你们有没有坦诚聊过育儿分工？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "有了孩子后，你们怎么保持二人约会？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "对方照顾孩子的样子里，最让你印象深刻的是哪个画面？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育儿过程中，有没有重新爱上对方的瞬间？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "有了孩子之后，你们夫妻最合拍的地方是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "有了孩子之后，你觉得你们比以前更亲密了吗？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "在孩子教育方式上，你们有没有意见不同的时候？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育儿过程中，你觉得对方可能对你有点委屈的时候是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "你们一起为孩子做的决定里，最让你骄傲的是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "在孩子面前吵过架吗？当时你是什么想法？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育儿中，有没有对对方感到抱歉的时候？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "养孩子的过程里，对方哪一面让你想要学习？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "你们有没有属于自己的育儿原则？是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "如果给你们的育儿默契打分，你会给几分？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "有了孩子之后，最感谢对方的地方是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育儿过程里，你们最近一起笑的经历是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "因为孩子，二人时间减少了，你们怎么应对？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "对方疲惫或辛苦的时候，你怎么关心他/她？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育儿过程中，你们夫妻一起成长的地方是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "孩子睡着后，你们两个通常做什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "关于孩子，你们意见不一致的时候怎么达成一致？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育儿过程里，最让你感到有对方真好的瞬间是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "有了孩子之后，你们夫妻新形成了什么日常习惯？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "和对方一起养孩子，最有成就感的瞬间是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育儿过程里，你们夫妻之间产生了什么只有你们懂的词或表达？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "孩子给你们夫妻关系带来的最积极的变化是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "在育儿价值观上，你们两人最有共鸣的瞬间是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "有了孩子之后，你们对彼此有什么新的了解？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育儿过程里，夫妻之间什么变得更重要了？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "你觉得孩子让你们的感情更紧密了吗？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "和对方一起养孩子，对你来说意味着什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育儿过程中，有什么话想对对方说？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "有了孩子之后，你看对方的眼神有什么变化？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "你们想在孩子面前展示什么样的姿态？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "育儿中，对方为你做的一件让你现在还感谢的事是什么？",
+    "category": "coupleLife"
+  },
+  {
+    "question": "说实话，育儿太累的时候，你有没有想逃跑？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿过程中，体力最透支的瞬间是什么时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "孩子半夜一直哭，最难熬的一夜是哪一次？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿让你没有自己时间，有没有觉得很难熬？",
+    "category": "hardships"
+  },
+  {
+    "question": "有没有对孩子情绪失控的时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "成为父母后，有没有觉得自己的个人身份动摇了？",
+    "category": "hardships"
+  },
+  {
+    "question": "兼顾育儿和工作，最难的地方是什么？",
+    "category": "hardships"
+  },
+  {
+    "question": "孩子生病、你却无能为力时，有没有感到无力感？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿过程里，最孤独的时刻是什么时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "有没有想从父母的角色抽离、回归自我的时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿期间有没有低落或无力的时候？怎么走出来的？",
+    "category": "hardships"
+  },
+  {
+    "question": "对孩子发过脾气后，你是什么感觉？",
+    "category": "hardships"
+  },
+  {
+    "question": "睡眠不足最严重的那段时间是什么时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "因为育儿而放弃的事里，最让你遗憾的是什么？",
+    "category": "hardships"
+  },
+  {
+    "question": "有没有不确定自己够不够格当父母的时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿过程里，对对方有委屈却没说出来的事有吗？",
+    "category": "hardships"
+  },
+  {
+    "question": "因为孩子和周围人产生过摩擦吗？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿最艰难的阶段，你是怎么撑过来的？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿过程里，有没有暂时放下过自己的梦想或目标？",
+    "category": "hardships"
+  },
+  {
+    "question": "孩子怎么哄都不停哭的时候，你是什么感受？",
+    "category": "hardships"
+  },
+  {
+    "question": "你是怎么缓解育儿压力的？",
+    "category": "hardships"
+  },
+  {
+    "question": "有了孩子之后，有没有觉得自己身体变差了？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿过程里，有没有让自己失望的瞬间？",
+    "category": "hardships"
+  },
+  {
+    "question": "周围人的育儿建议或干涉让你感到压力吗？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿中，有没有没法对对方说、只能一个人消化的情绪？",
+    "category": "hardships"
+  },
+  {
+    "question": "养孩子比想象的难多了——有没有这样感叹的时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿初期最手忙脚乱的一次是什么？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿过程里，你最需要忍耐的情绪是什么？",
+    "category": "hardships"
+  },
+  {
+    "question": "孩子生病带去医院，最害怕的一次是什么时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "因为育儿而忽视过自己的健康吗？",
+    "category": "hardships"
+  },
+  {
+    "question": "有没有对孩子感到抱歉、但又情非得已的时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿带来的经济压力最大的一次是什么时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "作为父母，你最害怕的情况是什么？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿有没有让你感到与社会脱节？",
+    "category": "hardships"
+  },
+  {
+    "question": "养孩子之后，有没有感到自己的缺点更明显了？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿中情绪最失控的一次是什么时候？当时怎么做的？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿过程里，有没有希望不是一个人扛着的时候？",
+    "category": "hardships"
+  },
+  {
+    "question": "孩子越长越大，担心增加了还是减少了？",
+    "category": "hardships"
+  },
+  {
+    "question": "说实话，育儿现在最难的部分是什么？",
+    "category": "hardships"
+  },
+  {
+    "question": "育儿过程里，什么样的念头或情绪最折磨你？",
+    "category": "hardships"
+  },
+  {
+    "question": "孩子出生之后，你最感谢的一件事是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "育儿中，你最感谢对方的瞬间是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "因为孩子，你重新发现了什么珍贵的东西？",
+    "category": "gratitude"
+  },
+  {
+    "question": "孩子教给你的人生道理是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "当了父母后，有没有重新感谢自己父母的地方？",
+    "category": "gratitude"
+  },
+  {
+    "question": "最近因为有孩子而感到幸福的瞬间是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "对方为孩子做的事里，你最感谢的是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "养孩子之后，你对人生意义的感受有没有变化？",
+    "category": "gratitude"
+  },
+  {
+    "question": "育儿过程里，帮助过你的人里最感谢谁？",
+    "category": "gratitude"
+  },
+  {
+    "question": "请用语言描述，孩子笑的时候你心里是什么感觉",
+    "category": "gratitude"
+  },
+  {
+    "question": "育儿让你感受到自己哪方面成长了？",
+    "category": "gratitude"
+  },
+  {
+    "question": "孩子的一句话改变了你的一天，有过这样的经历吗？",
+    "category": "gratitude"
+  },
+  {
+    "question": "养孩子的过程里，你更感谢了对方的哪些面？",
+    "category": "gratitude"
+  },
+  {
+    "question": "因为有孩子，你活得更认真了吗？",
+    "category": "gratitude"
+  },
+  {
+    "question": "请描述孩子扑进你怀里时你的感受",
+    "category": "gratitude"
+  },
+  {
+    "question": "育儿过程里，世界显得更美好的瞬间有吗？",
+    "category": "gratitude"
+  },
+  {
+    "question": "因为孩子，你有了什么新的体验，让你心存感激？",
+    "category": "gratitude"
+  },
+  {
+    "question": "养孩子过程里，感觉像是最大礼物的瞬间是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今天有没有想直接对对方说谢谢的事？",
+    "category": "gratitude"
+  },
+  {
+    "question": "孩子第一次抱住你的时候，你是什么感觉？",
+    "category": "gratitude"
+  },
+  {
+    "question": "因为孩子，有没有什么事让你没有放弃？",
+    "category": "gratitude"
+  },
+  {
+    "question": "育儿让生活节奏变慢，反而有没有让你感到感激？",
+    "category": "gratitude"
+  },
+  {
+    "question": "看着孩子熟睡的脸，你心里是什么感受？",
+    "category": "gratitude"
+  },
+  {
+    "question": "和对方一起带孩子，比单独带有什么好处？",
+    "category": "gratitude"
+  },
+  {
+    "question": "因为有孩子，你有没有变得更有勇气？",
+    "category": "gratitude"
+  },
+  {
+    "question": "生了孩子之后，最感激自己身上发生的变化是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "孩子第一次说"我爱你"的时候，你是什么感受？",
+    "category": "gratitude"
+  },
+  {
+    "question": "育儿过程里，"好在有你在"这种感受最强的瞬间是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "孩子教给你最珍贵的价值是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "因为育儿，有没有哪段关系更深厚了？",
+    "category": "gratitude"
+  },
+  {
+    "question": "孩子为小事感到快乐的时候，你心里是什么感觉？",
+    "category": "gratitude"
+  },
+  {
+    "question": "成为父母后，你最感谢的一件事是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "最近养孩子最有成就感的瞬间是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "因为孩子，你对对方多了一份感谢——是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "有没有一个时刻，让你感到孩子的存在本身就已足够？",
+    "category": "gratitude"
+  },
+  {
+    "question": "育儿里辛苦过、事后却感激的经历是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "孩子、对方，这个家对你的人生意味着什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "作为父母，你有没有珍惜现在这段时间的感受？",
+    "category": "gratitude"
+  },
+  {
+    "question": "养孩子最让你感谢的是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "上次对对方说"谢谢"是什么时候？",
+    "category": "gratitude"
+  }
+]

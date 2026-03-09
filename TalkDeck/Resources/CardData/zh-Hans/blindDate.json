@@ -1,0 +1,642 @@
+[
+  {
+    "question": "来相亲之前，你是什么心情？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "第一眼看到我是什么感觉？可以说实话。",
+    "category": "firstImpression"
+  },
+  {
+    "question": "来相亲之前，你最纠结的是什么？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "见面之前，你想象过我是什么样的人吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "刚打招呼时，你第一眼注意到的是什么？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "你在相亲的场合通常会紧张吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今天你下定决心来的理由是什么？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "你现在最想了解我哪方面？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "以前相亲里有没有让你印象深刻的初见？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "第一次见面，对方做什么会让你敞开心扉？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "来之前你最在意的是什么？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "第一次见面你最看重什么？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "中间人介绍你的时候说了什么？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "来这里路上你在想什么？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "现在这一刻，你觉得尴尬还是轻松？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "如果把我比作一种动物，你觉得像哪种？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "第一次聊天，你最想了解对方什么？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "相亲的时候，你会被什么样氛围的人吸引？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "像今天这样第一次见面，你通常表现得好吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "到目前为止，有没有哪次相亲特别令你难忘？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "看到我的时候，你猜我是做什么工作的？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "第一次见面，你更喜欢爱笑的人还是沉稳的人？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今天这个地方感觉怎么样？你喜欢吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "你觉得自己的第一印象通常准确吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "可以问我一个你最想问的问题吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "你觉得今天聊天进行得自然吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "相亲场合里你最不喜欢什么情况？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "对于第一次见面的人，你最容易坦诚聊的话题是什么？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今天来之前，你联系朋友了吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "你觉得现在这里的氛围怎么样？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "你是那种第一次见面就容易熟的人吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "你有没有什么信号，感觉相亲聊得不错？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "今天聊下来，有没有什么最让你印象深刻的？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "如果用两个词来形容我，你会说什么？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "聊到现在，有没有什么出乎意料的地方？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "第一次见面，对方说什么会让你觉得比较放松？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "相亲前你会用什么方式放松一下？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "现在这一刻，你可以说说我给你的印象吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "你觉得今天来对了吗？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "第一次聊天，你怎么判断对方和你聊得来？",
+    "category": "firstImpression"
+  },
+  {
+    "question": "最近最常听什么风格的音乐？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢哪种风格的菜？中餐、西餐还是日料？",
+    "category": "taste"
+  },
+  {
+    "question": "看电影的时候，你最常选什么类型？",
+    "category": "taste"
+  },
+  {
+    "question": "你经常去咖啡厅吗？喜欢什么氛围的？",
+    "category": "taste"
+  },
+  {
+    "question": "旅行的时候，你是那种把行程排满的人，还是随性而为？",
+    "category": "taste"
+  },
+  {
+    "question": "最近有没有什么好看的剧或电影？",
+    "category": "taste"
+  },
+  {
+    "question": "有没有什么食物你绝对不吃？",
+    "category": "taste"
+  },
+  {
+    "question": "周末有了自由时间，你通常做什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你最喜欢哪个季节？为什么？",
+    "category": "taste"
+  },
+  {
+    "question": "最近最爱吃的东西或喝的饮料是什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你有什么爱好？最近最享受的是什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢读什么样的书或内容？",
+    "category": "taste"
+  },
+  {
+    "question": "喜欢运动吗？有什么常做的运动？",
+    "category": "taste"
+  },
+  {
+    "question": "你喝酒吗？有喜欢的类型吗？",
+    "category": "taste"
+  },
+  {
+    "question": "听歌的时候，你更关注歌词还是旋律？",
+    "category": "taste"
+  },
+  {
+    "question": "去过的地方里，有没有想再去一次的？",
+    "category": "taste"
+  },
+  {
+    "question": "在家休息的时候，你通常怎么过？",
+    "category": "taste"
+  },
+  {
+    "question": "到目前为止，吃过最好吃的东西是什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你在社交媒体上主要看什么内容？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢做饭吗？有什么拿手菜？",
+    "category": "taste"
+  },
+  {
+    "question": "逛街的时候，你最久的时间花在哪个区域？",
+    "category": "taste"
+  },
+  {
+    "question": "户外活动和室内活动，你更喜欢哪种？",
+    "category": "taste"
+  },
+  {
+    "question": "暑假你选海边还是山里？",
+    "category": "taste"
+  },
+  {
+    "question": "你有什么主题的歌单在循环？",
+    "category": "taste"
+  },
+  {
+    "question": "最近有什么让你入迷的东西？爱好或其他都行。",
+    "category": "taste"
+  },
+  {
+    "question": "你最爱什么零食？",
+    "category": "taste"
+  },
+  {
+    "question": "你常看的社交账号或频道有什么？",
+    "category": "taste"
+  },
+  {
+    "question": "你用香水吗？喜欢什么香调？",
+    "category": "taste"
+  },
+  {
+    "question": "你喝咖啡吗？喜欢什么款？",
+    "category": "taste"
+  },
+  {
+    "question": "工作的时候你会开着音乐吗？",
+    "category": "taste"
+  },
+  {
+    "question": "你能吃辣吗？",
+    "category": "taste"
+  },
+  {
+    "question": "点夜宵的话你通常点什么？",
+    "category": "taste"
+  },
+  {
+    "question": "旅行时你最在意的是住宿、饮食还是观光？",
+    "category": "taste"
+  },
+  {
+    "question": "最近有没有对什么产生新的兴趣？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢什么体育项目或者有支持的球队吗？",
+    "category": "taste"
+  },
+  {
+    "question": "你的口味随着时间改变了很多吗？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢什么花或植物？",
+    "category": "taste"
+  },
+  {
+    "question": "看视频时，你偏好短视频还是长视频？",
+    "category": "taste"
+  },
+  {
+    "question": "你喜欢甜食吗？最爱什么甜点？",
+    "category": "taste"
+  },
+  {
+    "question": "有没有从来没尝试过、但很想试试的爱好？",
+    "category": "taste"
+  },
+  {
+    "question": "你是早起型还是夜猫子？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "可以大概说说你的平日是怎么过的吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你理想的周末是什么样子？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你喜欢待在家里还是出门？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你是自己住还是和家人住？各有什么优缺点？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你有没有定期运动的习惯？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你经常一个人吃饭吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "睡觉之前，你一定会做什么？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你平时有在管理健康吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你生活得比较有计划，还是比较随性？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "突然有一天空档，你会怎么过？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你节省还是舍得花钱？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你经常打扫房间吗？是爱整洁的人？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你平时经常自己做饭吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你平时联系频繁吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你有午睡的习惯吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你能在工作和休息之间保持平衡吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你最常去的地方是哪里？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "下班之后你通常怎么放松？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你会冲动消费吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你一个月出去吃几次？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你需要多少独处的时间？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你旅行的频率大概是多少？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你经常发社交媒体，还是只看不发？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你的家是什么样的氛围？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你有坚持学习或读书的习惯吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你多久和朋友聚一次？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你睡眠好吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "压力大的时候，你怎么发泄？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你有养宠物，还是想养？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你喜欢散步或者走路吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你的社交约会多吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你经常回去过节或参加家庭聚会吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "花在哪里最不让你觉得可惜？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你平时睡得早还是睡得晚？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "在人际关系上，你会花很多精力吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你容易养成规律的生活习惯吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "你会主动尝试新事物吗？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "现在的生活方式里，有没有你想改变的？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "什么时候你感觉最像自己？",
+    "category": "lifestyle"
+  },
+  {
+    "question": "生活中你最看重什么？",
+    "category": "values"
+  },
+  {
+    "question": "用一句话来说，什么是好的恋爱？",
+    "category": "values"
+  },
+  {
+    "question": "谈感情时，有什么是你绝对不让步的？",
+    "category": "values"
+  },
+  {
+    "question": "恋爱中你想成为什么样的人？",
+    "category": "values"
+  },
+  {
+    "question": "你觉得差异很多也能相处好吗？",
+    "category": "values"
+  },
+  {
+    "question": "你对联系频率是怎么看的？",
+    "category": "values"
+  },
+  {
+    "question": "你认为感情里信任最重要吗？",
+    "category": "values"
+  },
+  {
+    "question": "你需要独处的时间吗？",
+    "category": "values"
+  },
+  {
+    "question": "你觉得什么是好的对话？",
+    "category": "values"
+  },
+  {
+    "question": "你对金钱是什么态度？",
+    "category": "values"
+  },
+  {
+    "question": "你怎么看待家庭关系？",
+    "category": "values"
+  },
+  {
+    "question": "自由和稳定，哪个对你更重要？",
+    "category": "values"
+  },
+  {
+    "question": "生活中你最感恩的是什么？",
+    "category": "values"
+  },
+  {
+    "question": "你认为恋爱里经常表达很重要吗？",
+    "category": "values"
+  },
+  {
+    "question": "工作很忙时，你觉得怎样维持感情才是对的？",
+    "category": "values"
+  },
+  {
+    "question": "你觉得应该把更多时间花在朋友身上还是恋人身上？",
+    "category": "values"
+  },
+  {
+    "question": "有矛盾的时候，你觉得怎么解决比较好？",
+    "category": "values"
+  },
+  {
+    "question": "你认为人能改变吗？",
+    "category": "values"
+  },
+  {
+    "question": "随着年龄增长，有没有什么价值观改变了？",
+    "category": "values"
+  },
+  {
+    "question": "你对婚姻怎么看？",
+    "category": "values"
+  },
+  {
+    "question": "你喜欢性格相似的人，还是互补的人？",
+    "category": "values"
+  },
+  {
+    "question": "你认为恋爱的时候需要了解对方的过去吗？",
+    "category": "values"
+  },
+  {
+    "question": "你是那种专注于一个人的人吗？",
+    "category": "values"
+  },
+  {
+    "question": "你认为感情里坦诚很重要吗？",
+    "category": "values"
+  },
+  {
+    "question": "你觉得幸福的标准是什么？",
+    "category": "values"
+  },
+  {
+    "question": "你从哪些方面感受到对方的体贴？",
+    "category": "values"
+  },
+  {
+    "question": "你觉得懂得爱自己的人恋爱也更好吗？",
+    "category": "values"
+  },
+  {
+    "question": "你觉得合适的人比理想型更重要吗？",
+    "category": "values"
+  },
+  {
+    "question": "你认为恋人之间也应该各有自己的空间吗？",
+    "category": "values"
+  },
+  {
+    "question": "生活中有没有让你感到很大成长的经历？",
+    "category": "values"
+  },
+  {
+    "question": "你喜欢人多的场合，还是少数人深度相处？",
+    "category": "values"
+  },
+  {
+    "question": "和什么样的人在一起你会感到轻松？",
+    "category": "values"
+  },
+  {
+    "question": "你在意别人的眼光吗？",
+    "category": "values"
+  },
+  {
+    "question": "你有什么梦想？现在想实现的是什么？",
+    "category": "values"
+  },
+  {
+    "question": "你觉得维持一段好关系的秘诀是什么？",
+    "category": "values"
+  },
+  {
+    "question": "什么样的人会在你心中留下长久的印象？",
+    "category": "values"
+  },
+  {
+    "question": "用一句话来形容现在的自己，你会说什么？",
+    "category": "values"
+  },
+  {
+    "question": "你善于表达情感吗？",
+    "category": "values"
+  },
+  {
+    "question": "人生中有没有一定要做的事？",
+    "category": "values"
+  },
+  {
+    "question": "你希望今天这次见面成为一次什么样的相遇？",
+    "category": "values"
+  }
+]

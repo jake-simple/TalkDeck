@@ -1,0 +1,642 @@
+[
+  {
+    "question": "最近联系最多的人是谁？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这个月最开心的事情是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近最让你在意的事情是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有新的生活习惯？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近用得最多的app是哪个？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这周吃得最好的一顿是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近大多数时间都在哪里度过？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有新迷上的内容？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近几点睡觉？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这个月做的最正确的一个决定是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近新产生的兴趣里，最新的一个是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近花的钱里，最满意的是哪笔？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近天气或季节对你的心情有影响吗？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这周发生的最哭笑不得的事是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近去过的地方里，有没有想再去的？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近身体状态怎么样？有在维持什么习惯吗？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这个月最期待的事情是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近跟朋友联系频繁吗？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近独自做的事情里，有没有意外觉得不错的？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近睡前脑子里都在想什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这个月有压力大的时候吗？怎么缓解的？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近常出去吃吗？经常去哪？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有尝试什么新事物？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近一天中最喜欢哪个时间段？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这周笑得最开心的瞬间是什么时候？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近在学或练什么吗？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近看过的或读过的东西里，有没有值得推荐的？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近待在家的时间多了，还是外出的时间多了？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这个月最感谢的人是谁？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近最常有的情绪是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有发生什么意想不到的事？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有想整理的东西？不管是物品还是关系？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这周最期待的约会是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近独处的时候主要做什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有放弃或停止什么事？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近买东西时总会买的是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "这个月有什么计划？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近最在意的习惯或日程是什么？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近有没有联系了很久没联系的人？",
+    "category": "recentLife"
+  },
+  {
+    "question": "最近睡得好吗？有没有记得住的梦？",
+    "category": "recentLife"
+  },
+  {
+    "question": "你还记得我们是怎么变成朋友的吗？",
+    "category": "memories"
+  },
+  {
+    "question": "一起经历的事情里，有没有现在还会偶尔想起来的？",
+    "category": "memories"
+  },
+  {
+    "question": "学生时代最难忘的一个画面是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候有没有发誓绝对不吃的食物？",
+    "category": "memories"
+  },
+  {
+    "question": "你最老的朋友是怎么认识的？",
+    "category": "memories"
+  },
+  {
+    "question": "你现在偶尔还会想起的童年记忆是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "和朋友经历过最哭笑不得的事情是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候最常玩的游戏是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "你有没有第一次独立做成某件事的记忆？",
+    "category": "memories"
+  },
+  {
+    "question": "上学的时候发生过的最难忘的事是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "去过的地方里，最难忘的旅行目的地是哪里？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候最喜欢去的地方是哪里？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候想做什么职业？",
+    "category": "memories"
+  },
+  {
+    "question": "你有没有第一次向朋友吐露秘密的记忆？",
+    "category": "memories"
+  },
+  {
+    "question": "最难忘的一个生日派对或纪念日是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候被家长骂的理由里最搞笑的是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "第一次挣到钱的时候做了什么？",
+    "category": "memories"
+  },
+  {
+    "question": "学校里最喜欢和最讨厌的科目是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候最爱吃的东西现在还喜欢吗？",
+    "category": "memories"
+  },
+  {
+    "question": "你还记得第一次出国的经历吗？",
+    "category": "memories"
+  },
+  {
+    "question": "现在回想起来会觉得"当时为什么那样"的流行或潮流是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "你还记得初中时最爱听的歌吗？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候电视上必追的节目是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "第一次独自长途旅行是什么时候？",
+    "category": "memories"
+  },
+  {
+    "question": "学生时代被老师夸过、至今印象深刻的时刻是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有现在偶尔还想见的老朋友？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候有没有自己的秘密基地或藏身之处？",
+    "category": "memories"
+  },
+  {
+    "question": "对相处最久的朋友，最初的印象是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "你有没有至今还保留着的老物件？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候痴迷的爱好或角色是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有回想起来觉得"那时候真单纯"的记忆？",
+    "category": "memories"
+  },
+  {
+    "question": "你还记得第一次喝酒是什么时候吗？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候在班里是什么角色？",
+    "category": "memories"
+  },
+  {
+    "question": "和父母最快乐的一段回忆是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "过去有没有对你影响很大的人？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候最害怕的经历是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "如果能回到高中某一天，你想回到哪一天？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有现在偶尔还会想起的恩师？",
+    "category": "memories"
+  },
+  {
+    "question": "小时候恶作剧被抓到的经历是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "最难忘的一次毕业典礼或入学典礼的故事是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有从来没告诉过我、但现在可以说的事？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有觉得很难对朋友说实话的时候？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "表面上没事，但其实挺难受的时候，有没有？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "别人对你的误解里，有什么让你想澄清的？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有你不太愿意表露出来的情绪？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有对谁感到抱歉、但还没有好好道歉的事？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有你其实有点害怕的事情？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "表面上开朗，但内心其实很难熬的时期，有过吗？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "大家觉得理所当然的事情里，有没有你其实觉得挺难的？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有没能好好表达、但真心感谢过的人？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "对自己来说，最难坦诚承认的事是什么？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有感受过别人的期待对你来说是一种压力？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有只有独处时才会有的情绪？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有在别人面前不常展示的一面？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有装作很懂、但其实不太了解的事？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "你有没有羡慕过我的地方？可以说实话。",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "你最容易在哪方面受伤？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "最近最常有的烦恼是什么？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有说过让自己后悔的话？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "什么情况下你会觉得不像自己？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有希望被理解但没被理解的时候？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "现在最需要的东西是什么？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "你有没有努力让自己看起来完美的时候？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "你有没有觉得隐藏情绪已经变成习惯了？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "和朋友在一起也感到孤独的时候，有过吗？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "你最没有自信的地方是什么？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有因为没能坦诚说出来，而导致关系出问题的经历？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "最容易让你自责的情况是什么？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有有点不好意思说、但现在还喜欢的东西？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有表情和言语是一种情绪、内心却是另一种情绪的时候？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "最近有没有一个人在纠结的事？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有你不自觉在回避的情况或情绪？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有想好好去做、却总是犹豫不决的事？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "最难熬的时候没有告诉任何人，是因为什么？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "你是不喜欢表露情绪的那种，还是会直接表达的那种？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有觉得别人对你期望太高了？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "此刻你真实的心情是什么？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "在大家面前笑着，内心却是别种感受的时候，有过吗？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "最近最想哭的一刻是什么时候？",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "现在有没有什么想对我说的？什么都可以。",
+    "category": "innerThoughts"
+  },
+  {
+    "question": "有没有让你感受到"真的是朋友"的瞬间？",
+    "category": "friendship"
+  },
+  {
+    "question": "有没有友情差点破裂、却因此变得更深厚的经历？",
+    "category": "friendship"
+  },
+  {
+    "question": "朋友说过的话里，现在还记得的一句话是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "老朋友之间，长大后关系有什么变化？",
+    "category": "friendship"
+  },
+  {
+    "question": "你为朋友做过最大的牺牲是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "你觉得维系友情最重要的是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "彼此的不同之处，反而有没有让你们更亲近？",
+    "category": "friendship"
+  },
+  {
+    "question": "你有没有对朋友说过不好听但真实的话？",
+    "category": "friendship"
+  },
+  {
+    "question": "真的很难过的时候，最想联系的是谁？",
+    "category": "friendship"
+  },
+  {
+    "question": "如果要选我们友情中最珍贵的一刻，你会选哪个？",
+    "category": "friendship"
+  },
+  {
+    "question": "随着年龄增长，你对友情的看法有没有改变？",
+    "category": "friendship"
+  },
+  {
+    "question": "你觉得在友谊中绝对不能做的事是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "你觉得交新朋友越来越难了吗？",
+    "category": "friendship"
+  },
+  {
+    "question": "朋友对你来说意味着什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "你觉得能维系最久友情的秘诀是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "朋友为你做过的事里，最让你感动的是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "你觉得友情和爱情哪个更长久？",
+    "category": "friendship"
+  },
+  {
+    "question": "跟朋友疏远的时候，你是什么感受？",
+    "category": "friendship"
+  },
+  {
+    "question": "你有没有依靠过朋友？是在什么情况下？",
+    "category": "friendship"
+  },
+  {
+    "question": "你觉得我们的友情10年后还会继续吗？",
+    "category": "friendship"
+  },
+  {
+    "question": "有没有对朋友感到委屈的时候？是怎么解决的？",
+    "category": "friendship"
+  },
+  {
+    "question": "你觉得友情加深是在什么时候？",
+    "category": "friendship"
+  },
+  {
+    "question": "我们之间有没有什么不用说就能心领神会的事？",
+    "category": "friendship"
+  },
+  {
+    "question": "交朋友的时候你最看重的是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "无论时间过多久都不会改变的，我们之间特有的事情是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "有哪种朋友在身边会让你觉得最像自己？",
+    "category": "friendship"
+  },
+  {
+    "question": "你有没有失去过一个朋友？那时候是怎么接受的？",
+    "category": "friendship"
+  },
+  {
+    "question": "维系友情最难的地方是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "你上次对朋友表达感谢是什么时候？",
+    "category": "friendship"
+  },
+  {
+    "question": "我们第一次认识和现在相比，有什么不一样？",
+    "category": "friendship"
+  },
+  {
+    "question": "在友情里最珍贵的一段记忆是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "从朋友身上学到的最重要的事是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "你觉得友情和义气是同一回事，还是不同的东西？",
+    "category": "friendship"
+  },
+  {
+    "question": "有没有很久没联系的朋友，你想重新主动联系他们？",
+    "category": "friendship"
+  },
+  {
+    "question": "什么样的行为会让你感受到"这才是真正的朋友"？",
+    "category": "friendship"
+  },
+  {
+    "question": "跟朋友大吵之后，关系有没有发生过变化？",
+    "category": "friendship"
+  },
+  {
+    "question": "有没有不用说出来、朋友就知道你难过的时候？",
+    "category": "friendship"
+  },
+  {
+    "question": "你觉得越大越难维持友情吗？",
+    "category": "friendship"
+  },
+  {
+    "question": "在朋友关系里，你想做得更好的地方是什么？",
+    "category": "friendship"
+  },
+  {
+    "question": "此刻有没有想在这里向谁表达感谢的心情？",
+    "category": "friendship"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "question": "工作以来，最有成就感的时刻是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作中最哭笑不得的经历是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "还记得入职第一天吗？当时是什么感觉？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作中最感谢的同事是谁？",
+    "category": "workLife"
+  },
+  {
+    "question": "到目前为止，印象最深的工作单位是哪里？",
+    "category": "workLife"
+  },
+  {
+    "question": "加班时最难忘的经历是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作中关系最好的同事有什么故事？",
+    "category": "workLife"
+  },
+  {
+    "question": "在公司最好笑的瞬间是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作失误让你最冒冷汗的一次是什么时候？",
+    "category": "workLife"
+  },
+  {
+    "question": "职业生涯中最让你骄傲的成果是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "团建活动里，有没有难忘的故事？",
+    "category": "workLife"
+  },
+  {
+    "question": "第一次在工作中感到被认可，是什么时候？",
+    "category": "workLife"
+  },
+  {
+    "question": "被上司训过的记忆里，现在回想起来觉得好笑的是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "刚入职时最尴尬的情况是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "和同事在工作之外玩得最开心的一次是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "出差时有没有有趣或尴尬的故事？",
+    "category": "workLife"
+  },
+  {
+    "question": "最难做的一个项目是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作让你意外发现了自己哪方面的才能？",
+    "category": "workLife"
+  },
+  {
+    "question": "上一份工作里，你最怀念的是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "收到第一份工资，你做了什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "居家办公时，有没有好笑的经历？",
+    "category": "workLife"
+  },
+  {
+    "question": "你有没有彻夜工作过？是什么情况？",
+    "category": "workLife"
+  },
+  {
+    "question": "在工作中被误解过吗？怎么解决的？",
+    "category": "workLife"
+  },
+  {
+    "question": "和同事意见不合的时候，怎么化解的？",
+    "category": "workLife"
+  },
+  {
+    "question": "在公司有没有感动到想哭的时候？是什么事？",
+    "category": "workLife"
+  },
+  {
+    "question": "当初选择这家公司的原因是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "请假那天做了什么最让你开心？",
+    "category": "workLife"
+  },
+  {
+    "question": "在公司有没有得到过外号或绰号？",
+    "category": "workLife"
+  },
+  {
+    "question": "离职的同事里，最感到遗憾的是谁？",
+    "category": "workLife"
+  },
+  {
+    "question": "职业初期和现在，自己最大的变化是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "同事说过的一句话，对你影响很大？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作中你最钦佩的前辈或同事是谁？",
+    "category": "workLife"
+  },
+  {
+    "question": "因为工作中的小事，让团队更紧密的经历有吗？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作中最鼓起勇气的一次是什么时候？",
+    "category": "workLife"
+  },
+  {
+    "question": "印象最深的一个团队项目是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作中有没有出乎意料地好玩的经历？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作最忙的时期是什么时候？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作以后养成了什么新习惯？",
+    "category": "workLife"
+  },
+  {
+    "question": "最近一次感到"这份工作值了"是什么时候？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作中收到过最有意义的反馈是什么？",
+    "category": "workLife"
+  },
+  {
+    "question": "工作时喜欢开着音乐吗？喜欢什么风格的？",
+    "category": "workStyle"
+  },
+  {
+    "question": "你的消息回复风格是什么？看到就回，还是积攒起来再回？",
+    "category": "workStyle"
+  },
+  {
+    "question": "工作时桌上一定要有什么物品？",
+    "category": "workStyle"
+  },
+  {
+    "question": "你的桌面整理风格是什么？整洁派还是"创意混乱"派？",
+    "category": "workStyle"
+  },
+  {
+    "question": "你是早上效率高，还是下午效率高？",
+    "category": "workStyle"
+  },
+  {
+    "question": "开会时，你是做笔记还是只听？",
+    "category": "workStyle"
+  },
+  {
+    "question": "工作开始前，你会写待办清单吗？",
+    "category": "workStyle"
+  },
+  {
+    "question": "居家办公你的效率会提升还是下降？",
+    "category": "workStyle"
+  },
+  {
+    "question": "工作中你每天发呆大概多久？",
+    "category": "workStyle"
+  },
+  {
+    "question": "截止日期越近，你越能集中？",
+    "category": "workStyle"
+  },
+  {
+    "question": "同时处理多件事，还是专注做一件？",
+    "category": "workStyle"
+  },
+  {
+    "question": "保持专注时，你有什么小窍门？",
+    "category": "workStyle"
+  },
+  {
+    "question": "你喜欢安静独立工作，还是和团队活跃地配合？",
+    "category": "workStyle"
+  },
+  {
+    "question": "你在工作群里喜欢用表情包吗？",
+    "category": "workStyle"
+  },
+  {
+    "question": "写工作邮件时，你会反复斟酌吗？",
+    "category": "workLife"
+  },
+  {
+    "question": "打电话时你喜欢走来走去，还是坐着？",
+    "category": "workStyle"
+  },
+  {
+    "question": "办公用品里，有没有什么你特别执着的？",
+    "category": "workStyle"
+  },
+  {
+    "question": "写报告时，你会很在意排版设计吗？",
+    "category": "workStyle"
+  },
+  {
+    "question": "出错了你是快速承认，还是先找原因？",
+    "category": "workStyle"
+  },
+  {
+    "question": "工作遇到瓶颈，你是自己先摸索，还是马上求助？",
+    "category": "workStyle"
+  },
+  {
+    "question": "开会时你先发言，还是先听别人的意见？",
+    "category": "workStyle"
+  },
+  {
+    "question": "你喜欢和团队分享工作成果吗？",
+    "category": "workStyle"
+  },
+  {
+    "question": "被夸奖时，你会不好意思还是自然接受？",
+    "category": "workStyle"
+  },
+  {
+    "question": "完美主义在工作中是怎么体现的？",
+    "category": "workStyle"
+  },
+  {
+    "question": "工作中用得最多的app或工具是什么？",
+    "category": "workStyle"
+  },
+  {
+    "question": "到公司第一件做的事是什么？",
+    "category": "workStyle"
+  },
+  {
+    "question": "不懂的时候，你先自己查还是直接问？",
+    "category": "workStyle"
+  },
+  {
+    "question": "长期项目你是拆分来管理，还是整体把握？",
+    "category": "workStyle"
+  },
+  {
+    "question": "给反馈时，你是直接说还是委婉表达？",
+    "category": "workStyle"
+  },
+  {
+    "question": "你有没有自己排列工作优先级的方式？",
+    "category": "workStyle"
+  },
+  {
+    "question": "学新技能，你是上手直接做，还是先研究理论？",
+    "category": "workStyle"
+  },
+  {
+    "question": "团队协作和个人实力，你觉得哪个更重要？",
+    "category": "workStyle"
+  },
+  {
+    "question": "表扬和反馈，哪个更能促进你的成长？",
+    "category": "workStyle"
+  },
+  {
+    "question": "你觉得你的性格在工作风格上有体现吗？",
+    "category": "workStyle"
+  },
+  {
+    "question": "你会在笔记本电脑上贴贴纸吗？",
+    "category": "workStyle"
+  },
+  {
+    "question": "工作分神了，你怎么重新专注？",
+    "category": "workStyle"
+  },
+  {
+    "question": "什么样的反馈方式最能激励你？",
+    "category": "workStyle"
+  },
+  {
+    "question": "情绪对你的工作影响大吗？",
+    "category": "workStyle"
+  },
+  {
+    "question": "工作成果上有你的名字，你会更用心吗？",
+    "category": "workStyle"
+  },
+  {
+    "question": "周末你会查工作消息吗？",
+    "category": "workStyle"
+  },
+  {
+    "question": "5年后，你觉得自己在做什么工作？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "职业上有什么是你绝对不妥协的？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "除了现在的工作，下一步想尝试的领域是什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "工作中除了钱，你还想得到什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你职业生涯最看重的价值是什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "如果转行，你最想做什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你有没有考虑过创业？想做什么方向？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你觉得你现在的工作10年后还会存在吗？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "在你的领域，成为真正的专家需要什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "小时候的梦想职业和现在有关系吗？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "职业中，热情和稳定现在哪个更重要？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你有没有认真考虑过换工作？当时根据什么决定的？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你认为什么样的职业算成功？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "工作中，现在最想提升的地方是什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你希望后辈如何记住你？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "最近有没有想学的技能或知识？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你做过副业或独立项目吗？想做什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你希望自己的工作对社会有什么影响？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "职业生涯中最大的转折经历是什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "如果给10年前的自己一条职业建议，你会说什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "什么时候你会觉得现在做的工作有意义？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "未来你想以什么方式工作？远程、办公室还是自由职业？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "晋升和专业深耕，你现在更专注哪个？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "在现在的公司，你有什么想实现的目标？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "退休后，你想做什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "通过工作，你想成为什么样的人？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "如果不是现在这份工作，你觉得会走什么路？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "职业上还没尝试过、一定想做的是什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你有没有想打造自己个人品牌或专业形象的念头？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你觉得选择现在这份工作是正确的决定吗？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "工作和生活的平衡，现在哪边更重？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "职业倦怠的时候，你怎么重新找到动力？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你职业上有导师吗？是什么样的人？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你想做团队领导，还是走技术专家路线？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你最想在现在的工作中提升哪方面能力？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "老了你还有想一直做的工作吗？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你有在海外工作的想法吗？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "现在最想挑战的新领域是什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "你理想的工作环境是什么样的？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "除了职业，生活中最想实现的目标是什么？",
+    "category": "dreamsAndGoals"
+  },
+  {
+    "question": "下班回家，你第一件事是什么？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后解压，你有什么独门方法？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近最迷的爱好是什么？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后独处，是让你充电，还是让你感到孤独？",
+    "category": "afterWork"
+  },
+  {
+    "question": "周末你有什么固定的日程吗？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后你坚持运动吗？做什么运动？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近在追什么剧或电影？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后你自己做饭，还是买着吃或点外卖？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后最想去的地方是哪里？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后，你大概刷多久视频或流媒体？",
+    "category": "afterWork"
+  },
+  {
+    "question": "你在兴趣爱好上花钱多吗？",
+    "category": "afterWork"
+  },
+  {
+    "question": "周末你是把日程排满，还是什么都不做？",
+    "category": "afterWork"
+  },
+  {
+    "question": "你喜欢读书吗？最近在看什么？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后你经常和朋友见面吗？",
+    "category": "afterWork"
+  },
+  {
+    "question": "家里你最喜欢待的地方是哪里？",
+    "category": "afterWork"
+  },
+  {
+    "question": "你有没有利用清晨时间？怎么用的？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后你在做什么自我提升吗？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近开始了什么新爱好？",
+    "category": "afterWork"
+  },
+  {
+    "question": "周末你更喜欢独处，还是和人在一起？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后最期待的一件事是什么？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近在听什么音乐或播客？",
+    "category": "afterWork"
+  },
+  {
+    "question": "你经常去咖啡厅吗？喜欢什么样的？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后你经常联系的是谁？",
+    "category": "afterWork"
+  },
+  {
+    "question": "休息日有没有一个人去过电影院？",
+    "category": "afterWork"
+  },
+  {
+    "question": "你喜欢散步吗？最喜欢什么路线？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后你爱看美食视频吗？",
+    "category": "afterWork"
+  },
+  {
+    "question": "你的睡眠习惯规律吗？",
+    "category": "afterWork"
+  },
+  {
+    "question": "在家什么时候你最喜欢？",
+    "category": "afterWork"
+  },
+  {
+    "question": "最近最让你充满活力的活动是什么？",
+    "category": "afterWork"
+  },
+  {
+    "question": "你喜欢玩游戏吗？玩什么游戏？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后你会刷很多社交媒体吗？",
+    "category": "afterWork"
+  },
+  {
+    "question": "你有没有独自旅行过？感觉怎么样？",
+    "category": "afterWork"
+  },
+  {
+    "question": "日常生活里，你最期待的瞬间是什么？",
+    "category": "afterWork"
+  },
+  {
+    "question": "在家做饭你喜欢吗？经常做什么菜？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后你最常做的活动是什么？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班了你能快速切换、不再想工作的事吗？",
+    "category": "afterWork"
+  },
+  {
+    "question": "今天下班后有什么计划？",
+    "category": "afterWork"
+  },
+  {
+    "question": "工作以来，兴趣爱好有什么变化吗？",
+    "category": "afterWork"
+  },
+  {
+    "question": "下班后你的独家充电方式是什么？",
+    "category": "afterWork"
+  },
+  {
+    "question": "休息日早上你会睡懒觉，还是早起？",
+    "category": "afterWork"
+  }
+]

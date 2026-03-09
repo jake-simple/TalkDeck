@@ -1,0 +1,642 @@
+[
+  {
+    "question": "我从来没有在凌晨3点之后点过外卖",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有把闹钟关过10次以上",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有吃着饭就这样睡着过",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有在上班或上学的最后一刻才起床过",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有打开冰箱什么都没拿就关上过",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有吃过过期食物",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有去超市买东西花了预算两倍以上",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有让洗好的衣服放了超过一周没叠",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有超过两天没洗澡",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有把微信回复拖了超过一天",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有吃完宵夜马上就睡着过",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有因为看视频熬夜到天亮",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有让碗筷堆了超过一天没洗",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有因为懒得系鞋带就这样穿出去",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有扫地扫到一半嫌烦就不扫了",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有吃了饭却不记得吃了什么",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有手机快没电了还硬撑着不充",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有在便利店没有计划地花了超过50块",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有指甲长到很长了才想起来剪",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有吃饭的时候把酱料洒到衣服上",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有找东西找了超过30分钟还找不到",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有刷卡了不知道余额还有多少",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有因为懒得做饭就直接不吃",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有一天喝过三杯以上咖啡",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有在路上给陌生人指过路",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有搞错快递收货日期傻等过",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有去买东西，没买要买的，买了其他的回来",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有只戴一只耳机在外面逛了很久",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有在公交或地铁上睡过了站",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有让点来的外卖放凉了都没去拿",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有把手机忘在家里出门过",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有沉迷YouTube/B站算法看了超过两小时",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有搞错约好的日期白跑一趟",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有收到快递放了好几天不拆",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有没带钱包出门，出门才发现",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有同一段视频重复看了三遍以上",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有在超市试吃过两次以上",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有整天在家没出门过",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有躺下来要睡觉，结果刷手机又刷了两小时",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有外卖点了又取消，然后重新再点",
+    "category": "dailyLife"
+  },
+  {
+    "question": "我从来没有跳过伞",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有冲动买过机票",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有独自出过国",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有跳伞或滑翔伞体验过",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有没有计划就直接出发旅行过",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有搭帐篷在户外睡过觉",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有滑过雪",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有冲过浪",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有在荒岛或偏远地方过过一夜",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有在外国住过超过一个月",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有有恐高但还是爬上高处过",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有在陌生地方迷过路",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有骑摩托或自行车跑过长途",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有认真学过游泳",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有在夜店玩到天亮",
+    "category": "adventure"
+  },
+  {
+    "question": "我的愿望清单里一项都没有打过勾",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有坐过热气球或轻型飞机",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有凌晨四点特意去看过日出",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有一个人去看过展览或演出",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有和朋友临时起意开车出去兜风",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有主动跟陌生人搭话然后真的成朋友",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有去做过志愿者",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有不知道什么味道先吃了再说",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有独自爬过山",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有在海边或溪边玩到天亮",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有挑战了什么第一次拿过第一名",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有轻装简行去背包旅行过",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有在陌生城市独自待过超过一天",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有通宵打游戏或看漫画",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有在人前上台表演过",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有学过一个完全陌生的领域",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有独自坐火车旅行过",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有深夜冲动去江边或海边",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有在派对上和完全不认识的人玩得很开",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有认真开始学过一门新语言",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有专程跑去看夕阳或夜景",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有专门去找不出名的店吃过",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有独立生活过",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有参加过鬼屋或极限恐怖体验",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有在极寒或极热的户外熬过去",
+    "category": "adventure"
+  },
+  {
+    "question": "我从来没有在相亲场合提前离开过",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有拉黑过任何人",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有被人表白过",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有先主动表白过",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有分手后想联系却忍住过",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有友情突然断掉的经历",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有暗恋超过一年",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有和恋人公开过关系",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有误会积累导致关系疏远的经历",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有因为朋友委屈得大哭过",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有和恋人大吵过",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有直接说过对朋友有意见",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有说过言不由衷的安慰话",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有在恋爱中主动提过分手",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有因为恋人哭过",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有为了维持关系而勉强自己",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有对不喜欢的人强装热情",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有和初次见面的人迅速熟起来",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有借钱给朋友",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有退出过任何群聊",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有和旧恋人重新见过面",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有重新联系过长时间断联的人",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有和家人大吵过",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有给恋人策划过惊喜",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有在聚会里一言不发地坐着",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有误解着某人维持了很长一段时间",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有和恋人的朋友们感到尴尬",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有喜欢一个人但最后放弃了",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有和老朋友对某件事记忆不同而尴尬",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有率先断联过",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有在喜欢的人面前说不出话",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有把朋友的秘密告诉过别人",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有真心说过谢谢",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有觉得先说对不起很难",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有一段关系结束之后反而感到轻松",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有对寄予期待的人感到失望",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有主动和不认识的孩子说过话",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有因为爱的人而放弃过什么",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有丢失联系方式导致再也联系不上某人",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有写过一封真心的信",
+    "category": "relationship"
+  },
+  {
+    "question": "我从来没有偷偷翻过别人的社交账号很久",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有用谎言取消过约",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有看了消息假装没看到过",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有躲起来一个人偷偷哭过",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有对自己失望然后好一段时间没有动力",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有没生病却说自己生病过",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有收到礼物心里觉得不好但表面装喜欢",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有聚会里很累想早走但碍于面子硬撑着",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有觉得不好吃却说很好吃过",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有嫉妒某人然后一个人默默生闷气",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有听到夸奖心情却很复杂",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有没读完的书假装读过",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有对不感兴趣的话题装作很感兴趣",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有明明已经知道了却装作第一次听说",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有心里很不爽却装没事跳过去",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有明知道是错的却假装不知道",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有在人前看起来没事，回去路上独自流泪",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有看别人过得好真心羡慕过",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有为了掩盖失误撒过谎",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有为了获得认可故意夸大过自己",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有一个人对着镜子做过奇怪的表情",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有说"改天再约"但从来没打算实现过",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有对方说错了却顺着说对了",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有故意装作没看到消息过",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有没钱却装作有钱过",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有偷听过别人的对话",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有结果不好就归咎于运气差",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有想过一个人去KTV",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有等着某个人联系我，不停看手机",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有没说出真实感受然后后悔过",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有拍了照片觉得不好看偷偷删掉",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有在人前努力表现得很自信",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有听到夸奖心里却不相信",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有对喜欢的人表现得很冷淡",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有在人前笑着，心里其实很难受",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有脑子里冒出奇怪的想法，把自己吓到",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有有话想对某人说，却永远没说出口",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有做着不想做的事，表面上还装没事",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有知道是错的，还是给自己找借口",
+    "category": "secret"
+  },
+  {
+    "question": "我从来没有不想说出自己真实年龄过",
+    "category": "secret"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "question": "披萨 vs 炸鸡，如果一辈子只能吃一个，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "夏天 vs 冬天，如果只能活在一个季节里，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "早起型 vs 夜猫子型，如果必须固定一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "咖啡 vs 茶，如果一辈子只能喝一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "微信文字 vs 打电话，如果联系方式只剩一个，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "烤肉 vs 火锅，只能选一个，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "电影院 vs 在家刷剧，如果只能选一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "炸酱面 vs 麻辣烫，只能选一个吃到老，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "爬楼梯 vs 坐电梯，如果只能选一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "公交车 vs 地铁，如果只能坐一种交通工具，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "猪肉 vs 牛肉，如果肉只能吃一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "点外卖 vs 亲自去吃，如果只能选一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "音乐 vs 播客，通勤只能听一个，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "微博 vs 视频号，如果只能留一个，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "午睡 vs 宵夜，只能享受一个，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "面包 vs 米饭，主食只能选一个，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "室内吃饭 vs 户外吃饭，如果只能一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "猫 vs 狗，宠物只能养一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "健身 vs 散步，如果只能有一种身体活动，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "国内旅行 vs 出国旅行，只能选一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "甜食 vs 咸食，零食只能是一种口味，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "耳机 vs 音箱，听音乐只能用一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "淋浴 vs 泡澡，洗澡方式只能选一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "看书 vs 刷视频，获取信息只能靠一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "冰淇淋 vs 蛋糕，甜品只能选一个，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "咖啡馆 vs 家里，工作学习的地方只能是一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "文字消息 vs 语音消息，沟通方式只能选一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "电影 vs 剧集，影视内容只能看一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "自己做饭 vs 点外卖，吃饭方式只能选一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "运动鞋 vs 皮鞋，鞋子只能穿一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "便利店 vs 超市，买东西只能去一个，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "米线 vs 拉面，面食只能选一个，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "安静的咖啡馆 vs 热闹的咖啡馆，只能选一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "旅行计划控 vs 随性派，只能是一种方式，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "热辣阳光天 vs 凉爽阴天，一辈子只能一种天气，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "重口味 vs 清淡，口味只能固定一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "早睡早起 vs 晚睡晚起，生活作息只能固定一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "周末出门 vs 在家宅，只能用一种方式休息，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "尝试新菜单 vs 点熟悉的老菜，每次只能选一种，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "手机 vs 笔记本电脑，只能用一个设备，你选哪个？",
+    "category": "lightChoice"
+  },
+  {
+    "question": "有钱但孤独的人生 vs 穷但充满爱的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "记住一切的人生 vs 坏记忆全部消除的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "做喜欢的事但贫穷 vs 做不喜欢的事但富有？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "提前10年成功但短寿 vs 平凡但长寿的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "只有我说真话的世界 vs 所有人都说谎的世界？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "所有人都喜欢我的人生 vs 只有一个人真心爱我的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "实现梦想但失去家人 vs 放弃梦想但守护家人？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "知道过去但不知道未来 vs 知道未来但遗忘过去？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "世界最出名但没人真正了解我 vs 默默无名但被真心爱着？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "10次短暂的幸福 vs 1次完美的幸福？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "完全健康但一文不名 vs 有很多钱但总是生病？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "什么都会但没有特长 vs 一件事做到极致的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "爱的人不记得我 vs 我不记得爱的人？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "失去好朋友但成功 vs 失去成功但守护好朋友？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "一辈子只爱一个人 vs 爱过很多人但感情都不深？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "能读所有人的想法但我的想法也全部暴露 vs 什么都不知道但保留自己的秘密？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "只会喜欢做的事 vs 不管喜不喜欢什么都会的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "被人记住但不幸的人生 vs 无人记得但幸福的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "健康到死但短寿 vs 实现所有梦想但短寿？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "被爱但不被尊重 vs 被尊重但不被爱？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "失去现在所有但有机会获得更大的东西 vs 守住现在但不再成长？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "没有自己时间但不孤独 vs 总是孤独但拥有完全的自由？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "承认自己错误的人生 vs 总认为自己是对的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "努力了但失败 vs 什么都没做但成功？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "勇敢挑战了但后悔 vs 没能挑战而后悔？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "按别人期待活着的人生 vs 按自己标准活着的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "知道所有真相但受伤的人生 vs 活在美丽谎言里幸福的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "完全爱一件事的人生 vs 稍微爱很多事的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "得到所有想要的但过程艰辛 vs 过程愉快但没有结果？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "无法完全原谅某人的人生 vs 自己得不到原谅的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "替爱的人承受痛苦 vs 爱的人替我承受痛苦？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "享受现在但担心未来 vs 为了未来牺牲现在？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "什么都自己决定的人生 vs 总有人替你决定的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "天才但不努力的人生 vs 普通但永远努力的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "带着坏记忆成长的人生 vs 抹去坏记忆轻松活着的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "所有人都了解我的人生 vs 没人认识我的人生？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "现在幸福但以后后悔 vs 现在辛苦但以后有意义？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "失去爱情得到自由 vs 失去自由得到爱情？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "获得最高成就但没人承认 vs 平凡但被所有人认可？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "一次大的失误 vs 数十次小的失误，哪个更能接受？",
+    "category": "hardChoice"
+  },
+  {
+    "question": "走路时一直发出响声 vs 笑的时候一直发出放屁声，哪个更能接受？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "脚发出巧克力香 vs 嘴发出大蒜味，一辈子只能选一个？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "头发是面条的人生 vs 指甲是筷子的人生？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "说话只能唱出来 vs 说话只能用说唱，哪个更能接受？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "眨眼就自动自拍 vs 打喷嚏就放烟花，哪个更能接受？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "身体透明但衣服可见 vs 衣服透明但身体可见？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "一辈子用小孩声音 vs 一辈子用老人声音？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "有10只手的人生 vs 有10只脚的人生？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "每次睡着就说不同语言的梦话 vs 每次醒来就忘掉自己名字？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "肚子饿的时候发出公鸡叫声 vs 吃饱的时候像百灵鸟一样唱歌？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "想事情时头上会出现对话框 vs 情绪变化时脸上的灯光会变化？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "走路时有背景音乐 vs 情绪变化时灯光颜色随之变化？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "吃东西必须用声音表达味道 vs 说话时下方有字幕显示？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "身高每天变化1cm vs 体重每天变化1kg？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "有大象鼻子 vs 有兔子耳朵？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "每次上厕所都有礼炮声 vs 打嗝像汽车喇叭声？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "能看到气味的颜色 vs 能品尝声音的味道？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "一辈子只能穿拖鞋 vs 一辈子只能穿正装？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "名字每个月换一次 vs 脸每个月微变一点？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "总是慢一拍反应 vs 还没发生的事就先笑起来？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "只能倒着走路 vs 只能侧着坐？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "吃东西时总有人替你嚼 vs 思考时以旁边人的声音响起？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "拍照时眼睛必须闭上 vs 拍照时必须伸舌头？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "摸东西就能听到那件物品的历史 vs 碰到人就听到那个人最近的烦恼？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "总以2倍速说话 vs 总以0.5倍速移动？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "睡着了梦境实时直播 vs 醒来就大声说出梦的内容？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "住在一个全是乐高积木的世界 vs 住在一个全是贴纸的世界？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "笑的时候飞起来 vs 哭的时候粘在地上动不了？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "吃的食物会反映在发色上 vs 听的音乐会反映在眼睛颜色上？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "犯困时身体缩小 vs 开心时身体变大一倍？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "打电话时声音变成猫叫 vs 打招呼时声音变成机器人音？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "脚是磁铁 vs 手是魔术贴？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "每过一个生日就失去1年的记忆 vs 越来越年轻越活越小？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "每天必须跳一次舞 vs 每天必须唱一次歌？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "眼睛是望远镜 vs 耳朵是雷达？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "只能在冰箱里睡觉 vs 只能在洗衣机里洗澡？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "所有食物都同一个味道 vs 同一种食物每次味道都不一样？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "每天起来前一天的记忆都被打乱 vs 每晚睡着都做随机陌生人的梦？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "好笑时流泪、伤心时微笑 vs 开心时打喷嚏、愤怒时打嗝？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "影子不受控制自己动 vs 镜子里的你反向行动？",
+    "category": "wildChoice"
+  },
+  {
+    "question": "只说真话的人生 vs 可以随便说谎的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "失去记忆的人生 vs 失去情感的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "被爱但不被理解 vs 被理解但不被爱？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "长寿但无聊的人生 vs 短暂但强烈的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "所有事都靠自己的人生 vs 永远需要别人帮助的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "实现梦想但孤独 vs 放弃梦想但有人陪伴？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "能改变过去但现在消失 vs 过去不变但能知道未来？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "明知是坏人但爱着 vs 知道是好人但没感情？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "一辈子学习的人生 vs 一辈子教导别人的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "为自己活的人生 vs 为他人活的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "被别人爱 vs 自己内心充实的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "勇敢挑战了但失败 vs 安全活着但没挑战过？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "短暂体验完美幸福 vs 长期享受普通幸福？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "自由但孤独的人生 vs 有约束但温暖的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "我是对的但选择沉默 vs 可能错了但选择说出来？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "没有人评判我的世界 vs 每个人都能坦诚评价我的世界？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "知道死亡而活着 vs 相信没有死亡而活着？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "以强大的人被记住 vs 以温暖的人被记住？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "选择永远自由的人生 vs 选择永远承担责任的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "真心传不到对方的人生 vs 不用说话也能被所有人理解的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "被信任的人背叛 vs 自己背叛某人？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "没有变化但稳定的人生 vs 不安但成长的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "为了不伤害对方而保持距离 vs 即使会伤害也要靠近？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "所有人都知道我的弱点 vs 没有人知道我的强项？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "什么都不知道但幸福的人生 vs 了解一切但不安的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "先爱上别人的人生 vs 先结束爱的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "能感同身受他人痛苦的人生 vs 对他人痛苦无感的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "不断犯错但学到东西 vs 从不出错但什么都没学到？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "说不出自己想要的人生 vs 说出来但得不到的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "对所有人公平对待 vs 专注于对重要的人？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "失去自我但守住关系 vs 失去关系但守住自我？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "容易原谅的人生 vs 容易记仇的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "容易敞开心扉 vs 内心坚硬难以打开？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "接受无法改变的事的人生 vs 不愿接受也要不断抗争的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "一辈子所有决定都自己做 vs 一辈子都有人帮你决定？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "重新活一次的机会，你会接受 vs 拒绝？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "以被尊敬的人离开 vs 以被爱的人离开？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "通过后悔而成长的人生 vs 没有后悔但平淡的人生？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "放下一切重新开始 vs 抓住现有的继续走下去？",
+    "category": "seriousChoice"
+  },
+  {
+    "question": "曾经真心恨过某人的人生 vs 从未真心恨过任何人的人生？",
+    "category": "seriousChoice"
+  }
+]

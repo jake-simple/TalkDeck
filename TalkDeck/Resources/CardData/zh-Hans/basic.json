@@ -1,0 +1,962 @@
+[
+  {
+    "question": "没人看的时候，你会偷偷享受什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "你对食物最奇特的口味偏好是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "别人不喜欢但你独爱的事物是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "永远听不腻的一首歌是哪首？",
+    "category": "vibe"
+  },
+  {
+    "question": "你有什么奇怪的个人习惯吗？",
+    "category": "vibe"
+  },
+  {
+    "question": "你最喜欢的气味是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "凌晨三点一个人点外卖会点什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "你有什么让人意想不到的爱好吗？",
+    "category": "vibe"
+  },
+  {
+    "question": "你最长时间沉迷的追星或追剧经历是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "你最喜欢哪个季节？为什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "压力大的时候，你有什么解压方式？",
+    "category": "vibe"
+  },
+  {
+    "question": "煮泡面时你一定会加的秘密食材是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "睡前一定会做的事是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "你最喜欢哪个时间段？为什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近循环播放最多的歌是哪首？",
+    "category": "vibe"
+  },
+  {
+    "question": "手机里用得最多的三个app是哪些？",
+    "category": "vibe"
+  },
+  {
+    "question": "去咖啡厅总会点同一款饮料吗？",
+    "category": "vibe"
+  },
+  {
+    "question": "你是早起型还是夜猫子？",
+    "category": "vibe"
+  },
+  {
+    "question": "在视频平台一旦刷到就停不下来的是哪类内容？",
+    "category": "vibe"
+  },
+  {
+    "question": "去便利店必买的东西是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "买衣服时最看重的是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "你在社交媒体上主要看哪类内容？",
+    "category": "vibe"
+  },
+  {
+    "question": "旅行住宿，你选酒店还是民宿？",
+    "category": "vibe"
+  },
+  {
+    "question": "下雨天最想做什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近有没有什么新的痴迷？",
+    "category": "vibe"
+  },
+  {
+    "question": "独处的时候你最常做的事是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "如果只能选一部人生最爱的电影是哪部？",
+    "category": "vibe"
+  },
+  {
+    "question": "现在最想吃什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "小时候喜欢、现在还偷偷喜欢的东西是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "你觉得最棒的过周末方式是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "家里你最喜欢待的地方是哪里？",
+    "category": "vibe"
+  },
+  {
+    "question": "你是打车派还是公共交通派？",
+    "category": "vibe"
+  },
+  {
+    "question": "你有没有爱吃的宵夜？",
+    "category": "vibe"
+  },
+  {
+    "question": "说说你的一个小确幸？",
+    "category": "vibe"
+  },
+  {
+    "question": "你最近搜索的是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "生命中绝对无法放弃的一件事是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "如果把自己比作一种动物，你觉得像什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "你的包里现在装着什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "吃饭的时候你会开着视频吗？",
+    "category": "vibe"
+  },
+  {
+    "question": "你喜欢什么颜色？为什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "旅行时绝对不能少的东西是什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近购物车里放着什么、还在犹豫要不要买？",
+    "category": "vibe"
+  },
+  {
+    "question": "你常去的附近有什么好吃的？",
+    "category": "vibe"
+  },
+  {
+    "question": "你喜欢运动吗？最喜欢哪种？",
+    "category": "vibe"
+  },
+  {
+    "question": "冬天的热饮 vs 夏天的冷饮，哪个更让你开心？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近有没有让你笑出声的视频或梗图？",
+    "category": "vibe"
+  },
+  {
+    "question": "一个月里花钱最多的地方是哪里？",
+    "category": "vibe"
+  },
+  {
+    "question": "你更爱刷图文动态还是短视频？",
+    "category": "vibe"
+  },
+  {
+    "question": "你喜欢做饭吗？有没有拿手菜？",
+    "category": "vibe"
+  },
+  {
+    "question": "你有只想自己独享、不想告诉别人的好吃的地方吗？",
+    "category": "vibe"
+  },
+  {
+    "question": "睡前躺在床上刷多久手机？",
+    "category": "vibe"
+  },
+  {
+    "question": "你有喜欢的香水或香味吗？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近有没有什么让你受到启发的内容？",
+    "category": "vibe"
+  },
+  {
+    "question": "你的歌单里有没有意外的曲风？",
+    "category": "vibe"
+  },
+  {
+    "question": "周末你习惯睡懒觉还是早起？",
+    "category": "vibe"
+  },
+  {
+    "question": "你有没有在布置家居？喜欢什么风格？",
+    "category": "vibe"
+  },
+  {
+    "question": "点外卖的时候，你会认真看评价吗？",
+    "category": "vibe"
+  },
+  {
+    "question": "如果只能吃一种食物过一辈子，你会选什么？",
+    "category": "vibe"
+  },
+  {
+    "question": "最近有没有培养新的爱好？",
+    "category": "vibe"
+  },
+  {
+    "question": "你是那种没有咖啡活不下去的人吗？",
+    "category": "vibe"
+  },
+  {
+    "question": "如果一整天变成隐形人，你会做什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能瞬间传送到全球任何地方，你会去哪里？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能拥有一种超能力，你会选什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能回到过去，你想去哪个年代？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果流落荒岛只能带3样东西，你会带什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果中了彩票，你最先做的事是什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果明天是世界末日，今天你会做什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能和动物对话，你最想先和哪种动物说话？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能换一份职业，你想做什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能活进电影角色里，你想成为谁？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能开一家属于自己的店，你会开什么店？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果遇到外星人，你最想第一个展示什么给他们看？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果有一年的休假，你打算做什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "你觉得自己前世是什么样的人？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能穿越到100年后，你最想看到什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能在另一个国家生活一年，你会选哪里？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果出名了，你觉得自己会在哪个领域？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能成为另一个人一天，你想成为谁？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能让时间停止，你想在那段时间做什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果现在能立刻精通一门新语言，你会选哪种？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能给过去的自己发一条消息，你会说什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能操控梦境，你想做什么梦？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果有一座属于自己的小岛，你会怎么布置它？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能和历史上任意一个人共进晚餐，你会选谁？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果只能坚持一项爱好到死，你会选什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能活到100岁，有什么事一定要做？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果你能立一条法律，会是什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果回到大学一年级，你会做哪些不同的事？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果突然有一大笔钱，你还会继续现在的工作吗？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能变身成任何动物，你想成为什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果成为博主，你会做哪类频道？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果只能永远保留一段记忆，你会选哪段？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能在世界任何地方建一所房子，你想建在哪里？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果可以无限量吃一种食物，你会选什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能回到10年前度过一天，你会做什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果成为导演，你想拍哪种类型的电影？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果明天开始有一个月不用工作，你会怎么过？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能在其他星球生活，你会去吗？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果突然拥有读心术，你觉得会是好事还是坏事？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果人生能像游戏一样重置，你会选择重来吗？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能飞，你最想先去哪里？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果存在平行世界，那个你在过什么样的生活？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能读任何人的自传，你会选谁的？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果AI帮你设计完美的一天，你会接受吗？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果气味能变成颜色，世界会是什么样子？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果你写的书成了畅销书，会是什么内容？",
+    "category": "whatIf"
+  },
+  {
+    "question": "人生中如果只有一次"撤回"机会，你会用在什么时候？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果所有人突然都不会说谎了，世界会变成什么样？",
+    "category": "whatIf"
+  },
+  {
+    "question": "你能坚持一年完全不刷社交媒体吗？会有什么变化？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能用魔法获得一种才能，你会选什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果未来的你给你写了一封信，信里会说什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果有机器人帮你做所有家务，多出来的时间你会做什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果这个世界上只剩下你一个人，你会怎么过一天？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果可以进入任意一部动漫或漫画的世界，你会选哪个？",
+    "category": "whatIf"
+  },
+  {
+    "question": "你现在想往时间胶囊里放什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能让名厨专门为你做一道菜，你会点什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果动物都要上学，哪种动物最可能当班长？",
+    "category": "whatIf"
+  },
+  {
+    "question": "10年后的你看到现在的自己，会说什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能解决世界上一个问题，你会选什么？",
+    "category": "whatIf"
+  },
+  {
+    "question": "如果能把某个季节从一年里抹掉，你会选哪个？",
+    "category": "whatIf"
+  },
+  {
+    "question": "你人生中最勇敢的一刻是什么时候？",
+    "category": "story"
+  },
+  {
+    "question": "你从最大的失败中学到了什么？",
+    "category": "story"
+  },
+  {
+    "question": "有没有哪个人改变了你的人生？",
+    "category": "story"
+  },
+  {
+    "question": "童年的梦想和现在的你，差距有多大？",
+    "category": "story"
+  },
+  {
+    "question": "今年最让你感到骄傲的时刻是什么？",
+    "category": "story"
+  },
+  {
+    "question": "让你成长最多的一段经历是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你最难忘的一句称赞是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你人生的转折点是哪件事？",
+    "category": "story"
+  },
+  {
+    "question": "最难忘的旅行故事是什么？",
+    "category": "story"
+  },
+  {
+    "question": "最近笑得最开心的一次是什么时候？",
+    "category": "story"
+  },
+  {
+    "question": "生活中最让你尴尬的经历是什么？",
+    "category": "story"
+  },
+  {
+    "question": "第一次挣到钱的时候是什么感觉？",
+    "category": "story"
+  },
+  {
+    "question": "你保存了很久、最珍贵的一件东西是什么？",
+    "category": "story"
+  },
+  {
+    "question": "学生时代印象最深的一位老师是谁？",
+    "category": "story"
+  },
+  {
+    "question": "和朋友最有趣的一段回忆是什么？",
+    "category": "story"
+  },
+  {
+    "question": "人生中最紧张的一刻是什么时候？",
+    "category": "story"
+  },
+  {
+    "question": "最近有没有什么新的开始？",
+    "category": "story"
+  },
+  {
+    "question": "小时候你最常玩的游戏是什么？",
+    "category": "story"
+  },
+  {
+    "question": "最让你感动的一次经历是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你最大胆的一次挑战是什么？",
+    "category": "story"
+  },
+  {
+    "question": "最近有没有因为某件事感谢过某个人？",
+    "category": "story"
+  },
+  {
+    "question": "你住过的地方里印象最深的是哪里？",
+    "category": "story"
+  },
+  {
+    "question": "你有没有独自旅行的经历？",
+    "category": "story"
+  },
+  {
+    "question": "你最难忘的一个生日是哪一年？",
+    "category": "story"
+  },
+  {
+    "question": "你人生中最拼命奔跑过的一次是什么时候？",
+    "category": "story"
+  },
+  {
+    "question": "有没有什么事情是偶然开始，却对你影响很深的？",
+    "category": "story"
+  },
+  {
+    "question": "你记忆中最好吃的一顿饭是什么？",
+    "category": "story"
+  },
+  {
+    "question": "第一次被电影或电视剧感动到哭是哪部？",
+    "category": "story"
+  },
+  {
+    "question": "小时候和家人最美好的回忆是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你有没有收到过陌生人意想不到的善意？",
+    "category": "story"
+  },
+  {
+    "question": "你最晚熬过几点不睡？",
+    "category": "story"
+  },
+  {
+    "question": "生活中最让你害怕的一次经历是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你最难忘的一场演唱会或表演是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你最近是怎么认识一个新朋友的？",
+    "category": "story"
+  },
+  {
+    "question": "你人生中最出乎意料的一次好运是什么？",
+    "category": "story"
+  },
+  {
+    "question": "小时候的梦想职业是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你有没有大病一场的经历？",
+    "category": "story"
+  },
+  {
+    "question": "你坚持最久的一个习惯是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你人生中下过最大的决心是什么时候？",
+    "category": "story"
+  },
+  {
+    "question": "你最难忘的一次过节经历是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你有没有觉得是命中注定的巧合？",
+    "category": "story"
+  },
+  {
+    "question": "你有没有一个只有自己知道的成就？",
+    "category": "story"
+  },
+  {
+    "question": "最近你最用功在做的事情是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你说过的最后悔的一句话是什么？",
+    "category": "story"
+  },
+  {
+    "question": "最近你发现了自己身上什么新的一面？",
+    "category": "story"
+  },
+  {
+    "question": "你相识最久的朋友是怎么认识的？",
+    "category": "story"
+  },
+  {
+    "question": "你人生中最忙碌的时候是什么时候？",
+    "category": "story"
+  },
+  {
+    "question": "最近有没有尝试过什么新食物？",
+    "category": "story"
+  },
+  {
+    "question": "你最珍视的一份礼物是什么？",
+    "category": "story"
+  },
+  {
+    "question": "小时候你经常去的一个地方是哪里？",
+    "category": "story"
+  },
+  {
+    "question": "帮助过别人之后让你最有成就感的一次是什么时候？",
+    "category": "story"
+  },
+  {
+    "question": "最近有没有什么让你心里暖暖的瞬间？",
+    "category": "story"
+  },
+  {
+    "question": "你最难忘的一次初次见面是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你有没有觉得时机特别绝妙的一次经历？",
+    "category": "story"
+  },
+  {
+    "question": "哪首歌曾经让你哭过？",
+    "category": "story"
+  },
+  {
+    "question": "最近有没有计划外的事情却有了好结果？",
+    "category": "story"
+  },
+  {
+    "question": "你收到过最有触动的一句建议是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你等过最久的一件事是什么？",
+    "category": "story"
+  },
+  {
+    "question": "你对第一份工作或第一份兼职有什么印象？",
+    "category": "story"
+  },
+  {
+    "question": "你有没有勇敢拒绝过什么？",
+    "category": "story"
+  },
+  {
+    "question": "如果给5年前的自己说一句话，你会说什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你最后悔"没有做"的事是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你想问10年后的自己什么问题？",
+    "category": "deep"
+  },
+  {
+    "question": "你最感恩的三件事是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你有没有想回到过的人生某个阶段？",
+    "category": "deep"
+  },
+  {
+    "question": "用一个词来描述自己，你会用哪个？",
+    "category": "deep"
+  },
+  {
+    "question": "你最引以为豪的能力是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你最尊敬的人是谁？为什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你对幸福的理解和以前相比变了吗？",
+    "category": "deep"
+  },
+  {
+    "question": "随着成长，你改变最大的一个价值观是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "现在的生活中你最满意的部分是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你有没有外人不了解的另一面？",
+    "category": "deep"
+  },
+  {
+    "question": "你会感到孤独吗？什么时候？",
+    "category": "deep"
+  },
+  {
+    "question": "你在人际关系中最看重的是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "离开这个世界之前，一定要做的一件事是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你有没有想向谁道歉的事？",
+    "category": "deep"
+  },
+  {
+    "question": "你觉得成功的标准是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你现在最害怕的事情是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "对你来说，"长大"意味着什么？",
+    "category": "deep"
+  },
+  {
+    "question": "给你最大教训的一件事是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "最近让你想了很多的事情是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你觉得真正的朋友是什么样的？",
+    "category": "deep"
+  },
+  {
+    "question": "你觉得自己给别人的第一印象是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你觉得自己活得无悔吗？",
+    "category": "deep"
+  },
+  {
+    "question": "你最难说出口的情绪是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "塑造了今天的你的最大经历是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "用金钱买不到的东西里，你最珍视的是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你有没有属于自己的人生哲学？",
+    "category": "deep"
+  },
+  {
+    "question": "你认为人可以改变吗？",
+    "category": "deep"
+  },
+  {
+    "question": "为什么你觉得独处的时间是必要的？",
+    "category": "deep"
+  },
+  {
+    "question": "你最脆弱的时刻是什么时候？",
+    "category": "deep"
+  },
+  {
+    "question": "如果现在能改变生活中的一件事，你想改变什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你有没有让某人失望过？",
+    "category": "deep"
+  },
+  {
+    "question": "你觉得生活"够了"的标准是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你最常感受到的情绪是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你认为维系好关系的秘诀是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "最了解你的人是谁？",
+    "category": "deep"
+  },
+  {
+    "question": "你有没有在某个时刻划定过自己的底线？",
+    "category": "deep"
+  },
+  {
+    "question": "你觉得随着年龄增长，什么会变得越来越重要？",
+    "category": "deep"
+  },
+  {
+    "question": "什么时候你会感到自尊心受挫？",
+    "category": "deep"
+  },
+  {
+    "question": "为了幸福，你曾经放弃过什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你希望离开这个世界后被人们记住的是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你心里最久的一个梦想是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你是怎么应对让你难受的情绪的？",
+    "category": "deep"
+  },
+  {
+    "question": "被人伤害之后，你是怎么修复自己的？",
+    "category": "deep"
+  },
+  {
+    "question": "对你而言，自由是什么意思？",
+    "category": "deep"
+  },
+  {
+    "question": "你有没有不得不说谎的时候？为什么？",
+    "category": "deep"
+  },
+  {
+    "question": "家人对你来说意味着什么？",
+    "category": "deep"
+  },
+  {
+    "question": "生活中有没有你应该放手却还没放下的事？",
+    "category": "deep"
+  },
+  {
+    "question": "你觉得自己是领导型还是跟随型？为什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你有没有感受过内在的自己和外在表现不一样？",
+    "category": "deep"
+  },
+  {
+    "question": "你相信无条件的爱存在吗？",
+    "category": "deep"
+  },
+  {
+    "question": "你最想对现在最感激的人说什么？",
+    "category": "deep"
+  },
+  {
+    "question": "什么样的关系让你感到最安心？",
+    "category": "deep"
+  },
+  {
+    "question": "你认为人生中最重要的事是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "你在意别人的眼光吗？",
+    "category": "deep"
+  },
+  {
+    "question": "你觉得现在的烦恼一年后还会是烦恼吗？",
+    "category": "deep"
+  },
+  {
+    "question": "给你勇气的是什么？",
+    "category": "deep"
+  },
+  {
+    "question": "为什么你觉得展示软弱的一面很难？",
+    "category": "deep"
+  },
+  {
+    "question": "如果给现在的生活打分，你会打几分？为什么？",
+    "category": "deep"
+  }
+]

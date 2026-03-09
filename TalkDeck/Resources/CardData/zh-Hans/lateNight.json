@@ -1,0 +1,642 @@
+[
+  {
+    "question": "此刻脑子里浮现的是哪首歌？",
+    "category": "emotional"
+  },
+  {
+    "question": "今天最美好的一个瞬间是什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近一直在听的歌是什么？你觉得是为什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "如果今晚配一个颜色，你会选什么颜色？",
+    "category": "emotional"
+  },
+  {
+    "question": "今天最诚实的一种情绪，用一个词来形容是什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近最常有的情绪是什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近有什么瞬间让你内心暖了一下？",
+    "category": "emotional"
+  },
+  {
+    "question": "一个人夜里的时候，你一般在想什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "如果把现在这个瞬间拍成一张照片，会是什么场景？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近哪种情绪让你感到陌生？",
+    "category": "emotional"
+  },
+  {
+    "question": "有没有什么时候会突然很想联系某个人？是什么触发的？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近一次心跳加速是什么时候？",
+    "category": "emotional"
+  },
+  {
+    "question": "难过的时候你会怎么安慰自己？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近睡前脑子里转最多的是什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近一次感动到流泪是什么时候？",
+    "category": "emotional"
+  },
+  {
+    "question": "此刻最想念的是什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "想一个人待着和想有人陪着，是什么时候会有区别？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近有什么情绪在硬撑着压着不爆发？",
+    "category": "emotional"
+  },
+  {
+    "question": "心里乱的时候你怎么理清楚？",
+    "category": "emotional"
+  },
+  {
+    "question": "想到最幸福的记忆，脑子里出现的是什么场景？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近有没有什么特别喜欢待着的空间或地方？",
+    "category": "emotional"
+  },
+  {
+    "question": "现在心里有没有对谁有感激的感觉？",
+    "category": "emotional"
+  },
+  {
+    "question": "心情不好的时候，你会不自觉地做什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "如果今晚有一种专属的气味，你觉得是什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "今天笑得最开心的是什么时候？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近情绪上有点耗尽了吗？在哪方面？",
+    "category": "emotional"
+  },
+  {
+    "question": "什么东西能让你内心平静下来？",
+    "category": "emotional"
+  },
+  {
+    "question": "能诚实地说说你现在这里的感受吗？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近什么时候会感到孤独？",
+    "category": "emotional"
+  },
+  {
+    "question": "今晚结束之前还有什么想做的事吗？",
+    "category": "emotional"
+  },
+  {
+    "question": "如果把今天用一个颜色来表达，是什么颜色？",
+    "category": "emotional"
+  },
+  {
+    "question": "你有没有被人安慰得特别暖心的经历？",
+    "category": "emotional"
+  },
+  {
+    "question": "现在最想听到的一句话是什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近有没有无缘无故心情就低落的时候？",
+    "category": "emotional"
+  },
+  {
+    "question": "什么时候你的内心是最平静的？",
+    "category": "emotional"
+  },
+  {
+    "question": "今天有没有哪个时刻特别难熬？",
+    "category": "emotional"
+  },
+  {
+    "question": "此刻最希望谁在你身边？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近有没有无缘无故心情特别好的时候？",
+    "category": "emotional"
+  },
+  {
+    "question": "最近让你思考最多的是什么？",
+    "category": "emotional"
+  },
+  {
+    "question": "今晚结束后，你想以什么样的心情回家？",
+    "category": "emotional"
+  },
+  {
+    "question": "你觉得幸福到底是什么？",
+    "category": "philosophy"
+  },
+  {
+    "question": "人为什么会渴望和别人建立联系？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得变老意味着什么？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你认为真正的自由存在吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得人本质上是善的还是恶的？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得什么样的生活才叫活得好？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得爱情和友情的边界在哪里？",
+    "category": "philosophy"
+  },
+  {
+    "question": "要怎样活着，才能不害怕死亡？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你相信命运吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得时间是人最宝贵的资源吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "人是独处时更真实，还是在人群中更真实？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得为什么活在当下这么难？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得什么样的人才算好人？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得在生命中寻找意义重要吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得无悔地活着是可能的吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得关系是需要用力维护的，还是自然流淌的？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得成功和幸福是同一件事吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "人会改变，你觉得这是好事还是坏事？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得自己是自己生命的主人吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "勇气和莽撞的区别在哪里？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得说真话是不是永远是对的？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得爱自己是什么意思？",
+    "category": "philosophy"
+  },
+  {
+    "question": "记忆是真相，还是我们自己编的故事？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得完美的关系存在吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "现在这个瞬间，对10年后的你会有什么意义？",
+    "category": "philosophy"
+  },
+  {
+    "question": "依靠别人是软弱的表现，还是强大的表现？",
+    "category": "philosophy"
+  },
+  {
+    "question": "有没有失败比成功更重要的时候？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得有不需要说话就能心意相通的关系吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": ""人是独自来到世界又独自离开"这句话让你觉得安慰还是难过？",
+    "category": "philosophy"
+  },
+  {
+    "question": "为什么长期保持感恩的心这么难？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得你现在做的选择，正在塑造你自己吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "时间过了之后大多数事情都会变得无所谓，你觉得是这样吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得自己有多了解自己？",
+    "category": "philosophy"
+  },
+  {
+    "question": "什么样的对话才是真正有意义的对话？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得伤痛会让人变得更强大吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "用钱买不到的东西里，你觉得什么最重要？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得生活中最被浪费的是什么？",
+    "category": "philosophy"
+  },
+  {
+    "question": "现在最确定的一件事和最不确定的一件事分别是什么？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得幸福是越分享越多吗？",
+    "category": "philosophy"
+  },
+  {
+    "question": "你觉得现在的自己最需要什么？",
+    "category": "philosophy"
+  },
+  {
+    "question": "今天有没有什么想对我说的真心话？",
+    "category": "confession"
+  },
+  {
+    "question": "有没有什么一直很好奇我但没问出口的事？",
+    "category": "confession"
+  },
+  {
+    "question": "最近有没有什么没跟任何人说过的话？",
+    "category": "confession"
+  },
+  {
+    "question": "平时看起来没事，但其实有哪方面很难熬？",
+    "category": "confession"
+  },
+  {
+    "question": "最近有没有什么事是你鼓起勇气做了的？",
+    "category": "confession"
+  },
+  {
+    "question": "其实不太会，但会假装会的事是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "最近最放心不下的人或事是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "有没有从来没说出口过的烦恼？",
+    "category": "confession"
+  },
+  {
+    "question": "今天想在这里第一次诚实地说出来的，是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "最近有没有被谁伤到过？",
+    "category": "confession"
+  },
+  {
+    "question": "现在生活里最难解决的问题是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "你有只有自己知道的秘密吗？",
+    "category": "confession"
+  },
+  {
+    "question": "最近撒过谎吗？是在什么情况下？",
+    "category": "confession"
+  },
+  {
+    "question": "有没有到现在还放在心上的事？",
+    "category": "confession"
+  },
+  {
+    "question": "有没有其实不想承认、但确实存在的自己的缺点？",
+    "category": "confession"
+  },
+  {
+    "question": "有没有哪里被人误解了但没解释清楚？",
+    "category": "confession"
+  },
+  {
+    "question": "其实心里很羡慕的人吗？",
+    "category": "confession"
+  },
+  {
+    "question": "现在生活里有没有在给自己找借口的事？",
+    "category": "confession"
+  },
+  {
+    "question": "有没有特别想重新联系的人？",
+    "category": "confession"
+  },
+  {
+    "question": "今天在这里第一次真心笑了吗？",
+    "category": "confession"
+  },
+  {
+    "question": "有没有从没对任何人说过的心愿？",
+    "category": "confession"
+  },
+  {
+    "question": "现在生活里有没有在逃避的事？",
+    "category": "confession"
+  },
+  {
+    "question": "最难承认的一种情绪是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "有没有一直没说出口的"对不起"？",
+    "category": "confession"
+  },
+  {
+    "question": "最近有没有觉得自己太逼自己了？",
+    "category": "confession"
+  },
+  {
+    "question": "有没有害怕但还是想做的事？",
+    "category": "confession"
+  },
+  {
+    "question": "现在最需要的安慰是哪句话？",
+    "category": "confession"
+  },
+  {
+    "question": "有没有至今没能完全忘掉的事？",
+    "category": "confession"
+  },
+  {
+    "question": "其实超在意但装作不在意的是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "最近最常对自己说的话是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "现在最想鼓起勇气去做的事是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "最近有没有觉得自己对自己太苛刻了？",
+    "category": "confession"
+  },
+  {
+    "question": "这辈子最后悔的一个选择是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "现在最想坦白说出来的是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "其实已经想了好久的烦恼是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "最近有没有哪方面觉得自己做得很好、值得表扬一下？",
+    "category": "confession"
+  },
+  {
+    "question": "现在有没有不说出来就感觉永远说不了的事？",
+    "category": "confession"
+  },
+  {
+    "question": "今天来这里之前，你是什么心情？",
+    "category": "confession"
+  },
+  {
+    "question": "现在最想听我说什么？",
+    "category": "confession"
+  },
+  {
+    "question": "这辈子到目前为止做得最对的选择是什么？",
+    "category": "confession"
+  },
+  {
+    "question": "最近经常做什么梦？",
+    "category": "dream"
+  },
+  {
+    "question": "有没有一个想实现但有点难为情说出口的梦想？",
+    "category": "dream"
+  },
+  {
+    "question": "小时候的梦想，现在还留着吗？",
+    "category": "dream"
+  },
+  {
+    "question": "如果现在一切皆有可能，你最想做什么？",
+    "category": "dream"
+  },
+  {
+    "question": "5年后的你，会在哪里做什么？",
+    "category": "dream"
+  },
+  {
+    "question": "你最难忘的一个梦是什么？",
+    "category": "dream"
+  },
+  {
+    "question": "你经常梦到某个地方吗？",
+    "category": "dream"
+  },
+  {
+    "question": "放弃过的梦想，现在还放在心里吗？",
+    "category": "dream"
+  },
+  {
+    "question": "今年内最想实现的一件事是什么？",
+    "category": "dream"
+  },
+  {
+    "question": "有什么你觉得在死之前一定要做的事？",
+    "category": "dream"
+  },
+  {
+    "question": "你做梦醒来一般是什么情绪？",
+    "category": "dream"
+  },
+  {
+    "question": "10年后的你，会对现在的你说什么？",
+    "category": "dream"
+  },
+  {
+    "question": "你现在想实现的梦想，觉得有多现实？",
+    "category": "dream"
+  },
+  {
+    "question": "有没有在梦里想见到的人？",
+    "category": "dream"
+  },
+  {
+    "question": "就算可能实现不了，也不会放弃的梦是什么？",
+    "category": "dream"
+  },
+  {
+    "question": "你梦想中的生活是什么样的？",
+    "category": "dream"
+  },
+  {
+    "question": "在梦想和现实之间，你不放弃的理由是什么？",
+    "category": "dream"
+  },
+  {
+    "question": "现在的你最需要的勇气是什么？",
+    "category": "dream"
+  },
+  {
+    "question": "最近想象过的未来画面是什么？",
+    "category": "dream"
+  },
+  {
+    "question": "有没有什么在梦里还想重温的记忆？",
+    "category": "dream"
+  },
+  {
+    "question": "有没有别人都劝你别做，但你还是想做的事？",
+    "category": "dream"
+  },
+  {
+    "question": "你现在做的事，跟你的梦想有没有联系？",
+    "category": "dream"
+  },
+  {
+    "question": "小时候的梦想里，有没有什么已经实现了？",
+    "category": "dream"
+  },
+  {
+    "question": "你的梦里经常出现的人是谁？",
+    "category": "dream"
+  },
+  {
+    "question": "你梦想中的理想一天是什么样的？",
+    "category": "dream"
+  },
+  {
+    "question": "现在最迫切渴望的是什么？",
+    "category": "dream"
+  },
+  {
+    "question": "为了实现梦想，你现在在做什么？",
+    "category": "dream"
+  },
+  {
+    "question": "你做过最离奇的梦是什么？",
+    "category": "dream"
+  },
+  {
+    "question": "有没有什么现实里做不到、在梦里也想实现一次的事？",
+    "category": "dream"
+  },
+  {
+    "question": "你想象中的10年后的自己，是什么样子？",
+    "category": "dream"
+  },
+  {
+    "question": "有没有做到一半被迫醒来、很遗憾的梦？",
+    "category": "dream"
+  },
+  {
+    "question": "有没有还没有开始的梦想？",
+    "category": "dream"
+  },
+  {
+    "question": "现在最了解你梦想的人是谁？",
+    "category": "dream"
+  },
+  {
+    "question": "梦想实现的时候，你最想先做什么？",
+    "category": "dream"
+  },
+  {
+    "question": "如果此刻只能实现一个愿望，你会选什么？",
+    "category": "dream"
+  },
+  {
+    "question": "你最现实的梦想和最不现实的梦想分别是什么？",
+    "category": "dream"
+  },
+  {
+    "question": "你有没有在梦想和安稳之间纠结过？",
+    "category": "dream"
+  },
+  {
+    "question": "有没有谁鼓励过你，让你重新拾起梦想？",
+    "category": "dream"
+  },
+  {
+    "question": "你觉得实现梦想最大的障碍是什么？",
+    "category": "dream"
+  },
+  {
+    "question": "今晚结束之后，明天最让你期待的是什么？",
+    "category": "dream"
+  }
+]

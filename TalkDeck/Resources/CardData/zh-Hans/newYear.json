@@ -1,0 +1,642 @@
+[
+  {
+    "question": "今年做过最对的一个决定是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年第一次尝试的事情里，最难忘的是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年笑得最开心的瞬间是什么时候？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年让你成长最多的经历是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年最后悔的一件事是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "说说今年最让你骄傲的瞬间吧",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年放弃了但觉得还好的是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年最难熬的时候是什么时候？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年有没有重新认识了自己的什么一面？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年最努力做的事是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年变化最大的事情是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年遇到的人里，印象最深刻的是谁？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年最难忘的一次旅行或者外出是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年听得最多的歌或歌单是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年立下的目标，实现了哪些，没实现哪些？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年最鼓起勇气的一个瞬间是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年吃得最多的食物是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "说说今年最让你感动的瞬间吧",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年最值得的一笔花费和最心疼的一笔花费？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年有新产生的兴趣爱好或关注点吗？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年想得最多的问题是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年最让你开心的消息是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年联系最多的人是谁？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年吃过最满足的一顿是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年看过的书或电影里，最难忘的是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年关于自己，有没有什么新发现？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年有没有发生什么出乎意料的事？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年最多反思的是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年最值的一次消费是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "可以对今年的自己说一句话吗？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年有没有什么想夸夸自己的地方？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年在关系里最让你难忘的瞬间是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年压力最大的是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年哪一天会是你记得最久的？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年让你最难熬的是什么，让你撑下来的又是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年哪个普通的瞬间让你感到最幸福？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年有没有什么对不起自己的地方？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年新进入你生活的东西里，最好的是什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "用一个词来形容今年，你会选什么？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年觉得自己撑得最好的瞬间是什么时候？",
+    "category": "yearReview"
+  },
+  {
+    "question": "今年最感谢的人是谁？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有什么没有预料到却让你感谢的事？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年是什么支撑着你走下来的？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有在小事里感受到幸福的瞬间？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有想说谢谢却没来得及说的人？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年难熬的时候，谁一直陪在你身边？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有什么话或文字给了你勇气？",
+    "category": "gratitude"
+  },
+  {
+    "question": "说一个今年最感激的经历",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年对自己的身体或健康有没有感激的地方？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有什么意外的好事突然发生？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年家人里，特别想感谢的是谁？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有失败了却觉得反而是好事的事？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年日常里最让你感到感激的是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年让你笑起来的事情有哪些？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有因为得到别人帮助而心存感激的时候？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有什么内容或书给了你正面影响？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年对你周围的环境有没有感激的地方？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有陌生人的善意让你至今记得？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有感谢自己的地方？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年即使在困难中，也有感激的事情吗？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年吃饭或食物中，特别让你感激的瞬间是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年能过得还不错的原因是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年特别感谢有你在身边的朋友是谁？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有重新联系上、心存感激的缘分？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年工作或学习中，有感谢的瞬间吗？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有谁信任了你？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有能好好休息、感到感激的时候？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年自己做好了的事里，感谢自己的是什么？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年最感激的是哪个季节或哪段天气？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有学了什么让你觉得感激的经历？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有什么当时没注意，其实应该感谢的事？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年难熬时，有没有帮助你撑过来的习惯或规律？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有谁对你说了真心话？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年被最多人感谢的是什么情况？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有你在的原因帮助了谁的瞬间？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年有没有感谢过自己没生病的日子？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年兴趣爱好或休闲里，有感激的地方吗？",
+    "category": "gratitude"
+  },
+  {
+    "question": "今年对生活空间或家有没有感到感激的地方？",
+    "category": "gratitude"
+  },
+  {
+    "question": "现在这里，有没有想对谁说谢谢的？说说吧",
+    "category": "gratitude"
+  },
+  {
+    "question": "回顾今年，能感激的瞬间有多少？",
+    "category": "gratitude"
+  },
+  {
+    "question": "说一件明年一定想做的事",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有想戒掉的习惯？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年想建立什么新的生活规律？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年想学什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年想更多做什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年想减少做什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有想挑战的新事物？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年在关系上有没有想改变的地方？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年为了健康想改变什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有一定想去的地方？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有想对自己好一点的地方？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有一定想读的书？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年在理财方面有没有目标？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有想更经常见面的人？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有想坚持不放弃的事？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年最重要的、想专注的一件事是什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有想鼓起勇气做的事？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有想重新联系的人？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年生活方式里有没有想改变的东西？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年只属于自己的时间，你想怎么用？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年想实现的一个小目标是什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年更想享受什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年在说话方式或沟通上有没有想改变的地方？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有想更积极主动做的事？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年想写进计划本里的目标是什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年对你来说最需要的改变是什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年想怎么改变你周围的环境？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "一直想停下来的事，这次真的能停下来吗？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年最期待的计划是什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年为了更喜欢自己，想改变什么？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有一定想完成的项目或目标？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年你想成为什么样的人？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有想少在乎的事？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有想更勇敢说出来的话？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年想不想创造认识新朋友的机会？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年的计划里有没有和去年重叠的？这次打算怎么不一样？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年想送给自己什么样的体验？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年你更想悠闲地生活，还是忙碌充实地生活？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年有没有关于自己更想了解的事？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "到明年这个时候，你希望自己是什么状态？",
+    "category": "newYearResolution"
+  },
+  {
+    "question": "明年这个时候，你希望自己是什么样子？",
+    "category": "wish"
+  },
+  {
+    "question": "今年没实现，但明年一定想做的是什么？",
+    "category": "wish"
+  },
+  {
+    "question": "明年最想要的一件事是什么？",
+    "category": "wish"
+  },
+  {
+    "question": "5年后的自己，你希望他/她怎样？",
+    "category": "wish"
+  },
+  {
+    "question": "明年关于健康，你有什么愿望？",
+    "category": "wish"
+  },
+  {
+    "question": "明年在感情或人际上，你有什么愿望？",
+    "category": "wish"
+  },
+  {
+    "question": "明年在工作或学习上，你希望怎样？",
+    "category": "wish"
+  },
+  {
+    "question": "明年有没有一定想实现的梦想？",
+    "category": "wish"
+  },
+  {
+    "question": "想象一下明年自己最幸福的画面是什么",
+    "category": "wish"
+  },
+  {
+    "question": "明年对家人或重要的人，你有什么愿望？",
+    "category": "wish"
+  },
+  {
+    "question": "明年你希望什么好运降临到你身上？",
+    "category": "wish"
+  },
+  {
+    "question": "明年有没有特别想解决掉的烦恼？",
+    "category": "wish"
+  },
+  {
+    "question": "明年会让你更幸福的事情有哪些？",
+    "category": "wish"
+  },
+  {
+    "question": "你希望10年后的自己对现在的你说什么？",
+    "category": "wish"
+  },
+  {
+    "question": "明年有没有想重新开始的事情？",
+    "category": "wish"
+  },
+  {
+    "question": "明年希望世界能有一点点改变的地方是什么？",
+    "category": "wish"
+  },
+  {
+    "question": "明年有没有什么想比现在更自由的地方？",
+    "category": "wish"
+  },
+  {
+    "question": "明年想更常体验哪种情感？",
+    "category": "wish"
+  },
+  {
+    "question": "明年一定想去的旅行地是哪里？",
+    "category": "wish"
+  },
+  {
+    "question": "明年最让你感到骄傲的会是什么？",
+    "category": "wish"
+  },
+  {
+    "question": "明年有没有想和某人一起实现的事？",
+    "category": "wish"
+  },
+  {
+    "question": "明年有没有关于自己想更了解的事？",
+    "category": "wish"
+  },
+  {
+    "question": "明年你想过得更悠闲，还是更用力？",
+    "category": "wish"
+  },
+  {
+    "question": "明年你想怎么善待自己？",
+    "category": "wish"
+  },
+  {
+    "question": "明年一定想创造的回忆是什么？",
+    "category": "wish"
+  },
+  {
+    "question": "明年最想重视的价值是什么？",
+    "category": "wish"
+  },
+  {
+    "question": "如果明年有了勇气，最想做的第一件事是什么？",
+    "category": "wish"
+  },
+  {
+    "question": "说说明年会让你幸福的那些小事吧",
+    "category": "wish"
+  },
+  {
+    "question": "明年希望能遇到什么样的好人？",
+    "category": "wish"
+  },
+  {
+    "question": "明年你希望什么变化降临到你身上？",
+    "category": "wish"
+  },
+  {
+    "question": "明年有没有一直拖着没解决的旧问题想搞定？",
+    "category": "wish"
+  },
+  {
+    "question": "明年这个时候，你想在这个场合分享什么故事？",
+    "category": "wish"
+  },
+  {
+    "question": "明年有没有想在某方面对自己更诚实？",
+    "category": "wish"
+  },
+  {
+    "question": "明年想要的用钱买不到的东西是什么？",
+    "category": "wish"
+  },
+  {
+    "question": "明年你希望现在的自己是什么感受？",
+    "category": "wish"
+  },
+  {
+    "question": "明年有什么新的东西想让它走进你的生活？",
+    "category": "wish"
+  },
+  {
+    "question": "明年一定不想放手的是什么？",
+    "category": "wish"
+  },
+  {
+    "question": "新的一年，有什么想对自己说的话？",
+    "category": "wish"
+  },
+  {
+    "question": "明年你最多笑的场景是什么？",
+    "category": "wish"
+  },
+  {
+    "question": "此刻你最迫切的愿望是什么？",
+    "category": "wish"
+  }
+]

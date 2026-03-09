@@ -1,0 +1,962 @@
+[
+  {
+    "question": "用天气来形容你现在的心情是什么？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今天有没有哪个时刻让你心情好一点？",
+    "category": "coolDown"
+  },
+  {
+    "question": "现在最想吃什么？",
+    "category": "coolDown"
+  },
+  {
+    "question": "深呼吸一下，身体感觉怎么样了？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今早起来的时候心情怎么样？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近在追什么剧或者刷什么视频？",
+    "category": "coolDown"
+  },
+  {
+    "question": "现在最需要什么？水？咖啡？还是甜食？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近有什么让你忍不住笑出来的事？",
+    "category": "coolDown"
+  },
+  {
+    "question": "还记得我们第一次见面的时候吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "现在往窗外看，景色怎么样？",
+    "category": "coolDown"
+  },
+  {
+    "question": "你最喜欢哪个季节？为什么喜欢？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近有没有什么歌值得推荐一下？",
+    "category": "coolDown"
+  },
+  {
+    "question": "昨晚睡得好吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "压力大的时候你有什么解压的方法？",
+    "category": "coolDown"
+  },
+  {
+    "question": "如果现在可以去任何地方，你想去哪？",
+    "category": "coolDown"
+  },
+  {
+    "question": "我们在一起的时候，你最放松是哪个时候？",
+    "category": "coolDown"
+  },
+  {
+    "question": "生气了你一般怎么让自己冷静下来？",
+    "category": "coolDown"
+  },
+  {
+    "question": "如果用颜色来形容你现在的心情，是什么颜色？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近有没有出去散散步或者透透气？",
+    "category": "coolDown"
+  },
+  {
+    "question": "你小时候生气了会怎么样？",
+    "category": "coolDown"
+  },
+  {
+    "question": "现在最想见的人是谁？",
+    "category": "coolDown"
+  },
+  {
+    "question": "你知道可以随时跟我说吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近睡眠质量怎么样？",
+    "category": "coolDown"
+  },
+  {
+    "question": "我们俩都喜欢的事情，能说一个吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "和好之后你想干什么？",
+    "category": "coolDown"
+  },
+  {
+    "question": "你知道光是开始这段对话就已经很厉害了吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "我们最近一次一起笑是什么时候？",
+    "category": "coolDown"
+  },
+  {
+    "question": "情绪激动的时候，你需要一点时间冷静吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "你饿了吗？要不要吃点东西？",
+    "category": "coolDown"
+  },
+  {
+    "question": "我们之间最让你感激的是哪个瞬间？",
+    "category": "coolDown"
+  },
+  {
+    "question": "如果用一个表情来表达你现在的心情，是哪个？",
+    "category": "coolDown"
+  },
+  {
+    "question": "生气的时候你更想一个人待着，还是有人陪着？",
+    "category": "coolDown"
+  },
+  {
+    "question": "最近有没有什么人让你笑出声来？",
+    "category": "coolDown"
+  },
+  {
+    "question": "现在如果放首歌，你想听什么？",
+    "category": "coolDown"
+  },
+  {
+    "question": "还记得我们最开始变熟的时候吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "情绪有理清楚一点了吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "你觉得吵架也是一种在乎的表达吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "今天外面天气怎么样？",
+    "category": "coolDown"
+  },
+  {
+    "question": "要不要边喝点什么边慢慢聊？",
+    "category": "coolDown"
+  },
+  {
+    "question": "你知道你对我来说很重要吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "谢谢你愿意坐在这里",
+    "category": "coolDown"
+  },
+  {
+    "question": "今天最好吃的是什么？",
+    "category": "coolDown"
+  },
+  {
+    "question": "要不要先休息一下，再继续聊？",
+    "category": "coolDown"
+  },
+  {
+    "question": "除了对我生气，还有其他情绪吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "如果给现在这个情况取个电影名，你会叫什么？",
+    "category": "coolDown"
+  },
+  {
+    "question": "我们冷战的时候，通常谁先开口？",
+    "category": "coolDown"
+  },
+  {
+    "question": "现在有什么想对我说的吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "可以感谢一下拿出这张卡的那个人吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "现在最需要的是对话，还是时间？",
+    "category": "coolDown"
+  },
+  {
+    "question": "有没有哪个瞬间让你觉得我们很合拍？",
+    "category": "coolDown"
+  },
+  {
+    "question": "心情平复了之后，最想做什么？",
+    "category": "coolDown"
+  },
+  {
+    "question": "如果今天可以重来，你想怎么过？",
+    "category": "coolDown"
+  },
+  {
+    "question": "能闭上眼睛，休息三秒钟吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "你有什么让自己平静下来的关键词吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "我们俩现在是不是都很累了？",
+    "category": "coolDown"
+  },
+  {
+    "question": "这个情况里能不能找到一点幽默感？",
+    "category": "coolDown"
+  },
+  {
+    "question": "现在可以拉一下对方的手吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "我们不一样不代表不好，对吧？",
+    "category": "coolDown"
+  },
+  {
+    "question": "我们曾经一起度过过难关，还记得吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "你觉得现在不解决也没关系吗？",
+    "category": "coolDown"
+  },
+  {
+    "question": "现在我心里最大的情绪是什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "你能分清楚是生气、委屈还是难过吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "最让你心痛的是哪个瞬间？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "你觉得自己说了什么伤人的话吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我真正想要的是什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我生气的真正原因是什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "有没有什么情绪很难用语言表达？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "在这个情况里，我希望被怎么对待？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "是不是平时一直忍着，这次终于爆发了？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我有没有哪里反应过度了？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这种情绪是从什么时候开始积累的？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这种情况下我通常会有什么感受？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我说话的方式有没有让人感觉很有攻击性？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "说实话，有没有一点害怕的情绪？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我在这个情况里的期望太高了吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我觉得自己重视的东西被忽视了吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "有没有什么情绪我没有完全说出口？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "生气的时候有没有说了什么后悔的话？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "现在有没有什么对方不知道的感受？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这种情绪要怎么表达才好？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我有没有防御性很强的时候？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "其实是不是失望比生气更多？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我期待的反应是什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这种情绪有没有可能是我自己的问题？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "如果要跟别人解释这件事，你会怎么说？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "你自己也对自己这么生气感到意外吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "有没有因为这种情绪而讨厌自己？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "难过的是这件事本身，还是对方的态度？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "你觉得自己也有做错的地方吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "以前有没有类似的感受？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我有没有一些压着没说的不满？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这个情绪背后真正的需求是什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我在冲突的时候通常有什么固定的反应模式？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我说的话有没有被误解？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "现在有没有想哭的感觉？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这个情况里最让你害怕的是什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我在这段关系里有没有什么不安全感？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "生气本身就已经很累了吧？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "为什么诚实地说出自己的情绪这么难？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "现在最想被安慰的是哪一点？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我是个容易道歉的人吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这个情况里我能学到什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我的自尊心有没有阻碍我表达情绪？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "说实话，现在有没有一点孤独的感觉？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我为什么很难主动走近对方？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这种情绪明天还会在吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "经历冲突之后，我想成为什么样的人？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "给这种情绪取个名字，你会叫它什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这种情绪在告诉我什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "其实不是生气，而是担心吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "有没有哪部分希望对方能理解我的感受？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "现在心情的沉重程度，1到10你打几分？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "说话的时候有没有哪一刻感觉"这样说不对"？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我真正想听到的话是什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这种情绪一个人扛着太难了吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "我表达情绪的时候，什么方式最舒服？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "一周后回头看这件事，感觉会怎样？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "你知道自己容易在哪些点上受伤吗？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "现在你最需要听到的一句话是什么？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "这种情绪过去之后，你觉得会是什么感觉？",
+    "category": "myFeelings"
+  },
+  {
+    "question": "对方为什么会说那句话？",
+    "category": "yourSide"
+  },
+  {
+    "question": "站在对方的角度来看这件事，会是什么感受？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方现在是不是也有很难受的地方？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方真正想说的是什么？",
+    "category": "yourSide"
+  },
+  {
+    "question": "我在对方眼里是什么样的？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方最委屈的点可能是哪里？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方说的话里，有没有哪部分其实有道理？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方也和我一样难受吗？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方最近有没有什么压力很大的事情？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方希望我做什么？",
+    "category": "yourSide"
+  },
+  {
+    "question": "我有没有忽视过对方的感受？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方生气的真正原因是什么？",
+    "category": "yourSide"
+  },
+  {
+    "question": "根据对方的性格，有没有可以理解的地方？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方听到我说的话，会是什么感觉？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方为什么会变得很有防御性？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方过去的经历有没有影响到这次的反应？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方有没有没说出口的情绪？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方的好意有没有被我忽略了？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方对我有意见，这是第一次吗？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方是不是也想道歉，但说不出口？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方最希望我改变什么？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方表达情绪的方式可能和我不一样，对吧？",
+    "category": "yourSide"
+  },
+  {
+    "question": "如果对方向朋友解释这件事，会怎么说？",
+    "category": "yourSide"
+  },
+  {
+    "question": "你有没有想听听对方的想法？",
+    "category": "yourSide"
+  },
+  {
+    "question": "能不能说一件对对方感谢的事？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方有没有一直在默默忍耐着什么？",
+    "category": "yourSide"
+  },
+  {
+    "question": "不看对方的语气，只看内容的话，你觉得呢？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方现在大概是什么心情？",
+    "category": "yourSide"
+  },
+  {
+    "question": "上次表达对方对你重要是什么时候？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方的缺点，有没有可能其实是优点的另一面？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方是想让我改变，还是只想被理解？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方的行为背后，有没有一种不安全感？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方也珍惜我们这段关系吗？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方有没有什么想对我说的话？",
+    "category": "yourSide"
+  },
+  {
+    "question": "我对对方的关心是不是不够多？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方难受的时候，我有没有注意到？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方有没有为了迁就我而累到不行？",
+    "category": "yourSide"
+  },
+  {
+    "question": "能不能从对方的视角重新描述一遍这件事？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方的反应有没有可能不是针对我的？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方最希望得到我肯定的是哪方面？",
+    "category": "yourSide"
+  },
+  {
+    "question": "能不能从对方的话里读出担心，而不是伤害？",
+    "category": "yourSide"
+  },
+  {
+    "question": "我有没有把对方的付出当成理所当然？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方对我的期待，是太多了还是刚刚好？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方为什么会隐藏自己的情绪？",
+    "category": "yourSide"
+  },
+  {
+    "question": "我有没有触碰到对方的软肋？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方平时最欣赏我的是什么？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方在这段关系里也有不容易的地方吧？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方希望我怎么道歉？",
+    "category": "yourSide"
+  },
+  {
+    "question": "最近有没有认真听对方说完一句话？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方在这个情况里最害怕的是什么？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方也想维护我们的关系吗？",
+    "category": "yourSide"
+  },
+  {
+    "question": "我有没有哪些时候对对方太冷漠了？",
+    "category": "yourSide"
+  },
+  {
+    "question": "能说出对方的三个优点吗？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方现在最想听我说什么？",
+    "category": "yourSide"
+  },
+  {
+    "question": "我能说我完全理解对方的感受吗？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方努力改变过，但我可能没发现吗？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方最开心的时刻是什么时候？",
+    "category": "yourSide"
+  },
+  {
+    "question": "我还需要了解什么，才能更理解对方的立场？",
+    "category": "yourSide"
+  },
+  {
+    "question": "对方也想进行这次对话吗？",
+    "category": "yourSide"
+  },
+  {
+    "question": "有没有哪个瞬间感受到对方有多重视你？",
+    "category": "yourSide"
+  },
+  {
+    "question": "我们能从这件事里学到什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "以后遇到类似的情况，我们应该怎么做？",
+    "category": "makingUp"
+  },
+  {
+    "question": "我有没有可以先道歉的地方？",
+    "category": "makingUp"
+  },
+  {
+    "question": "我们怎样才能更好地沟通？",
+    "category": "makingUp"
+  },
+  {
+    "question": "这件事能让我们的关系变得更稳固吗？",
+    "category": "makingUp"
+  },
+  {
+    "question": "如果各自做一个承诺，你想承诺什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "我们处理冲突的方式有没有可以改进的地方？",
+    "category": "makingUp"
+  },
+  {
+    "question": "和好之后你想一起做什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "你能真心对对方说一句感谢的话吗？",
+    "category": "makingUp"
+  },
+  {
+    "question": "这段关系里我还能做得更好的是什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "怎样才能互相尊重彼此表达情绪的方式？",
+    "category": "makingUp"
+  },
+  {
+    "question": "下次生气了，什么样的信号比较好用？",
+    "category": "makingUp"
+  },
+  {
+    "question": "要不要建立我们自己的和好仪式？",
+    "category": "makingUp"
+  },
+  {
+    "question": "能不能各自说一个对对方真实的期待？",
+    "category": "makingUp"
+  },
+  {
+    "question": "我们最好的时候是什么时候？",
+    "category": "makingUp"
+  },
+  {
+    "question": "对方想要的和我能给的，是不是正好一样？",
+    "category": "makingUp"
+  },
+  {
+    "question": "情绪激动的时候，给彼此一点暂停时间怎么样？",
+    "category": "makingUp"
+  },
+  {
+    "question": "有没有我们应该更常聊的话题？",
+    "category": "makingUp"
+  },
+  {
+    "question": "你能对对方说"对不起"吗？",
+    "category": "makingUp"
+  },
+  {
+    "question": "你能说说这段关系对你来说为什么重要吗？",
+    "category": "makingUp"
+  },
+  {
+    "question": "下次有类似的事，能不能先问问清楚？",
+    "category": "makingUp"
+  },
+  {
+    "question": "要不要定个规则，情绪冲突时应该怎么做？",
+    "category": "makingUp"
+  },
+  {
+    "question": "有没有哪方面很难接受对方本来的样子？",
+    "category": "makingUp"
+  },
+  {
+    "question": "这段关系里你最想守护的是什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "能不能说三件对对方感激的事？",
+    "category": "makingUp"
+  },
+  {
+    "question": "这次经历里有没有让我成长的地方？",
+    "category": "makingUp"
+  },
+  {
+    "question": "怎么才能知道彼此的雷点，然后避开它？",
+    "category": "makingUp"
+  },
+  {
+    "question": "情绪激动的时候要不要定一个"暂停词"？",
+    "category": "makingUp"
+  },
+  {
+    "question": "你觉得我们关系最大的优势是什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "你能认可对方正在努力的那一面吗？",
+    "category": "makingUp"
+  },
+  {
+    "question": "一年后回头看这件事，会是什么感觉？",
+    "category": "makingUp"
+  },
+  {
+    "question": "要对彼此更坦诚，需要什么条件？",
+    "category": "makingUp"
+  },
+  {
+    "question": "我们一起扛过的最大难关是什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "等对方改变不如先改变自己，你能做哪些？",
+    "category": "makingUp"
+  },
+  {
+    "question": "意见不同的时候有没有更好的解决方式？",
+    "category": "makingUp"
+  },
+  {
+    "question": "为了我们的未来，现在能迈出的最小一步是什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "你能对对方说"我爱你"或者"你对我很重要"吗？",
+    "category": "makingUp"
+  },
+  {
+    "question": "这段关系让你成长了哪些？",
+    "category": "makingUp"
+  },
+  {
+    "question": "要不要定期互相问一下彼此的状态？",
+    "category": "makingUp"
+  },
+  {
+    "question": "你觉得和好的第一步是什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "如果没有这件事，你不会知道的是什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "能不能对彼此再宽容一点？",
+    "category": "makingUp"
+  },
+  {
+    "question": "我们想一起做的事是什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "如果对方说"我理解你"，你会是什么感觉？",
+    "category": "makingUp"
+  },
+  {
+    "question": "用一个词来形容我们的关系，你会用什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "你同意冲突也是关系的一部分吗？",
+    "category": "makingUp"
+  },
+  {
+    "question": "今天这次对话对我们来说意味着什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "为了更了解彼此，我们可以做什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "我们以后要怎么做才能更幸福？",
+    "category": "makingUp"
+  },
+  {
+    "question": "现在可以抱一下吗？",
+    "category": "makingUp"
+  },
+  {
+    "question": "你有没有信心我们能一起度过这件事？",
+    "category": "makingUp"
+  },
+  {
+    "question": "能不能约定好，多关注彼此的优点？",
+    "category": "makingUp"
+  },
+  {
+    "question": "你觉得我们还能再笑出来吗？",
+    "category": "makingUp"
+  },
+  {
+    "question": "明天早上起来，你最想先说什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "能不能想一想我们在一起的原因？",
+    "category": "makingUp"
+  },
+  {
+    "question": "对方对你来说最特别的原因是什么？",
+    "category": "makingUp"
+  },
+  {
+    "question": "这次之后，我们的关系会更好吗？",
+    "category": "makingUp"
+  },
+  {
+    "question": "要不要互相写封信？",
+    "category": "makingUp"
+  },
+  {
+    "question": "今晚睡前，有没有什么想对彼此说的？",
+    "category": "makingUp"
+  },
+  {
+    "question": "我们没问题的，对吧？",
+    "category": "makingUp"
+  }
+]

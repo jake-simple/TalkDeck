@@ -1,0 +1,642 @@
+[
+  {
+    "question": "说说最近最让你感谢对方的一件事吧",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家里谁做什么更厉害？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家里最平静美好的时刻是什么时候？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "一起买东西时，有没有经常意见不合的事？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "最近偷偷吃了什么没让对方知道的东西？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家里冰箱里一直有的对方专属物品是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方最近最常说的口头禅是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方下班回家后的惯例顺序是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你们最常点的外卖是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "在一起的时候，最自在的瞬间是什么时候？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方压力大的时候，会下意识做什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你们两个为空调或暖气温度吵过架吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "周末早上，对方起床第一件事是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方做饭时有没有固定的奇怪习惯？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家里遥控器主导权在谁手里？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "两个人一起打扫时，分工怎么样？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方手机里用得最多的app是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家里垃圾分类通常谁来做？说实话！",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方心情好的时候，会不自觉做什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "同住之后，有没有被对方"传染"了什么习惯？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你们同时看手机笑出来的时候，通常在看什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方睡前一定会做的惯例是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你们床上各自占多大地方？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方生气的时候有没有固定的行为模式？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "结婚后买得最多的家电或物品是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你们对彼此的称呼在不同情况下会变吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方下班回来，你能看出他今天心情好坏吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你有没有偷偷想把对方的某件东西扔掉？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "家里只有你在意、对方完全不在意的是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方的早上闹钟风格怎么样？和你一样吗？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "同住之后，对方最让你惊讶的生活习惯是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你们日常口味最合的一点是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方疲惫的时候，有没有专属的表情或行为？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方最近在研究什么新爱好？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你们最常去的附近店铺是哪家？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方最常对你说的那句唠叨是什么？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "你们两个谁更喜欢拆快递？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "对方感冒的时候是什么风格？默默扛着，还是夸张无比？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "早上两个人准备出门的顺序是怎样的？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "同住之后，你们有没有发展出只有你们懂的暗语或昵称？",
+    "category": "dailyLife"
+  },
+  {
+    "question": "婚前第一次见到对方，印象是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "被求婚（或求婚）的时候，你内心真实的感受是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "婚礼当天最难忘的画面是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "婚后初期，最尴尬的时刻是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "和对方第一次大吵，还记得吗？那次你学到了什么？",
+    "category": "memories"
+  },
+  {
+    "question": "备婚过程中最辛苦的事是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "第一次一起布置新家，有什么好玩的故事？",
+    "category": "memories"
+  },
+  {
+    "question": "婚后第一次过节是什么感受？",
+    "category": "memories"
+  },
+  {
+    "question": "对方让你笑得最开心的一次是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "你们一起哭过吗？是什么事？",
+    "category": "memories"
+  },
+  {
+    "question": "婚后第一件一起买的家具或物品是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "和对方一起旅行里，最难忘的瞬间是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "第一次见对方的家人，有什么记忆深刻的事？",
+    "category": "memories"
+  },
+  {
+    "question": "婚后最好笑的一次误会或意外是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "你们的纪念日里，最特别的一次是哪次？",
+    "category": "memories"
+  },
+  {
+    "question": "和对方一起做饭，有没有搞笑的经历？",
+    "category": "memories"
+  },
+  {
+    "question": "你们有没有属于自己的专属地点？是哪里？",
+    "category": "memories"
+  },
+  {
+    "question": "婚后第一次独自过夜，是什么感受？",
+    "category": "memories"
+  },
+  {
+    "question": "你们吵架后和好的方式是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有给对方或被对方给过惊喜？",
+    "category": "memories"
+  },
+  {
+    "question": "同住之后，发现对方哪个意想不到的才能？",
+    "category": "memories"
+  },
+  {
+    "question": "让你觉得"和他/她结婚真好"的一刻是什么时候？",
+    "category": "memories"
+  },
+  {
+    "question": "恋爱时和现在，你看对方的眼神有什么不同？",
+    "category": "memories"
+  },
+  {
+    "question": "婚后生活里，你最紧张的一刻是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "你们一起尝试失败过的事？后来怎样了？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有背着对方做的事，后来被发现了？",
+    "category": "memories"
+  },
+  {
+    "question": "对方为你做过的事里，最让你感动的是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "婚前想象的婚姻生活，和现实最不同的地方是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "对方难过的时候，你做过什么有效的事？",
+    "category": "memories"
+  },
+  {
+    "question": "对方第一次叫你"老婆/老公"的时候，你是什么感受？",
+    "category": "memories"
+  },
+  {
+    "question": "你们夫妻独有的传统或惯例是怎么来的？",
+    "category": "memories"
+  },
+  {
+    "question": "婚后你的朋友关系有没有变化？",
+    "category": "memories"
+  },
+  {
+    "question": "因为对方而开始了什么新的爱好或活动？",
+    "category": "memories"
+  },
+  {
+    "question": "对方的哪个习惯，起初烦人，现在却觉得可爱？",
+    "category": "memories"
+  },
+  {
+    "question": "婚后生活里最出乎意料的一刻是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "和对方第一次感受到"这是我们家"是什么时候？",
+    "category": "memories"
+  },
+  {
+    "question": "婚后最先改变的生活习惯是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "你们一起完成过什么项目或目标？",
+    "category": "memories"
+  },
+  {
+    "question": "作为夫妻共同完成的事情里，最让你骄傲的是什么？",
+    "category": "memories"
+  },
+  {
+    "question": "婚后生活里最安宁幸福的一刻是什么时候？",
+    "category": "memories"
+  },
+  {
+    "question": "有没有一直没好好表达感谢、想让对方知道的事？",
+    "category": "honestly"
+  },
+  {
+    "question": "在婚姻关系里，你觉得自己还不够好的地方是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "有没有对对方感到抱歉、但还没说出口的事？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后生活里，你忍得最多的是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "你最希望对方"这点永远不要变"的是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "最难对对方坦诚说出口的话题是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "你们表达爱的方式不一样，有没有感受过？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后有没有不知不觉可能伤害过对方的话或行为？",
+    "category": "honestly"
+  },
+  {
+    "question": "对方最希望你做什么？你在做到吗？",
+    "category": "honestly"
+  },
+  {
+    "question": "有没有一句话，一直想说给对方听，但没找到好时机？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后生活里，"这个绝对不能放弃"的是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "你们的对话有没有变少？原因可能是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后有没有感到某些事只有你一个人在承担？",
+    "category": "honestly"
+  },
+  {
+    "question": "对方给你的爱里，最让你温暖的一刻是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "你觉得自己在关系里说的"谢谢"够多吗？",
+    "category": "honestly"
+  },
+  {
+    "question": "为了更理解对方，你能做什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后感受到最大价值观差异是什么时候？",
+    "category": "honestly"
+  },
+  {
+    "question": "你有没有担心过自己对对方的期待太多？",
+    "category": "honestly"
+  },
+  {
+    "question": "作为夫妻，你们目前做得好的地方是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "在解决矛盾的方式上，有没有想改善的地方？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后，你觉得自己这个人有什么变化？",
+    "category": "honestly"
+  },
+  {
+    "question": "你觉得对方最近有什么烦恼？",
+    "category": "honestly"
+  },
+  {
+    "question": "你们有没有不言而喻的默契规则？有没有在遵守？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后有没有感到孤独的时候？",
+    "category": "honestly"
+  },
+  {
+    "question": "你们有没有坦诚聊过肢体接触和爱的表达？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后你做的最大牺牲是什么？有遗憾吗？",
+    "category": "honestly"
+  },
+  {
+    "question": "对方最让你感到被理解的时刻是什么时候？",
+    "category": "honestly"
+  },
+  {
+    "question": "你们要变得更幸福，需要什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "你觉得自己有没有充分支持对方的梦想和目标？",
+    "category": "honestly"
+  },
+  {
+    "question": "如果给婚前的自己一条建议，你会说什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "你觉得对方现在对自己的看法是什么？有没有让你担心的？",
+    "category": "honestly"
+  },
+  {
+    "question": "为了更关注彼此，具体能做什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "你们在金钱和家务方面，能坦诚沟通吗？",
+    "category": "honestly"
+  },
+  {
+    "question": "如果对对方说"因为你，我变成了这样"，你会说什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后生活里，通常是你先让步，还是对方先让步？",
+    "category": "honestly"
+  },
+  {
+    "question": "对方哪一面让你感到佩服？",
+    "category": "honestly"
+  },
+  {
+    "question": "作为夫妻，你们对"独处时间"是怎么看的？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后你觉得自己成长最多的地方是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "对方说过的话里，印象最深留下来的是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "婚后生活教给你最大的教训是什么？",
+    "category": "honestly"
+  },
+  {
+    "question": "5年后，你希望你们是什么样的？",
+    "category": "ahead"
+  },
+  {
+    "question": "接下来一定要和对方一起做的一件事是什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "退休后，你们想一起做什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "你们夫妻想一起挑战的愿望清单第一名是什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "接下来希望你们一起守住的一个约定是什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "老了以后你们想住在哪种地方？",
+    "category": "ahead"
+  },
+  {
+    "question": "有没有想和对方一起学习的东西？",
+    "category": "ahead"
+  },
+  {
+    "question": "你们夫妻的幸福标准是什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "现在马上想和对方一起开始的爱好是什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "你希望对方实现什么梦想？",
+    "category": "ahead"
+  },
+  {
+    "question": "从现在开始，你们可以做什么让感情更亲密？",
+    "category": "ahead"
+  },
+  {
+    "question": "婚后生活里，有没有一定要改变的自己的地方？",
+    "category": "ahead"
+  },
+  {
+    "question": "如果和对方一起学一门新语言，你们会选什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "10年后，你们会是什么样子？",
+    "category": "ahead"
+  },
+  {
+    "question": "以后希望你们经常去的旅行地是哪里？",
+    "category": "ahead"
+  },
+  {
+    "question": "婚后生活里，你们还有什么共同目标想实现？",
+    "category": "ahead"
+  },
+  {
+    "question": "今后有没有什么想对对方做得更好的事？",
+    "category": "ahead"
+  },
+  {
+    "question": "结婚纪念日有没有一定要做一次的特别庆祝？",
+    "category": "ahead"
+  },
+  {
+    "question": "家里有没有一定要添置的东西？",
+    "category": "ahead"
+  },
+  {
+    "question": "想到和对方一起慢慢变老，你是什么感受？",
+    "category": "ahead"
+  },
+  {
+    "question": "你们夫妻今后想用什么词来形容彼此的关系？",
+    "category": "ahead"
+  },
+  {
+    "question": "有没有一件想对对方做一辈子的事？",
+    "category": "ahead"
+  },
+  {
+    "question": "在沟通习惯上，今后有没有想改善的地方？",
+    "category": "ahead"
+  },
+  {
+    "question": "老了之后，你们想每天都做的日常是什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "今后最想支持对方哪个梦想？",
+    "category": "ahead"
+  },
+  {
+    "question": "婚后生活里，你们还想迈向下一步的是什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "你们夫妻想一起创造什么属于你们的传统或仪式？",
+    "category": "ahead"
+  },
+  {
+    "question": "有没有想和对方一起做公益或贡献社会的方式？",
+    "category": "ahead"
+  },
+  {
+    "question": "以后你们的家想怎么改变？",
+    "category": "ahead"
+  },
+  {
+    "question": "今后你想以什么方式改变爱对方的方式？",
+    "category": "ahead"
+  },
+  {
+    "question": "明年婚后生活里，一个想实现的小目标是什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "只要在一起，你们什么时候都能做到的事是什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "在这段关系里，今后最想守护的是什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "20年后，你们的周末日常会是什么样的？",
+    "category": "ahead"
+  },
+  {
+    "question": "有没有一定要给对方的惊喜？",
+    "category": "ahead"
+  },
+  {
+    "question": "通过今天的对话，有什么想告诉对方的心里话？",
+    "category": "ahead"
+  },
+  {
+    "question": "你们夫妻想一起读或看什么内容？",
+    "category": "ahead"
+  },
+  {
+    "question": "有没有想和对方一起做公益的念头？",
+    "category": "ahead"
+  },
+  {
+    "question": "为了今后对彼此更坦诚，你们可以做什么？",
+    "category": "ahead"
+  },
+  {
+    "question": "有没有什么健康习惯，想从现在和对方一起开始养成？",
+    "category": "ahead"
+  }
+]
