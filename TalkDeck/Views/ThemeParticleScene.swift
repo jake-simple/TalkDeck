@@ -1,4 +1,5 @@
 import SwiftUI
+import SpriteKit
 
 // MARK: - Canvas-based Animated Background
 
@@ -7,10 +8,16 @@ struct AnimatedBackgroundView: View {
     @State private var time: Double = 0
 
     var body: some View {
-        TimelineView(.animation(minimumInterval: 1.0 / 30)) { timeline in
-            Canvas { ctx, size in
-                let t = timeline.date.timeIntervalSinceReferenceDate
-                drawBackground(ctx: ctx, size: size, time: t, theme: theme)
+        Group {
+            if theme == .rainyDay {
+                RainSpriteView()
+            } else {
+                TimelineView(.animation(minimumInterval: 1.0 / 30)) { timeline in
+                    Canvas { ctx, size in
+                        let t = timeline.date.timeIntervalSinceReferenceDate
+                        drawBackground(ctx: ctx, size: size, time: t, theme: theme)
+                    }
+                }
             }
         }
         .ignoresSafeArea()
@@ -51,7 +58,7 @@ struct AnimatedBackgroundView: View {
         case .korean:
             drawKoreanBG(ctx: ctx, size: size, time: time)
         case .rainyDay:
-            drawRainyDayBG(ctx: ctx, size: size, time: time)
+            break // SpriteKit 기반 RainSpriteView로 대체
         case .lavender:
             drawLavenderBG(ctx: ctx, size: size, time: time)
         }
@@ -1060,6 +1067,175 @@ struct AnimatedBackgroundView: View {
             star.move(to: CGPoint(x: x, y: y - starSize))
             star.addLine(to: CGPoint(x: x, y: y + starSize))
             ctx.stroke(star, with: .color(lightPurple.opacity(opacity)), lineWidth: 0.8)
+        }
+    }
+}
+
+// MARK: - SpriteKit Rain
+
+private struct RainSpriteView: View {
+    @State private var scene: RainScene = {
+        let s = RainScene()
+        s.scaleMode = .resizeFill
+        s.backgroundColor = .clear
+        return s
+    }()
+
+    var body: some View {
+        SpriteView(scene: scene, options: [.allowsTransparency])
+            .ignoresSafeArea()
+    }
+}
+
+private final class RainScene: SKScene {
+
+    override func didMove(to view: SKView) {
+        setupRain()
+        setupMist()
+    }
+
+    override func didChangeSize(_ oldSize: CGSize) {
+        // 화면 크기 바뀌면 이미터 위치 갱신
+        enumerateChildNodes(withName: "rain") { node, _ in
+            if let emitter = node as? SKEmitterNode {
+                emitter.position = CGPoint(x: self.size.width / 2, y: self.size.height + 20)
+                emitter.particlePositionRange = CGVector(dx: self.size.width * 1.5, dy: 0)
+            }
+        }
+    }
+
+    private func setupRain() {
+        // 앞쪽 빗방울 — 크고 느리게, 은은하게
+        let emitter = SKEmitterNode()
+        emitter.name = "rain"
+        emitter.particleTexture = SKTexture(image: Self.makeRaindropImage())
+
+        emitter.particleBirthRate = 15
+        emitter.numParticlesToEmit = 0
+
+        emitter.particleLifetime = 5.0
+        emitter.particleLifetimeRange = 1.5
+
+        emitter.position = CGPoint(x: size.width / 2, y: size.height + 30)
+        emitter.particlePositionRange = CGVector(dx: size.width * 1.5, dy: 0)
+
+        emitter.particleSpeed = 120
+        emitter.particleSpeedRange = 40
+        emitter.emissionAngle = -.pi / 2
+        emitter.emissionAngleRange = .pi / 25
+
+        emitter.yAcceleration = -20
+        emitter.xAcceleration = 8
+
+        emitter.particleScale = 0.28
+        emitter.particleScaleRange = 0.10
+
+        emitter.particleAlpha = 0.20
+        emitter.particleAlphaRange = 0.08
+        emitter.particleAlphaSpeed = -0.02
+
+        emitter.particleColor = UIColor(red: 0.65, green: 0.78, blue: 0.92, alpha: 1.0)
+        emitter.particleColorBlendFactor = 1.0
+        emitter.particleBlendMode = .add
+
+        emitter.particleRotation = 0
+        emitter.particleRotationRange = .pi / 16
+
+        emitter.zPosition = 1
+        addChild(emitter)
+
+        // 뒤쪽 빗방울 — 작고 약간 더 빠르게 (깊이감)
+        let farRain = SKEmitterNode()
+        farRain.name = "rain"
+        farRain.particleTexture = SKTexture(image: Self.makeRaindropImage())
+        farRain.particleBirthRate = 10
+        farRain.numParticlesToEmit = 0
+        farRain.particleLifetime = 4.0
+        farRain.particleLifetimeRange = 1.0
+        farRain.position = CGPoint(x: size.width / 2, y: size.height + 30)
+        farRain.particlePositionRange = CGVector(dx: size.width * 1.5, dy: 0)
+        farRain.particleSpeed = 180
+        farRain.particleSpeedRange = 50
+        farRain.emissionAngle = -.pi / 2
+        farRain.emissionAngleRange = .pi / 30
+        farRain.yAcceleration = -15
+        farRain.xAcceleration = 6
+        farRain.particleScale = 0.14
+        farRain.particleScaleRange = 0.05
+        farRain.particleAlpha = 0.10
+        farRain.particleAlphaRange = 0.04
+        farRain.particleAlphaSpeed = -0.015
+        farRain.particleColor = UIColor(red: 0.55, green: 0.68, blue: 0.82, alpha: 1.0)
+        farRain.particleColorBlendFactor = 1.0
+        farRain.particleBlendMode = .add
+        farRain.zPosition = 0
+        addChild(farRain)
+    }
+
+    private func setupMist() {
+        // 안개 파티클 — 느리게 떠다니는 큰 구체
+        let mist = SKEmitterNode()
+        mist.particleTexture = SKTexture(image: Self.makeMistImage())
+        mist.particleBirthRate = 1.5
+        mist.numParticlesToEmit = 0
+        mist.particleLifetime = 6
+        mist.particleLifetimeRange = 2
+        mist.position = CGPoint(x: size.width / 2, y: size.height * 0.4)
+        mist.particlePositionRange = CGVector(dx: size.width, dy: size.height * 0.6)
+        mist.particleSpeed = 8
+        mist.particleSpeedRange = 5
+        mist.emissionAngle = 0
+        mist.emissionAngleRange = .pi * 2
+        mist.particleScale = 0.8
+        mist.particleScaleRange = 0.4
+        mist.particleAlpha = 0.04
+        mist.particleAlphaRange = 0.02
+        mist.particleAlphaSpeed = -0.005
+        mist.particleColor = UIColor(red: 0.6, green: 0.7, blue: 0.8, alpha: 1.0)
+        mist.particleColorBlendFactor = 1.0
+        mist.particleBlendMode = .add
+        mist.zPosition = 2
+        addChild(mist)
+    }
+
+    // MARK: - 텍스처 생성 (이미지 파일 불필요)
+
+    private static func makeRaindropImage() -> UIImage {
+        let w: CGFloat = 12
+        let h: CGFloat = 28
+        let renderer = UIGraphicsImageRenderer(size: CGSize(width: w, height: h))
+        return renderer.image { ctx in
+            let path = UIBezierPath()
+            // 물방울 모양: 위는 뾰족, 아래는 둥근 드롭
+            path.move(to: CGPoint(x: w / 2, y: 0))
+            path.addQuadCurve(to: CGPoint(x: w, y: h * 0.6),
+                              controlPoint: CGPoint(x: w * 0.95, y: h * 0.25))
+            path.addQuadCurve(to: CGPoint(x: w / 2, y: h),
+                              controlPoint: CGPoint(x: w, y: h * 0.9))
+            path.addQuadCurve(to: CGPoint(x: 0, y: h * 0.6),
+                              controlPoint: CGPoint(x: 0, y: h * 0.9))
+            path.addQuadCurve(to: CGPoint(x: w / 2, y: 0),
+                              controlPoint: CGPoint(x: w * 0.05, y: h * 0.25))
+            path.close()
+
+            UIColor.white.setFill()
+            path.fill()
+        }
+    }
+
+    private static func makeMistImage() -> UIImage {
+        let size: CGFloat = 120
+        let renderer = UIGraphicsImageRenderer(size: CGSize(width: size, height: size))
+        return renderer.image { ctx in
+            let colors = [
+                UIColor.white.withAlphaComponent(0.3).cgColor,
+                UIColor.white.withAlphaComponent(0.0).cgColor
+            ] as CFArray
+            guard let gradient = CGGradient(colorsSpace: CGColorSpaceCreateDeviceRGB(),
+                                            colors: colors, locations: [0, 1]) else { return }
+            let center = CGPoint(x: size / 2, y: size / 2)
+            ctx.cgContext.drawRadialGradient(gradient, startCenter: center, startRadius: 0,
+                                            endCenter: center, endRadius: size / 2, options: [])
         }
     }
 }
