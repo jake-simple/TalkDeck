@@ -1,7 +1,962 @@
 [
-  {"question": "아무도 안 볼 때 몰래 즐기는 guilty pleasure가 있다면?", "category": "vibe"},
-  {"question": "음식에 대한 가장 특이한 취향은?", "category": "vibe"},
-  {"question": "만약 하루 동안 다른 사람이 될 수 있다면 누가 되고 싶어?", "category": "whatIf"},
-  {"question": "지금까지 살면서 가장 무서웠던 순간은?", "category": "story"},
-  {"question": "살면서 가장 후회하는 결정은?", "category": "deep"}
+  {
+    "question": "아무도 안 볼 때 몰래 즐기는 guilty pleasure가 있다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "음식에 대한 가장 특이한 취향은?",
+    "category": "vibe"
+  },
+  {
+    "question": "남들은 싫어하지만 나만 좋아하는 것은?",
+    "category": "vibe"
+  },
+  {
+    "question": "절대 질리지 않는 노래 한 곡은?",
+    "category": "vibe"
+  },
+  {
+    "question": "혼자만의 이상한 루틴이 있다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "가장 좋아하는 냄새는?",
+    "category": "vibe"
+  },
+  {
+    "question": "새벽 3시에 혼자 시키는 배달 메뉴는?",
+    "category": "vibe"
+  },
+  {
+    "question": "남들이 들으면 놀랄 나만의 취미가 있다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "가장 오래 빠져있었던 덕질은?",
+    "category": "vibe"
+  },
+  {
+    "question": "계절 중에서 가장 좋아하는 때와 그 이유는?",
+    "category": "vibe"
+  },
+  {
+    "question": "스트레스 받을 때 나만의 해소법은?",
+    "category": "vibe"
+  },
+  {
+    "question": "라면에 꼭 넣는 나만의 비밀 재료는?",
+    "category": "vibe"
+  },
+  {
+    "question": "잠들기 전에 꼭 하는 것은?",
+    "category": "vibe"
+  },
+  {
+    "question": "가장 좋아하는 시간대는 언제이고 왜?",
+    "category": "vibe"
+  },
+  {
+    "question": "요즘 가장 많이 듣는 노래는?",
+    "category": "vibe"
+  },
+  {
+    "question": "핸드폰에서 가장 많이 쓰는 앱 3개는?",
+    "category": "vibe"
+  },
+  {
+    "question": "카페 가면 항상 시키는 메뉴가 있어?",
+    "category": "vibe"
+  },
+  {
+    "question": "아침형 인간이야, 저녁형 인간이야?",
+    "category": "vibe"
+  },
+  {
+    "question": "유튜브에서 한번 빠지면 못 나오는 장르는?",
+    "category": "vibe"
+  },
+  {
+    "question": "편의점에서 꼭 사는 것은?",
+    "category": "vibe"
+  },
+  {
+    "question": "옷 살 때 가장 중요하게 보는 건?",
+    "category": "vibe"
+  },
+  {
+    "question": "SNS에서 주로 어떤 콘텐츠를 봐?",
+    "category": "vibe"
+  },
+  {
+    "question": "여행 가면 호텔파야 에어비앤비파야?",
+    "category": "vibe"
+  },
+  {
+    "question": "비 오는 날 가장 하고 싶은 것은?",
+    "category": "vibe"
+  },
+  {
+    "question": "요즘 빠져있는 것이 있다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "혼자 있을 때 가장 많이 하는 행동은?",
+    "category": "vibe"
+  },
+  {
+    "question": "인생 최고의 영화를 하나만 고른다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "지금 당장 먹고 싶은 음식은?",
+    "category": "vibe"
+  },
+  {
+    "question": "어릴 때 좋아했지만 지금도 몰래 좋아하는 것은?",
+    "category": "vibe"
+  },
+  {
+    "question": "내가 생각하는 최고의 주말 보내는 법은?",
+    "category": "vibe"
+  },
+  {
+    "question": "집에서 가장 좋아하는 공간은?",
+    "category": "vibe"
+  },
+  {
+    "question": "택시파야 대중교통파야?",
+    "category": "vibe"
+  },
+  {
+    "question": "즐겨 먹는 야식 메뉴가 있다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "소확행 하나만 말해본다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "가장 최근에 검색한 것은?",
+    "category": "vibe"
+  },
+  {
+    "question": "삶에서 절대 포기 못 하는 것 하나는?",
+    "category": "vibe"
+  },
+  {
+    "question": "나를 동물에 비유하면 뭘 것 같아?",
+    "category": "vibe"
+  },
+  {
+    "question": "지금 가방 안에 뭐가 들어있어?",
+    "category": "vibe"
+  },
+  {
+    "question": "밥 먹을 때 영상 틀어놓는 편이야?",
+    "category": "vibe"
+  },
+  {
+    "question": "좋아하는 색깔이 있어? 이유는?",
+    "category": "vibe"
+  },
+  {
+    "question": "여행 갈 때 절대 빠뜨리지 않는 물건은?",
+    "category": "vibe"
+  },
+  {
+    "question": "요즘 장바구니에 넣어두고 고민 중인 것은?",
+    "category": "vibe"
+  },
+  {
+    "question": "가장 자주 가는 동네 맛집이 있다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "운동 좋아해? 좋아하는 운동은?",
+    "category": "vibe"
+  },
+  {
+    "question": "겨울에 따뜻한 음료 vs 여름에 차가운 음료, 뭐가 더 좋아?",
+    "category": "vibe"
+  },
+  {
+    "question": "최근에 웃겼던 영상이나 밈이 있다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "한 달에 가장 많이 돈 쓰는 곳은?",
+    "category": "vibe"
+  },
+  {
+    "question": "인스타 피드 vs 릴스, 뭘 더 많이 봐?",
+    "category": "vibe"
+  },
+  {
+    "question": "요리 좋아해? 자신 있는 메뉴가 있다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "나만 알고 싶은 맛집이 있어?",
+    "category": "vibe"
+  },
+  {
+    "question": "자기 전에 침대에서 핸드폰 얼마나 봐?",
+    "category": "vibe"
+  },
+  {
+    "question": "좋아하는 향수나 향이 있어?",
+    "category": "vibe"
+  },
+  {
+    "question": "최근에 영향받은 콘텐츠가 있다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "플레이리스트에 의외의 장르가 있어?",
+    "category": "vibe"
+  },
+  {
+    "question": "주말에 늦잠 자는 편이야 일찍 일어나는 편이야?",
+    "category": "vibe"
+  },
+  {
+    "question": "집 꾸미기에 관심 있어? 어떤 스타일을 좋아해?",
+    "category": "vibe"
+  },
+  {
+    "question": "배달 시킬 때 리뷰 꼼꼼히 보는 편이야?",
+    "category": "vibe"
+  },
+  {
+    "question": "한 가지 음식만 평생 먹어야 한다면?",
+    "category": "vibe"
+  },
+  {
+    "question": "최근에 새로 생긴 취미가 있어?",
+    "category": "vibe"
+  },
+  {
+    "question": "커피 없으면 못 사는 편이야?",
+    "category": "vibe"
+  },
+  {
+    "question": "하루 동안 투명인간이 된다면 뭘 할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "전 세계 어디든 순간이동할 수 있다면 어디로 갈 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "하나의 초능력을 가질 수 있다면?",
+    "category": "whatIf"
+  },
+  {
+    "question": "과거로 돌아갈 수 있다면 어느 시대로 가고 싶어?",
+    "category": "whatIf"
+  },
+  {
+    "question": "무인도에 3가지만 가져갈 수 있다면?",
+    "category": "whatIf"
+  },
+  {
+    "question": "로또에 당첨되면 가장 먼저 할 일은?",
+    "category": "whatIf"
+  },
+  {
+    "question": "내일이 지구의 마지막 날이라면 오늘 뭘 할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "동물과 대화할 수 있다면 가장 먼저 말 걸 동물은?",
+    "category": "whatIf"
+  },
+  {
+    "question": "다른 직업을 가질 수 있다면 무엇을 하고 싶어?",
+    "category": "whatIf"
+  },
+  {
+    "question": "영화 속 캐릭터로 살 수 있다면 누구로 살고 싶어?",
+    "category": "whatIf"
+  },
+  {
+    "question": "나만의 가게를 연다면 어떤 가게일까?",
+    "category": "whatIf"
+  },
+  {
+    "question": "외계인을 만나면 가장 먼저 보여주고 싶은 것은?",
+    "category": "whatIf"
+  },
+  {
+    "question": "1년간 안식년이 주어진다면 무엇을 할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "전생에 나는 어떤 사람이었을 것 같아?",
+    "category": "whatIf"
+  },
+  {
+    "question": "100년 후 미래에서 가장 보고 싶은 것은?",
+    "category": "whatIf"
+  },
+  {
+    "question": "다른 나라에서 1년 살 수 있다면 어디를 골라?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 내가 유명인이 된다면 어떤 분야일 것 같아?",
+    "category": "whatIf"
+  },
+  {
+    "question": "하루 동안 다른 사람이 될 수 있다면 누가 되고 싶어?",
+    "category": "whatIf"
+  },
+  {
+    "question": "시간을 멈출 수 있다면 그 시간에 뭘 할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "지금 당장 새로운 언어 하나를 완벽하게 할 수 있다면?",
+    "category": "whatIf"
+  },
+  {
+    "question": "과거의 나에게 문자 하나를 보낼 수 있다면 뭐라고 쓸 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 꿈을 조종할 수 있다면 어떤 꿈을 꾸고 싶어?",
+    "category": "whatIf"
+  },
+  {
+    "question": "나만의 섬이 생긴다면 어떻게 꾸밀 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "역사 속 인물 한 명과 저녁 식사를 한다면 누구와?",
+    "category": "whatIf"
+  },
+  {
+    "question": "평생 한 가지 취미만 할 수 있다면 뭘 고를 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 100살까지 산다면 꼭 해보고 싶은 것은?",
+    "category": "whatIf"
+  },
+  {
+    "question": "내가 만든 법이 하나 생긴다면 어떤 법을 만들 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "다시 대학교 1학년으로 돌아간다면 뭘 다르게 할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "갑자기 10억이 생기면 지금 다니는 일을 계속할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "어떤 동물로든 변신할 수 있다면 뭐가 되고 싶어?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 유튜버가 된다면 어떤 채널을 운영할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "기억을 하나만 영원히 간직할 수 있다면 어떤 기억을 골라?",
+    "category": "whatIf"
+  },
+  {
+    "question": "세계 어디든 집을 지을 수 있다면 어디에 짓고 싶어?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 음식 하나를 무한으로 먹을 수 있다면?",
+    "category": "whatIf"
+  },
+  {
+    "question": "10년 전으로 돌아가서 딱 하루를 보낸다면 뭘 할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "영화감독이 된다면 어떤 장르의 영화를 만들고 싶어?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 내일부터 한 달간 일을 안 해도 된다면?",
+    "category": "whatIf"
+  },
+  {
+    "question": "지구가 아닌 다른 행성에서 살 수 있다면 가볼 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "갑자기 독심술이 생긴다면 좋을 것 같아 힘들 것 같아?",
+    "category": "whatIf"
+  },
+  {
+    "question": "인생을 게임처럼 리셋할 수 있다면 할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "하늘을 날 수 있다면 가장 먼저 가보고 싶은 곳은?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 평행우주의 내가 있다면 어떤 삶을 살고 있을까?",
+    "category": "whatIf"
+  },
+  {
+    "question": "누구의 자서전이든 읽을 수 있다면 누구 거?",
+    "category": "whatIf"
+  },
+  {
+    "question": "AI가 나의 완벽한 하루를 설계해준다면 따를 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 냄새를 색으로 볼 수 있다면 세상이 어떨 것 같아?",
+    "category": "whatIf"
+  },
+  {
+    "question": "내가 쓴 책이 베스트셀러가 된다면 어떤 내용일까?",
+    "category": "whatIf"
+  },
+  {
+    "question": "인생에서 한 번만 '되감기'를 쓸 수 있다면 언제 쓸 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "갑자기 모든 사람이 거짓말을 못 하게 되면 세상이 어떨까?",
+    "category": "whatIf"
+  },
+  {
+    "question": "1년 동안 SNS 완전히 끊을 수 있어? 뭐가 달라질까?",
+    "category": "whatIf"
+  },
+  {
+    "question": "마법으로 하나의 재능을 얻을 수 있다면?",
+    "category": "whatIf"
+  },
+  {
+    "question": "미래의 내가 편지를 보내왔다면 뭐라고 쓰여있을 것 같아?",
+    "category": "whatIf"
+  },
+  {
+    "question": "로봇이 집안일을 다 해준다면 남는 시간에 뭘 할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 이 세상에 나만 존재한다면 하루를 어떻게 보낼까?",
+    "category": "whatIf"
+  },
+  {
+    "question": "좋아하는 만화나 애니 속에 들어갈 수 있다면 어디로?",
+    "category": "whatIf"
+  },
+  {
+    "question": "타임캡슐에 지금 뭘 넣고 싶어?",
+    "category": "whatIf"
+  },
+  {
+    "question": "유명 셰프가 나만을 위한 요리를 해준다면 뭘 부탁할 거야?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 동물이 학교를 다닌다면 어떤 동물이 반장일까?",
+    "category": "whatIf"
+  },
+  {
+    "question": "10년 후의 내가 지금의 나를 본다면 뭐라고 할까?",
+    "category": "whatIf"
+  },
+  {
+    "question": "세상에서 하나의 문제를 해결할 수 있다면 어떤 문제?",
+    "category": "whatIf"
+  },
+  {
+    "question": "만약 계절을 하나 없앨 수 있다면 어떤 계절?",
+    "category": "whatIf"
+  },
+  {
+    "question": "인생에서 가장 용기 있었던 순간은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 큰 실패에서 배운 것은?",
+    "category": "story"
+  },
+  {
+    "question": "내 인생을 바꾼 한 사람이 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "어린 시절 꿈과 지금의 나는 얼마나 달라?",
+    "category": "story"
+  },
+  {
+    "question": "올해 가장 뿌듯했던 순간은?",
+    "category": "story"
+  },
+  {
+    "question": "나를 가장 크게 성장시킨 경험은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 기억에 남는 칭찬은?",
+    "category": "story"
+  },
+  {
+    "question": "내 인생의 터닝포인트가 된 사건은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 기억에 남는 여행 에피소드가 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "최근에 가장 크게 웃었던 순간은?",
+    "category": "story"
+  },
+  {
+    "question": "살면서 가장 창피했던 에피소드가 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "처음으로 돈을 벌었을 때 기분이 어땠어?",
+    "category": "story"
+  },
+  {
+    "question": "가장 오래 간직하고 있는 물건이 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "학창 시절 가장 기억에 남는 선생님은?",
+    "category": "story"
+  },
+  {
+    "question": "친구와의 가장 재밌었던 추억은?",
+    "category": "story"
+  },
+  {
+    "question": "인생에서 가장 긴장했던 순간은?",
+    "category": "story"
+  },
+  {
+    "question": "최근에 새로 시작한 것이 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "어렸을 때 자주 하던 놀이가 있어?",
+    "category": "story"
+  },
+  {
+    "question": "살면서 가장 감동받았던 순간은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 무모했던 도전이 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "최근에 누군가에게 고마웠던 적이 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "이사하면서 가장 기억에 남는 동네는?",
+    "category": "story"
+  },
+  {
+    "question": "처음으로 혼자 여행 갔던 경험이 있어?",
+    "category": "story"
+  },
+  {
+    "question": "가장 기억에 남는 생일이 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "살면서 가장 급하게 뛰어본 적은?",
+    "category": "story"
+  },
+  {
+    "question": "우연히 시작했는데 인생에 큰 영향을 준 것은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 맛있었던 음식의 기억은?",
+    "category": "story"
+  },
+  {
+    "question": "처음으로 울컥했던 영화나 드라마는?",
+    "category": "story"
+  },
+  {
+    "question": "어릴 때 가족과의 가장 좋은 추억은?",
+    "category": "story"
+  },
+  {
+    "question": "낯선 사람에게서 받은 의외의 친절은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 늦게까지 안 자고 버텨본 적은?",
+    "category": "story"
+  },
+  {
+    "question": "살면서 가장 무서웠던 경험은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 기억에 남는 콘서트나 공연이 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "최근에 새로운 사람을 만나게 된 계기는?",
+    "category": "story"
+  },
+  {
+    "question": "인생에서 가장 뜻밖의 행운은?",
+    "category": "story"
+  },
+  {
+    "question": "어릴 때 장래희망으로 뭐라고 썼어?",
+    "category": "story"
+  },
+  {
+    "question": "크게 아팠던 경험이 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "가장 오랫동안 유지하고 있는 습관이 있어?",
+    "category": "story"
+  },
+  {
+    "question": "살면서 가장 큰 결심을 했던 순간은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 기억에 남는 명절 에피소드가 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "운명이라고 느꼈던 우연이 있어?",
+    "category": "story"
+  },
+  {
+    "question": "다른 사람은 모르는 나만의 성취가 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "요즘 가장 열심히 하고 있는 것은?",
+    "category": "story"
+  },
+  {
+    "question": "살면서 가장 후회되는 말이 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "자신에 대해 가장 최근에 알게 된 것은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 오래 연락하고 지내는 친구는 어떻게 만났어?",
+    "category": "story"
+  },
+  {
+    "question": "인생에서 가장 바빴던 시기는 언제야?",
+    "category": "story"
+  },
+  {
+    "question": "최근에 도전해본 새로운 음식이 있어?",
+    "category": "story"
+  },
+  {
+    "question": "가장 소중하게 간직하는 선물은?",
+    "category": "story"
+  },
+  {
+    "question": "어릴 때 자주 갔던 장소가 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "살면서 가장 뿌듯하게 도움을 준 경험은?",
+    "category": "story"
+  },
+  {
+    "question": "최근에 마음이 따뜻해졌던 순간은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 기억에 남는 첫 만남이 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "인생에서 타이밍이 절묘했던 경험이 있어?",
+    "category": "story"
+  },
+  {
+    "question": "나를 울렸던 노래가 있다면?",
+    "category": "story"
+  },
+  {
+    "question": "최근에 계획에 없던 일이 좋은 결과로 이어진 적 있어?",
+    "category": "story"
+  },
+  {
+    "question": "지금까지 받은 조언 중 가장 와닿았던 것은?",
+    "category": "story"
+  },
+  {
+    "question": "살면서 가장 오래 기다려본 것은?",
+    "category": "story"
+  },
+  {
+    "question": "첫 직장 혹은 첫 아르바이트의 기억은?",
+    "category": "story"
+  },
+  {
+    "question": "가장 용감하게 거절했던 경험이 있어?",
+    "category": "story"
+  },
+  {
+    "question": "5년 전의 나에게 해주고 싶은 한마디는?",
+    "category": "deep"
+  },
+  {
+    "question": "가장 후회하는 '안 했던 일'은?",
+    "category": "deep"
+  },
+  {
+    "question": "10년 후의 나에게 물어보고 싶은 질문은?",
+    "category": "deep"
+  },
+  {
+    "question": "살면서 가장 감사한 것 3가지는?",
+    "category": "deep"
+  },
+  {
+    "question": "인생에서 다시 돌아가고 싶은 시절이 있다면?",
+    "category": "deep"
+  },
+  {
+    "question": "나를 한 단어로 표현한다면?",
+    "category": "deep"
+  },
+  {
+    "question": "내가 가장 자신 있는 능력은?",
+    "category": "deep"
+  },
+  {
+    "question": "가장 존경하는 사람과 그 이유는?",
+    "category": "deep"
+  },
+  {
+    "question": "행복의 기준이 예전과 달라진 것 같아?",
+    "category": "deep"
+  },
+  {
+    "question": "나이 들면서 가장 크게 바뀐 가치관이 있다면?",
+    "category": "deep"
+  },
+  {
+    "question": "지금 삶에서 가장 만족하는 부분은?",
+    "category": "deep"
+  },
+  {
+    "question": "사람들이 잘 모르는 나의 모습이 있다면?",
+    "category": "deep"
+  },
+  {
+    "question": "외로움을 느끼는 순간이 있어?",
+    "category": "deep"
+  },
+  {
+    "question": "인간관계에서 가장 중요하게 생각하는 것은?",
+    "category": "deep"
+  },
+  {
+    "question": "죽기 전에 꼭 해보고 싶은 것 하나는?",
+    "category": "deep"
+  },
+  {
+    "question": "누군가에게 용서를 구하고 싶은 일이 있어?",
+    "category": "deep"
+  },
+  {
+    "question": "성공의 기준이 뭐라고 생각해?",
+    "category": "deep"
+  },
+  {
+    "question": "지금 가장 두려운 것은?",
+    "category": "deep"
+  },
+  {
+    "question": "나에게 '어른이 된다'는 건 어떤 의미야?",
+    "category": "deep"
+  },
+  {
+    "question": "살면서 가장 큰 교훈을 준 사건은?",
+    "category": "deep"
+  },
+  {
+    "question": "요즘 나를 가장 많이 고민하게 하는 것은?",
+    "category": "deep"
+  },
+  {
+    "question": "진정한 친구란 어떤 사람이라고 생각해?",
+    "category": "deep"
+  },
+  {
+    "question": "내가 남들에게 주는 첫인상은 어떤 것 같아?",
+    "category": "deep"
+  },
+  {
+    "question": "후회 없이 살고 있다고 느껴?",
+    "category": "deep"
+  },
+  {
+    "question": "가장 솔직해지기 어려운 감정은?",
+    "category": "deep"
+  },
+  {
+    "question": "지금의 나를 만든 가장 큰 경험은?",
+    "category": "deep"
+  },
+  {
+    "question": "돈으로 살 수 없는 것 중 가장 소중한 것은?",
+    "category": "deep"
+  },
+  {
+    "question": "나만의 인생 철학 같은 게 있어?",
+    "category": "deep"
+  },
+  {
+    "question": "사람은 변할 수 있다고 생각해?",
+    "category": "deep"
+  },
+  {
+    "question": "혼자만의 시간이 왜 필요하다고 느껴?",
+    "category": "deep"
+  },
+  {
+    "question": "내가 가장 약해지는 순간은 언제야?",
+    "category": "deep"
+  },
+  {
+    "question": "지금 삶에서 바꾸고 싶은 것이 하나 있다면?",
+    "category": "deep"
+  },
+  {
+    "question": "누군가를 실망시켰다고 느낀 적 있어?",
+    "category": "deep"
+  },
+  {
+    "question": "삶에서 '충분하다'고 느끼는 기준이 있어?",
+    "category": "deep"
+  },
+  {
+    "question": "내가 가장 자주 느끼는 감정은 뭐야?",
+    "category": "deep"
+  },
+  {
+    "question": "좋은 관계를 유지하는 비결이 뭐라고 생각해?",
+    "category": "deep"
+  },
+  {
+    "question": "나를 가장 잘 아는 사람은 누구야?",
+    "category": "deep"
+  },
+  {
+    "question": "살면서 '이건 아니다'라고 선을 그었던 순간이 있어?",
+    "category": "deep"
+  },
+  {
+    "question": "나이가 들수록 더 중요해지는 것은 뭐라고 생각해?",
+    "category": "deep"
+  },
+  {
+    "question": "자존감이 낮아지는 순간이 있다면 언제야?",
+    "category": "deep"
+  },
+  {
+    "question": "행복하기 위해 포기해야 했던 것이 있어?",
+    "category": "deep"
+  },
+  {
+    "question": "내가 세상을 떠난 후 기억되고 싶은 모습은?",
+    "category": "deep"
+  },
+  {
+    "question": "가장 오랫동안 마음에 품고 있는 꿈은?",
+    "category": "deep"
+  },
+  {
+    "question": "나를 힘들게 하는 감정을 어떻게 다뤄?",
+    "category": "deep"
+  },
+  {
+    "question": "관계에서 상처받았을 때 어떻게 회복해?",
+    "category": "deep"
+  },
+  {
+    "question": "나에게 자유란 어떤 의미야?",
+    "category": "deep"
+  },
+  {
+    "question": "거짓말을 해야 했던 순간이 있어? 왜 그랬어?",
+    "category": "deep"
+  },
+  {
+    "question": "가족이란 나에게 어떤 의미야?",
+    "category": "deep"
+  },
+  {
+    "question": "삶에서 놓아야 하는데 아직 못 놓은 것이 있어?",
+    "category": "deep"
+  },
+  {
+    "question": "나는 리더형이야 팔로워형이야? 왜 그렇게 생각해?",
+    "category": "deep"
+  },
+  {
+    "question": "내면의 나와 겉으로 보이는 내가 다르다고 느낀 적 있어?",
+    "category": "deep"
+  },
+  {
+    "question": "무조건적인 사랑이 존재한다고 생각해?",
+    "category": "deep"
+  },
+  {
+    "question": "지금 가장 감사한 사람에게 하고 싶은 말은?",
+    "category": "deep"
+  },
+  {
+    "question": "내가 가장 편안함을 느끼는 관계는 어떤 관계야?",
+    "category": "deep"
+  },
+  {
+    "question": "결국 인생에서 가장 중요한 건 뭐라고 생각해?",
+    "category": "deep"
+  },
+  {
+    "question": "타인의 시선을 의식하는 편이야?",
+    "category": "deep"
+  },
+  {
+    "question": "지금의 고민이 1년 후에도 고민일 거라고 생각해?",
+    "category": "deep"
+  },
+  {
+    "question": "나에게 용기를 주는 것은 뭐야?",
+    "category": "deep"
+  },
+  {
+    "question": "약한 모습을 보여주는 게 왜 어렵다고 느껴?",
+    "category": "deep"
+  },
+  {
+    "question": "지금 삶에 점수를 매긴다면 몇 점이야? 이유는?",
+    "category": "deep"
+  }
 ]

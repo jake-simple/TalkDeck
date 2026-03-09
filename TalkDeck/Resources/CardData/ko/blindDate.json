@@ -1,0 +1,642 @@
+[
+  {
+    "question": "오늘 소개팅 나오기 전에 어떤 기분이었어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "처음 봤을 때 어떤 느낌이었어요? 솔직하게 말해줘도 돼요.",
+    "category": "firstImpression"
+  },
+  {
+    "question": "소개팅 나올 때 가장 고민했던 게 뭐예요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "오늘 만나기 전에 어떤 사람일까 상상해봤어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "처음 인사할 때 제일 먼저 눈에 들어온 게 뭐예요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "소개팅 자리에서 보통 긴장하는 편이에요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "오늘 이 자리 나오기로 결심한 이유가 있어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "저한테 지금 가장 궁금한 게 뭐예요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "지금까지 소개팅 자리에서 기억에 남는 첫인상이 있어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "처음 만날 때 어떤 모습을 보면 마음이 열려요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "오늘 나오기 전에 제일 신경 쓴 부분이 어디예요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "첫 만남에서 가장 중요하게 보는 게 뭐예요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "소개받을 때 어떤 이야기 들으셨어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "오늘 여기 오는 길에 무슨 생각 했어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "지금 이 순간 어색한가요, 편한가요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "저를 동물에 비유하면 어떤 동물일 것 같아요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "첫 대화에서 상대방에 대해 뭘 제일 알고 싶어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "소개팅할 때 어떤 분위기의 사람에게 끌리는 편이에요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "오늘처럼 처음 만나는 자리에서 잘 하는 편이에요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "지금까지 소개팅 중에 가장 기억에 남는 자리가 있어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "저를 봤을 때 어떤 직업 같아 보였어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "처음 만났을 때 웃음이 많은 사람이 좋아요, 차분한 사람이 좋아요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "오늘 이 장소 어때요? 마음에 들어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "첫인상이 나중에도 잘 유지되는 편이에요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "저한테 첫 번째 질문 하나만 해볼래요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "오늘 대화가 자연스럽게 흘러가고 있는 것 같아요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "소개팅 자리에서 제일 싫은 상황이 뭐예요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "처음 만난 사람한테 가장 솔직하게 얘기할 수 있는 주제가 뭐예요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "오늘 나오기 전에 친구한테 연락했어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "지금 이 자리 분위기가 어때요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "처음 만남에서 바로 친해지는 편이에요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "소개팅이 잘 됐다고 느끼는 신호가 있어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "오늘 대화 중에 가장 기억에 남는 것이 있으면 뭐예요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "나를 두 단어로 표현하면 어떻게 될 것 같아요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "지금까지 얘기 나누면서 의외였던 점이 있어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "첫 만남에서 상대방이 어떤 말을 하면 마음이 편해져요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "소개팅 전에 긴장을 풀려고 하는 게 있어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "지금 이 순간 제가 어떤 인상인지 솔직하게 말해줄 수 있어요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "오늘 여기 오길 잘한 것 같아요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "처음 대화할 때 말이 잘 통한다는 걸 어떻게 느껴요?",
+    "category": "firstImpression"
+  },
+  {
+    "question": "요즘 가장 자주 듣는 음악 장르가 뭐예요?",
+    "category": "taste"
+  },
+  {
+    "question": "좋아하는 음식 스타일이 있어요? 한식, 양식, 일식 중에 고르면?",
+    "category": "taste"
+  },
+  {
+    "question": "영화 볼 때 어떤 장르를 제일 자주 골라요?",
+    "category": "taste"
+  },
+  {
+    "question": "카페에 자주 가는 편이에요? 어떤 분위기 좋아해요?",
+    "category": "taste"
+  },
+  {
+    "question": "여행 갈 때 어떤 스타일로 가요? 빡빡한 일정파예요, 느긋한 편이에요?",
+    "category": "taste"
+  },
+  {
+    "question": "최근에 재밌게 본 드라마나 영화가 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "음식 중에 절대 안 먹는 게 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "주말에 혼자 시간이 생기면 주로 뭐 해요?",
+    "category": "taste"
+  },
+  {
+    "question": "계절 중에 제일 좋아하는 계절이 있어요? 이유도 궁금해요.",
+    "category": "taste"
+  },
+  {
+    "question": "요즘 가장 빠져 있는 음식이나 카페 메뉴가 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "취미가 있어요? 요즘 제일 즐기는 거요.",
+    "category": "taste"
+  },
+  {
+    "question": "어떤 책이나 콘텐츠를 좋아해요?",
+    "category": "taste"
+  },
+  {
+    "question": "운동하는 거 좋아해요? 즐겨 하는 운동이 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "술 좋아하세요? 좋아하는 종류가 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "노래 들을 때 가사에 집중하는 편이에요, 멜로디에 집중하는 편이에요?",
+    "category": "taste"
+  },
+  {
+    "question": "여행지 중에 다시 가고 싶은 곳이 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "집에서 쉴 때 어떻게 보내는 편이에요?",
+    "category": "taste"
+  },
+  {
+    "question": "지금까지 먹어본 것 중에 제일 맛있었던 게 뭐예요?",
+    "category": "taste"
+  },
+  {
+    "question": "SNS에서 주로 어떤 종류의 콘텐츠를 봐요?",
+    "category": "taste"
+  },
+  {
+    "question": "요리 좋아해요? 잘하는 메뉴가 있으면 알려줘요.",
+    "category": "taste"
+  },
+  {
+    "question": "쇼핑할 때 제일 오래 둘러보는 코너가 어디예요?",
+    "category": "taste"
+  },
+  {
+    "question": "야외 활동이랑 실내 활동 중에 어느 쪽을 더 좋아해요?",
+    "category": "taste"
+  },
+  {
+    "question": "여름 휴가는 바다파예요, 산파예요?",
+    "category": "taste"
+  },
+  {
+    "question": "자주 듣는 플레이리스트 테마가 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "요즘 빠져 있는 게 있어요? 취미든 뭐든요.",
+    "category": "taste"
+  },
+  {
+    "question": "좋아하는 간식이 뭐예요?",
+    "category": "taste"
+  },
+  {
+    "question": "인스타나 유튜브에서 자주 보는 채널이 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "향수 쓰세요? 어떤 향을 좋아해요?",
+    "category": "taste"
+  },
+  {
+    "question": "커피 즐겨 마셔요? 어떤 메뉴 좋아해요?",
+    "category": "taste"
+  },
+  {
+    "question": "일할 때 음악 틀어두는 편이에요?",
+    "category": "taste"
+  },
+  {
+    "question": "매운 거 잘 드세요?",
+    "category": "taste"
+  },
+  {
+    "question": "야식 시킨다면 뭘 주로 시켜요?",
+    "category": "taste"
+  },
+  {
+    "question": "여행에서 제일 신경 쓰는 게 숙소예요, 음식이에요, 관광이에요?",
+    "category": "taste"
+  },
+  {
+    "question": "요즘 관심 생긴 분야가 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "좋아하는 스포츠나 관심 있는 팀이 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "취향이 시간이 지나면서 많이 바뀐 것 같아요?",
+    "category": "taste"
+  },
+  {
+    "question": "좋아하는 꽃이나 식물이 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "영상 콘텐츠 볼 때 짧은 영상파예요, 긴 영상파예요?",
+    "category": "taste"
+  },
+  {
+    "question": "디저트 좋아해요? 제일 좋아하는 게 뭐예요?",
+    "category": "taste"
+  },
+  {
+    "question": "한 번도 안 해봤는데 해보고 싶은 취미가 있어요?",
+    "category": "taste"
+  },
+  {
+    "question": "아침형 인간이에요, 저녁형 인간이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "평일 하루를 간단히 얘기해줄 수 있어요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "주말에 이상적인 하루가 어떤 모습이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "집에 있는 걸 좋아해요, 밖에 있는 걸 좋아해요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "자취예요, 본가예요? 각각의 장단점이 있을 것 같아요.",
+    "category": "lifestyle"
+  },
+  {
+    "question": "정기적으로 하는 운동이 있어요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "식사를 혼자 자주 하는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "잠자리에 들기 전에 꼭 하는 게 있어요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "건강 관리를 따로 하는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "계획적으로 사는 편이에요, 즉흥적으로 사는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "갑자기 하루가 비면 어떻게 보내요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "절약하는 편이에요, 쓰는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "집 청소 자주 해요? 깔끔한 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "평소에 요리를 자주 해 먹는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "연락은 자주 하는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "낮잠 자는 습관이 있어요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "일과 쉼의 균형을 잘 맞추는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "가장 자주 가는 동네나 장소가 있어요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "퇴근 후에 주로 뭘 하면서 쉬어요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "소비할 때 충동구매하는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "한 달에 얼마나 자주 외식하는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "혼자 보내는 시간이 얼마나 필요해요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "여행을 얼마나 자주 가는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "SNS 자주 올리는 편이에요, 구경만 하는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "집 분위기가 어때요? 어떤 공간이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "공부나 독서를 꾸준히 하는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "친구들 만남이 얼마나 자주 있어요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "잠을 잘 자는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "스트레스 받을 때 어떻게 해소해요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "반려동물을 키우고 있어요, 아니면 키우고 싶어요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "산책이나 걷기를 즐기는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "모임 약속이 많은 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "명절이나 가족 모임은 자주 가는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "지출 중에 가장 아깝지 않은 곳이 어디예요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "평소에 일찍 자는 편이에요, 늦게 자는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "인간관계에서 에너지를 많이 쓰는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "규칙적인 생활이 몸에 잘 배는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "새로운 것에 도전해보는 편이에요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "지금 생활 패턴에서 바꾸고 싶은 게 있어요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "가장 나다운 시간이 언제예요?",
+    "category": "lifestyle"
+  },
+  {
+    "question": "살면서 가장 중요하게 생각하는 게 뭐예요?",
+    "category": "values"
+  },
+  {
+    "question": "좋은 연애란 어떤 건지 한마디로 표현하면요?",
+    "category": "values"
+  },
+  {
+    "question": "사람을 사귀면서 절대 양보 못 하는 게 있어요?",
+    "category": "values"
+  },
+  {
+    "question": "연애할 때 어떤 사람이 되고 싶어요?",
+    "category": "values"
+  },
+  {
+    "question": "서로 다른 점이 많아도 잘 맞을 수 있다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "연락 빈도에 대해 어떻게 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "관계에서 신뢰가 제일 중요하다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "혼자 있는 시간이 필요한 편이에요?",
+    "category": "values"
+  },
+  {
+    "question": "좋은 대화가 어떤 거라고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "돈에 대한 가치관이 어떤 편이에요?",
+    "category": "values"
+  },
+  {
+    "question": "가족 관계를 어떻게 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "자유와 안정 중에 뭐가 더 중요하게 느껴져요?",
+    "category": "values"
+  },
+  {
+    "question": "살면서 가장 감사하게 생각하는 게 있어요?",
+    "category": "values"
+  },
+  {
+    "question": "연애에서 표현을 자주 하는 게 중요하다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "일이 바쁠 때 연애를 어떻게 유지하는 게 맞다고 봐요?",
+    "category": "values"
+  },
+  {
+    "question": "친구랑 연인 중에 어느 쪽에 더 시간을 써야 한다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "갈등이 생겼을 때 어떻게 푸는 게 맞다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "사람이 변할 수 있다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "나이 들면서 달라진 가치관이 있어요?",
+    "category": "values"
+  },
+  {
+    "question": "결혼에 대해 어떤 생각을 갖고 있어요?",
+    "category": "values"
+  },
+  {
+    "question": "성격이 비슷한 사람이 좋아요, 다른 사람이 좋아요?",
+    "category": "values"
+  },
+  {
+    "question": "연애할 때 서로의 과거를 알아야 한다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "한 사람한테 집중하는 스타일이에요?",
+    "category": "values"
+  },
+  {
+    "question": "관계에서 솔직함이 중요하다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "행복하다고 느끼는 기준이 뭐예요?",
+    "category": "values"
+  },
+  {
+    "question": "상대방의 어떤 면에서 배려를 느껴요?",
+    "category": "values"
+  },
+  {
+    "question": "자신을 사랑할 줄 아는 사람이 연애도 잘한다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "이상형보다 잘 맞는 사람이 낫다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "연인 사이에서도 각자의 공간이 있어야 한다고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "살면서 가장 크게 성장했다고 느낀 경험이 있어요?",
+    "category": "values"
+  },
+  {
+    "question": "사람이 많은 자리가 좋아요, 소수와 깊게 있는 게 좋아요?",
+    "category": "values"
+  },
+  {
+    "question": "어떤 사람과 함께 있을 때 편안함을 느껴요?",
+    "category": "values"
+  },
+  {
+    "question": "타인의 시선을 의식하는 편이에요?",
+    "category": "values"
+  },
+  {
+    "question": "꿈이 있어요? 지금 이루고 싶은 것이요.",
+    "category": "values"
+  },
+  {
+    "question": "좋은 관계를 오래 유지하는 비결이 뭐라고 생각해요?",
+    "category": "values"
+  },
+  {
+    "question": "어떤 사람이 기억에 오래 남는 것 같아요?",
+    "category": "values"
+  },
+  {
+    "question": "지금 자신이 어떤 사람인지 한마디로 표현하면요?",
+    "category": "values"
+  },
+  {
+    "question": "감정 표현을 잘하는 편이에요?",
+    "category": "values"
+  },
+  {
+    "question": "인생에서 꼭 해보고 싶은 게 있어요?",
+    "category": "values"
+  },
+  {
+    "question": "오늘 이 자리가 어떤 자리가 됐으면 좋겠어요?",
+    "category": "values"
+  }
+]

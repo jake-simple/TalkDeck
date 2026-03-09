@@ -1,0 +1,642 @@
+[
+  {
+    "question": "어릴 때 가장 좋아하던 음식은?",
+    "category": "childhood"
+  },
+  {
+    "question": "학교 다닐 때 제일 좋아하던 과목은?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 제일 친했던 친구 이름과 추억이 있어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 가장 갖고 싶었던 물건은 뭐야?",
+    "category": "childhood"
+  },
+  {
+    "question": "초등학교 때 장래희망으로 뭐라고 썼어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 부모님한테 혼난 것 중 가장 기억에 남는 건?",
+    "category": "childhood"
+  },
+  {
+    "question": "방과 후에 집에 돌아오면 제일 먼저 뭘 했어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 빠져있던 만화나 게임이 있었어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어린 시절 살던 동네에서 가장 좋아했던 장소는?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 형제자매나 친구들이랑 자주 하던 놀이는?",
+    "category": "childhood"
+  },
+  {
+    "question": "학교 급식 중에 제일 좋아했던 메뉴는?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 가장 무서워했던 게 뭐야?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 적 여름방학에 제일 자주 한 건 뭐야?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 꿈꿨던 어른의 모습이 있었어?",
+    "category": "childhood"
+  },
+  {
+    "question": "처음으로 혼자 버스나 지하철을 탔을 때 기억나?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 제일 좋아했던 선생님은 어떤 분이었어?",
+    "category": "childhood"
+  },
+  {
+    "question": "초등학교 때 제일 기억에 남는 소풍이나 수학여행은?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 부모님 몰래 했던 일 중 지금 말할 수 있는 거 있어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 용돈을 처음 받았을 때 뭘 샀어?",
+    "category": "childhood"
+  },
+  {
+    "question": "학창 시절 가장 싫어하던 과목이나 수업은?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 꼭 보던 TV 프로그램이 있어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 제일 기억에 남는 생일 선물이 있어?",
+    "category": "childhood"
+  },
+  {
+    "question": "처음 자전거를 배울 때 기억나?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 적 집에서 키웠던 반려동물이 있었어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어린 시절 제일 좋아했던 과자나 음료수는?",
+    "category": "childhood"
+  },
+  {
+    "question": "학교 다닐 때 제일 잘한다고 느꼈던 게 있어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 어른들한테 자주 듣던 말이 있어?",
+    "category": "childhood"
+  },
+  {
+    "question": "처음으로 혼자 집에 있었던 기억이 있어? 어떤 기분이었어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 가장 자주 가던 동네 가게는?",
+    "category": "childhood"
+  },
+  {
+    "question": "어린 시절 가장 힘들었던 때가 있다면?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 친구들 사이에서 어떤 아이였어?",
+    "category": "childhood"
+  },
+  {
+    "question": "처음으로 밤새워 본 게 언제야? 이유는?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 제일 좋아했던 책이나 만화책은?",
+    "category": "childhood"
+  },
+  {
+    "question": "어린 시절 기억 중 지금도 생생하게 떠오르는 장면이 있어?",
+    "category": "childhood"
+  },
+  {
+    "question": "학교 끝나고 자주 들렀던 분식집이나 간식 가게가 있어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 꼭 입고 싶었던 옷이나 신발이 있었어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어린 시절에 꿈꾸던 집의 모습이 있어?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 제일 잘한다고 칭찬받던 것은?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 적 학교에서 돌아왔을 때 집에서 맡았던 냄새가 기억나?",
+    "category": "childhood"
+  },
+  {
+    "question": "어릴 때 밥 먹으면서 즐겨 보던 TV 프로그램이 있어?",
+    "category": "childhood"
+  },
+  {
+    "question": "요즘 제일 빠져 있는 게 뭐야?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 새로 시작한 취미나 관심사가 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 가장 많이 보는 콘텐츠는 뭐야?",
+    "category": "recentLife"
+  },
+  {
+    "question": "이번 달에 가장 기억에 남는 일은?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 건강 관리는 어떻게 하고 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 맛있게 먹은 음식이 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 자주 가는 장소가 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "이번 주 가장 웃겼던 일을 하나 말해봐",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 고민하고 있는 게 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 새로 알게 된 재밌는 사실이 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 자주 연락하는 사람이 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 여행을 다녀왔거나 계획 중인 곳이 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 살면서 제일 편한 순간이 언제야?",
+    "category": "recentLife"
+  },
+  {
+    "question": "이번 달에 가장 잘한 것 하나를 꼽는다면?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 하루 일과가 어떻게 돼?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 뭔가를 배우거나 공부한 게 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 가장 자주 쓰는 앱이나 서비스는?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 가장 감동받거나 좋았던 순간은?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 즐겨 먹는 음식이나 음료가 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 새로운 사람을 만난 적 있어? 어떤 계기였어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 기분이 좋을 때 제일 먼저 하고 싶은 건?",
+    "category": "recentLife"
+  },
+  {
+    "question": "이번 주에 가장 잘 먹은 음식은 뭐야?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 어떤 목표를 가지고 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 구입한 것 중 가장 잘 산 건?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 가장 자주 듣는 음악이나 좋아하는 노래는?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 주변 사람한테 고마웠던 일이 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 빠진 드라마나 영화가 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "이번 달에 가장 힘들었던 순간은?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 꿈꾸고 있는 것이 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 운동이나 건강 습관이 바뀐 게 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 기억에 남는 대화가 있었어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 처음 도전해본 것이 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 어떤 책이나 글에 빠져 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "이번 주 가장 잘했다고 생각하는 것 하나는?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 관심 가지고 있는 분야가 생겼어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 마음이 따뜻해졌던 순간이 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 나를 가장 행복하게 만드는 것은?",
+    "category": "recentLife"
+  },
+  {
+    "question": "최근에 도전하거나 변화를 준 게 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "요즘 잠은 잘 자고 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "이번 달에 꼭 이루고 싶은 게 있어?",
+    "category": "recentLife"
+  },
+  {
+    "question": "가족 여행 중 가장 웃겼던 에피소드가 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "명절에 우리 가족이 꼭 하는 것이 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "부모님이 해준 음식 중 가장 기억에 남는 건 뭐야?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족과 함께한 여행 중 가장 특별했던 곳은?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족끼리 같이 본 공연이나 경기 중 기억나는 게 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "부모님이 해주신 말 중 아직도 기억나는 게 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "할머니 할아버지에 대해 가장 기억나는 장면은?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족과 함께 요리했던 기억 중 떠오르는 게 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "우리 가족만의 전통이나 행사가 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족이 함께 극복한 어려운 시기가 있다면?",
+    "category": "familyStory"
+  },
+  {
+    "question": "형제자매나 사촌과 싸웠던 가장 웃긴 이유는?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족 중 누군가가 너를 감동시킨 적이 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "할머니 할아버지 댁에서 가장 좋았던 기억은?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족 앨범을 보다가 깜짝 놀란 사진이 있었어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "우리 가족이 다 같이 웃었던 최근 일이 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족 모임에서 있었던 재밌는 해프닝이 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "부모님의 연애 이야기를 들어본 적 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족이 함께 한 설날이나 추석 중 특별했던 건?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족과 함께 이사했던 경험 중 기억나는 거 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족 중 누군가한테 비밀을 들킨 적 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "부모님이 서로한테 다정했던 모습이 기억나?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족 중 누군가의 습관을 닮았다는 말을 들은 적 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족과 함께 한 생일 파티 중 기억에 남는 건?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족과 관련된 물건 중 아직 간직하고 있는 게 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "부모님이 나를 위해 포기한 것을 알게 된 순간이 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족과 함께 운동하거나 산책했던 추억이 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "형제자매와 가장 사이좋게 놀았던 때는 언제야?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족끼리 대청소를 했던 기억이 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "부모님의 직업에 대해 처음 이해하게 된 순간이 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족과 처음 외식했던 기억이 나?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족과 함께 비를 맞았거나 날씨 때문에 고생한 적 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "부모님과 함께 한 드라이브 중 기억나는 게 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족 중 누군가 때문에 취미가 생긴 적 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "부모님이 자랑스러워했던 너의 순간을 알고 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족에게 처음으로 선물을 직접 사줬던 기억이 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "어릴 때 가족과 함께 했던 크리스마스나 연말 기억은?",
+    "category": "familyStory"
+  },
+  {
+    "question": "부모님한테 처음으로 반항했던 때가 기억나?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족 중 뜻밖의 재능을 발견한 적 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "형제자매에게 고마웠던 순간이 있어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "가족의 전화 통화 중 가장 길었던 건 어떤 내용이었어?",
+    "category": "familyStory"
+  },
+  {
+    "question": "요즘 젊은 세대가 이해 안 되는 것이 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "윗세대를 이해하기 어려웠던 순간이 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님 세대에서 배운 것 중 지금도 도움이 되는 것은?",
+    "category": "generationGap"
+  },
+  {
+    "question": "자녀 세대한테 배운 것 중 의외였던 게 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "세대 차이를 가장 크게 느끼는 순간은 언제야?",
+    "category": "generationGap"
+  },
+  {
+    "question": "요즘 유행인데 이해 못 하는 것이 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "어릴 때는 당연했는데 지금 세대는 모르는 것은?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님과 가장 의견이 다른 주제가 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "요즘 아이들이 부럽다고 느낀 적 있어? 어떤 점에서?",
+    "category": "generationGap"
+  },
+  {
+    "question": "윗세대가 당연하게 여기는 것 중 이해 안 가는 게 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "세대 차이 때문에 가족끼리 웃긴 상황이 된 적 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님이 처음 스마트폰을 쓰기 시작했을 때 에피소드가 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "요즘 아이들이 모르는 어릴 때 놀이 문화가 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님이 가르쳐준 것 중 지금도 그게 맞다고 생각하는 건?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님이 나의 유행이나 문화를 이해 못 하셨던 적 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "우리 부모님 세대와 지금 세대의 가장 큰 차이는 뭐라고 생각해?",
+    "category": "generationGap"
+  },
+  {
+    "question": "세대 차이를 어떻게 극복하면 좋을까?",
+    "category": "generationGap"
+  },
+  {
+    "question": "어릴 때 부모님 말을 따르기 싫었던 적이 있어? 지금 생각하면 어때?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님 세대가 더 좋았다고 생각하는 것이 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "요즘 세대가 더 좋다고 생각하는 것이 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님의 가치관 중 내가 물려받은 것은?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님의 가치관 중 바꾸고 싶었던 게 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "세대 차이 때문에 가족 간 대화가 어려웠던 적이 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님이 '요즘 애들은'이라고 하셨을 때 어떤 기분이었어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "내가 '요즘 애들은'이라는 말을 한 적이 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님 세대가 우리보다 더 단단했다고 느끼는 부분이 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "요즘 젊은 세대가 부모님 세대보다 더 잘하는 것이 있다면?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님이 요즘 문화를 배우려고 노력하신 게 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "나는 자녀 세대와 소통하기 위해 어떤 노력을 해?",
+    "category": "generationGap"
+  },
+  {
+    "question": "세대 차이를 넘어 가장 공감이 됐던 대화가 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님이 요즘 유행을 따라 하셨을 때 어떤 기분이었어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "어른이 되어서야 이해한 부모님의 행동이나 말이 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "세대 차이 때문에 가족 사이에서 내가 중간 역할을 한 적 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님이 해주신 잔소리 중 지금은 맞다고 생각하는 게 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "우리 가족에서 가장 세대 차이가 느껴지는 주제는 뭐야?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님 세대의 결혼관이나 가족관에 대해 어떻게 생각해?",
+    "category": "generationGap"
+  },
+  {
+    "question": "요즘 세대의 직업관에 대해 윗세대는 어떻게 생각할 것 같아?",
+    "category": "generationGap"
+  },
+  {
+    "question": "부모님과 SNS나 유튜브에 대해 이야기 나눠본 적 있어?",
+    "category": "generationGap"
+  },
+  {
+    "question": "우리 다음 세대에게 물려줬으면 하는 가치는 뭐야?",
+    "category": "generationGap"
+  },
+  {
+    "question": "세대 차이를 넘어 우리 가족이 함께할 수 있는 것이 있다면?",
+    "category": "generationGap"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "question": "나를 처음 봤을 때 어떤 느낌이었어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나한테 마음이 생기기 시작한 순간이 언제야?",
+    "category": "excitement"
+  },
+  {
+    "question": "썸 탈 때 제일 설렜던 순간이 언제야?",
+    "category": "excitement"
+  },
+  {
+    "question": "내 어떤 모습에 처음 두근거렸어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나한테 연락하기 전에 망설인 적 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나를 처음 봤을 때 마음에 들었던 거 알고 있었어?",
+    "category": "excitement"
+  },
+  {
+    "question": "우리 처음 단둘이 만났을 때 떨렸어?",
+    "category": "excitement"
+  },
+  {
+    "question": "내가 웃을 때랑 진지할 때 중 어떤 모습이 처음에 더 매력적이었어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나한테 고백하기 전날 어떤 기분이었어?",
+    "category": "excitement"
+  },
+  {
+    "question": "처음으로 나를 좋아한다고 인정한 게 언제야?",
+    "category": "excitement"
+  },
+  {
+    "question": "지금도 나를 보면 설레는 순간이 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나한테 연락이 왔을 때 제일 기분 좋은 타이밍이 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "우리가 사귀기 전에 제일 기대됐던 게 뭐야?",
+    "category": "excitement"
+  },
+  {
+    "question": "내 목소리 듣는 거 좋아?",
+    "category": "excitement"
+  },
+  {
+    "question": "나를 생각하면 제일 먼저 떠오르는 이미지가 뭐야?",
+    "category": "excitement"
+  },
+  {
+    "question": "나랑 처음 밥 먹었을 때 기억나? 어떤 느낌이었어?",
+    "category": "excitement"
+  },
+  {
+    "question": "우리 사귄 날 기억나? 그날 기분이 어땠어?",
+    "category": "excitement"
+  },
+  {
+    "question": "내가 멀리서 걸어올 때 기분이 어때?",
+    "category": "excitement"
+  },
+  {
+    "question": "나한테 처음 반했다고 확신한 순간이 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "지금도 나를 만나러 가는 길에 두근거려?",
+    "category": "excitement"
+  },
+  {
+    "question": "내가 예상치 못하게 뭔가를 해줬을 때 제일 설렜던 게 뭐야?",
+    "category": "excitement"
+  },
+  {
+    "question": "나랑 처음으로 스킨십했을 때 어떤 기분이었어?",
+    "category": "excitement"
+  },
+  {
+    "question": "처음으로 나한테 '보고 싶다' 느꼈을 때가 언제야?",
+    "category": "excitement"
+  },
+  {
+    "question": "나한테 혼자 설레다가 혼자 진정한 적 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나를 보고 가슴이 쿵 내려앉았던 순간이 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "우리 처음 연락할 때 답장 기다렸어?",
+    "category": "excitement"
+  },
+  {
+    "question": "내가 어떤 말을 했을 때 제일 설렜어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나랑 같이 있으면 지금도 심장이 빠르게 뛸 때가 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "처음 만난 날 이후로 나 생각 많이 했어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나한테 관심 있다는 걸 티내지 않으려고 애쓴 적 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "사귀기 전에 나에 대해 몰래 찾아봤던 거 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "내가 어떤 행동을 할 때 '이 사람이다' 싶었어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나를 좋아한다는 걸 주변에 처음 얘기했을 때 어땠어?",
+    "category": "excitement"
+  },
+  {
+    "question": "우리 처음 헤어지고 집에 가면서 어떤 생각 했어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나를 기다릴 때 두근거린 적 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "내가 멀어지면 어떡하지 하고 불안했던 적 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "사귀기 전에 나한테 잘 보이려고 했던 게 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "내 사진 몰래 여러 번 들여다본 적 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "나를 처음 소개받던 날 무슨 옷 입었는지 기억해?",
+    "category": "excitement"
+  },
+  {
+    "question": "지금 이 순간에도 나한테 설레는 부분이 있어?",
+    "category": "excitement"
+  },
+  {
+    "question": "우리 데이트 코스 중에 제일 좋아하는 유형이 뭐야?",
+    "category": "taste"
+  },
+  {
+    "question": "나랑 같이 먹고 싶은 음식이 생기면 뭐야?",
+    "category": "taste"
+  },
+  {
+    "question": "나랑 가보고 싶은 여행지가 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "같이 볼 때 제일 재밌었던 장르가 뭐야?",
+    "category": "taste"
+  },
+  {
+    "question": "나한테 꼭 소개해주고 싶은 음식이 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "우리 둘 다 좋아하는 거 중에 최근에 발견한 게 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "나랑 같이 하면 더 재밌을 것 같은 취미가 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "함께 듣기 좋은 노래를 추천해준다면 뭐야?",
+    "category": "taste"
+  },
+  {
+    "question": "우리 스타일이 가장 잘 맞는 부분이 뭔 것 같아?",
+    "category": "taste"
+  },
+  {
+    "question": "나한테 영향받아서 관심 생긴 게 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "같이 있을 때 분위기랑 잘 맞는다고 느낀 순간이 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "나랑 취향이 정반대인 게 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "우리 둘이 좋아하는 게 겹칠 때 반가웠던 적 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "같이 해보고 싶은 새로운 경험이 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "나한테 추천해줬는데 생각보다 내가 좋아했던 게 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "데이트할 때 야외가 좋아 실내가 좋아?",
+    "category": "taste"
+  },
+  {
+    "question": "우리가 같이 듣는 플레이리스트 만든다면 첫 번째 노래는?",
+    "category": "taste"
+  },
+  {
+    "question": "나랑 같이 살면 인테리어 취향이 맞을 것 같아?",
+    "category": "taste"
+  },
+  {
+    "question": "나한테 꼭 보여주고 싶은 영화나 드라마가 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "우리 둘이 아이처럼 신나게 즐길 수 있는 게 뭘까?",
+    "category": "taste"
+  },
+  {
+    "question": "내 취향 중에 신기하거나 의외라고 느낀 게 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "같이 요리한다면 뭘 만들고 싶어?",
+    "category": "taste"
+  },
+  {
+    "question": "나랑 같이 가고 싶은 전시나 공연이 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "우리가 취향이 가장 비슷한 분야가 뭐야?",
+    "category": "taste"
+  },
+  {
+    "question": "나한테서 새로 알게 된 음식이나 메뉴가 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "함께 가보고 싶은 카페 분위기가 어떤 거야?",
+    "category": "taste"
+  },
+  {
+    "question": "같이 운동한다면 뭘 하면 잘 맞을 것 같아?",
+    "category": "taste"
+  },
+  {
+    "question": "나랑 책 취향이 비슷한 것 같아?",
+    "category": "taste"
+  },
+  {
+    "question": "우리 데이트에서 빠지면 아쉬울 것 같은 게 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "내 패션 스타일 중에 제일 좋아하는 게 뭐야?",
+    "category": "taste"
+  },
+  {
+    "question": "나랑 같이 늦게까지 있고 싶은 장소가 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "우리가 서로 다른 취향 때문에 발견한 좋은 것들이 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "나한테 꼭 먹어보게 하고 싶은 음식이 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "같이 구경하면 제일 재밌을 것 같은 곳이 어디야?",
+    "category": "taste"
+  },
+  {
+    "question": "내가 좋아하는 것 중에 함께 즐겨보고 싶은 게 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "우리 음식 취향 중에 제일 많이 겹치는 게 뭐야?",
+    "category": "taste"
+  },
+  {
+    "question": "나랑 어떤 계절에 여행 가고 싶어?",
+    "category": "taste"
+  },
+  {
+    "question": "함께 보면 더 재밌을 것 같은 스포츠나 게임이 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "내가 싫어하는 것 중에 사실 한번 같이 해보고 싶은 게 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "우리가 취향이 정말 다른데도 함께 즐길 수 있었던 게 있어?",
+    "category": "taste"
+  },
+  {
+    "question": "우리 사귀면서 제일 크게 웃었던 순간이 언제야?",
+    "category": "memories"
+  },
+  {
+    "question": "우리 첫 데이트에서 기억에 남는 장면이 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "나 때문에 기분이 제일 좋았던 순간이 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "우리 싸우고 화해했을 때 가장 기억에 남는 말이 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "같이 했던 일 중에 아직도 가끔 생각나는 게 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "내가 나한테 감동을 줬던 순간을 떠올려봐, 뭐가 생각나?",
+    "category": "memories"
+  },
+  {
+    "question": "우리 여행 가서 가장 기억에 남는 에피소드가 뭐야?",
+    "category": "memories"
+  },
+  {
+    "question": "나한테 처음으로 고마움을 크게 느꼈던 게 언제야?",
+    "category": "memories"
+  },
+  {
+    "question": "같이 먹었던 것 중에 아직도 생각나는 음식이 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "우리 가장 평범했는데 제일 행복했던 하루가 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "나랑 있다가 혼자 집에 갔을 때 기분이 제일 좋았던 날이 언제야?",
+    "category": "memories"
+  },
+  {
+    "question": "나한테 처음으로 화가 났던 게 뭐야? 지금은 웃음이 나와?",
+    "category": "memories"
+  },
+  {
+    "question": "우리 사귀면서 제일 서프라이즈 느꼈던 순간이 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "내가 아팠거나 힘들었을 때 기억나? 어떤 마음이었어?",
+    "category": "memories"
+  },
+  {
+    "question": "같이 길 잃었거나 계획이 틀어진 적 있어? 기억나?",
+    "category": "memories"
+  },
+  {
+    "question": "나한테 처음으로 진심으로 고맙다고 말했던 게 언제야?",
+    "category": "memories"
+  },
+  {
+    "question": "우리 사귄 지 얼마 안 됐을 때 제일 설렜던 에피소드가 뭐야?",
+    "category": "memories"
+  },
+  {
+    "question": "같이 밤새워서 뭔가 한 적 있어? 어떤 기억이야?",
+    "category": "memories"
+  },
+  {
+    "question": "내가 웃겼던 순간 중에 제일 기억나는 게 뭐야?",
+    "category": "memories"
+  },
+  {
+    "question": "우리가 처음으로 서로를 더 깊이 알게 됐다고 느낀 순간이 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "나랑 처음으로 싸웠던 날 기억해?",
+    "category": "memories"
+  },
+  {
+    "question": "같이 봤던 것 중에 지금도 기억에 남는 영화나 공연이 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "내가 예상치 못한 행동을 했을 때 제일 기억에 남는 게 뭐야?",
+    "category": "memories"
+  },
+  {
+    "question": "우리 사귀면서 제일 어이없었던 해프닝이 뭐야?",
+    "category": "memories"
+  },
+  {
+    "question": "내가 힘들었을 때 옆에 있어줬던 기억이 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "나한테 가장 솔직했던 대화가 언제였어?",
+    "category": "memories"
+  },
+  {
+    "question": "우리 비가 왔거나 날씨가 안 좋았는데 오히려 좋았던 날 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "같이 처음으로 진지한 얘기 나눴던 게 기억나?",
+    "category": "memories"
+  },
+  {
+    "question": "내가 너를 위해 했던 것 중에 제일 기억에 남는 게 뭐야?",
+    "category": "memories"
+  },
+  {
+    "question": "우리 처음으로 장거리 이동 같이 한 게 언제야? 어땠어?",
+    "category": "memories"
+  },
+  {
+    "question": "나랑 있는데 시간이 정말 빨리 지나갔다고 느낀 날이 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "같이 했던 것 중에 처음엔 별로였는데 나중엔 좋았던 게 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "내 생일이나 기념일에 제일 기억에 남는 게 뭐야?",
+    "category": "memories"
+  },
+  {
+    "question": "우리가 둘이 있었던 공간 중에 제일 생각나는 곳이 어디야?",
+    "category": "memories"
+  },
+  {
+    "question": "내가 잠든 모습 본 적 있어? 어떤 느낌이었어?",
+    "category": "memories"
+  },
+  {
+    "question": "처음 헤어지고 나서 보고 싶다고 느꼈던 게 언제야?",
+    "category": "memories"
+  },
+  {
+    "question": "우리 사귀면서 제일 로맨틱했던 날이 어느 날인 것 같아?",
+    "category": "memories"
+  },
+  {
+    "question": "내가 혼자 뭔가를 해결했을 때 뿌듯했던 기억이 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "같이 했던 식사 중에 제일 특별했던 게 있어?",
+    "category": "memories"
+  },
+  {
+    "question": "우리가 가장 가까워졌다고 느낀 순간이 언제야?",
+    "category": "memories"
+  },
+  {
+    "question": "앞으로 꼭 같이 해보고 싶은 게 하나 있다면 뭐야?",
+    "category": "future"
+  },
+  {
+    "question": "5년 후에 우리가 어떤 모습이면 좋겠어?",
+    "category": "future"
+  },
+  {
+    "question": "나랑 가보고 싶은 여행지가 어디야?",
+    "category": "future"
+  },
+  {
+    "question": "같이 살게 되면 제일 먼저 하고 싶은 게 뭐야?",
+    "category": "future"
+  },
+  {
+    "question": "나이 들어서도 함께 하고 싶은 게 있어?",
+    "category": "future"
+  },
+  {
+    "question": "우리가 함께 꼭 이뤄봤으면 하는 목표가 있어?",
+    "category": "future"
+  },
+  {
+    "question": "노년에 나랑 어떤 일상을 보내고 싶어?",
+    "category": "future"
+  },
+  {
+    "question": "우리가 다음 여행으로 꼭 가고 싶은 나라가 있어?",
+    "category": "future"
+  },
+  {
+    "question": "내가 힘든 시기에 어떤 사람이 되어주고 싶어?",
+    "category": "future"
+  },
+  {
+    "question": "우리 집을 꾸민다면 어떤 공간을 제일 신경 쓰고 싶어?",
+    "category": "future"
+  },
+  {
+    "question": "미래에 내가 어떤 모습이길 바라?",
+    "category": "future"
+  },
+  {
+    "question": "앞으로 우리 사이에서 더 잘 하고 싶은 게 있어?",
+    "category": "future"
+  },
+  {
+    "question": "같이 이루고 싶은 버킷리스트 1번이 뭐야?",
+    "category": "future"
+  },
+  {
+    "question": "앞으로도 우리가 꼭 지켰으면 하는 게 있어?",
+    "category": "future"
+  },
+  {
+    "question": "내가 꿈을 이루는 데 어떤 방식으로 응원해주고 싶어?",
+    "category": "future"
+  },
+  {
+    "question": "우리가 함께 살게 된다면 어떤 동네에 살고 싶어?",
+    "category": "future"
+  },
+  {
+    "question": "10년 후에 우리가 웃으면서 얘기하고 싶은 주제가 있어?",
+    "category": "future"
+  },
+  {
+    "question": "앞으로 나한테 하고 싶은 게 있는데 아직 못 한 게 있어?",
+    "category": "future"
+  },
+  {
+    "question": "우리가 함께 늙어가면서 꼭 지키고 싶은 전통이 있어?",
+    "category": "future"
+  },
+  {
+    "question": "내가 이루길 바라는 꿈이 있어?",
+    "category": "future"
+  },
+  {
+    "question": "앞으로 우리 관계에서 더 솔직해지고 싶은 부분이 있어?",
+    "category": "future"
+  },
+  {
+    "question": "같이 배워보고 싶은 게 있어?",
+    "category": "future"
+  },
+  {
+    "question": "우리가 나중에 꼭 같이 만들어가고 싶은 공간이 있어?",
+    "category": "future"
+  },
+  {
+    "question": "내가 어떤 상황에 있을 때 옆에 있어줬으면 해?",
+    "category": "future"
+  },
+  {
+    "question": "앞으로 더 자주 하고 싶은 데이트 유형이 있어?",
+    "category": "future"
+  },
+  {
+    "question": "우리가 함께 봉사나 좋은 일을 해본다면 어떤 거 하고 싶어?",
+    "category": "future"
+  },
+  {
+    "question": "결혼에 대해 어떤 그림을 그려?",
+    "category": "future"
+  },
+  {
+    "question": "내가 방황할 때 어떻게 도와주고 싶어?",
+    "category": "future"
+  },
+  {
+    "question": "앞으로 우리 사이에서 꼭 만들어가고 싶은 새로운 추억이 뭐야?",
+    "category": "future"
+  },
+  {
+    "question": "나이가 들어서도 변하지 않았으면 하는 우리의 모습이 있어?",
+    "category": "future"
+  },
+  {
+    "question": "우리가 부부가 된다면 어떤 가정을 만들고 싶어?",
+    "category": "future"
+  },
+  {
+    "question": "앞으로 내가 성장하는 걸 어떤 모습으로 응원해줄 수 있어?",
+    "category": "future"
+  },
+  {
+    "question": "나랑 꼭 같이 도전해보고 싶은 게 있어?",
+    "category": "future"
+  },
+  {
+    "question": "우리가 서로에게 더 좋은 사람이 되려면 뭘 해야 할까?",
+    "category": "future"
+  },
+  {
+    "question": "앞으로 내가 해줬으면 하는 것 하나 솔직하게 말해줄 수 있어?",
+    "category": "future"
+  },
+  {
+    "question": "우리 사이에서 앞으로 없앴으면 하는 패턴이 있어?",
+    "category": "future"
+  },
+  {
+    "question": "같이 건강하게 나이 드는 방법이 뭐라고 생각해?",
+    "category": "future"
+  },
+  {
+    "question": "30년 후에 나랑 뭘 하고 있을 것 같아?",
+    "category": "future"
+  },
+  {
+    "question": "내가 어떤 부분에서 더 성장하길 바라?",
+    "category": "future"
+  },
+  {
+    "question": "우리 함께하는 시간이 더 풍부해지려면 뭐가 필요할까?",
+    "category": "future"
+  }
+]

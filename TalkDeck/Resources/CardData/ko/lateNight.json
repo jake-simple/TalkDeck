@@ -1,0 +1,642 @@
+[
+  {
+    "question": "지금 이 순간 머릿속에 떠오르는 노래는?",
+    "category": "emotional"
+  },
+  {
+    "question": "오늘 하루 중 가장 좋았던 순간은?",
+    "category": "emotional"
+  },
+  {
+    "question": "요즘 자주 듣는 노래가 있어? 왜 그 노래인 것 같아?",
+    "category": "emotional"
+  },
+  {
+    "question": "지금 이 밤에 어울리는 색깔을 하나 고른다면?",
+    "category": "emotional"
+  },
+  {
+    "question": "오늘 가장 솔직한 감정을 한 단어로 표현하면?",
+    "category": "emotional"
+  },
+  {
+    "question": "요즘 가장 자주 드는 감정이 뭐야?",
+    "category": "emotional"
+  },
+  {
+    "question": "마음이 따뜻해졌던 가장 최근 순간이 언제야?",
+    "category": "emotional"
+  },
+  {
+    "question": "밤에 혼자 있을 때 주로 어떤 생각 해?",
+    "category": "emotional"
+  },
+  {
+    "question": "지금 이 순간을 한 장의 사진으로 남긴다면 어떤 장면일 것 같아?",
+    "category": "emotional"
+  },
+  {
+    "question": "요즘 어떤 감정이 가장 낯설게 느껴져?",
+    "category": "emotional"
+  },
+  {
+    "question": "누군가한테 갑자기 연락하고 싶어질 때가 있어? 어떤 순간에?",
+    "category": "emotional"
+  },
+  {
+    "question": "가장 최근에 무언가에 설렌 게 언제야?",
+    "category": "emotional"
+  },
+  {
+    "question": "슬플 때 주로 뭘 하면서 달래?",
+    "category": "emotional"
+  },
+  {
+    "question": "요즘 자기 전에 어떤 생각을 가장 많이 해?",
+    "category": "emotional"
+  },
+  {
+    "question": "감동받아서 눈물 흘린 게 언제야?",
+    "category": "emotional"
+  },
+  {
+    "question": "지금 이 순간 가장 그리운 것이 있다면?",
+    "category": "emotional"
+  },
+  {
+    "question": "혼자 있는 게 좋을 때와 누군가 곁에 있으면 좋겠다 싶을 때, 어떻게 달라?",
+    "category": "emotional"
+  },
+  {
+    "question": "요즘 어떤 감정을 억누르고 있는 것 같아?",
+    "category": "emotional"
+  },
+  {
+    "question": "마음이 복잡할 때 어떻게 정리해?",
+    "category": "emotional"
+  },
+  {
+    "question": "가장 행복했던 기억을 떠올리면 어떤 장면이 나와?",
+    "category": "emotional"
+  },
+  {
+    "question": "요즘 좋아하는 공간이나 장소가 있어?",
+    "category": "emotional"
+  },
+  {
+    "question": "지금 누군가에게 고마운 마음이 있다면?",
+    "category": "emotional"
+  },
+  {
+    "question": "기분이 안 좋을 때 자신도 모르게 하는 행동이 있어?",
+    "category": "emotional"
+  },
+  {
+    "question": "지금 이 밤을 가장 잘 표현하는 냄새가 있다면?",
+    "category": "emotional"
+  },
+  {
+    "question": "오늘 가장 웃었던 순간이 언제야?",
+    "category": "emotional"
+  },
+  {
+    "question": "요즘 감정적으로 지쳐있어? 어떤 부분에서?",
+    "category": "emotional"
+  },
+  {
+    "question": "마음이 편안해지는 것이 있다면 뭐야?",
+    "category": "emotional"
+  },
+  {
+    "question": "지금 이 자리에서 드는 감정을 솔직하게 말해줄 수 있어?",
+    "category": "emotional"
+  },
+  {
+    "question": "요즘 어떤 순간에 외로움을 느껴?",
+    "category": "emotional"
+  },
+  {
+    "question": "지금 이 밤이 끝나기 전에 하고 싶은 것이 있어?",
+    "category": "emotional"
+  },
+  {
+    "question": "오늘 하루를 색깔로 표현하면 무슨 색이야?",
+    "category": "emotional"
+  },
+  {
+    "question": "가장 위로받았던 순간이 있다면?",
+    "category": "emotional"
+  },
+  {
+    "question": "지금 가장 듣고 싶은 말이 있다면?",
+    "category": "emotional"
+  },
+  {
+    "question": "요즘 아무 이유 없이 기분이 가라앉을 때가 있어?",
+    "category": "emotional"
+  },
+  {
+    "question": "마음이 가장 안정될 때가 언제야?",
+    "category": "emotional"
+  },
+  {
+    "question": "오늘 가장 힘들었던 순간이 있었다면?",
+    "category": "emotional"
+  },
+  {
+    "question": "지금 이 순간 옆에 있었으면 하는 사람이 있어?",
+    "category": "emotional"
+  },
+  {
+    "question": "최근에 아무 이유 없이 기분이 좋았던 적 있어?",
+    "category": "emotional"
+  },
+  {
+    "question": "요즘 나를 가장 많이 생각하게 만드는 것은 뭐야?",
+    "category": "emotional"
+  },
+  {
+    "question": "지금 이 자리가 끝나고 어떤 기분으로 집에 가고 싶어?",
+    "category": "emotional"
+  },
+  {
+    "question": "행복이란 결국 뭐라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "사람은 왜 연결되고 싶어할까?",
+    "category": "philosophy"
+  },
+  {
+    "question": "나이가 든다는 건 어떤 의미라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "진짜 자유가 있다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "사람은 근본적으로 선하다고 생각해 악하다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "잘 사는 삶이란 어떤 삶이라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "사랑과 우정의 경계가 어디라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "죽음이 무섭지 않으려면 어떻게 살아야 할 것 같아?",
+    "category": "philosophy"
+  },
+  {
+    "question": "운명이 있다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "시간이 가장 소중한 자원이라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "사람은 혼자일 때 더 진실해질까 같이 있을 때 더 진실해질까?",
+    "category": "philosophy"
+  },
+  {
+    "question": "지금 이 순간에 집중하는 게 왜 어려울 것 같아?",
+    "category": "philosophy"
+  },
+  {
+    "question": "어떤 사람을 좋은 사람이라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "삶에서 의미를 찾는 게 중요하다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "후회 없이 산다는 게 가능하다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "관계는 유지해야 하는 걸까 자연스럽게 흘러가는 걸까?",
+    "category": "philosophy"
+  },
+  {
+    "question": "성공과 행복은 같은 거라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "사람이 변한다는 게 좋은 일이야 나쁜 일이야?",
+    "category": "philosophy"
+  },
+  {
+    "question": "나는 내 삶의 주인공이라고 느껴?",
+    "category": "philosophy"
+  },
+  {
+    "question": "용기와 무모함의 차이가 뭐라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "진실을 말하는 게 항상 옳다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "나 자신을 사랑한다는 게 무슨 의미인 것 같아?",
+    "category": "philosophy"
+  },
+  {
+    "question": "기억은 진실일까 아니면 그냥 내가 만든 이야기일까?",
+    "category": "philosophy"
+  },
+  {
+    "question": "완벽한 관계가 존재한다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "지금 이 순간이 10년 후의 나한테 어떤 의미가 있을까?",
+    "category": "philosophy"
+  },
+  {
+    "question": "타인에게 기대는 게 약한 건지 강한 건지 어떻게 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "실패가 성공보다 더 중요한 순간이 있을까?",
+    "category": "philosophy"
+  },
+  {
+    "question": "말하지 않아도 통하는 관계가 있다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "사람은 혼자 태어나서 혼자 죽는다는 말이 위로가 돼 아니면 슬퍼?",
+    "category": "philosophy"
+  },
+  {
+    "question": "감사한 마음을 오래 유지하는 게 왜 어려울까?",
+    "category": "philosophy"
+  },
+  {
+    "question": "지금 내가 선택하는 것들이 나를 만들어가고 있다고 느껴?",
+    "category": "philosophy"
+  },
+  {
+    "question": "시간이 지나면 대부분의 것이 별거 아니게 되는 것 같아?",
+    "category": "philosophy"
+  },
+  {
+    "question": "나는 나를 얼마나 잘 안다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "가장 의미 있는 대화는 어떤 대화인 것 같아?",
+    "category": "philosophy"
+  },
+  {
+    "question": "상처가 사람을 강하게 만든다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "돈으로 살 수 없는 것 중 가장 중요한 게 뭐라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "삶에서 가장 무의미하게 쓰이는 것이 뭐라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "지금 가장 확신하는 것 하나와 가장 불확실한 것 하나가 있다면?",
+    "category": "philosophy"
+  },
+  {
+    "question": "행복을 나눌수록 커진다고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "지금의 나한테 가장 필요한 것이 뭐라고 생각해?",
+    "category": "philosophy"
+  },
+  {
+    "question": "오늘 나한테 솔직하게 하고 싶은 말 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "나에 대해 궁금했는데 못 물어본 것 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "요즘 아무한테도 못 한 이야기가 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "평소에 티 안 내는데 사실 힘든 부분이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "가장 최근에 용기를 냈던 것이 있다면?",
+    "category": "confession"
+  },
+  {
+    "question": "사실은 잘 못 하지만 잘하는 척하는 게 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "요즘 가장 많이 신경 쓰이는 사람이나 일이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "한 번도 입 밖에 내지 못한 고민이 있다면?",
+    "category": "confession"
+  },
+  {
+    "question": "지금 이 자리에서 처음으로 솔직하게 말해보고 싶은 것이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "가장 최근에 누군가한테 상처받은 게 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "지금 인생에서 가장 풀기 어려운 문제가 뭐야?",
+    "category": "confession"
+  },
+  {
+    "question": "혼자만 알고 있는 비밀이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "가장 최근에 거짓말을 했다면 어떤 상황에서야?",
+    "category": "confession"
+  },
+  {
+    "question": "아직도 마음에 걸리는 일이 있다면?",
+    "category": "confession"
+  },
+  {
+    "question": "사실은 인정하고 싶지 않은 나의 단점이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "누군가한테 오해받고 있는 게 있다면?",
+    "category": "confession"
+  },
+  {
+    "question": "사실은 되게 부러워하는 사람이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "지금 삶에서 변명하고 있는 게 있다면?",
+    "category": "confession"
+  },
+  {
+    "question": "꼭 다시 연락하고 싶은 사람이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "오늘 이 자리에서 처음으로 솔직하게 웃어봤어?",
+    "category": "confession"
+  },
+  {
+    "question": "아무한테도 말 못 한 나만의 바람이 있다면?",
+    "category": "confession"
+  },
+  {
+    "question": "지금 삶에서 회피하고 있는 게 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "가장 솔직하게 인정하기 싫은 감정이 있다면?",
+    "category": "confession"
+  },
+  {
+    "question": "누군가한테 미안하다고 못 한 말이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "요즘 자신을 너무 몰아붙이는 것 같다고 느낀 적 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "사실은 무섭지만 해보고 싶은 게 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "지금 가장 필요한 위로가 있다면 어떤 말이야?",
+    "category": "confession"
+  },
+  {
+    "question": "아직도 완전히 잊지 못한 것이 있다면?",
+    "category": "confession"
+  },
+  {
+    "question": "사실은 엄청 신경 쓰이는데 안 신경 쓰는 척하는 것이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "요즘 스스로한테 가장 많이 하는 말이 뭐야?",
+    "category": "confession"
+  },
+  {
+    "question": "지금 가장 용기 내서 해보고 싶은 것이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "요즘 내가 나한테 너무 가혹하다고 느낀 적 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "살면서 가장 후회하는 선택이 있다면?",
+    "category": "confession"
+  },
+  {
+    "question": "지금 가장 솔직하게 털어놓고 싶은 게 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "사실 오래 전부터 고민하고 있는 것이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "요즘 어떤 부분에서 스스로 대견하다고 느껴?",
+    "category": "confession"
+  },
+  {
+    "question": "지금 이 순간 말하지 않으면 영원히 못 할 것 같은 게 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "사실 오늘 여기 오기 직전에 어떤 기분이었어?",
+    "category": "confession"
+  },
+  {
+    "question": "지금 나한테 가장 듣고 싶은 말이 있어?",
+    "category": "confession"
+  },
+  {
+    "question": "지금까지 살면서 가장 잘한 선택이 뭔 것 같아?",
+    "category": "confession"
+  },
+  {
+    "question": "요즘 자주 꾸는 꿈이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "이루고 싶지만 말하기 부끄러운 꿈이 있다면?",
+    "category": "dream"
+  },
+  {
+    "question": "어린 시절에 가졌던 꿈이 지금도 남아있어?",
+    "category": "dream"
+  },
+  {
+    "question": "지금 당장 모든 게 가능하다면 가장 하고 싶은 것은?",
+    "category": "dream"
+  },
+  {
+    "question": "5년 후 나는 어디서 뭘 하고 있을 것 같아?",
+    "category": "dream"
+  },
+  {
+    "question": "가장 기억에 남는 꿈이 있어? 어떤 꿈이야?",
+    "category": "dream"
+  },
+  {
+    "question": "꿈에 자주 등장하는 장소가 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "포기한 꿈이 있다면 지금도 마음에 남아있어?",
+    "category": "dream"
+  },
+  {
+    "question": "올해 안에 꼭 이루고 싶은 것이 있다면?",
+    "category": "dream"
+  },
+  {
+    "question": "죽기 전에 꼭 해봐야겠다고 생각하는 것이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "꿈을 꿀 때 주로 어떤 감정으로 깨?",
+    "category": "dream"
+  },
+  {
+    "question": "10년 후의 내가 지금의 나를 보면 어떤 말을 해줄 것 같아?",
+    "category": "dream"
+  },
+  {
+    "question": "지금 이루고 싶은 꿈이 얼마나 현실적이라고 생각해?",
+    "category": "dream"
+  },
+  {
+    "question": "꿈에서 만나고 싶은 사람이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "이루지 못할 수도 있는 꿈이어도 포기하지 않을 게 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "내가 꿈꾸는 삶의 모습이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "꿈과 현실 사이에서 포기하지 않는 이유가 있다면?",
+    "category": "dream"
+  },
+  {
+    "question": "지금의 나한테 가장 필요한 용기가 있다면?",
+    "category": "dream"
+  },
+  {
+    "question": "가장 최근에 상상해봤던 미래의 모습이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "꿈속에서 다시 만나고 싶은 기억이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "사람들이 말려도 하고 싶은 것이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "지금 하고 있는 일이 나의 꿈과 연결되어 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "어릴 때 꾸던 꿈에서 지금 이루어진 게 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "꿈에 자주 나오는 사람이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "내가 꿈꾸는 이상적인 하루가 있다면?",
+    "category": "dream"
+  },
+  {
+    "question": "지금 가장 간절히 원하는 것이 뭐야?",
+    "category": "dream"
+  },
+  {
+    "question": "꿈을 이루기 위해 지금 하고 있는 것이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "가장 황당했던 꿈의 내용이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "현실에서 이루지 못해서 꿈속에서라도 이루고 싶은 게 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "내가 상상하는 10년 후의 나는 어떤 모습이야?",
+    "category": "dream"
+  },
+  {
+    "question": "꿈을 꾸다가 깨서 아쉬웠던 적이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "아직 시작도 못 한 꿈이 있다면?",
+    "category": "dream"
+  },
+  {
+    "question": "지금 내 꿈을 누가 제일 잘 알고 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "꿈이 이루어졌을 때 가장 먼저 하고 싶은 것이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "지금 이 순간 딱 하나의 꿈만 이뤄진다면 뭘 고를 거야?",
+    "category": "dream"
+  },
+  {
+    "question": "가장 현실적인 내 꿈과 가장 비현실적인 내 꿈은 뭐야?",
+    "category": "dream"
+  },
+  {
+    "question": "꿈과 안정 사이에서 고민해본 적 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "누군가 응원해줘서 다시 꿈을 꿀 수 있었던 경험이 있어?",
+    "category": "dream"
+  },
+  {
+    "question": "내 꿈을 이루는 데 가장 큰 걸림돌이 뭐라고 생각해?",
+    "category": "dream"
+  },
+  {
+    "question": "지금 이 밤이 끝나고 내일 가장 기대되는 것이 있어?",
+    "category": "dream"
+  }
+]

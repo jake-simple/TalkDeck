@@ -1,0 +1,642 @@
+[
+  {
+    "question": "짜장면 vs 짬뽕, 고민 없이 바로 고를 수 있어?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "파인애플 피자 OK vs NO? 이유도 같이 말해봐",
+    "category": "dailyLife"
+  },
+  {
+    "question": "치킨은 뼈 있는 거 vs 순살, 어느 쪽이 더 맛있어?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "버스 vs 지하철, 어느 쪽이 더 낫다고 생각해?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "아침밥은 꼭 먹어야 한다 vs 굳이 먹을 필요 없다, 어느 쪽이야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "카페에서 노트북 작업하는 사람들, 괜찮아 아니면 눈치 없어?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "배달비가 얼마까지면 시킬 마음이 생겨?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "냉면은 물냉면 vs 비빔냉면, 어느 쪽이야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "알람을 여러 번 맞춰놓는 사람 vs 딱 한 번만 맞추는 사람, 어느 쪽이 더 이해해?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "신발을 살 때 편함이 중요해 아니면 디자인이 중요해?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "연락이 뜸한 친구 vs 연락이 잦지만 부담스러운 친구, 어느 쪽이 더 힘들어?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "밥집에서 먼저 자리 잡는 사람 vs 먼저 주문하는 사람, 어느 역할 더 싫어?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "마트 갈 때 장바구니 무조건 챙겨야 한다 vs 비닐봉지 가끔 써도 괜찮다?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "줄 설 때 새치기 당하면 말해 vs 그냥 둬, 어느 쪽이야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "커피는 아이스 vs 따뜻한 거, 계절 상관없이 어느 쪽이야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "택시비 아까워서 걷는 거 vs 돈 내고 편하게 가는 거, 어떤 스타일이야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "술자리에서 먼저 일어나는 사람이 나쁜 거야 아니야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "음식점에서 남은 음식 포장해달라고 하는 거 자연스러워?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "단톡방 알림 끄는 거 예의 없는 거야 아니야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "선물은 직접 고른 것 vs 현금 or 기프티콘, 어느 쪽이 더 좋아?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "공공장소에서 통화할 때 목소리 낮추는 게 맞다 vs 조용한 통화 예절 강요하는 게 과하다?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "영화관에서 팝콘 먹는 거 당연한 거야 아니야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "길에서 아는 사람 봤을 때 못 본 척하는 거 이해돼?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "식당에서 직원 부를 때 손 드는 거 vs 아저씨/이모 부르는 거, 어느 쪽이 더 편해?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "카카오톡 읽씹 vs 안읽씹, 어느 쪽이 더 나빠?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "배달 vs 직접 가서 먹기, 맛은 어느 쪽이 더 중요해?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "엘리베이터 탔을 때 다른 사람이랑 눈 마주치면 어떻게 해?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "음식 남기는 게 낭비야 아니면 다 먹는 게 강박이야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "집에서 슬리퍼 신는 거 필수야 아니야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "약속 시간에 딱 맞게 오는 사람 vs 5분 먼저 오는 사람, 어느 쪽이 더 좋아?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "운동화 신발끈, 묶어서 신어야 해 vs 그냥 밟고 신어도 돼?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "독서실 vs 카페, 공부하기 어디가 더 좋아?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "새벽 배달 시키는 거 민폐야 아니야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "외식할 때 각자 계산 vs 한 명이 내고 다음에 바꿔서, 어느 쪽이 더 편해?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "편의점 삼각김밥 vs 집에서 싼 밥, 어느 쪽이 더 나아?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "음식 사진 찍고 나서 먹는 거 당연한 거야 아니면 그냥 먹는 게 나아?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "같이 사는 사람이랑 냉장고 공유하는 거 편해 불편해?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "밥 먹을 때 TV나 유튜브 틀어놓는 거 좋아 아니면 그냥 먹는 게 나아?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "세탁기 돌리기 전에 옷 색깔별로 분리하는 거 꼭 해야 해?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "카페 자리 맡으러 가방 놔두는 거 괜찮아 아니야?",
+    "category": "dailyLife"
+  },
+  {
+    "question": "OTT 시대에 극장 가는 의미가 있다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "SNS가 인간관계를 더 좋게 만들었을까 나쁘게 만들었을까?",
+    "category": "culture"
+  },
+  {
+    "question": "유튜브 숏츠나 릴스가 집중력을 망치고 있다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "아이돌 팬덤 문화, 이해해 아니면 좀 과하다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "책은 종이책으로 읽어야 더 의미 있다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "리메이크 드라마나 영화, 원작보다 잘 나온 경우가 있다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "AI가 그린 그림도 예술이라고 볼 수 있어?",
+    "category": "culture"
+  },
+  {
+    "question": "한류가 실제로 한국 이미지에 도움이 됐다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "유명인이 광고하는 제품, 믿을 수 있어?",
+    "category": "culture"
+  },
+  {
+    "question": "연예인 사생활이 공개되는 건 어디까지 괜찮아?",
+    "category": "culture"
+  },
+  {
+    "question": "뉴스보다 인스타나 유튜브가 더 정확하다고 느낀 적 있어?",
+    "category": "culture"
+  },
+  {
+    "question": "자막 없이 영화 보는 게 더 좋아 자막 있는 게 더 좋아?",
+    "category": "culture"
+  },
+  {
+    "question": "음원 사재기 논란, 아이돌 팬들이 잘못한 거야 시스템이 문제야?",
+    "category": "culture"
+  },
+  {
+    "question": "텍스트보다 영상으로 정보 소비하는 게 게으른 건 아니라고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "일본 여행 가는 거, 역사 문제랑 별개라고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "유명인 SNS 팔로우하는 거 삶에 도움이 돼 아니면 비교만 하게 돼?",
+    "category": "culture"
+  },
+  {
+    "question": "뮤직비디오 퀄리티가 음악만큼 중요하다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "편의점 도시락 문화가 발전한 게 좋은 현상이야?",
+    "category": "culture"
+  },
+  {
+    "question": "운동화 한정판 리셀 문화, 이해해 아니면 과하다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "요즘 드라마가 예전보다 더 좋아졌다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "인플루언서의 영향력이 너무 커졌다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "게임이 스포츠로 인정받아야 한다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "빌런이 나오는 드라마가 선한 주인공 드라마보다 재밌다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "웹툰이 종이 만화보다 더 대중화된 게 좋다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "해외여행이 국내 여행보다 항상 더 특별할까?",
+    "category": "culture"
+  },
+  {
+    "question": "결혼식 하객 축의금 얼마가 적당하다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "명절 문화가 변해야 한다고 생각해? 어떻게?",
+    "category": "culture"
+  },
+  {
+    "question": "공연 중에 핸드폰 쓰는 거 완전 금지해야 해?",
+    "category": "culture"
+  },
+  {
+    "question": "AI 번역기 발전으로 외국어 공부의 필요성이 줄었다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "소셜미디어 없이 마케팅하는 게 가능할까?",
+    "category": "culture"
+  },
+  {
+    "question": "요즘 콘텐츠가 너무 자극적으로 변한 것 같아?",
+    "category": "culture"
+  },
+  {
+    "question": "카카오나 네이버 같은 IT 대기업이 너무 많은 걸 독점하는 것 같아?",
+    "category": "culture"
+  },
+  {
+    "question": "웰빙 트렌드가 진짜 삶을 바꾼다고 생각해 아니면 마케팅일 뿐이야?",
+    "category": "culture"
+  },
+  {
+    "question": "유명인이 직접 음식 유튜브 채널 하는 거 흥미로워 아니면 이미지 소비야?",
+    "category": "culture"
+  },
+  {
+    "question": "스포일러를 봐도 재미있게 볼 수 있다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "노래방 문화가 점점 사라지는 게 아쉬워?",
+    "category": "culture"
+  },
+  {
+    "question": "20대 취업 문화에서 스펙보다 인성이 중요해야 한다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "명품이 돈 낭비라고 생각해 아니면 가치 있는 소비야?",
+    "category": "culture"
+  },
+  {
+    "question": "유튜버도 방송인만큼 영향력에 대한 책임을 져야 한다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "틱톡이나 릴스처럼 짧은 영상 콘텐츠가 긴 영상을 대체하고 있다고 생각해?",
+    "category": "culture"
+  },
+  {
+    "question": "남녀 사이에 순수한 우정이 가능하다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인 사이에 비밀이 있어도 괜찮아?",
+    "category": "relationship"
+  },
+  {
+    "question": "사귀기 전에 친구로 지내면 더 오래간다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "연락 빈도가 감정의 크기를 나타낸다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "첫눈에 반하는 게 진짜 사랑이 될 수 있다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "친구 관계에서 나이 차이가 중요하다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인이 서로의 SNS 계정을 알아야 한다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "장거리 연애가 가능하다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "사람은 변한다 vs 본성은 못 변한다, 어느 쪽에 가까워?",
+    "category": "relationship"
+  },
+  {
+    "question": "이별 후 친구로 지내는 거 가능해?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인 사이에 모든 걸 솔직하게 말하는 게 무조건 좋을까?",
+    "category": "relationship"
+  },
+  {
+    "question": "썸은 필요한 단계야 아니면 그냥 시간 낭비야?",
+    "category": "relationship"
+  },
+  {
+    "question": "친구 사이에서도 돈 거래는 하면 안 된다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인의 과거 연애 이야기, 꼭 알아야 해?",
+    "category": "relationship"
+  },
+  {
+    "question": "바람 피운 사람은 두 번 다시 신뢰하기 어렵다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "사람을 사귈 때 공통점이 중요해 아니면 차이점이 중요해?",
+    "category": "relationship"
+  },
+  {
+    "question": "짝사랑을 오래 하는 건 용기 없는 거야 아니면 순수한 거야?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인과 취미를 꼭 같이 해야 할 필요는 없다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "가족보다 친구가 더 중요할 수 있다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "소개팅 주선은 부담스러운 부탁이야 아니야?",
+    "category": "relationship"
+  },
+  {
+    "question": "나이 차이가 10살 이상 나는 연애, 문제없다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인과 함께 살아보기 전에 결혼하는 건 모험이야?",
+    "category": "relationship"
+  },
+  {
+    "question": "친구의 친구는 내 친구가 될 수 있어 아니면 어색해?",
+    "category": "relationship"
+  },
+  {
+    "question": "관계에서 먼저 연락하는 사람이 더 좋아하는 사람이야?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인 사이에 경제적 독립이 관계에 더 좋다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "친구가 나쁜 연애를 하고 있을 때 솔직하게 말해야 해?",
+    "category": "relationship"
+  },
+  {
+    "question": "사람을 좋아하는 감정은 노력한다고 생길 수 있다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "결혼은 사랑만으로 가능하다 vs 현실적인 조건도 맞아야 한다?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인과 싸울 때 그 자리에서 해결해야 해 아니면 각자 식힌 후에?",
+    "category": "relationship"
+  },
+  {
+    "question": "좋아하는 사람한테 먼저 고백하는 게 더 나아?",
+    "category": "relationship"
+  },
+  {
+    "question": "사이가 소원해진 친구를 먼저 연락하는 게 맞아?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인의 친구들과 친해져야 한다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "부모님이 연인을 반대하면 어떻게 할 거야?",
+    "category": "relationship"
+  },
+  {
+    "question": "소울메이트가 존재한다고 생각해?",
+    "category": "relationship"
+  },
+  {
+    "question": "친구한테 화났을 때 직접 말하는 게 나아 아니면 그냥 넘기는 게 나아?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인과 서로의 핸드폰을 볼 수 있어야 한다 vs 개인 공간은 보장돼야 한다?",
+    "category": "relationship"
+  },
+  {
+    "question": "관계는 노력해서 유지하는 거야 아니면 자연스럽게 가는 거야?",
+    "category": "relationship"
+  },
+  {
+    "question": "바쁠 때 연락이 줄어드는 건 이해할 수 있어?",
+    "category": "relationship"
+  },
+  {
+    "question": "연인 간의 질투는 사랑의 표시야 아니면 집착이야?",
+    "category": "relationship"
+  },
+  {
+    "question": "친한 친구의 전 연인과 사귀는 게 괜찮아?",
+    "category": "relationship"
+  },
+  {
+    "question": "돈이 있으면 대부분의 행복은 살 수 있다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "열심히 사는 것보다 즐겁게 사는 게 더 중요하다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "성공은 운이 50% 이상이라고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "행복하게 사는 게 잘 사는 것이다 vs 의미 있게 사는 게 잘 사는 것이다?",
+    "category": "life"
+  },
+  {
+    "question": "학벌이 사회에서 여전히 중요하다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "남들과 비교하는 게 나쁜 것만은 아니라고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "자기 자신을 먼저 챙기는 게 이기적인 거야 아니야?",
+    "category": "life"
+  },
+  {
+    "question": "노력하면 못 이룰 게 없다는 말, 동의해?",
+    "category": "life"
+  },
+  {
+    "question": "30대와 20대, 어느 쪽이 더 자유롭다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "경험이 많을수록 더 나은 사람이 된다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "지금 하기 싫은 일도 미래를 위해 참고 해야 한다 vs 지금 행복한 게 우선?",
+    "category": "life"
+  },
+  {
+    "question": "결혼을 꼭 해야 한다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "사람은 혼자 있어야 성장한다 vs 관계 속에서 성장한다?",
+    "category": "life"
+  },
+  {
+    "question": "솔직한 사람이 결국 더 잘 된다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "직업은 좋아하는 걸 해야 해 vs 잘하는 걸 해야 해?",
+    "category": "life"
+  },
+  {
+    "question": "안정적인 삶이 더 행복하다고 생각해 아니면 다이나믹한 삶이?",
+    "category": "life"
+  },
+  {
+    "question": "나이가 들수록 꿈이 작아지는 건 자연스러운 거야?",
+    "category": "life"
+  },
+  {
+    "question": "감정보다 이성이 중요한 결정에서 더 좋은 결과를 만든다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "한국에서 평범하게 사는 게 어려운 시대가 된 것 같아?",
+    "category": "life"
+  },
+  {
+    "question": "실패는 성공의 어머니다, 진짜 동의해?",
+    "category": "life"
+  },
+  {
+    "question": "부자로 태어난 게 능력이야 아니야?",
+    "category": "life"
+  },
+  {
+    "question": "나이 마흔 전에 하고 싶은 걸 다 해봐야 한다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "착하게 살면 결국 좋은 일이 생긴다고 믿어?",
+    "category": "life"
+  },
+  {
+    "question": "지금 세대가 부모 세대보다 더 힘들다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "자신을 희생하는 게 진짜 사랑이다 vs 자신을 잃으면 안 된다?",
+    "category": "life"
+  },
+  {
+    "question": "퇴사 후 창업, 도전할 가치가 있다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "부모님께 효도해야 한다는 의무감, 느껴?",
+    "category": "life"
+  },
+  {
+    "question": "억울한 일을 당했을 때 참는 게 현명한 거야?",
+    "category": "life"
+  },
+  {
+    "question": "나이답게 사는 게 있다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "걱정을 많이 하는 게 준비성이 있는 거야 아니면 에너지 낭비야?",
+    "category": "life"
+  },
+  {
+    "question": "인생에서 후회를 최소화하는 게 목표가 될 수 있어?",
+    "category": "life"
+  },
+  {
+    "question": "주변의 시선 때문에 결정을 바꾼 적 있어? 그게 맞다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "나쁜 경험도 결국 도움이 된다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "열정이 없어도 성실하게 할 수 있으면 그게 더 나은 삶이야?",
+    "category": "life"
+  },
+  {
+    "question": "평생 한 가지 일만 하는 게 더 좋아 아니면 다양하게 사는 게 더 좋아?",
+    "category": "life"
+  },
+  {
+    "question": "죽기 전에 후회 없이 살았다고 느낄 수 있을 것 같아?",
+    "category": "life"
+  },
+  {
+    "question": "좋은 집과 좋은 여행 중 하나만 선택해야 한다면?",
+    "category": "life"
+  },
+  {
+    "question": "인생에서 운이 노력보다 중요하다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "혼자가 편한 사람이 인간관계에서 손해를 본다고 생각해?",
+    "category": "life"
+  },
+  {
+    "question": "지금 이 순간이 인생에서 제일 좋은 때라고 느껴?",
+    "category": "life"
+  }
+]
