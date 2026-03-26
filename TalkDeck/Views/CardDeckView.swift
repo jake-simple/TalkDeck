@@ -1,9 +1,10 @@
 import SwiftUI
+import TipKit
 import UIKit
 
 struct CardDeckView: View {
     @State private var viewModel = CardDeckViewModel()
-    @AppStorage("selectedTheme") private var themeRawValue: String = AppTheme.halloween.rawValue
+    @AppStorage("selectedTheme") private var themeRawValue: String = AppTheme.minimal.rawValue
     @Environment(\.scenePhase) private var scenePhase
     @State private var isScreenAlwaysOn = false
     @State private var showThemePicker = false
@@ -15,6 +16,14 @@ struct CardDeckView: View {
     @State private var isShuffling = false
     @State private var shuffleOffsets: [CGSize] = []
     @State private var shuffleRotations: [Double] = []
+
+    // Tips
+    private let packPickerTip = PackPickerTip()
+    private let swipeCardTip = SwipeCardTip()
+    private let themePickerTip = ThemePickerTip()
+    private let screenAlwaysOnTip = ScreenAlwaysOnTip()
+    private let shuffleTip = ShuffleTip()
+    private let randomCardTip = RandomCardTip()
 
     private var theme: AppTheme {
         AppTheme(rawValue: themeRawValue) ?? .halloween
@@ -44,6 +53,7 @@ struct CardDeckView: View {
                             showPackPicker.toggle()
                             showThemePicker = false
                         }
+                        packPickerTip.invalidate(reason: .actionPerformed)
                     } label: {
                         HStack(spacing: 4) {
                             Image(systemName: viewModel.selectedPack.iconName)
@@ -53,6 +63,7 @@ struct CardDeckView: View {
                         }
                         .foregroundStyle(theme.accentColor)
                     }
+                    .popoverTip(packPickerTip)
 
                     Spacer()
 
@@ -60,11 +71,13 @@ struct CardDeckView: View {
                     Button {
                         isScreenAlwaysOn.toggle()
                         UIApplication.shared.isIdleTimerDisabled = isScreenAlwaysOn
+                        screenAlwaysOnTip.invalidate(reason: .actionPerformed)
                     } label: {
                         Image(systemName: isScreenAlwaysOn ? "sun.max.fill" : "sun.max")
                             .font(.title3)
                             .foregroundStyle(isScreenAlwaysOn ? theme.accentColor : theme.accentColor.opacity(0.4))
                     }
+                    .popoverTip(screenAlwaysOnTip)
 
                     // Theme picker button (right)
                     Button {
@@ -72,11 +85,13 @@ struct CardDeckView: View {
                             showThemePicker.toggle()
                             showPackPicker = false
                         }
+                        themePickerTip.invalidate(reason: .actionPerformed)
                     } label: {
                         Image(systemName: "paintpalette.fill")
                             .font(.title3)
                             .foregroundStyle(theme.accentColor)
                     }
+                    .popoverTip(themePickerTip)
                 }
                 .padding(.horizontal, 20)
                 .padding(.top, 8)
@@ -90,6 +105,7 @@ struct CardDeckView: View {
                 } else {
                     cardStackView
                         .offset(y: -12)
+                        .popoverTip(swipeCardTip)
                 }
 
                 Spacer()
@@ -99,6 +115,7 @@ struct CardDeckView: View {
                     // Shuffle button
                     Button {
                         performShuffle()
+                        shuffleTip.invalidate(reason: .actionPerformed)
                     } label: {
                         Image(systemName: "shuffle")
                             .font(.title3)
@@ -110,6 +127,7 @@ struct CardDeckView: View {
                                     .shadow(color: theme.cardShadowColor, radius: 4, y: 2)
                             )
                     }
+                    .popoverTip(shuffleTip)
 
                     Spacer()
 
@@ -125,6 +143,7 @@ struct CardDeckView: View {
                     // Random card button
                     Button {
                         viewModel.showRandom()
+                        randomCardTip.invalidate(reason: .actionPerformed)
                     } label: {
                         Image(systemName: "dice.fill")
                             .font(.title3)
@@ -136,6 +155,7 @@ struct CardDeckView: View {
                                     .shadow(color: theme.cardShadowColor, radius: 4, y: 2)
                             )
                     }
+                    .popoverTip(randomCardTip)
                 }
                 .padding(.horizontal, 24)
                 .padding(.bottom, 8)
@@ -177,6 +197,34 @@ struct CardDeckView: View {
         }
         .onShake {
             viewModel.showRandom()
+        }
+        .task {
+            // X dismiss 감지: 팁이 invalidated 되면 다음 팁 체이닝을 위해 donation 전송
+            var sent: Set<String> = []
+            while !Task.isCancelled {
+                if !sent.contains("pack"), case .invalidated = packPickerTip.status {
+                    AppTipEvents.packPickerDismissed.sendDonation()
+                    sent.insert("pack")
+                }
+                if !sent.contains("swipe"), case .invalidated = swipeCardTip.status {
+                    AppTipEvents.swipeCardDismissed.sendDonation()
+                    sent.insert("swipe")
+                }
+                if !sent.contains("theme"), case .invalidated = themePickerTip.status {
+                    AppTipEvents.themePickerDismissed.sendDonation()
+                    sent.insert("theme")
+                }
+                if !sent.contains("screen"), case .invalidated = screenAlwaysOnTip.status {
+                    AppTipEvents.screenAlwaysOnDismissed.sendDonation()
+                    sent.insert("screen")
+                }
+                if !sent.contains("shuffle"), case .invalidated = shuffleTip.status {
+                    AppTipEvents.shuffleDismissed.sendDonation()
+                    sent.insert("shuffle")
+                }
+                if sent.count >= 5 { break }
+                try? await Task.sleep(for: .milliseconds(150))
+            }
         }
     }
 
@@ -254,6 +302,7 @@ struct CardDeckView: View {
                             dragOffset = .zero
                             isDragging = false
                             viewModel.swipeCard()
+                            swipeCardTip.invalidate(reason: .actionPerformed)
                         }
                     } else {
                         snapBack()
@@ -269,6 +318,7 @@ struct CardDeckView: View {
                             dragOffset = .zero
                             isDragging = false
                             viewModel.swipeCard()
+                            swipeCardTip.invalidate(reason: .actionPerformed)
                         }
                     } else {
                         snapBack()
