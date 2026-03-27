@@ -1,0 +1,14 @@
+app_identifier("com.onessa.icedeck")
+username("simpleone.app@gmail.com")
+
+# 메타데이터
+copyright("2026 Onessa")
+
+
+# 자동 제출 비활성화
+submit_for_review(false)
+automatic_release(false)
+
+# 메타데이터 경로
+metadata_path("./fastlane/metadata")
+screenshots_path("./fastlane/screenshots")
