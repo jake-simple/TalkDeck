@@ -239,7 +239,7 @@ struct CardDeckView: View {
                 let stackScale = 1.0 - CGFloat(index) * 0.05
 
                 CardView(card: card, theme: theme)
-                    .frame(height: 400)
+                    .frame(maxWidth: 400, maxHeight: 400)
                     .padding(.horizontal, 24)
                     .scaleEffect(stackScale)
                     .offset(y: stackOffset)
@@ -375,7 +375,7 @@ struct CardDeckView: View {
                 }
 
             CardView(card: card, theme: theme)
-                .frame(height: 400)
+                .frame(maxWidth: 400, maxHeight: 400)
                 .padding(.horizontal, 32)
                 .transition(.asymmetric(
                     insertion: .move(edge: .top).combined(with: .opacity),
