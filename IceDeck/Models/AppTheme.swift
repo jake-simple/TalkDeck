@@ -22,24 +22,24 @@ enum AppTheme: String, CaseIterable {
 
     var name: String {
         switch self {
-        case .minimal: "미니멀"
-        case .halloween: "할로윈"
-        case .christmas: "크리스마스"
-        case .space: "은하"
-        case .cherryBlossom: "벚꽃"
-        case .retroGame: "레트로 아케이드"
-        case .autumn: "가을 단풍"
-        case .aurora: "오로라"
-        case .circus: "카니발"
-        case .desert: "사막의 밤"
-        case .candy: "캔디팝"
-        case .zenGarden: "선 가든"
-        case .forsythia: "개나리"
-        case .ocean: "바다"
-        case .neonCyber: "네온 시티"
-        case .korean: "한지"
-        case .rainyDay: "비 오는 날"
-        case .lavender: "라벤더"
+        case .minimal: String(localized: "theme_minimal")
+        case .halloween: String(localized: "theme_halloween")
+        case .christmas: String(localized: "theme_christmas")
+        case .space: String(localized: "theme_space")
+        case .cherryBlossom: String(localized: "theme_cherryBlossom")
+        case .retroGame: String(localized: "theme_retroGame")
+        case .autumn: String(localized: "theme_autumn")
+        case .aurora: String(localized: "theme_aurora")
+        case .circus: String(localized: "theme_circus")
+        case .desert: String(localized: "theme_desert")
+        case .candy: String(localized: "theme_candy")
+        case .zenGarden: String(localized: "theme_zenGarden")
+        case .forsythia: String(localized: "theme_forsythia")
+        case .ocean: String(localized: "theme_ocean")
+        case .neonCyber: String(localized: "theme_neonCyber")
+        case .korean: String(localized: "theme_korean")
+        case .rainyDay: String(localized: "theme_rainyDay")
+        case .lavender: String(localized: "theme_lavender")
         }
     }
 
