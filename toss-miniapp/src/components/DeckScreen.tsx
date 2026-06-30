@@ -47,11 +47,13 @@ export function DeckScreen() {
   const [awake, setAwake] = useState(false);
   const wakeLockRef = useRef<any>(null);
 
-  // 광고 / 무제한 이용권
-  const isUnlimited = useEntitlement((s) => s.isUnlimited);
+  // 광고 / 무제한 이용권 (테마·카드팩 각각 독립)
+  const isThemeUnlimited = useEntitlement((s) => s.isThemeUnlimited);
+  const isPackUnlimited = useEntitlement((s) => s.isPackUnlimited);
   const grantTheme = useEntitlement((s) => s.grantTheme);
   const grantPack = useEntitlement((s) => s.grantPack);
-  const unlimitedUntil = useEntitlement((s) => s.unlimitedUntil);
+  const themeUnlimitedUntil = useEntitlement((s) => s.themeUnlimitedUntil);
+  const packUnlimitedUntil = useEntitlement((s) => s.packUnlimitedUntil);
   const [adBusy, setAdBusy] = useState(false);
   const [toast, setToast] = useState<string | null>(null);
   const bannerRef = useRef<HTMLDivElement>(null);
@@ -69,10 +71,16 @@ export function DeckScreen() {
     window.setTimeout(() => setToast(null), 2400);
   }, []);
 
-  // 리워드 광고 게이트: 무제한이면 바로 적용, 아니면 광고 시청 후 적용.
+  // 리워드 광고 게이트: 해당 항목이 무제한이면 바로 적용, 아니면 광고 시청 후 적용.
   const gateApply = useCallback(
-    async (adGroupId: string, apply: () => void, grant: () => void, closePicker: () => void) => {
-      if (isUnlimited()) {
+    async (
+      isUnlimited: boolean,
+      adGroupId: string,
+      apply: () => void,
+      grant: () => void,
+      closePicker: () => void
+    ) => {
+      if (isUnlimited) {
         apply();
         closePicker();
         return;
@@ -88,25 +96,29 @@ export function DeckScreen() {
         showToast('광고를 끝까지 시청하면 변경돼요');
       }
     },
-    [isUnlimited, showToast]
+    [showToast]
   );
 
   const onPickTheme = useCallback(
     (key: ThemeKey) => {
-      void gateApply(AD_GROUP.themeReward, () => setTheme(key), grantTheme, () =>
+      void gateApply(isThemeUnlimited(), AD_GROUP.themeReward, () => setTheme(key), grantTheme, () =>
         setShowTheme(false)
       );
     },
-    [gateApply, setTheme, grantTheme]
+    [gateApply, isThemeUnlimited, setTheme, grantTheme]
   );
 
   const onPickPack = useCallback(
     (key: PackKey) => {
-      void gateApply(AD_GROUP.packReward, () => void selectPack(key), grantPack, () =>
-        setShowPack(false)
+      void gateApply(
+        isPackUnlimited(),
+        AD_GROUP.packReward,
+        () => void selectPack(key),
+        grantPack,
+        () => setShowPack(false)
       );
     },
-    [gateApply, selectPack, grantPack]
+    [gateApply, isPackUnlimited, selectPack, grantPack]
   );
 
   // 하단 배너 부착 (테마 라이트/다크에 맞춰 재부착)
@@ -256,27 +268,30 @@ export function DeckScreen() {
             padding: '8px 20px 0',
           }}
         >
-          <button
-            onClick={() => {
-              setShowPack(true);
-              setShowTheme(false);
-            }}
-            style={{
-              display: 'flex',
-              alignItems: 'center',
-              gap: 4,
-              color: rgb(theme.accentColor),
-              fontFamily: FONT_FAMILY[theme.fontDesign],
-              fontWeight: 500,
-              fontSize: 15,
-            }}
-          >
-            <Icon name={PACKS[selectedPack].iconName} size={16} color={rgb(theme.accentColor)} />
-            {t(PACKS[selectedPack].nameKey)}
-          </button>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+            <button
+              onClick={() => {
+                setShowPack(true);
+                setShowTheme(false);
+              }}
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                gap: 4,
+                color: rgb(theme.accentColor),
+                fontFamily: FONT_FAMILY[theme.fontDesign],
+                fontWeight: 500,
+                fontSize: 15,
+              }}
+            >
+              <Icon name={PACKS[selectedPack].iconName} size={16} color={rgb(theme.accentColor)} />
+              {t(PACKS[selectedPack].nameKey)}
+            </button>
+            <UnlimitedPill theme={theme} until={packUnlimitedUntil} />
+          </div>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-            <UnlimitedPill theme={theme} until={unlimitedUntil} />
+            <UnlimitedPill theme={theme} until={themeUnlimitedUntil} />
             <button onClick={toggleAwake}>
               <Icon
                 name={awake ? 'sun.max.fill' : 'sun.max'}

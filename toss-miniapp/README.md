@@ -83,7 +83,7 @@ src/
 
 - 하단 배너: `TossAds.attachBanner` (`src/lib/ads.ts` → `DeckScreen` 하단 컨테이너)
 - 리워드(전면): `loadFullScreenAd`+`showFullScreenAd`, `userEarnedReward` 로 보상 판정
-- 게이팅: 테마 변경 / 카드팩 변경 시 리워드 광고 1회. **둘 다 시청 시 1시간 무제한**(`src/store/useEntitlement.ts`, localStorage 영속).
+- 게이팅: 테마 변경 / 카드팩 변경 시 각각 리워드 광고 1회. **테마 리워드 시청 → 테마 변경만 1시간 무제한, 카드팩 리워드 시청 → 카드팩 변경만 1시간 무제한** (서로 독립, `src/store/useEntitlement.ts`, localStorage 영속).
 - 토스 웹뷰 밖(일반 브라우저)에서는 광고가 fail-open(통과)되어 앱이 정상 동작.
 
 > **필수**: `src/lib/adConfig.ts` 의 `AD_GROUP.banner/themeReward/packReward` 를 앱인토스 콘솔에서 발급한 실제 광고 그룹 ID로 교체해야 광고가 노출됩니다. (빌드 시 `AIT_AD_BANNER`/`AIT_AD_THEME_REWARD`/`AIT_AD_PACK_REWARD` 환경변수로도 주입 가능)
