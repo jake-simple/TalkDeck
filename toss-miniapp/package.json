@@ -1,0 +1,31 @@
+{
+  "name": "talkdeck-toss",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TalkDeck (이야기 카드) - Apps in Toss mini app",
+  "scripts": {
+    "dev": "granite dev",
+    "build": "granite build",
+    "preview": "rsbuild preview",
+    "standalone:dev": "rsbuild dev",
+    "standalone:build": "rsbuild build",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "deploy": "ait deploy"
+  },
+  "dependencies": {
+    "@apps-in-toss/web-framework": "1.5.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remixicon": "^4.6.0",
+    "zustand": "^5.0.7"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^1.2.4",
+    "@rsbuild/plugin-react": "^1.1.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "typescript": "~5.6.2"
+  },
+  "packageManager": "yarn@1.22.22"
+}
