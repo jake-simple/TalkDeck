@@ -1,5 +1,12 @@
-import { type PointerEvent as ReactPointerEvent, useEffect, useRef, useState } from 'react';
+import {
+  type PointerEvent as ReactPointerEvent,
+  useCallback,
+  useEffect,
+  useRef,
+  useState,
+} from 'react';
 import { useDeck } from '../store/useDeck';
+import { useOverlayBack } from '../lib/useOverlayBack';
 import { useThemeStore } from '../store/useThemeStore';
 import { THEMES } from '../theme/themes';
 import type { Theme } from '../theme/types';
@@ -36,6 +43,14 @@ export function DeckScreen() {
   const [showTheme, setShowTheme] = useState(false);
   const [awake, setAwake] = useState(false);
   const wakeLockRef = useRef<any>(null);
+
+  // 토스 뒤로가기로 오버레이(팩/테마 픽커, 랜덤 카드)를 닫는다.
+  const closeOverlay = useCallback(() => {
+    setShowPack(false);
+    setShowTheme(false);
+    closeRandom();
+  }, [closeRandom]);
+  useOverlayBack(showPack || showTheme || showRandomCard, closeOverlay);
 
   const [offset, setOffset] = useState({ x: 0, y: 0 });
   const [animating, setAnimating] = useState(false);

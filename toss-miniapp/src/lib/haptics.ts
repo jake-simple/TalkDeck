@@ -8,11 +8,12 @@ const FALLBACK_MS: Record<HapticType, number> = {
   random: 30,
 };
 
-// web-framework 햅틱 타입 매핑 (SDK 시그니처 변동 대비 best-effort).
+// web-framework(@apps-in-toss) generateHapticFeedback 타입 매핑.
+// 유효 타입: tickWeak | tap | tickMedium | softMedium | basicWeak | basicMedium | success | error | wiggle | confetti
 const SDK_TYPE: Record<HapticType, string> = {
-  swipe: 'tickWeak',
-  shuffle: 'basicWeak',
-  random: 'success',
+  swipe: 'tickWeak', // 가벼운 스와이프
+  shuffle: 'basicMedium', // 셔플 (중간 임팩트)
+  random: 'success', // 랜덤 카드 (성공 알림)
 };
 
 let sdkFn: ((opts: { type: string }) => void) | null | undefined;
