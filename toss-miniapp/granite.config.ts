@@ -19,7 +19,6 @@ export default defineConfig({
     // TODO: 토스 콘솔에 업로드한 실제 아이콘 URL로 교체
     icon: 'https://static.toss.im/appsintoss/placeholder/icebreakingcard-icon.png',
     primaryColor: '#5E63B6',
-    bridgeColorMode: 'inverted',
   },
   webViewProps: {
     type: 'partner',

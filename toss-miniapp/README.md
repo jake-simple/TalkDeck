@@ -5,7 +5,7 @@
 ## 스택
 
 - `@apps-in-toss/web-framework` (Granite) + React 18 + TypeScript
-- 번들러: rsbuild (`granite dev` / `granite build` 가 내부적으로 사용)
+- 번들러: rsbuild (`ait dev` / `ait build` 가 내부적으로 사용)
 - 상태관리: zustand
 - 아이콘: remixicon (SF Symbol → 웹 아이콘 매핑은 `src/lib/icon.tsx`)
 
@@ -15,13 +15,13 @@
 npm install          # 또는 yarn
 
 # 앱인토스(Granite) 개발 서버
-npm run dev          # granite dev
+npm run dev          # ait dev
 
 # 일반 웹(rsbuild) 단독 실행 — 토스 SDK 없이 UI 확인용
 npm run standalone:dev
 
 npm run typecheck    # tsc --noEmit
-npm run build        # granite build
+npm run build        # ait build
 npm run deploy       # ait deploy (앱인토스 콘솔 배포)
 ```
 
