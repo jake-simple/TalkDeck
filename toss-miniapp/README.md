@@ -78,3 +78,12 @@ src/
 - 사업자등록 및 토스 개발자센터 파트너 입점 신청
 - 콘솔에 앱 등록(아이콘/스플래시/메타데이터) 후 `granite.config.ts` 값 일치
 - 토스 심사 + QA (평균 2~4주), 만 19세 이상 대상 / iOS 16+, Android 7+
+
+## 광고 (앱인토스 web-framework)
+
+- 하단 배너: `TossAds.attachBanner` (`src/lib/ads.ts` → `DeckScreen` 하단 컨테이너)
+- 리워드(전면): `loadFullScreenAd`+`showFullScreenAd`, `userEarnedReward` 로 보상 판정
+- 게이팅: 테마 변경 / 카드팩 변경 시 리워드 광고 1회. **둘 다 시청 시 1시간 무제한**(`src/store/useEntitlement.ts`, localStorage 영속).
+- 토스 웹뷰 밖(일반 브라우저)에서는 광고가 fail-open(통과)되어 앱이 정상 동작.
+
+> **필수**: `src/lib/adConfig.ts` 의 `AD_GROUP.banner/themeReward/packReward` 를 앱인토스 콘솔에서 발급한 실제 광고 그룹 ID로 교체해야 광고가 노출됩니다. (빌드 시 `AIT_AD_BANNER`/`AIT_AD_THEME_REWARD`/`AIT_AD_PACK_REWARD` 환경변수로도 주입 가능)

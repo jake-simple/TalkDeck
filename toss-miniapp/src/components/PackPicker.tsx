@@ -109,8 +109,8 @@ export function PackPicker({
       onClose();
       return;
     }
+    // 광고 게이트/적용/닫기는 부모(onSelect)가 처리한다.
     onSelect(pack.key);
-    onClose();
   };
 
   return (

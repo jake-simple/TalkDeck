@@ -114,8 +114,12 @@ export function ThemePicker({
 
   const activate = (idx: number) => {
     const th = ALL_THEMES[idx];
+    if (th.key === selectedTheme) {
+      onClose();
+      return;
+    }
+    // 광고 게이트/적용/닫기는 부모(onSelect)가 처리한다.
     onSelect(th.key);
-    onClose();
   };
 
   return (

@@ -106,3 +106,14 @@ button {
   from { opacity: 0; transform: translateY(-40px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+/* 광고 로딩 스피너 */
+@keyframes aitSpin { to { transform: rotate(360deg); } }
+.ait-spinner {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 3px solid rgba(255, 255, 255, 0.25);
+  border-top-color: #fff;
+  animation: aitSpin 0.8s linear infinite;
+}

@@ -9,17 +9,20 @@ import { useDeck } from '../store/useDeck';
 import { useOverlayBack } from '../lib/useOverlayBack';
 import { useThemeStore } from '../store/useThemeStore';
 import { THEMES } from '../theme/themes';
-import type { Theme } from '../theme/types';
+import type { Theme, ThemeKey } from '../theme/types';
 import { FONT_FAMILY } from '../theme/types';
 import { rgb, rgba, linearGradient } from '../lib/colors';
 import { Haptics } from '../lib/haptics';
 import { t } from '../i18n';
-import { PACKS } from '../theme/packs';
+import { PACKS, type PackKey } from '../theme/packs';
 import { Icon } from '../lib/icon';
 import { CardView } from './CardView';
 import { ThemeParticleScene } from './ThemeParticleScene';
 import { PackPicker } from './PackPicker';
 import { ThemePicker } from './ThemePicker';
+import { useEntitlement } from '../store/useEntitlement';
+import { attachBanner, showRewardedAd } from '../lib/ads';
+import { AD_GROUP } from '../lib/adConfig';
 
 const SWIPE_THRESHOLD = 60;
 
@@ -44,6 +47,15 @@ export function DeckScreen() {
   const [awake, setAwake] = useState(false);
   const wakeLockRef = useRef<any>(null);
 
+  // 광고 / 무제한 이용권
+  const isUnlimited = useEntitlement((s) => s.isUnlimited);
+  const grantTheme = useEntitlement((s) => s.grantTheme);
+  const grantPack = useEntitlement((s) => s.grantPack);
+  const unlimitedUntil = useEntitlement((s) => s.unlimitedUntil);
+  const [adBusy, setAdBusy] = useState(false);
+  const [toast, setToast] = useState<string | null>(null);
+  const bannerRef = useRef<HTMLDivElement>(null);
+
   // 토스 뒤로가기로 오버레이(팩/테마 픽커, 랜덤 카드)를 닫는다.
   const closeOverlay = useCallback(() => {
     setShowPack(false);
@@ -51,6 +63,67 @@ export function DeckScreen() {
     closeRandom();
   }, [closeRandom]);
   useOverlayBack(showPack || showTheme || showRandomCard, closeOverlay);
+
+  const showToast = useCallback((msg: string) => {
+    setToast(msg);
+    window.setTimeout(() => setToast(null), 2400);
+  }, []);
+
+  // 리워드 광고 게이트: 무제한이면 바로 적용, 아니면 광고 시청 후 적용.
+  const gateApply = useCallback(
+    async (adGroupId: string, apply: () => void, grant: () => void, closePicker: () => void) => {
+      if (isUnlimited()) {
+        apply();
+        closePicker();
+        return;
+      }
+      setAdBusy(true);
+      const ok = await showRewardedAd(adGroupId);
+      setAdBusy(false);
+      if (ok) {
+        apply();
+        grant();
+        closePicker();
+      } else {
+        showToast('광고를 끝까지 시청하면 변경돼요');
+      }
+    },
+    [isUnlimited, showToast]
+  );
+
+  const onPickTheme = useCallback(
+    (key: ThemeKey) => {
+      void gateApply(AD_GROUP.themeReward, () => setTheme(key), grantTheme, () =>
+        setShowTheme(false)
+      );
+    },
+    [gateApply, setTheme, grantTheme]
+  );
+
+  const onPickPack = useCallback(
+    (key: PackKey) => {
+      void gateApply(AD_GROUP.packReward, () => void selectPack(key), grantPack, () =>
+        setShowPack(false)
+      );
+    },
+    [gateApply, selectPack, grantPack]
+  );
+
+  // 하단 배너 부착 (테마 라이트/다크에 맞춰 재부착)
+  useEffect(() => {
+    const el = bannerRef.current;
+    if (!el) return;
+    let cleanup = () => {};
+    let cancelled = false;
+    void attachBanner(AD_GROUP.banner, el, theme.isDark ? 'dark' : 'light').then((c) => {
+      if (cancelled) c();
+      else cleanup = c;
+    });
+    return () => {
+      cancelled = true;
+      cleanup();
+    };
+  }, [theme.isDark]);
 
   const [offset, setOffset] = useState({ x: 0, y: 0 });
   const [animating, setAnimating] = useState(false);
@@ -203,6 +276,7 @@ export function DeckScreen() {
           </button>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+            <UnlimitedPill theme={theme} until={unlimitedUntil} />
             <button onClick={toggleAwake}>
               <Icon
                 name={awake ? 'sun.max.fill' : 'sun.max'}
@@ -309,6 +383,12 @@ export function DeckScreen() {
           )}
           <RoundButton theme={theme} icon="dice.fill" onClick={showRandom} />
         </div>
+
+        {/* 하단 배너 광고 */}
+        <div
+          ref={bannerRef}
+          style={{ width: '100%', minHeight: 0, flex: '0 0 auto' }}
+        />
       </div>
 
       {/* 랜덤 카드 오버레이 */}
@@ -344,18 +424,92 @@ export function DeckScreen() {
         <PackPicker
           theme={theme}
           selectedPack={selectedPack}
-          onSelect={(p) => void selectPack(p)}
+          onSelect={onPickPack}
           onClose={() => setShowPack(false)}
         />
       )}
       {showTheme && (
         <ThemePicker
           selectedTheme={themeKey}
-          onSelect={setTheme}
+          onSelect={onPickTheme}
           onClose={() => setShowTheme(false)}
         />
       )}
+
+      {/* 광고 로딩 오버레이 */}
+      {adBusy && (
+        <div
+          style={{
+            position: 'fixed',
+            inset: 0,
+            zIndex: 60,
+            background: 'rgba(0,0,0,0.55)',
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            gap: 14,
+            color: '#fff',
+          }}
+        >
+          <div className="ait-spinner" />
+          <div style={{ fontSize: 14, opacity: 0.85 }}>광고를 불러오는 중…</div>
+        </div>
+      )}
+
+      {/* 토스트 */}
+      {toast && (
+        <div
+          style={{
+            position: 'fixed',
+            left: '50%',
+            bottom: 'calc(96px + env(safe-area-inset-bottom))',
+            transform: 'translateX(-50%)',
+            zIndex: 60,
+            background: 'rgba(0,0,0,0.82)',
+            color: '#fff',
+            fontSize: 13,
+            padding: '10px 16px',
+            borderRadius: 999,
+            whiteSpace: 'nowrap',
+            animation: 'overlayIn 0.2s ease',
+          }}
+        >
+          {toast}
+        </div>
+      )}
     </div>
+  );
+}
+
+function UnlimitedPill({ theme, until }: { theme: Theme; until: number }) {
+  const [now, setNow] = useState(Date.now());
+  useEffect(() => {
+    if (until <= Date.now()) return;
+    const id = window.setInterval(() => setNow(Date.now()), 1000);
+    return () => window.clearInterval(id);
+  }, [until]);
+  const remain = until - now;
+  if (remain <= 0) return null;
+  const mm = Math.floor(remain / 60000);
+  const ss = Math.floor((remain % 60000) / 1000);
+  return (
+    <span
+      style={{
+        display: 'inline-flex',
+        alignItems: 'center',
+        gap: 4,
+        fontSize: 11,
+        fontWeight: 700,
+        color: '#fff',
+        background: rgb(theme.accentColor),
+        padding: '3px 8px',
+        borderRadius: 999,
+      }}
+    >
+      <Icon name="bolt.fill" size={10} color="#fff" />
+      {`무제한 ${mm}:${String(ss).padStart(2, '0')}`}
+    </span>
   );
 }
 
