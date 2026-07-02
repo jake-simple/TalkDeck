@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1932px; height: 828px; overflow: hidden; }
+  .wrap {
+    width: 1932px; height: 828px; position: relative; overflow: hidden;
+    background: linear-gradient(120deg, #5E63B6 0%, #7B5FC9 50%, #9B5FCB 100%);
+    font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+    display: flex; align-items: center;
+  }
+  .left { padding-left: 130px; width: 56%; color: #fff; z-index: 2; }
+  .badge {
+    display: inline-block; padding: 10px 22px; border-radius: 999px;
+    background: rgba(255,255,255,0.18); font-size: 26px; font-weight: 600;
+    letter-spacing: 1px; margin-bottom: 30px;
+  }
+  .title { font-size: 96px; font-weight: 800; line-height: 1.12; letter-spacing: -2px; }
+  .tagline { font-size: 40px; font-weight: 500; margin-top: 28px; color: rgba(255,255,255,0.92); }
+  .sub { font-size: 28px; margin-top: 18px; color: rgba(255,255,255,0.7); }
+  .cards { position: absolute; right: 90px; top: 50%; transform: translateY(-50%); width: 720px; height: 720px; }
+  .card {
+    position: absolute; left: 50%; top: 50%;
+    width: 340px; height: 460px; border-radius: 32px;
+    box-shadow: 0 30px 70px rgba(30,15,60,0.4);
+    display: flex; align-items: center; justify-content: center;
+    text-align: center; padding: 40px; font-weight: 700;
+  }
+  .ca { transform: translate(-66%,-52%) rotate(-15deg); background: #1a0e26; color: #f5ece0;
+        border: 2px solid rgba(255,150,40,0.6); font-size: 36px; }
+  .cb { transform: translate(-30%,-48%) rotate(9deg); background: #fff8f0; color: #4a2b12;
+        font-size: 38px; }
+  .cc { transform: translate(-48%,-50%) rotate(-3deg); background: #fdf6ff; color: #4a2050;
+        font-size: 40px; border: 2px solid rgba(150,90,200,0.4); z-index: 3; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="left">
+      <span class="badge">이야기 카드</span>
+      <div class="title">어색한 자리를<br/>풀어주는 대화 카드</div>
+      <div class="tagline">친구 · 연인 · 가족 · 소개팅 · 모임</div>
+      <div class="sub">15가지 질문 팩 · 18가지 카드 테마</div>
+    </div>
+    <div class="cards">
+      <div class="card ca">오늘 가장 기억에 남는<br/>순간은?</div>
+      <div class="card cb">요즘 가장<br/>행복한 일은?</div>
+      <div class="card cc">처음 만났을 때<br/>어떤 느낌이었어?</div>
+    </div>
+  </div>
+</body>
+</html>

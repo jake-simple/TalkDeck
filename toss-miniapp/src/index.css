@@ -1,0 +1,119 @@
+:root {
+  --font-default: 'Pretendard Variable', Pretendard, -apple-system,
+    BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI',
+    'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+  --font-serif: 'Nanum Myeongjo', 'Apple SD Gothic Neo', Georgia, 'Times New Roman',
+    serif;
+  --font-rounded: 'Pretendard Variable', 'Apple SD Gothic Neo', ui-rounded,
+    'Quicksand', sans-serif;
+  --font-mono: 'SF Mono', 'D2Coding', 'Courier New', ui-monospace, monospace;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  font-family: var(--font-default);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+#root {
+  height: 100vh;
+  height: 100dvh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  padding: 0;
+  color: inherit;
+}
+
+/* 텍스트 선택/드래그 방지 (게임 카드 UX) */
+.no-select {
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* 스크롤바 숨김 (팬 스크롤러) */
+.no-select::-webkit-scrollbar {
+  display: none;
+}
+
+/* 픽커 등장 애니메이션 */
+@keyframes pickerFadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+.picker-fade-in {
+  animation: pickerFadeIn 0.35s cubic-bezier(0.2, 0.8, 0.3, 1);
+}
+
+/* 픽커 배경 빛망울 */
+.picker-orb {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(60px);
+  will-change: transform;
+}
+.picker-orb-a {
+  width: 320px;
+  height: 320px;
+  top: 8%;
+  left: 10%;
+  animation: orbDriftA 14s ease-in-out infinite;
+}
+.picker-orb-b {
+  width: 360px;
+  height: 360px;
+  bottom: 10%;
+  right: 8%;
+  animation: orbDriftB 18s ease-in-out infinite;
+}
+@keyframes orbDriftA {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(40px, 30px) scale(1.15); }
+}
+@keyframes orbDriftB {
+  0%, 100% { transform: translate(0, 0) scale(1.1); }
+  50% { transform: translate(-50px, -25px) scale(0.95); }
+}
+
+/* 랜덤 카드 오버레이 */
+@keyframes overlayIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes randomCardIn {
+  from { opacity: 0; transform: translateY(-40px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* 광고 로딩 스피너 */
+@keyframes aitSpin { to { transform: rotate(360deg); } }
+.ait-spinner {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 3px solid rgba(255, 255, 255, 0.25);
+  border-top-color: #fff;
+  animation: aitSpin 0.8s linear infinite;
+}
