@@ -23,6 +23,7 @@ import { ThemePicker } from './ThemePicker';
 import { useEntitlement } from '../store/useEntitlement';
 import { attachBanner, showRewardedAd } from '../lib/ads';
 import { AD_GROUP } from '../lib/adConfig';
+import { getInitialDeepLinkScreen } from '../lib/deeplink';
 
 const SWIPE_THRESHOLD = 60;
 
@@ -66,6 +67,14 @@ export function DeckScreen() {
     closeRandom();
   }, [closeRandom]);
   useOverlayBack(showPack || showTheme || showRandomCard, closeOverlay);
+
+  // 앱인토스 "앱 내 기능" 딥링크: intoss://icebreakingcard/packPicker, /themePicker
+  useEffect(() => {
+    void getInitialDeepLinkScreen().then((screen) => {
+      if (screen === 'packPicker') setShowPack(true);
+      else if (screen === 'themePicker') setShowTheme(true);
+    });
+  }, []);
 
   const showToast = useCallback((msg: string) => {
     setToast(msg);
