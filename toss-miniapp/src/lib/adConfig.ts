@@ -7,11 +7,11 @@ const env = (typeof process !== 'undefined' ? process.env : undefined) as
 
 export const AD_GROUP = {
   /** 하단 배너 광고 그룹 ID */
-  banner: env?.AIT_AD_BANNER ?? 'REPLACE_WITH_BANNER_AD_GROUP_ID',
+  banner: env?.AIT_AD_BANNER ?? 'ait.v2.live.a536c1d4ae764266',
   /** 테마 변경 시 리워드(전면) 광고 그룹 ID */
-  themeReward: env?.AIT_AD_THEME_REWARD ?? 'REPLACE_WITH_THEME_REWARD_AD_GROUP_ID',
+  themeReward: env?.AIT_AD_THEME_REWARD ?? 'ait.v2.live.8d018e6463c14be0',
   /** 카드팩 변경 시 리워드(전면) 광고 그룹 ID */
-  packReward: env?.AIT_AD_PACK_REWARD ?? 'REPLACE_WITH_PACK_REWARD_AD_GROUP_ID',
+  packReward: env?.AIT_AD_PACK_REWARD ?? 'ait.v2.live.58085962c4194438',
 };
 
 /** 테마+카드팩 리워드를 모두 시청하면 부여되는 무제한 이용 시간 (1시간) */
