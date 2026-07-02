@@ -15,7 +15,7 @@ export default defineConfig({
   permissions: [],
   outdir: 'dist',
   brand: {
-    displayName: '아이스브레이킹 카드',
+    displayName: '이야기 카드',
     // TODO: 토스 콘솔에 업로드한 실제 아이콘 URL로 교체
     icon: 'https://static.toss.im/appsintoss/placeholder/icebreakingcard-icon.png',
     primaryColor: '#5E63B6',
