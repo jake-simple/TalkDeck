@@ -189,10 +189,10 @@ export function PackPicker({
         </div>
       </div>
 
-      <div style={{ height: 20 }} />
+      <div style={{ flex: 1 }} />
 
-      {/* select button */}
-      <div style={{ padding: '0 40px 24px', zIndex: 1 }}>
+      {/* select button — 카드 팬 바로 위에 위치 */}
+      <div style={{ padding: '0 40px 16px', zIndex: 1 }}>
         <button
           onClick={() => activate(centerIdx)}
           style={{
@@ -251,9 +251,7 @@ export function PackPicker({
         </div>
       </div>
 
-      <div style={{ flex: 1 }} />
-
-      {/* fan — 기존처럼 화면 하단에 고정 */}
+      {/* fan — 화면 하단, 버튼 바로 아래 */}
       <div style={{ paddingBottom: 40, zIndex: 1 }}>
         <FanScroller
           items={ALL_PACKS}
