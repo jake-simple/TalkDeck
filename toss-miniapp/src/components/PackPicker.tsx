@@ -189,7 +189,7 @@ export function PackPicker({
         </div>
       </div>
 
-      <div style={{ flex: 1 }} />
+      <div style={{ flex: 1, maxHeight: 40 }} />
 
       {/* select button */}
       <div style={{ padding: '0 40px 24px', zIndex: 1 }}>
