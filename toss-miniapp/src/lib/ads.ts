@@ -24,18 +24,43 @@ function supported(fn: any): boolean {
   }
 }
 
-let inited = false;
-async function ensureInit(sdk: Sdk): Promise<boolean> {
-  try {
-    if (!sdk?.TossAds?.initialize || !supported(sdk.TossAds.initialize)) return false;
-    if (!inited) {
-      sdk.TossAds.initialize({});
-      inited = true;
+let initPromise: Promise<boolean> | undefined;
+/**
+ * TossAds.initialize 는 콜백 기반 비동기 초기화라, 완료(onInitialized) 전에
+ * attachBanner 를 호출하면 조용히 실패할 수 있다. 완료(또는 실패/타임아웃)까지 기다린다.
+ */
+function ensureInit(sdk: Sdk): Promise<boolean> {
+  if (initPromise) return initPromise;
+  initPromise = new Promise<boolean>((resolve) => {
+    try {
+      if (!sdk?.TossAds?.initialize || !supported(sdk.TossAds.initialize)) {
+        resolve(false);
+        return;
+      }
+      let settled = false;
+      const finish = (ok: boolean) => {
+        if (settled) return;
+        settled = true;
+        resolve(ok);
+      };
+      const timer = setTimeout(() => finish(true), 4000);
+      sdk.TossAds.initialize({
+        callbacks: {
+          onInitialized: () => {
+            clearTimeout(timer);
+            finish(true);
+          },
+          onInitializationFailed: () => {
+            clearTimeout(timer);
+            finish(false);
+          },
+        },
+      });
+    } catch {
+      resolve(false);
     }
-    return true;
-  } catch {
-    return false;
-  }
+  });
+  return initPromise;
 }
 
 /** 광고(전면/리워드)가 현재 환경에서 지원되는지 */
@@ -54,24 +79,37 @@ export async function attachBanner(
   theme: 'light' | 'dark'
 ): Promise<() => void> {
   const sdk = await getSdk();
-  try {
-    if (sdk?.TossAds?.attachBanner && (await ensureInit(sdk))) {
-      const res = sdk.TossAds.attachBanner(adGroupId, target, {
-        theme,
-        variant: 'card',
-      });
-      return () => {
-        try {
-          res?.destroy?.();
-        } catch {
-          /* no-op */
-        }
-      };
-    }
-  } catch {
-    /* no-op */
+  if (!sdk?.TossAds?.attachBanner) {
+    console.warn('[ads] TossAds.attachBanner 를 찾을 수 없어요 (SDK 미로드/미지원 환경)');
+    return () => {};
   }
-  return () => {};
+  const ok = await ensureInit(sdk);
+  if (!ok) {
+    console.warn('[ads] TossAds.initialize 실패/미지원 — 배너를 붙이지 않아요');
+    return () => {};
+  }
+  try {
+    const res = sdk.TossAds.attachBanner(adGroupId, target, {
+      theme,
+      variant: 'card',
+      callbacks: {
+        onAdRendered: () => console.info('[ads] banner rendered', adGroupId),
+        onAdFailedToRender: (p: any) =>
+          console.warn('[ads] banner failed to render', adGroupId, p),
+        onNoFill: (p: any) => console.warn('[ads] banner no fill', adGroupId, p),
+      },
+    });
+    return () => {
+      try {
+        res?.destroy?.();
+      } catch {
+        /* no-op */
+      }
+    };
+  } catch (e) {
+    console.warn('[ads] attachBanner 호출 중 오류', e);
+    return () => {};
+  }
 }
 
 /**

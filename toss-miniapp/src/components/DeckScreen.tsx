@@ -52,8 +52,6 @@ export function DeckScreen() {
   const isPackUnlimited = useEntitlement((s) => s.isPackUnlimited);
   const grantTheme = useEntitlement((s) => s.grantTheme);
   const grantPack = useEntitlement((s) => s.grantPack);
-  const themeUnlimitedUntil = useEntitlement((s) => s.themeUnlimitedUntil);
-  const packUnlimitedUntil = useEntitlement((s) => s.packUnlimitedUntil);
   const [adBusy, setAdBusy] = useState(false);
   const [toast, setToast] = useState<string | null>(null);
   const bannerRef = useRef<HTMLDivElement>(null);
@@ -287,11 +285,9 @@ export function DeckScreen() {
               <Icon name={PACKS[selectedPack].iconName} size={16} color={rgb(theme.accentColor)} />
               {t(PACKS[selectedPack].nameKey)}
             </button>
-            <UnlimitedPill theme={theme} until={packUnlimitedUntil} />
           </div>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-            <UnlimitedPill theme={theme} until={themeUnlimitedUntil} />
             <button onClick={toggleAwake}>
               <Icon
                 name={awake ? 'sun.max.fill' : 'sun.max'}
@@ -399,10 +395,18 @@ export function DeckScreen() {
           <RoundButton theme={theme} icon="dice.fill" onClick={showRandom} />
         </div>
 
-        {/* 하단 배너 광고 */}
+        {/* 하단 배너 광고 (배너 SDK가 콘텐츠를 채울 수 있도록 실제 높이를 확보) */}
         <div
           ref={bannerRef}
-          style={{ width: '100%', minHeight: 0, flex: '0 0 auto' }}
+          style={{
+            width: '100%',
+            minHeight: 64,
+            flex: '0 0 auto',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            overflow: 'hidden',
+          }}
         />
       </div>
 
@@ -494,37 +498,6 @@ export function DeckScreen() {
         </div>
       )}
     </div>
-  );
-}
-
-function UnlimitedPill({ theme, until }: { theme: Theme; until: number }) {
-  const [now, setNow] = useState(Date.now());
-  useEffect(() => {
-    if (until <= Date.now()) return;
-    const id = window.setInterval(() => setNow(Date.now()), 1000);
-    return () => window.clearInterval(id);
-  }, [until]);
-  const remain = until - now;
-  if (remain <= 0) return null;
-  const mm = Math.floor(remain / 60000);
-  const ss = Math.floor((remain % 60000) / 1000);
-  return (
-    <span
-      style={{
-        display: 'inline-flex',
-        alignItems: 'center',
-        gap: 4,
-        fontSize: 11,
-        fontWeight: 700,
-        color: '#fff',
-        background: rgb(theme.accentColor),
-        padding: '3px 8px',
-        borderRadius: 999,
-      }}
-    >
-      <Icon name="bolt.fill" size={10} color="#fff" />
-      {`무제한 ${mm}:${String(ss).padStart(2, '0')}`}
-    </span>
   );
 }
 
