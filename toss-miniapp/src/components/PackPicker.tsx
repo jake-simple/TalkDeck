@@ -192,7 +192,7 @@ export function PackPicker({
       <div style={{ flex: 1 }} />
 
       {/* select button — 카드 팬 바로 위에 위치 */}
-      <div style={{ padding: '0 40px 16px', zIndex: 1 }}>
+      <div style={{ padding: '0 40px 32px', zIndex: 1 }}>
         <button
           onClick={() => activate(centerIdx)}
           style={{
