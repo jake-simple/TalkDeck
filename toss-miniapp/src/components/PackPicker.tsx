@@ -189,7 +189,7 @@ export function PackPicker({
         </div>
       </div>
 
-      <div style={{ flex: 1, maxHeight: 40 }} />
+      <div style={{ height: 20 }} />
 
       {/* select button */}
       <div style={{ padding: '0 40px 24px', zIndex: 1 }}>
@@ -251,7 +251,9 @@ export function PackPicker({
         </div>
       </div>
 
-      {/* fan */}
+      <div style={{ flex: 1 }} />
+
+      {/* fan — 기존처럼 화면 하단에 고정 */}
       <div style={{ paddingBottom: 40, zIndex: 1 }}>
         <FanScroller
           items={ALL_PACKS}
