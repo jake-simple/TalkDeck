@@ -92,6 +92,7 @@ const MAP: Record<string, string> = {
   'paintpalette.fill': 'ri-palette-fill',
   shuffle: 'ri-shuffle-line',
   xmark: 'ri-close-line',
+  'play.circle.fill': 'ri-play-circle-fill',
 };
 
 interface IconProps {

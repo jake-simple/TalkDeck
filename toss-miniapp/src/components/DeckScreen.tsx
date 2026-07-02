@@ -52,6 +52,9 @@ export function DeckScreen() {
   const isPackUnlimited = useEntitlement((s) => s.isPackUnlimited);
   const grantTheme = useEntitlement((s) => s.grantTheme);
   const grantPack = useEntitlement((s) => s.grantPack);
+  // 픽커에 "지금 무제한 이용 중" 표시를 위한 값(카운트다운 없이 상태만 반영).
+  const themeUnlimitedUntil = useEntitlement((s) => s.themeUnlimitedUntil);
+  const packUnlimitedUntil = useEntitlement((s) => s.packUnlimitedUntil);
   const [adBusy, setAdBusy] = useState(false);
   const [toast, setToast] = useState<string | null>(null);
   const bannerRef = useRef<HTMLDivElement>(null);
@@ -117,6 +120,23 @@ export function DeckScreen() {
       );
     },
     [gateApply, isPackUnlimited, selectPack, grantPack]
+  );
+
+  // 픽커 하단의 "광고 보고 1시간 무료 이용하기" — 선택과 무관하게 바로 무제한 이용권을 받는다.
+  const watchAdForUnlimited = useCallback(
+    async (kind: 'theme' | 'pack') => {
+      setAdBusy(true);
+      const ok = await showRewardedAd(kind === 'theme' ? AD_GROUP.themeReward : AD_GROUP.packReward);
+      setAdBusy(false);
+      if (ok) {
+        if (kind === 'theme') grantTheme();
+        else grantPack();
+        showToast('1시간 동안 광고 없이 자유롭게 바꿀 수 있어요');
+      } else {
+        showToast('광고를 끝까지 시청하면 무료 이용권을 드려요');
+      }
+    },
+    [grantTheme, grantPack, showToast]
   );
 
   // 하단 배너 부착 (테마 라이트/다크에 맞춰 재부착)
@@ -257,9 +277,11 @@ export function DeckScreen() {
           paddingBottom: 'env(safe-area-inset-bottom)',
         }}
       >
-        {/* 헤더 */}
+        {/* 헤더 (카드 영역이 transform으로 위쪽에 겹쳐 렌더되므로, 클릭이 가로채이지 않도록 z-index로 위에 둔다) */}
         <div
           style={{
+            position: 'relative',
+            zIndex: 2,
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'space-between',
@@ -445,6 +467,8 @@ export function DeckScreen() {
           selectedPack={selectedPack}
           onSelect={onPickPack}
           onClose={() => setShowPack(false)}
+          isUnlimited={packUnlimitedUntil > Date.now()}
+          onWatchAd={() => void watchAdForUnlimited('pack')}
         />
       )}
       {showTheme && (
@@ -452,6 +476,8 @@ export function DeckScreen() {
           selectedTheme={themeKey}
           onSelect={onPickTheme}
           onClose={() => setShowTheme(false)}
+          isUnlimited={themeUnlimitedUntil > Date.now()}
+          onWatchAd={() => void watchAdForUnlimited('theme')}
         />
       )}
 

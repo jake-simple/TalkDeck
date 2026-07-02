@@ -99,10 +99,16 @@ export function ThemePicker({
   selectedTheme,
   onSelect,
   onClose,
+  isUnlimited,
+  onWatchAd,
 }: {
   selectedTheme: ThemeKey;
   onSelect: (key: ThemeKey) => void;
   onClose: () => void;
+  /** 광고 시청으로 테마 변경이 현재 무제한(1시간)인지 */
+  isUnlimited: boolean;
+  /** "광고 보고 1시간 무료 이용하기" 탭 시 호출 */
+  onWatchAd: () => void;
 }) {
   const initialIndex = Math.max(
     0,
@@ -203,6 +209,41 @@ export function ThemePicker({
           <Icon name={isSelected ? 'checkmark.circle.fill' : 'paintpalette.fill'} size={16} color="#fff" />
           {isSelected ? t('ui_selected') : t('ui_apply_this_theme')}
         </button>
+
+        {/* 광고 보고 1시간 무료 이용하기 */}
+        <div style={{ textAlign: 'center', marginTop: 12 }}>
+          {isUnlimited ? (
+            <span
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: 4,
+                fontSize: 12,
+                color: 'rgba(255,255,255,0.55)',
+              }}
+            >
+              <Icon name="bolt.fill" size={11} color="rgba(255,255,255,0.55)" />
+              지금은 광고 없이 자유롭게 바꿀 수 있어요
+            </span>
+          ) : (
+            <button
+              onClick={onWatchAd}
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: 4,
+                fontSize: 12,
+                fontWeight: 600,
+                color: 'rgba(255,255,255,0.7)',
+                textDecoration: 'underline',
+                textUnderlineOffset: 3,
+              }}
+            >
+              <Icon name="play.circle.fill" size={12} color="rgba(255,255,255,0.7)" />
+              광고 보고 1시간 무료 이용하기
+            </button>
+          )}
+        </div>
       </div>
 
       <div style={{ padding: '24px 0 40px', zIndex: 1 }}>
